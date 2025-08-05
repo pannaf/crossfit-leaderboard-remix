@@ -362,6 +362,18 @@ function App() {
       return newSet
     })
 
+    // Clear any gap changes associated with this athlete
+    setActiveGapChanges(prevChanges => {
+      const newChanges = new Map(prevChanges)
+      // Remove all gap changes that start with this athlete's name
+      for (const [gapId] of newChanges) {
+        if (gapId.startsWith(`${athleteName}-`)) {
+          newChanges.delete(gapId)
+        }
+      }
+      return newChanges
+    })
+
     // Clear selections if this was the selected athlete
     if (selectedAthlete === athleteName) {
       setSelectedAthlete('')
