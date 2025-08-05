@@ -6,6 +6,8 @@ The text message that started it all:
 
 **🎯 Live Demo: [https://pannaf.github.io/crossfit-leaderboard-remix/](https://pannaf.github.io/crossfit-leaderboard-remix/)**
 
+> 💡 **Contributions welcome!** This is an open-source project and we'd love your help making it even better. See the [Contributing](#-contributing) section below for ideas.
+
 A modern React application that lets you experiment with different event finishes and see how they affect the overall CrossFit Games leaderboard rankings. No more mental math required! 
 
 ## 🚀 What's This All About?
@@ -27,9 +29,9 @@ This tool lets you play out those "what-if" scenarios in real-time. Perfect for:
 - **🔄 Original vs Simulated Views**: Toggle between original results and your simulated scenarios
 - **📱 Responsive Design**: Works on desktop, tablet, and mobile devices
 
-## 🚧 Coming Soon (Contributions Welcome!)
+## 💡 Future Ideas (Contributions Welcome!)
 
-We're planning some exciting features to make this even more powerful:
+Here are some feature ideas that could make this even more powerful:
 
 ### 🏆 Multi-Year Analysis
 - Compare athletes across different CrossFit Games years
