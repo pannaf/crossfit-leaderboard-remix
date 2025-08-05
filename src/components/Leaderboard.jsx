@@ -1,0 +1,555 @@
+import React, { useState, useEffect } from 'react'
+
+const Leaderboard = ({
+    athletes,
+    events,
+    currentView,
+    onViewChange,
+    selectedAthlete,
+    selectedEvent,
+    originalAthletes,
+    upToEvent,
+    onGapClick,
+    onCancelAthleteChanges,
+    directlyModifiedAthletes,
+    selectedGender,
+    onGenderChange,
+    stats
+}) => {
+    // Event details with cap times
+    const eventDetails = {
+        'Run Row Run': { timeCap: null },
+        'All Crossed Up': { timeCap: 600 }, // 10 minutes in seconds
+        'Climbing Couplet': { timeCap: { women: 900, men: 600 } }, // 15 min (women), 10 min (men) in seconds
+        'Albany Grip Trip': { timeCap: { women: 1500, men: 1320 } }, // 25 min (women), 22 min (men) in seconds
+        '1RM Back Squat': { timeCap: null },
+        'Throttle Up': { timeCap: 360 }, // 6 minutes in seconds
+        'Hammer Down': { timeCap: 480 }, // 8 minutes in seconds
+        'Going Dark': { timeCap: 900 }, // 15 minutes in seconds
+        'Running Isabel': { timeCap: null },
+        'Atlas': { timeCap: { women: 900, men: 600 } } // 15 min (women), 10 min (men) in seconds
+    }
+
+    const getCapTime = (eventName) => {
+        const capTime = eventDetails[eventName]?.timeCap
+        if (capTime && typeof capTime === 'object') {
+            // Gender-specific cap time
+            return capTime[selectedGender] || capTime.men // Default to men's time
+        }
+        return capTime || null
+    }
+    const [sortConfig, setSortConfig] = useState({ key: 'rank', direction: 'asc' })
+    const [expandedAthlete, setExpandedAthlete] = useState(null)
+
+    // Reset expanded athlete when gender changes
+    useEffect(() => {
+        setExpandedAthlete(null)
+    }, [selectedGender])
+
+    // Handle sticky table headers with JavaScript since CSS sticky doesn't work with horizontal scroll containers
+    useEffect(() => {
+        const handleScroll = () => {
+            const leaderboardHeader = document.querySelector('.leaderboard-header')
+            const tableHeaders = document.querySelectorAll('#leaderboard-table th')
+
+            if (!leaderboardHeader || !tableHeaders.length) return
+
+            // Calculate the bottom position of the leaderboard header
+            const leaderboardRect = leaderboardHeader.getBoundingClientRect()
+            const leaderboardBottom = leaderboardRect.bottom
+
+            // Calculate how much we need to translate the headers
+            const shouldStick = leaderboardBottom <= 8 // App padding offset
+            const translateY = shouldStick ? Math.abs(leaderboardBottom - 8) : 0
+
+            // Apply transform to all table headers
+            tableHeaders.forEach(th => {
+                th.style.transform = shouldStick ? `translateY(${translateY}px)` : 'translateY(0px)'
+            })
+        }
+
+        // Add scroll listener
+        window.addEventListener('scroll', handleScroll)
+
+        // Initial call
+        handleScroll()
+
+        // Cleanup
+        return () => {
+            window.removeEventListener('scroll', handleScroll)
+        }
+    }, []) // Run once on mount
+
+    const getOrdinal = (num) => {
+        const suffixes = ['th', 'st', 'nd', 'rd']
+        const v = num % 100
+        return num + (suffixes[(v - 20) % 10] || suffixes[v] || suffixes[0])
+    }
+
+    const getRankChange = (athlete) => {
+        if (currentView !== 'simulated') return ''
+
+        const originalAthlete = originalAthletes.find(a => a.name === athlete.name)
+        if (!originalAthlete) return ''
+
+        const rankChange = originalAthlete.rank - athlete.rank
+        if (rankChange === 0) return ''
+
+        const icon = rankChange > 0 ? '↑' : '↓'
+        const className = rankChange > 0 ? 'rank-up' : 'rank-down'
+
+        return <span className={`rank-change ${className}`}>{icon} {Math.abs(rankChange)}</span>
+    }
+
+    const hasChanges = (athlete) => {
+        if (currentView !== 'simulated') return false
+
+        // Only show changes for athletes that were directly modified
+        return directlyModifiedAthletes.has(athlete.name)
+    }
+
+    const handleSort = (key) => {
+        let direction = 'asc'
+        if (sortConfig.key === key && sortConfig.direction === 'asc') {
+            direction = 'desc'
+        }
+        setSortConfig({ key, direction })
+    }
+
+    const getSortIcon = (key) => {
+        if (sortConfig.key !== key) {
+            return <i className="fas fa-sort" />
+        }
+        return sortConfig.direction === 'asc'
+            ? <i className="fas fa-sort-up" />
+            : <i className="fas fa-sort-down" />
+    }
+
+    const sortAthletes = (athletesToSort) => {
+        return [...athletesToSort].sort((a, b) => {
+            let aValue, bValue
+
+            if (sortConfig.key === 'rank') {
+                aValue = a.rank
+                bValue = b.rank
+            } else if (sortConfig.key === 'total_points') {
+                aValue = a.total_points
+                bValue = b.total_points
+            } else if (sortConfig.key === 'name') {
+                aValue = a.name.toLowerCase()
+                bValue = b.name.toLowerCase()
+            } else if (sortConfig.key === 'country') {
+                aValue = a.country.toLowerCase()
+                bValue = b.country.toLowerCase()
+            } else {
+                // Event sorting
+                const aEvent = a.events[sortConfig.key]
+                const bEvent = b.events[sortConfig.key]
+
+                if (!aEvent && !bEvent) return 0
+                if (!aEvent) return 1
+                if (!bEvent) return -1
+
+                aValue = aEvent.place
+                bValue = bEvent.place
+            }
+
+            if (aValue < bValue) {
+                return sortConfig.direction === 'asc' ? -1 : 1
+            }
+            if (aValue > bValue) {
+                return sortConfig.direction === 'asc' ? 1 : -1
+            }
+            return 0
+        })
+    }
+
+    const renderEventCell = (athlete, eventName) => {
+        const event = athlete.events[eventName]
+        if (!event) return <td>-</td>
+
+        // Check if this event has been simulated by comparing with original data
+        const originalAthlete = originalAthletes.find(a => a.name === athlete.name)
+        const originalEvent = originalAthlete?.events[eventName]
+        const isSimulated = currentView === 'simulated' &&
+            originalEvent &&
+            (event.place !== originalEvent.place ||
+                event.points !== originalEvent.points ||
+                event.time !== originalEvent.time)
+
+        return (
+            <td className={`event-result ${isSimulated ? 'simulated' : ''}`}>
+                <div className="event-compact">
+                    <span className="event-place">{getOrdinal(event.place)}</span>
+                    <span className="event-time">{event.time}</span>
+                    <span className="event-points">{event.points} pts</span>
+                </div>
+            </td>
+        )
+    }
+
+    const renderSortableHeader = (key, label, className = '') => {
+        const isActiveSort = sortConfig.key === key
+        return (
+            <th
+                className={`sortable-header ${className} ${isActiveSort ? 'active-sort' : ''}`}
+                onClick={() => handleSort(key)}
+            >
+                <div className="header-content">
+                    <span>{label}</span>
+                    <span className="sort-icon">{getSortIcon(key)}</span>
+                </div>
+            </th>
+        )
+    }
+
+    const toggleAthleteExpansion = (athleteName) => {
+        setExpandedAthlete(expandedAthlete === athleteName ? null : athleteName)
+    }
+
+    // Handle different time formats (MM:SS.ss or HH:MM:SS.ss)
+    const parseTime = (timeStr) => {
+        const parts = timeStr.split(':')
+        if (parts.length === 2) {
+            // MM:SS.ss format
+            return parseFloat(parts[0]) * 60 + parseFloat(parts[1])
+        } else if (parts.length === 3) {
+            // HH:MM:SS.ss format
+            return parseFloat(parts[0]) * 3600 + parseFloat(parts[1]) * 60 + parseFloat(parts[2])
+        }
+        return 0
+    }
+
+    const calculateTimeGap = (athleteTime, betterTime, eventName) => {
+        // Check if either time is a CAP event
+        if (athleteTime.includes('CAP') || betterTime.includes('CAP')) {
+            // Handle CAP events - compare the numbers after CAP+
+            const getCapNumber = (timeStr) => {
+                if (timeStr.includes('CAP+')) {
+                    return parseInt(timeStr.split('CAP+')[1]) || 0
+                }
+                return 0
+            }
+
+            const athleteCap = getCapNumber(athleteTime)
+            const betterCap = getCapNumber(betterTime)
+            const capTime = getCapTime(eventName)
+
+            // If athlete has a time but target is CAP+, calculate both reps and time needed
+            if (!athleteTime.includes('CAP') && betterTime.includes('CAP')) {
+                const athleteSeconds = parseTime(athleteTime)
+
+                if (capTime) {
+                    const timeToCap = capTime - athleteSeconds
+                    if (timeToCap <= 0) {
+                        // Athlete already hit the cap time, only need reps
+                        return `+ ${betterCap} reps`
+                    } else {
+                        // Athlete needs both time and reps
+                        const formattedTime = timeToCap < 60 ?
+                            `${timeToCap.toFixed(2)} s` :
+                            `${Math.floor(timeToCap / 60)}:${(timeToCap % 60).toFixed(2).padStart(5, '0')}`
+                        return `+ ${betterCap} reps & ${formattedTime}`
+                    }
+                } else {
+                    // No cap time available, just show reps
+                    return `${betterCap} more reps`
+                }
+            }
+
+            // If athlete has CAP+ but target has a time, calculate both reps and time needed
+            if (athleteTime.includes('CAP') && !betterTime.includes('CAP')) {
+                const betterSeconds = parseTime(betterTime)
+
+                if (capTime) {
+                    const timeToCap = capTime - betterSeconds
+                    // Always show both reps and time when comparing CAP+ to a time
+                    const formattedTime = timeToCap < 60 ?
+                        `${timeToCap.toFixed(2)} s` :
+                        `${Math.floor(timeToCap / 60)}:${(timeToCap % 60).toFixed(2).padStart(5, '0')}`
+                    return `+ ${athleteCap} reps & ${formattedTime}`
+                } else {
+                    // No cap time available, just show reps
+                    return `+ ${athleteCap} reps`
+                }
+            }
+
+            // Both are CAP+ events
+            const capDifference = athleteCap - betterCap // Higher CAP+ number is worse
+            if (capDifference === 0) {
+                return "Same reps"
+            } else if (capDifference > 0) {
+                return `+ ${capDifference} reps`
+            } else {
+                return `- ${Math.abs(capDifference)} reps`
+            }
+        }
+
+        const athleteSeconds = parseTime(athleteTime)
+        const betterSeconds = parseTime(betterTime)
+        const gapSeconds = (athleteSeconds - betterSeconds) + 0.01 // Add 0.01s to ensure they finish ahead
+
+        // Format the gap (how much faster you needed to be)
+        if (gapSeconds < 60) {
+            return `${gapSeconds.toFixed(2)} s`
+        } else if (gapSeconds < 3600) {
+            const minutes = Math.floor(gapSeconds / 60)
+            const seconds = gapSeconds % 60
+            return `${minutes}:${seconds.toFixed(2).padStart(5, '0')}`
+        } else {
+            const hours = Math.floor(gapSeconds / 3600)
+            const minutes = Math.floor((gapSeconds % 3600) / 60)
+            const seconds = gapSeconds % 60
+            return `${hours}:${minutes.toString().padStart(2, '0')}:${seconds.toFixed(2).padStart(5, '0')}`
+        }
+    }
+
+    const calculateWeightGap = (athleteWeight, betterWeight) => {
+        const athleteLbs = parseFloat(athleteWeight.replace(' lb', ''))
+        const betterLbs = parseFloat(betterWeight.replace(' lb', ''))
+        const gapLbs = betterLbs - athleteLbs
+
+        if (gapLbs === 0) {
+            return "Same weight"
+        } else if (gapLbs > 0) {
+            return `+ ${gapLbs.toFixed(0)} lb`
+        } else {
+            return `- ${Math.abs(gapLbs).toFixed(0)} lb`
+        }
+    }
+
+    const getTop10Distance = (athlete, eventName) => {
+        // Always use the original athlete data for gap calculations
+        const originalAthlete = originalAthletes.find(a => a.name === athlete.name)
+        if (!originalAthlete) return null
+
+        const event = originalAthlete.events[eventName]
+        if (!event) return null
+
+        // Find all athletes who finished above this athlete in this event
+        const eventResults = athletes
+            .map(a => ({ name: a.name, event: a.events[eventName] }))
+            .filter(a => a.event)
+            .sort((a, b) => a.event.place - b.event.place)
+
+        // Find the immediate next place above this athlete
+        const nextPlace = event.place - 1
+        const maxPlacesToShow = Math.min(10, event.place - 1) // Show up to 10 places above, but not more than available
+
+        if (maxPlacesToShow === 0) return null
+
+        // Check if this is a weight-based event
+        const isWeightEvent = eventName.toLowerCase().includes('squat') ||
+            eventName.toLowerCase().includes('lift') ||
+            eventName.toLowerCase().includes('weight') ||
+            event.time.includes(' lb')
+
+        // Calculate gaps for each place from the immediate next place up to 10 places above
+        const gaps = []
+        for (let targetPlace = nextPlace; targetPlace >= Math.max(1, nextPlace - 9); targetPlace--) {
+            // Find the athlete(s) at this target place
+            const athletesAtPlace = eventResults.filter(a => a.event.place === targetPlace)
+
+            if (athletesAtPlace.length > 0) {
+                // Use the first athlete at this place (they all have the same performance)
+                const athleteAtPlace = athletesAtPlace[0]
+
+                let gap
+                if (isWeightEvent) {
+                    // Weight-based event
+                    gap = calculateWeightGap(event.time, athleteAtPlace.event.time)
+                } else {
+                    // Time-based event
+                    gap = calculateTimeGap(event.time, athleteAtPlace.event.time, eventName)
+                }
+
+                gaps.push({
+                    name: athleteAtPlace.name,
+                    place: athleteAtPlace.event.place,
+                    time: athleteAtPlace.event.time,
+                    points: athleteAtPlace.event.points,
+                    gap: gap,
+                    targetPlace: athleteAtPlace.event.place
+                })
+            }
+        }
+
+        return { athletesAbove: gaps }
+    }
+
+    const handleGapClick = (athlete, eventName, gap) => {
+        onGapClick(athlete, eventName, gap);
+    };
+
+    const renderAthleteDetail = (athlete) => {
+        const athletesAboveInfo = events.map(eventName => ({
+            event: eventName,
+            ...getTop10Distance(athlete, eventName)
+        }))
+
+        // Find the maximum number of gaps across all events
+        const maxGaps = Math.max(...athletesAboveInfo.map(info => info.athletesAbove?.length || 0))
+
+        return (
+            <>
+                {/* Performance Gaps Rows - One row per place improvement */}
+                {Array.from({ length: maxGaps }, (_, gapIndex) => (
+                    <tr key={gapIndex} className="performance-gaps-row">
+                        <td className="sticky-rank"></td>
+                        <td className="sticky-athlete"></td>
+                        <td className="sticky-points"></td>
+
+                        {events.map((eventName, colIndex) => {
+                            const eventInfo = athletesAboveInfo[colIndex];
+                            const gap = eventInfo?.athletesAbove?.[gapIndex];
+
+                            if (gap) {
+                                return (
+                                    <td key={colIndex} className="event-gap-cell clickable-gap"
+                                        onClick={() => handleGapClick(athlete, eventName, gap)}>
+                                        <div className="gap-info">
+                                            <div className="gap-target">{gap.place}</div>
+                                            <div className="gap-delta">{gap.gap}</div>
+                                            <div className="gap-time">{gap.time}</div>
+                                        </div>
+                                    </td>
+                                );
+                            } else {
+                                return <td key={colIndex}></td>;
+                            }
+                        })}
+                    </tr>
+                ))}
+            </>
+        )
+    }
+
+    const sortedAthletes = sortAthletes(athletes)
+
+    return (
+        <div className="leaderboard-container">
+            <div className="leaderboard-header">
+                <div className="header-left">
+                    <div className="leaderboard-title-section">
+                        <h2>Leaderboard</h2>
+                        <div className="gender-toggle">
+                            <button
+                                className={`btn-toggle ${selectedGender === 'men' ? 'active' : ''}`}
+                                onClick={() => onGenderChange('men')}
+                            >
+                                <i className="fas fa-mars"></i>
+                                Men
+                            </button>
+                            <button
+                                className={`btn-toggle ${selectedGender === 'women' ? 'active' : ''}`}
+                                onClick={() => onGenderChange('women')}
+                            >
+                                <i className="fas fa-venus"></i>
+                                Women
+                            </button>
+                        </div>
+                    </div>
+                    {upToEvent && (
+                        <div className="up-to-event-indicator">
+                            <i className="fas fa-clock"></i>
+                            <span>Showing rankings up to: <strong>{upToEvent}</strong></span>
+                        </div>
+                    )}
+                </div>
+                <div className="header-stats">
+                    <div className="stat-card">
+                        <h3>Original Rank</h3>
+                        <div className="stat-value">{stats.originalRank}</div>
+                    </div>
+                    <div className="stat-card">
+                        <h3>New Rank</h3>
+                        <div className={`stat-value ${stats.newRank < stats.originalRank ? 'positive' :
+                            stats.newRank > stats.originalRank ? 'negative' :
+                                'neutral'
+                            }`}>
+                            {stats.newRank}
+                        </div>
+                    </div>
+                    <div className="stat-card">
+                        <h3>Points Change</h3>
+                        <div className={`stat-value ${stats.isPositive ? 'positive' : 'negative'}`}>
+                            {stats.pointsChange}
+                        </div>
+                    </div>
+                    <div className="stat-card">
+                        <h3>Total Points</h3>
+                        <div className="stat-value">{stats.totalPoints}</div>
+                    </div>
+                </div>
+                <div className="view-toggle">
+                    <button
+                        className={`btn-toggle ${currentView === 'original' ? 'active' : ''}`}
+                        onClick={() => onViewChange('original')}
+                    >
+                        Original
+                    </button>
+                    <button
+                        className={`btn-toggle ${currentView === 'simulated' ? 'active' : ''}`}
+                        onClick={() => onViewChange('simulated')}
+                    >
+                        Simulated
+                    </button>
+                </div>
+            </div>
+
+            <div className="table-container">
+                <table id="leaderboard-table">
+                    <thead>
+                        <tr>
+                            {renderSortableHeader('rank', 'Rank', 'rank-header')}
+                            {renderSortableHeader('name', 'Athlete', 'athlete-header')}
+                            {renderSortableHeader('total_points', 'Points', 'points-header')}
+                            {events.map(event => renderSortableHeader(event, event, 'event-header'))}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {sortedAthletes.map((athlete) => (
+                            <React.Fragment key={athlete.name}>
+                                <tr
+                                    className={`athlete-row ${hasChanges(athlete) ? 'modified' : ''} ${expandedAthlete === athlete.name ? 'expanded' : ''}`}
+                                    onClick={() => toggleAthleteExpansion(athlete.name)}
+                                >
+                                    <td className="rank">
+                                        {athlete.rank}
+                                        {getRankChange(athlete)}
+                                    </td>
+                                    <td className="athlete-column">
+                                        <div className="athlete-info">
+                                            <div className="athlete-name">
+                                                {athlete.name}
+                                                <i className={`fas fa-chevron-${expandedAthlete === athlete.name ? 'up' : 'down'} expand-icon`}></i>
+                                            </div>
+                                            <div className="athlete-details">{athlete.affiliate}</div>
+                                        </div>
+                                        {hasChanges(athlete) && (
+                                            <button
+                                                className="btn-cancel-athlete"
+                                                onClick={(e) => {
+                                                    e.stopPropagation();
+                                                    onCancelAthleteChanges(athlete.name);
+                                                }}
+                                                title="Cancel changes for this athlete"
+                                            >
+                                                <i className="fas fa-times"></i>
+                                            </button>
+                                        )}
+                                    </td>
+                                    <td className="total-points">{athlete.total_points}</td>
+                                    {events.map(event => renderEventCell(athlete, event))}
+                                </tr>
+                                {expandedAthlete === athlete.name && renderAthleteDetail(athlete)}
+                            </React.Fragment>
+                        ))}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    )
+}
+
+export default Leaderboard 
