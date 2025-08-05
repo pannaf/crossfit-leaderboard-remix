@@ -345,7 +345,8 @@ const Leaderboard = ({
         if (!event) return null
 
         // Find all athletes who finished above this athlete in this event
-        const eventResults = athletes
+        // Always use originalAthletes to ensure consistent gap calculations
+        const eventResults = originalAthletes
             .map(a => ({ name: a.name, event: a.events[eventName] }))
             .filter(a => a.event)
             .sort((a, b) => a.event.place - b.event.place)
