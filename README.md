@@ -40,9 +40,7 @@ Here are some feature ideas that could make this even more powerful:
 - Historical "what-if" scenarios
 
 ### Muscle Group Performance
-- Analyze what if athletes improved specific movements
-- "What if they upped their back squat by 20lbs?"
-- "What if their bicep strength improved by 15%?"
+- Analyze what if athletes improved specific movements or muscle groups, such as: "What if they improved their bicep strength?"
 
 ### Event Impact Analysis
 - Identify which events had the most potential to change standings
