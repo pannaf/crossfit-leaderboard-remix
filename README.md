@@ -201,10 +201,6 @@ The app expects a JSON file with the following structure:
 }
 ```
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 **Ready to explore the "what-if" scenarios? Start experimenting at [https://pannaf.github.io/crossfit-leaderboard-remix/](https://pannaf.github.io/crossfit-leaderboard-remix/)!**
