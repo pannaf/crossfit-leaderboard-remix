@@ -217,11 +217,7 @@ function App() {
     setSimulatedAthletes(rankedAthletes)
     setCurrentView('simulated')
 
-    // Clear selections
-    setSelectedAthlete('')
-    setSelectedEvent('')
-    setSelectedPlace('')
-
+    // Keep all selections for the stats panel (don't clear them)
     console.log('Change applied successfully!')
   }
 

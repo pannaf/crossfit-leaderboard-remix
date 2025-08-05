@@ -25,7 +25,7 @@ const SidebarTabs = ({
 
     const tabs = [
         { id: 0, name: 'Controls', icon: 'fas fa-sliders-h' },
-        { id: 1, name: 'Events', icon: 'fas fa-dumbbell' },
+        { id: 1, name: 'Events', icon: 'fas fa-weight-hanging' },
         { id: 2, name: 'Points', icon: 'fas fa-chart-bar' }
     ]
 
