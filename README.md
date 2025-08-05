@@ -30,32 +30,19 @@ For me, as a fan, this was the thought that sparked the whole project:
 - **Original vs Simulated Views**: Toggle between original results and your simulated scenarios
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 
-## Future Ideas (Contributions Welcome!)
+## Future Ideas 🚀
 
-Here are some feature ideas that could make this even more powerful:
+Want to help make this even better? Here are some exciting features we could add:
 
-### Multi-Year Analysis
-- Compare athletes across different CrossFit Games years
-- Track performance evolution over time
-- Historical "what-if" scenarios
+**📊 Multi-Year Analysis** - Compare athletes across different Games years and track performance evolution
 
-### Muscle Group Performance
-- Analyze what if athletes improved specific movements or muscle groups, such as: "What if they improved their bicep strength?"
+**💪 Movement Analysis** - Explore "what-if" scenarios for specific movements or muscle groups
 
-### Event Impact Analysis
-- Identify which events had the most potential to change standings
-- Find the most "leaderboard-changing" events
-- Discover which athletes were most affected by specific events
+**🎯 Event Impact** - Identify which events had the biggest potential to shake up the leaderboard
 
-### Community Features
-- Share and view other people's analyses
-- Community-driven scenario suggestions
-- Collaborative "what-if" explorations
+**👥 Community Features** - Share analyses, suggest scenarios, and collaborate on "what-if" explorations
 
-### Advanced Analytics
-- Statistical probability of different outcomes
-- Performance trend analysis
-- Athlete strength/weakness identification
+**📈 Advanced Analytics** - Statistical probabilities, trend analysis, and athlete strength/weakness insights
 
 ## Tech Stack
 
