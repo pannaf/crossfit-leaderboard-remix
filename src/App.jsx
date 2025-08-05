@@ -3,6 +3,7 @@ import './App.css'
 import Header from './components/Header'
 import SidebarTabs from './components/SidebarTabs'
 import Leaderboard from './components/Leaderboard'
+import Footer from './components/Footer'
 
 function App() {
   const [data, setData] = useState(null)
@@ -432,55 +433,59 @@ function App() {
   console.log('Rendering main app with data:', data)
 
   return (
-    <div className="app">
-      <Header />
+    <>
+      <div className="app">
+        <Header />
 
 
 
-      <div className="main-content">
-        <div className={`sidebar ${sidebarCollapsed ? 'collapsed' : ''}`}>
-          <SidebarTabs
-            athletes={data.athletes}
-            events={data.events}
-            selectedAthlete={selectedAthlete}
-            selectedEvent={selectedEvent}
-            selectedPlace={selectedPlace}
-            upToEvent={upToEvent}
-            onAthleteChange={setSelectedAthlete}
-            onEventChange={setSelectedEvent}
-            onPlaceChange={setSelectedPlace}
-            onUpToEventChange={setUpToEvent}
-            onApplyChange={applyChange}
-            onResetAll={resetAll}
-            stats={getStats()}
-            pointSystem={data.point_system}
-            onToggleSidebar={() => setSidebarCollapsed(!sidebarCollapsed)}
-            isCollapsed={sidebarCollapsed}
-          />
-        </div>
+        <div className="main-content">
+          <div className={`sidebar ${sidebarCollapsed ? 'collapsed' : ''}`}>
+            <SidebarTabs
+              athletes={data.athletes}
+              events={data.events}
+              selectedAthlete={selectedAthlete}
+              selectedEvent={selectedEvent}
+              selectedPlace={selectedPlace}
+              upToEvent={upToEvent}
+              onAthleteChange={setSelectedAthlete}
+              onEventChange={setSelectedEvent}
+              onPlaceChange={setSelectedPlace}
+              onUpToEventChange={setUpToEvent}
+              onApplyChange={applyChange}
+              onResetAll={resetAll}
+              stats={getStats()}
+              pointSystem={data.point_system}
+              onToggleSidebar={() => setSidebarCollapsed(!sidebarCollapsed)}
+              isCollapsed={sidebarCollapsed}
+            />
+          </div>
 
-        <div className="content-area">
-          <Leaderboard
-            athletes={currentView === 'original' ? originalAthletes : simulatedAthletes}
-            events={data.events}
-            currentView={currentView}
-            onViewChange={setCurrentView}
-            selectedAthlete={selectedAthlete}
-            selectedEvent={selectedEvent}
-            originalAthletes={originalAthletes}
-            upToEvent={upToEvent}
-            onGapClick={handleGapClick}
-            onGapRemove={handleGapRemove}
-            activeGapChanges={activeGapChanges}
-            onCancelAthleteChanges={cancelAthleteChanges}
-            directlyModifiedAthletes={directlyModifiedAthletes}
-            selectedGender={selectedGender}
-            onGenderChange={setSelectedGender}
-            stats={getStats()}
-          />
+          <div className="content-area">
+            <Leaderboard
+              athletes={currentView === 'original' ? originalAthletes : simulatedAthletes}
+              events={data.events}
+              currentView={currentView}
+              onViewChange={setCurrentView}
+              selectedAthlete={selectedAthlete}
+              selectedEvent={selectedEvent}
+              originalAthletes={originalAthletes}
+              upToEvent={upToEvent}
+              onGapClick={handleGapClick}
+              onGapRemove={handleGapRemove}
+              activeGapChanges={activeGapChanges}
+              onCancelAthleteChanges={cancelAthleteChanges}
+              directlyModifiedAthletes={directlyModifiedAthletes}
+              selectedGender={selectedGender}
+              onGenderChange={setSelectedGender}
+              stats={getStats()}
+            />
+          </div>
         </div>
       </div>
-    </div>
+
+      <Footer />
+    </>
   )
 }
 
