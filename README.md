@@ -1,16 +1,13 @@
-# CrossFit Games Leaderboard Simulator 🏋️‍♂️
+# CrossFit Games Leaderboard Simulator
 
-The text message that started it all:
+**Live Demo: [https://pannaf.github.io/crossfit-leaderboard-remix/](https://pannaf.github.io/crossfit-leaderboard-remix/)**
 
-> **"It'd be cool if CrossFit had a version of the leaderboard where you could test different event finishes & see the revised rank. Like I'd be curious if Austin Hatfield - after declaring he'd win event 10 after his event 8 & 9 wins - had won event 10, where he would have finished.. but I don't want to do that math in my head 😂"**
-
-**🎯 Live Demo: [https://pannaf.github.io/crossfit-leaderboard-remix/](https://pannaf.github.io/crossfit-leaderboard-remix/)**
-
-> 💡 **Contributions welcome!** This is an open-source project and we'd love your help making it even better. See the [Contributing](#-contributing) section below for ideas.
+> [!NOTE]
+> **Contributions welcome!** This is an open-source project and we'd love your help making it even better. See the [Contributing](#contributing) section below for ideas. 
 
 A modern React application that lets you experiment with different event finishes and see how they affect the overall CrossFit Games leaderboard rankings. No more mental math required! 
 
-## 🚀 What's This All About?
+## What's This All About?
 
 Ever wondered what would happen if your favorite athlete had just pushed a little harder in that one event? What if they had won instead of finishing 3rd? How would that change their overall standing? 
 
@@ -19,46 +16,50 @@ This tool lets you play out those "what-if" scenarios in real-time. Perfect for:
 - **Analysts** studying event impact on final rankings  
 - **Anyone** who's ever thought "if only they had..."
 
-## ✨ Current Features
+For me, as a fan, this was the thought that sparked the whole project:
 
-- **🎮 Interactive Leaderboard**: View the complete CrossFit Games leaderboard with all 30 athletes and 10 events
-- **🔮 Scenario Testing**: Change any athlete's finish in any event and see the impact on rankings
-- **⚡ Real-time Calculations**: Automatic recalculation of total points and rankings
-- **🎨 Visual Feedback**: Highlighted changes and rank movement indicators
-- **📊 Point System Display**: Visual reference for the CrossFit Games point system
-- **🔄 Original vs Simulated Views**: Toggle between original results and your simulated scenarios
-- **📱 Responsive Design**: Works on desktop, tablet, and mobile devices
+> It'd be cool if CrossFit had a version of the leaderboard where you could test different event finishes & see the revised rank. Like I'd be curious if Austin Hatfield - after declaring he'd win event 10 after his event 8 & 9 wins - had won event 10, where he would have finished.. but I don't want to do that math in my head 😂
 
-## 💡 Future Ideas (Contributions Welcome!)
+## Current Features
+
+- **Interactive Leaderboard**: View the complete CrossFit Games leaderboard with all 30 athletes and 10 events
+- **Scenario Testing**: Change any athlete's finish in any event and see the impact on rankings
+- **Real-time Calculations**: Automatic recalculation of total points and rankings
+- **Visual Feedback**: Highlighted changes and rank movement indicators
+- **Point System Display**: Visual reference for the CrossFit Games point system
+- **Original vs Simulated Views**: Toggle between original results and your simulated scenarios
+- **Responsive Design**: Works on desktop, tablet, and mobile devices
+
+## Future Ideas (Contributions Welcome!)
 
 Here are some feature ideas that could make this even more powerful:
 
-### 🏆 Multi-Year Analysis
+### Multi-Year Analysis
 - Compare athletes across different CrossFit Games years
 - Track performance evolution over time
 - Historical "what-if" scenarios
 
-### 💪 Muscle Group Performance
+### Muscle Group Performance
 - Analyze what if athletes improved specific movements
 - "What if they upped their back squat by 20lbs?"
 - "What if their bicep strength improved by 15%?"
 
-### 🎯 Event Impact Analysis
+### Event Impact Analysis
 - Identify which events had the most potential to change standings
 - Find the most "leaderboard-changing" events
 - Discover which athletes were most affected by specific events
 
-### 🌐 Community Features
+### Community Features
 - Share and view other people's analyses
 - Community-driven scenario suggestions
 - Collaborative "what-if" explorations
 
-### 📈 Advanced Analytics
+### Advanced Analytics
 - Statistical probability of different outcomes
 - Performance trend analysis
 - Athlete strength/weakness identification
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18** - Modern React with hooks
 - **Vite** - Fast build tool and development server
@@ -66,7 +67,7 @@ Here are some feature ideas that could make this even more powerful:
 - **Font Awesome** - Icons
 - **Inter Font** - Modern typography
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -101,7 +102,7 @@ npm run build
 
 The built files will be in the `dist` directory.
 
-## 🎮 How to Use
+## How to Use
 
 1. **Select an Athlete**: Choose any athlete from the dropdown menu
 2. **Select an Event**: Pick one of the 10 CrossFit Games events
@@ -110,7 +111,7 @@ The built files will be in the `dist` directory.
 5. **View Results**: Switch between "Original" and "Simulated" views to compare
 6. **Reset**: Use "Reset All" to return to the original leaderboard
 
-## 🎯 Try This Scenario
+## Try This Scenario
 
 Remember Austin Hatfield's bold declaration? Let's test it:
 
@@ -121,7 +122,7 @@ Remember Austin Hatfield's bold declaration? Let's test it:
 
 **Fun fact**: If Austin had won Event 10 instead of his actual finish, he would have been just 1 point behind Jayson for 2nd place! (Though as the original post noted, Jayson might not have paused at the 10ft mark in that case...)
 
-## 📊 Point System
+## Point System
 
 The app uses the official CrossFit Games point system:
 - 1st place: 100 points
@@ -130,9 +131,9 @@ The app uses the official CrossFit Games point system:
 - And so on, decreasing by 4 points for places 1-14, 3 points for places 15-20, and 3 points for places 21-29
 - 30th place: 0 points
 
-## 🤝 Contributing
+## Contributing
 
-**Contributions are welcome!** 🎉
+**Contributions are welcome!**
 
 This project is perfect for:
 - **React developers** who want to add new features
@@ -157,7 +158,7 @@ This project is perfect for:
 - Improve the UI/UX design
 - Add more statistical analysis tools
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 crossfit-leaderboard-remix/
@@ -177,7 +178,7 @@ crossfit-leaderboard-remix/
 └── package.json                 # Dependencies and scripts
 ```
 
-## 🛠️ Development
+## Development
 
 ### Available Scripts
 
@@ -215,10 +216,10 @@ The app expects a JSON file with the following structure:
 }
 ```
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Ready to explore the "what-if" scenarios? Start experimenting at [https://pannaf.github.io/crossfit-leaderboard-remix/](https://pannaf.github.io/crossfit-leaderboard-remix/)! 🏋️‍♂️💪**
+**Ready to explore the "what-if" scenarios? Start experimenting at [https://pannaf.github.io/crossfit-leaderboard-remix/](https://pannaf.github.io/crossfit-leaderboard-remix/)!**
