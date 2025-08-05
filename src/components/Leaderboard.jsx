@@ -10,6 +10,8 @@ const Leaderboard = ({
     originalAthletes,
     upToEvent,
     onGapClick,
+    onGapRemove,
+    activeGapChanges,
     onCancelAthleteChanges,
     directlyModifiedAthletes,
     selectedGender,
@@ -40,7 +42,6 @@ const Leaderboard = ({
     }
     const [sortConfig, setSortConfig] = useState({ key: 'rank', direction: 'asc' })
     const [expandedAthlete, setExpandedAthlete] = useState(null)
-
     // Reset expanded athlete when gender changes
     useEffect(() => {
         setExpandedAthlete(null)
@@ -168,7 +169,7 @@ const Leaderboard = ({
         const event = athlete.events[eventName]
         if (!event) return <td>-</td>
 
-        // Check if this event has been simulated by comparing with original data
+        // Check if this event has been simulated for styling
         const originalAthlete = originalAthletes.find(a => a.name === athlete.name)
         const originalEvent = originalAthlete?.events[eventName]
         const isSimulated = currentView === 'simulated' &&
@@ -177,12 +178,17 @@ const Leaderboard = ({
                 event.points !== originalEvent.points ||
                 event.time !== originalEvent.time)
 
+        // Use simulated place and points, but always show original time/performance
+        const displayPlace = event.place
+        const displayPoints = event.points
+        const displayTime = originalEvent ? originalEvent.time : event.time
+
         return (
             <td className={`event-result ${isSimulated ? 'simulated' : ''}`}>
                 <div className="event-compact">
-                    <span className="event-place">{getOrdinal(event.place)}</span>
-                    <span className="event-time">{event.time}</span>
-                    <span className="event-points">{event.points} pts</span>
+                    <span className="event-place">{getOrdinal(displayPlace)}</span>
+                    <span className="event-time">{displayTime}</span>
+                    <span className="event-points">{displayPoints} pts</span>
                 </div>
             </td>
         )
@@ -378,7 +384,16 @@ const Leaderboard = ({
     }
 
     const handleGapClick = (athlete, eventName, gap) => {
-        onGapClick(athlete, eventName, gap);
+        const gapId = `${athlete.name}-${eventName}-${gap.place}`
+
+        // Check if this gap is currently selected
+        if (activeGapChanges.has(gapId)) {
+            // Deselecting this gap
+            onGapRemove(gapId)
+        } else {
+            // Selecting this gap (App.jsx will handle one-per-column logic)
+            onGapClick(athlete, eventName, gap)
+        }
     };
 
     const renderAthleteDetail = (athlete) => {
@@ -404,8 +419,11 @@ const Leaderboard = ({
                             const gap = eventInfo?.athletesAbove?.[gapIndex];
 
                             if (gap) {
+                                const gapId = `${athlete.name}-${eventName}-${gap.place}`
+                                const isSelected = currentView === 'simulated' && activeGapChanges.has(gapId)
+
                                 return (
-                                    <td key={colIndex} className="event-gap-cell clickable-gap"
+                                    <td key={colIndex} className={`event-gap-cell clickable-gap ${isSelected ? 'selected' : ''}`}
                                         onClick={() => handleGapClick(athlete, eventName, gap)}>
                                         <div className="gap-info">
                                             <div className="gap-target">{gap.place}</div>

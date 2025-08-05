@@ -14,6 +14,7 @@ function App() {
   const [selectedPlace, setSelectedPlace] = useState('')
   const [upToEvent, setUpToEvent] = useState('') // New state for "up to event"
   const [directlyModifiedAthletes, setDirectlyModifiedAthletes] = useState(new Set()) // Track athletes directly modified
+  const [activeGapChanges, setActiveGapChanges] = useState(new Map()) // Track active gap changes by gapId
   const [loading, setLoading] = useState(true)
   const [selectedGender, setSelectedGender] = useState('men') // New state for gender selection
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false) // New state for sidebar collapse
@@ -29,6 +30,7 @@ function App() {
     setSelectedPlace('')
     setUpToEvent('')
     setDirectlyModifiedAthletes(new Set())
+    setActiveGapChanges(new Map())
     setCurrentView('original')
   }, [selectedGender])
 
@@ -231,38 +233,85 @@ function App() {
     setUpToEvent('')
     setCurrentView('original')
     setDirectlyModifiedAthletes(new Set())
+    setActiveGapChanges(new Map())
   }
 
-  const handleGapClick = (athlete, eventName, gap) => {
-    // Apply the hypothetical improvement
-    const newPlace = gap.place
-    const placeString = getPlaceString(newPlace)
+  // Rebuild simulation from all active gap changes
+  const rebuildSimulation = (gapChanges) => {
+    let athletes = JSON.parse(JSON.stringify(originalAthletes))
+    const modifiedAthletes = new Set()
 
-    console.log('=== GAP CLICK DEBUG ===')
-    console.log('Athlete:', athlete.name)
-    console.log('Event:', eventName)
-    console.log('Gap object:', gap)
-    console.log('New place (number):', newPlace)
-    console.log('Place string:', placeString)
-    console.log('Point system lookup:', data.point_system[placeString])
-
-    // Update event rankings for all athletes
-    const updatedAthletes = updateEventRankings(simulatedAthletes, eventName, athlete.name, newPlace, gap.time, true)
+    // Apply all gap changes
+    for (const [gapId, change] of gapChanges) {
+      athletes = updateEventRankings(athletes, change.eventName, change.athleteName, change.newPlace, change.time, true)
+      modifiedAthletes.add(change.athleteName)
+    }
 
     // Recalculate overall ranks
-    const sortedAthletes = updatedAthletes.sort((a, b) => b.total_points - a.total_points)
+    const sortedAthletes = athletes.sort((a, b) => b.total_points - a.total_points)
     const finalAthletes = sortedAthletes.map((athlete, index) => ({
       ...athlete,
       rank: index + 1
     }))
 
     setSimulatedAthletes(finalAthletes)
-    setCurrentView('simulated')
+    setDirectlyModifiedAthletes(modifiedAthletes)
 
-    // Update the selected athlete and event for the stats panel
-    setSelectedAthlete(athlete.name)
-    setSelectedEvent(eventName)
-    setSelectedPlace(placeString)
+    return finalAthletes
+  }
+
+  const handleGapClick = (athlete, eventName, gap) => {
+    const gapId = `${athlete.name}-${eventName}-${gap.place}`
+    const newPlace = gap.place
+    const placeString = getPlaceString(newPlace)
+
+    setActiveGapChanges(prevChanges => {
+      const newChanges = new Map(prevChanges)
+
+      // Remove any existing change for this event (one per column rule)
+      const existingKey = Array.from(newChanges.keys()).find(key => key.includes(`-${eventName}-`))
+      if (existingKey) {
+        newChanges.delete(existingKey)
+      }
+
+      // Add the new change
+      newChanges.set(gapId, {
+        athleteName: athlete.name,
+        eventName: eventName,
+        newPlace: newPlace,
+        time: gap.time
+      })
+
+      // Rebuild simulation with all changes
+      rebuildSimulation(newChanges)
+      setCurrentView('simulated')
+
+      // Update the selected athlete and event for the stats panel
+      setSelectedAthlete(athlete.name)
+      setSelectedEvent(eventName)
+      setSelectedPlace(placeString)
+
+      return newChanges
+    })
+  }
+
+  const handleGapRemove = (gapId) => {
+    setActiveGapChanges(prevChanges => {
+      const newChanges = new Map(prevChanges)
+      newChanges.delete(gapId)
+
+      if (newChanges.size === 0) {
+        // No more changes, revert to original
+        setSimulatedAthletes(JSON.parse(JSON.stringify(originalAthletes)))
+        setCurrentView('original')
+        setDirectlyModifiedAthletes(new Set())
+      } else {
+        // Rebuild simulation with remaining changes
+        rebuildSimulation(newChanges)
+      }
+
+      return newChanges
+    })
   }
 
   const cancelGapSelection = () => {
@@ -425,6 +474,8 @@ function App() {
             originalAthletes={originalAthletes}
             upToEvent={upToEvent}
             onGapClick={handleGapClick}
+            onGapRemove={handleGapRemove}
+            activeGapChanges={activeGapChanges}
             onCancelAthleteChanges={cancelAthleteChanges}
             directlyModifiedAthletes={directlyModifiedAthletes}
             selectedGender={selectedGender}

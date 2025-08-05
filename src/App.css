@@ -1902,3 +1902,24 @@ tbody tr {
   transform: scale(1.02);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
+
+.clickable-gap.selected {
+  background: linear-gradient(135deg, #f7b500 0%, #e6a500 100%) !important;
+  border: 2px solid #f7b500;
+  border-radius: 4px;
+}
+
+.clickable-gap.selected .gap-target {
+  color: #000000;
+  font-weight: 900;
+}
+
+.clickable-gap.selected .gap-delta {
+  color: #000000;
+  font-weight: 700;
+}
+
+.clickable-gap.selected .gap-time {
+  color: #333333;
+  font-weight: 600;
+}
