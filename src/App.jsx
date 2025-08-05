@@ -402,22 +402,28 @@ function App() {
       return { originalRank: '-', newRank: '-', pointsChange: '-', totalPoints: '-' }
     }
 
-    // Get the original athlete data
-    const originalAthlete = originalAthletes.find(a => a.name === selectedAthlete)
+    // Get the current athletes (with upToEvent filtering applied)
+    const currentAthletes = getCurrentAthletes()
+
+    // Find the athlete in the current filtered data
+    const currentAthlete = currentAthletes.find(a => a.name === selectedAthlete)
+    if (!currentAthlete) return { originalRank: '-', newRank: '-', pointsChange: '-', totalPoints: '-' }
+
+    // Get the original athlete data (also filtered if upToEvent is set)
+    const originalAthletesFiltered = upToEvent ?
+      calculateRankingsUpToEvent(originalAthletes, upToEvent) :
+      originalAthletes
+    const originalAthlete = originalAthletesFiltered.find(a => a.name === selectedAthlete)
     if (!originalAthlete) return { originalRank: '-', newRank: '-', pointsChange: '-', totalPoints: '-' }
 
-    // Get the current simulated athlete data (includes all cumulative changes)
-    const simulatedAthlete = simulatedAthletes.find(a => a.name === selectedAthlete)
-    if (!simulatedAthlete) return { originalRank: '-', newRank: '-', pointsChange: '-', totalPoints: '-' }
-
-    // Calculate cumulative changes
-    const pointsChange = simulatedAthlete.total_points - originalAthlete.total_points
+    // Calculate cumulative changes based on filtered data
+    const pointsChange = currentAthlete.total_points - originalAthlete.total_points
 
     return {
       originalRank: originalAthlete.rank,
-      newRank: simulatedAthlete.rank,
+      newRank: currentAthlete.rank,
       pointsChange: pointsChange > 0 ? `+${pointsChange}` : pointsChange === 0 ? '0' : pointsChange.toString(),
-      totalPoints: simulatedAthlete.total_points,
+      totalPoints: currentAthlete.total_points,
       isPositive: pointsChange >= 0
     }
   }
@@ -475,7 +481,7 @@ function App() {
 
           <div className="content-area">
             <Leaderboard
-              athletes={currentView === 'original' ? originalAthletes : simulatedAthletes}
+              athletes={getCurrentAthletes()}
               events={data.events}
               currentView={currentView}
               onViewChange={setCurrentView}
@@ -491,6 +497,7 @@ function App() {
               selectedGender={selectedGender}
               onGenderChange={setSelectedGender}
               stats={getStats()}
+              calculateRankingsUpToEvent={calculateRankingsUpToEvent}
             />
           </div>
         </div>

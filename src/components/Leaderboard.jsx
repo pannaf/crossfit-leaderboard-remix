@@ -16,7 +16,8 @@ const Leaderboard = ({
     directlyModifiedAthletes,
     selectedGender,
     onGenderChange,
-    stats
+    stats,
+    calculateRankingsUpToEvent
 }) => {
     // Event details with cap times
     const eventDetails = {
@@ -90,8 +91,19 @@ const Leaderboard = ({
     const getRankChange = (athlete) => {
         if (currentView !== 'simulated') return ''
 
-        const originalAthlete = originalAthletes.find(a => a.name === athlete.name)
+        // Get the original athlete data (with upToEvent filtering applied if needed)
+        let originalAthlete = originalAthletes.find(a => a.name === athlete.name)
         if (!originalAthlete) return ''
+
+        // If upToEvent is set, we need to compare with the filtered original data
+        if (upToEvent) {
+            // Calculate what the original rank would be with upToEvent filtering
+            const originalAthletesFiltered = calculateRankingsUpToEvent(originalAthletes, upToEvent)
+            const originalAthleteFiltered = originalAthletesFiltered.find(a => a.name === athlete.name)
+            if (originalAthleteFiltered) {
+                originalAthlete = originalAthleteFiltered
+            }
+        }
 
         const rankChange = originalAthlete.rank - athlete.rank
         if (rankChange === 0) return ''
