@@ -35,7 +35,7 @@ function App() {
   const loadData = async () => {
     try {
       console.log(`Loading ${selectedGender} data...`)
-      const response = await fetch(`/leaderboard_data-${selectedGender}.json`)
+      const response = await fetch(`${import.meta.env.BASE_URL}leaderboard_data-${selectedGender}.json`)
       if (!response.ok) {
         throw new Error(`Failed to load ${selectedGender} data`)
       }
