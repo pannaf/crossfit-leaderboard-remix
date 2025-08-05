@@ -4,6 +4,46 @@ const EventBrowser = ({ events }) => {
     const [currentDayIndex, setCurrentDayIndex] = useState(0) // 0 = Friday, 1 = Saturday, 2 = Sunday
     const [expandedEvent, setExpandedEvent] = useState(null) // Track which event card is expanded
 
+    // Helper function to render separate time cap badges for men and women
+    const renderTimeCaps = (timeCap) => {
+        if (!timeCap) return null
+
+        // Check if it contains gender-specific time caps
+        if (timeCap.includes('(Women)') || timeCap.includes('(Men)')) {
+            const caps = []
+
+            // Extract women's time cap
+            const womenMatch = timeCap.match(/(\d+)\s*min\s*\(Women\)/i)
+            if (womenMatch) {
+                caps.push(
+                    <div key="women" className="event-time-cap women">
+                        <span className="timer-icon">⏱</span>
+                        <span className="gender-label">W:</span>
+                        {womenMatch[1]} min
+                    </div>
+                )
+            }
+
+            // Extract men's time cap
+            const menMatch = timeCap.match(/(\d+)\s*min\s*\(Men\)/i)
+            if (menMatch) {
+                caps.push(
+                    <div key="men" className="event-time-cap men">
+                        <span className="timer-icon">⏱</span>
+                        <span className="gender-label">M:</span>
+                        {menMatch[1]} min
+                    </div>
+                )
+            }
+
+            return <div className="time-caps-container">{caps}</div>
+        }
+
+        // Single time cap for both genders - remove "Time cap:" prefix
+        const cleanTimeCap = timeCap.replace(/^Time cap:\s*/i, '')
+        return <div className="event-time-cap">{cleanTimeCap}</div>
+    }
+
     const eventDetails = {
         'Run Row Run': {
             description: 'For time',
@@ -155,9 +195,7 @@ const EventBrowser = ({ events }) => {
                                                 ))}
                                             </div>
                                         )}
-                                        {eventData.timeCap && (
-                                            <div className="event-time-cap">{eventData.timeCap}</div>
-                                        )}
+                                        {eventData.timeCap && renderTimeCaps(eventData.timeCap)}
 
                                         {expandedEvent === eventName && (
                                             <div className="muscle-groups">
@@ -204,7 +242,7 @@ const EventBrowser = ({ events }) => {
                                         <div className="weight-line">Women: 16-lb vest, 20-inch box</div>
                                         <div className="weight-line">Men: 22-lb vest, 24-inch box</div>
                                     </div>
-                                    <div className="event-time-cap">Time cap: 6 min</div>
+                                    {renderTimeCaps("Time cap: 6 min")}
                                 </div>
 
                                 <div className="event-separator">
@@ -225,7 +263,7 @@ const EventBrowser = ({ events }) => {
                                         <div className="weight-line">Women: 20-inch box</div>
                                         <div className="weight-line">Men: 24-inch box</div>
                                     </div>
-                                    <div className="event-time-cap">Time cap: 8 min</div>
+                                    {renderTimeCaps("Time cap: 8 min")}
                                 </div>
 
                                 {expandedEvent === 'Throttle Up + Hammer Down' && (
@@ -279,9 +317,7 @@ const EventBrowser = ({ events }) => {
                                             ))}
                                         </div>
                                     )}
-                                    {eventData.timeCap && (
-                                        <div className="event-time-cap">{eventData.timeCap}</div>
-                                    )}
+                                    {eventData.timeCap && renderTimeCaps(eventData.timeCap)}
 
                                     {expandedEvent === eventName && (
                                         <div className="muscle-groups">

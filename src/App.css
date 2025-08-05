@@ -111,7 +111,7 @@ body {
   flex-shrink: 0;
   position: sticky;
   top: 8px;
-  height: calc(100vh + 400px);
+  height: calc(100vh + 800px);
   overflow-y: auto;
   margin-left: 20px;
   margin-top: 0;
@@ -1522,11 +1522,62 @@ tbody tr:hover {
 }
 
 .event-time-cap {
-  margin-top: 8px;
-  font-weight: 700;
-  color: #ff4757;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 12px;
+  padding: 5px 10px;
+  background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.75rem;
+  border-radius: 16px;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.03em;
+  box-shadow: 0 2px 8px rgba(255, 107, 107, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.event-time-cap::before {
+  content: '⏱';
+  font-size: 0.9rem;
+}
+
+/* Time caps container for multiple badges */
+.time-caps-container {
+  display: flex;
+  gap: 4px;
+  margin-top: 12px;
+  flex-wrap: wrap;
+}
+
+/* Gender-specific time cap styling */
+.event-time-cap.women {
+  background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
+  box-shadow: 0 2px 8px rgba(255, 107, 107, 0.3);
+}
+
+.event-time-cap.men {
+  background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%);
+  box-shadow: 0 2px 8px rgba(78, 205, 196, 0.3);
+}
+
+.event-time-cap.women::before,
+.event-time-cap.men::before {
+  content: none;
+  /* Remove the default timer emoji for gender-specific caps */
+}
+
+.event-time-cap .timer-icon {
+  font-size: 0.8rem;
+  margin-right: 2px;
+}
+
+.event-time-cap .gender-label {
+  font-size: 0.7rem;
+  margin-right: 2px;
+  font-weight: 600;
+  opacity: 0.9;
 }
 
 /* Point System Panel */
