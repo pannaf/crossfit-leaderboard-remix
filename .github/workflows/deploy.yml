@@ -29,17 +29,13 @@ jobs:
         with:
           node-version: 18
           cache: 'npm'
-          cache-dependency-path: crossfit-leaderboard-react/package-lock.json
+          cache-dependency-path: package-lock.json
       
       - name: Install dependencies
-        run: |
-          cd crossfit-leaderboard-react
-          npm ci
+        run: npm ci
       
       - name: Build
-        run: |
-          cd crossfit-leaderboard-react
-          npm run build
+        run: npm run build
       
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -47,7 +43,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './crossfit-leaderboard-react/dist'
+          path: './dist'
       
       - name: Deploy to GitHub Pages
         id: deployment

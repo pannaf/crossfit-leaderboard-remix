@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // Uncomment the base line below if deploying to GitHub Pages
-  // base: '/crossfit-leaderboard/',
+  // Base path for GitHub Pages (use your actual repo name)
+  base: '/crossfit-leaderboard-remix/',
 })
