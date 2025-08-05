@@ -437,14 +437,12 @@ const Leaderboard = ({
                                 className={`btn-toggle ${selectedGender === 'men' ? 'active' : ''}`}
                                 onClick={() => onGenderChange('men')}
                             >
-                                <i className="fas fa-mars"></i>
                                 Men
                             </button>
                             <button
                                 className={`btn-toggle ${selectedGender === 'women' ? 'active' : ''}`}
                                 onClick={() => onGenderChange('women')}
                             >
-                                <i className="fas fa-venus"></i>
                                 Women
                             </button>
                         </div>
