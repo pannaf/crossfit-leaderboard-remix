@@ -1,0 +1,2379 @@
+{
+  "year": 2008,
+  "gender": "women",
+  "events": [
+    "Sunday's Workout",
+    "The Hill Run",
+    "Workout A",
+    "Workout B"
+  ],
+  "event_point_map": {
+    "Sunday's Workout": {
+      "1": 306,
+      "2": 317,
+      "3": 343,
+      "4": 355,
+      "5": 388,
+      "6": 399,
+      "7": 417,
+      "8": 418,
+      "9": 444,
+      "10": 446,
+      "11": 453,
+      "12": 471,
+      "13": 472,
+      "14": 492,
+      "15": 499,
+      "16": 504,
+      "17": 509,
+      "18": 513,
+      "19": 516,
+      "20": 536,
+      "22": 537,
+      "23": 540,
+      "24": 577,
+      "25": 578,
+      "26": 614,
+      "27": 615,
+      "28": 616,
+      "30": 617,
+      "31": 640,
+      "32": 641,
+      "33": 642,
+      "34": 650,
+      "35": 655,
+      "36": 720
+    },
+    "The Hill Run": {
+      "1": 203,
+      "2": 233,
+      "3": 234,
+      "4": 243,
+      "5": 250,
+      "7": 252,
+      "8": 256,
+      "9": 257,
+      "11": 260,
+      "12": 270,
+      "13": 274,
+      "14": 278,
+      "15": 280,
+      "16": 284,
+      "17": 285,
+      "18": 286,
+      "19": 291,
+      "20": 294,
+      "21": 297,
+      "22": 307,
+      "23": 315,
+      "24": 316,
+      "25": 318,
+      "26": 323,
+      "27": 328,
+      "28": 353,
+      "29": 357,
+      "30": 360,
+      "31": 373,
+      "32": 381,
+      "33": 386,
+      "34": 413,
+      "35": 433,
+      "36": 445
+    },
+    "Workout A": {
+      "1": 264,
+      "2": 275,
+      "3": 280,
+      "4": 283,
+      "5": 285,
+      "7": 289,
+      "8": 292,
+      "10": 294,
+      "11": 295,
+      "12": 297,
+      "13": 300,
+      "15": 301,
+      "16": 303,
+      "17": 305,
+      "18": 308,
+      "20": 322,
+      "21": 325,
+      "23": 327,
+      "24": 334,
+      "25": 337,
+      "26": 341,
+      "27": 343,
+      "29": 344,
+      "30": 357,
+      "32": 365,
+      "34": 377,
+      "35": 403,
+      "36": 406
+    },
+    "Workout B": {
+      "1": 210,
+      "2": 254,
+      "3": 280,
+      "4": 311,
+      "5": 315,
+      "6": 373,
+      "7": 378,
+      "9": 382,
+      "10": 395,
+      "11": 412,
+      "12": 418,
+      "13": 432,
+      "14": 460,
+      "16": 469,
+      "17": 481,
+      "18": 507,
+      "19": 511,
+      "20": 545,
+      "21": 570,
+      "23": 573,
+      "24": 578,
+      "25": 599,
+      "26": 600,
+      "27": 601,
+      "28": 611,
+      "29": 612,
+      "30": 620,
+      "31": 632,
+      "32": 638,
+      "33": 647,
+      "34": 669,
+      "35": 718,
+      "36": 867
+    }
+  },
+  "event_field_size": {
+    "Sunday's Workout": 36,
+    "The Hill Run": 36,
+    "Workout A": 36,
+    "Workout B": 36
+  },
+  "event_place_points": {
+    "Sunday's Workout": [
+      306,
+      317,
+      343,
+      355,
+      388,
+      399,
+      417,
+      418,
+      444,
+      446,
+      453,
+      471,
+      472,
+      492,
+      499,
+      504,
+      509,
+      513,
+      516,
+      536,
+      0,
+      537,
+      540,
+      577,
+      578,
+      614,
+      615,
+      616,
+      0,
+      617,
+      640,
+      641,
+      642,
+      650,
+      655,
+      720
+    ],
+    "The Hill Run": [
+      203,
+      233,
+      234,
+      243,
+      250,
+      0,
+      252,
+      256,
+      257,
+      0,
+      260,
+      270,
+      274,
+      278,
+      280,
+      284,
+      285,
+      286,
+      291,
+      294,
+      297,
+      307,
+      315,
+      316,
+      318,
+      323,
+      328,
+      353,
+      357,
+      360,
+      373,
+      381,
+      386,
+      413,
+      433,
+      445
+    ],
+    "Workout A": [
+      264,
+      275,
+      280,
+      283,
+      285,
+      0,
+      289,
+      292,
+      0,
+      294,
+      295,
+      297,
+      300,
+      0,
+      301,
+      303,
+      305,
+      308,
+      0,
+      322,
+      325,
+      0,
+      327,
+      334,
+      337,
+      341,
+      343,
+      0,
+      344,
+      357,
+      0,
+      365,
+      0,
+      377,
+      403,
+      406
+    ],
+    "Workout B": [
+      210,
+      254,
+      280,
+      311,
+      315,
+      373,
+      378,
+      0,
+      382,
+      395,
+      412,
+      418,
+      432,
+      460,
+      0,
+      469,
+      481,
+      507,
+      511,
+      545,
+      570,
+      0,
+      573,
+      578,
+      599,
+      600,
+      601,
+      611,
+      612,
+      620,
+      632,
+      638,
+      647,
+      669,
+      718,
+      867
+    ]
+  },
+  "event_ordinals": {
+    "Sunday's Workout": 1,
+    "The Hill Run": 2,
+    "Workout A": 3,
+    "Workout B": 4
+  },
+  "event_finish_order": {
+    "Sunday's Workout": [
+      {
+        "name": "Linda Leipper",
+        "place": 1,
+        "points": 306,
+        "time": "5:06.0"
+      },
+      {
+        "name": "Gillian Mounsey",
+        "place": 2,
+        "points": 317,
+        "time": "5:17.0"
+      },
+      {
+        "name": "Jolie Gentry",
+        "place": 3,
+        "points": 343,
+        "time": "5:43.0"
+      },
+      {
+        "name": "Tanya Wagner",
+        "place": 4,
+        "points": 355,
+        "time": "5:55.0"
+      },
+      {
+        "name": "Candace Hamilton",
+        "place": 5,
+        "points": 388,
+        "time": "6:28.0"
+      },
+      {
+        "name": "Amber Wiggs",
+        "place": 6,
+        "points": 399,
+        "time": "6:39.0"
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 7,
+        "points": 417,
+        "time": "6:57.0"
+      },
+      {
+        "name": "Caity Matter",
+        "place": 8,
+        "points": 418,
+        "time": "6:58.0"
+      },
+      {
+        "name": "Robin Lyons",
+        "place": 9,
+        "points": 444,
+        "time": "7:24.0"
+      },
+      {
+        "name": "Miranda Oldroyd",
+        "place": 10,
+        "points": 446,
+        "time": "7:26.0"
+      },
+      {
+        "name": "Tamara Holmes",
+        "place": 11,
+        "points": 453,
+        "time": "7:33.0"
+      },
+      {
+        "name": "Kallista Pappas",
+        "place": 12,
+        "points": 471,
+        "time": "7:51.0"
+      },
+      {
+        "name": "Amy Summers",
+        "place": 13,
+        "points": 472,
+        "time": "7:52.0"
+      },
+      {
+        "name": "Libby Dibiase",
+        "place": 14,
+        "points": 492,
+        "time": "8:12.0"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 15,
+        "points": 499,
+        "time": "8:19.0"
+      },
+      {
+        "name": "Cori Gobell",
+        "place": 16,
+        "points": 504,
+        "time": "8:24.0"
+      },
+      {
+        "name": "Fern Webb",
+        "place": 17,
+        "points": 509,
+        "time": "8:29.0"
+      },
+      {
+        "name": "Jenni Orr",
+        "place": 18,
+        "points": 513,
+        "time": "8:33.0"
+      },
+      {
+        "name": "Julie Cleghorn",
+        "place": 19,
+        "points": 516,
+        "time": "8:36.0"
+      },
+      {
+        "name": "Trish Davis",
+        "place": 20,
+        "points": 536,
+        "time": "8:56.0"
+      },
+      {
+        "name": "Maria Corvin",
+        "place": 20,
+        "points": 536,
+        "time": "8:56.0"
+      },
+      {
+        "name": "Maggie Dabe-colby",
+        "place": 22,
+        "points": 537,
+        "time": "8:57.0"
+      },
+      {
+        "name": "Jeralee Anderson",
+        "place": 23,
+        "points": 540,
+        "time": "9:00.0"
+      },
+      {
+        "name": "Nicki Violetti",
+        "place": 24,
+        "points": 577,
+        "time": "9:37.0"
+      },
+      {
+        "name": "Mary Everett",
+        "place": 25,
+        "points": 578,
+        "time": "9:38.0"
+      },
+      {
+        "name": "Lisa Bender",
+        "place": 26,
+        "points": 614,
+        "time": "10:14.0"
+      },
+      {
+        "name": "Shelly Finlayson",
+        "place": 27,
+        "points": 615,
+        "time": "10:15.0"
+      },
+      {
+        "name": "Cyndi Frieling",
+        "place": 28,
+        "points": 616,
+        "time": "10:16.0"
+      },
+      {
+        "name": "Crystal Mcreynolds",
+        "place": 28,
+        "points": 616,
+        "time": "10:16.0"
+      },
+      {
+        "name": "Rachel Wong",
+        "place": 30,
+        "points": 617,
+        "time": "10:17.0"
+      },
+      {
+        "name": "Kerri Wenke",
+        "place": 31,
+        "points": 640,
+        "time": "10:40.0"
+      },
+      {
+        "name": "Michele Vieux",
+        "place": 32,
+        "points": 641,
+        "time": "10:41.0"
+      },
+      {
+        "name": "Rebecca Ballstaedt",
+        "place": 33,
+        "points": 642,
+        "time": "10:42.0"
+      },
+      {
+        "name": "Jen Gonzales",
+        "place": 34,
+        "points": 650,
+        "time": "10:50.0"
+      },
+      {
+        "name": "Jenny Rydh",
+        "place": 35,
+        "points": 655,
+        "time": "10:55.0"
+      },
+      {
+        "name": "Aqueelah Tillman",
+        "place": 36,
+        "points": 720,
+        "time": "12:00.0"
+      }
+    ],
+    "The Hill Run": [
+      {
+        "name": "Libby Dibiase",
+        "place": 1,
+        "points": 203,
+        "time": "3:23.0"
+      },
+      {
+        "name": "Caity Matter",
+        "place": 2,
+        "points": 233,
+        "time": "3:53.0"
+      },
+      {
+        "name": "Jenny Rydh",
+        "place": 3,
+        "points": 234,
+        "time": "3:54.0"
+      },
+      {
+        "name": "Jenni Orr",
+        "place": 4,
+        "points": 243,
+        "time": "4:03.0"
+      },
+      {
+        "name": "Tanya Wagner",
+        "place": 5,
+        "points": 250,
+        "time": "4:10.0"
+      },
+      {
+        "name": "Shelly Finlayson",
+        "place": 5,
+        "points": 250,
+        "time": "4:10.0"
+      },
+      {
+        "name": "Tamara Holmes",
+        "place": 7,
+        "points": 252,
+        "time": "4:12.0"
+      },
+      {
+        "name": "Candace Hamilton",
+        "place": 8,
+        "points": 256,
+        "time": "4:16.0"
+      },
+      {
+        "name": "Gillian Mounsey",
+        "place": 9,
+        "points": 257,
+        "time": "4:17.0"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 9,
+        "points": 257,
+        "time": "4:17.0"
+      },
+      {
+        "name": "Rebecca Ballstaedt",
+        "place": 11,
+        "points": 260,
+        "time": "4:20.0"
+      },
+      {
+        "name": "Fern Webb",
+        "place": 12,
+        "points": 270,
+        "time": "4:30.0"
+      },
+      {
+        "name": "Cori Gobell",
+        "place": 13,
+        "points": 274,
+        "time": "4:34.0"
+      },
+      {
+        "name": "Jolie Gentry",
+        "place": 14,
+        "points": 278,
+        "time": "4:38.0"
+      },
+      {
+        "name": "Michele Vieux",
+        "place": 15,
+        "points": 280,
+        "time": "4:40.0"
+      },
+      {
+        "name": "Amber Wiggs",
+        "place": 16,
+        "points": 284,
+        "time": "4:44.0"
+      },
+      {
+        "name": "Mary Everett",
+        "place": 17,
+        "points": 285,
+        "time": "4:45.0"
+      },
+      {
+        "name": "Jen Gonzales",
+        "place": 18,
+        "points": 286,
+        "time": "4:46.0"
+      },
+      {
+        "name": "Nicki Violetti",
+        "place": 19,
+        "points": 291,
+        "time": "4:51.0"
+      },
+      {
+        "name": "Cyndi Frieling",
+        "place": 20,
+        "points": 294,
+        "time": "4:54.0"
+      },
+      {
+        "name": "Maggie Dabe-colby",
+        "place": 21,
+        "points": 297,
+        "time": "4:57.0"
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 22,
+        "points": 307,
+        "time": "5:07.0"
+      },
+      {
+        "name": "Linda Leipper",
+        "place": 23,
+        "points": 315,
+        "time": "5:15.0"
+      },
+      {
+        "name": "Lisa Bender",
+        "place": 24,
+        "points": 316,
+        "time": "5:16.0"
+      },
+      {
+        "name": "Miranda Oldroyd",
+        "place": 25,
+        "points": 318,
+        "time": "5:18.0"
+      },
+      {
+        "name": "Julie Cleghorn",
+        "place": 26,
+        "points": 323,
+        "time": "5:23.0"
+      },
+      {
+        "name": "Trish Davis",
+        "place": 27,
+        "points": 328,
+        "time": "5:28.0"
+      },
+      {
+        "name": "Kallista Pappas",
+        "place": 28,
+        "points": 353,
+        "time": "5:53.0"
+      },
+      {
+        "name": "Crystal Mcreynolds",
+        "place": 29,
+        "points": 357,
+        "time": "5:57.0"
+      },
+      {
+        "name": "Amy Summers",
+        "place": 30,
+        "points": 360,
+        "time": "6:00.0"
+      },
+      {
+        "name": "Robin Lyons",
+        "place": 31,
+        "points": 373,
+        "time": "6:13.0"
+      },
+      {
+        "name": "Rachel Wong",
+        "place": 32,
+        "points": 381,
+        "time": "6:21.0"
+      },
+      {
+        "name": "Jeralee Anderson",
+        "place": 33,
+        "points": 386,
+        "time": "6:26.0"
+      },
+      {
+        "name": "Aqueelah Tillman",
+        "place": 34,
+        "points": 413,
+        "time": "6:53.0"
+      },
+      {
+        "name": "Kerri Wenke",
+        "place": 35,
+        "points": 433,
+        "time": "7:13.0"
+      },
+      {
+        "name": "Maria Corvin",
+        "place": 36,
+        "points": 445,
+        "time": "7:25.0"
+      }
+    ],
+    "Workout A": [
+      {
+        "name": "Aqueelah Tillman",
+        "place": 1,
+        "points": 264,
+        "time": "4:24.0"
+      },
+      {
+        "name": "Tanya Wagner",
+        "place": 2,
+        "points": 275,
+        "time": "4:35.0"
+      },
+      {
+        "name": "Lisa Bender",
+        "place": 3,
+        "points": 280,
+        "time": "4:40.0"
+      },
+      {
+        "name": "Jolie Gentry",
+        "place": 4,
+        "points": 283,
+        "time": "4:43.0"
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 5,
+        "points": 285,
+        "time": "4:45.0"
+      },
+      {
+        "name": "Cyndi Frieling",
+        "place": 5,
+        "points": 285,
+        "time": "4:45.0"
+      },
+      {
+        "name": "Caity Matter",
+        "place": 7,
+        "points": 289,
+        "time": "4:49.0"
+      },
+      {
+        "name": "Julie Cleghorn",
+        "place": 8,
+        "points": 292,
+        "time": "4:52.0"
+      },
+      {
+        "name": "Kallista Pappas",
+        "place": 8,
+        "points": 292,
+        "time": "4:52.0"
+      },
+      {
+        "name": "Crystal Mcreynolds",
+        "place": 10,
+        "points": 294,
+        "time": "4:54.0"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 11,
+        "points": 295,
+        "time": "4:55.0"
+      },
+      {
+        "name": "Libby Dibiase",
+        "place": 12,
+        "points": 297,
+        "time": "4:57.0"
+      },
+      {
+        "name": "Linda Leipper",
+        "place": 13,
+        "points": 300,
+        "time": "5:00.0"
+      },
+      {
+        "name": "Rebecca Ballstaedt",
+        "place": 13,
+        "points": 300,
+        "time": "5:00.0"
+      },
+      {
+        "name": "Miranda Oldroyd",
+        "place": 15,
+        "points": 301,
+        "time": "5:01.0"
+      },
+      {
+        "name": "Gillian Mounsey",
+        "place": 16,
+        "points": 303,
+        "time": "5:03.0"
+      },
+      {
+        "name": "Shelly Finlayson",
+        "place": 17,
+        "points": 305,
+        "time": "5:05.0"
+      },
+      {
+        "name": "Jenni Orr",
+        "place": 18,
+        "points": 308,
+        "time": "5:08.0"
+      },
+      {
+        "name": "Mary Everett",
+        "place": 18,
+        "points": 308,
+        "time": "5:08.0"
+      },
+      {
+        "name": "Fern Webb",
+        "place": 20,
+        "points": 322,
+        "time": "5:22.0"
+      },
+      {
+        "name": "Maggie Dabe-colby",
+        "place": 21,
+        "points": 325,
+        "time": "5:25.0"
+      },
+      {
+        "name": "Trish Davis",
+        "place": 21,
+        "points": 325,
+        "time": "5:25.0"
+      },
+      {
+        "name": "Robin Lyons",
+        "place": 23,
+        "points": 327,
+        "time": "5:27.0"
+      },
+      {
+        "name": "Jen Gonzales",
+        "place": 24,
+        "points": 334,
+        "time": "5:34.0"
+      },
+      {
+        "name": "Tamara Holmes",
+        "place": 25,
+        "points": 337,
+        "time": "5:37.0"
+      },
+      {
+        "name": "Amy Summers",
+        "place": 26,
+        "points": 341,
+        "time": "5:41.0"
+      },
+      {
+        "name": "Jenny Rydh",
+        "place": 27,
+        "points": 343,
+        "time": "5:43.0"
+      },
+      {
+        "name": "Jeralee Anderson",
+        "place": 27,
+        "points": 343,
+        "time": "5:43.0"
+      },
+      {
+        "name": "Amber Wiggs",
+        "place": 29,
+        "points": 344,
+        "time": "5:44.0"
+      },
+      {
+        "name": "Cori Gobell",
+        "place": 30,
+        "points": 357,
+        "time": "5:57.0"
+      },
+      {
+        "name": "Nicki Violetti",
+        "place": 30,
+        "points": 357,
+        "time": "5:57.0"
+      },
+      {
+        "name": "Michele Vieux",
+        "place": 32,
+        "points": 365,
+        "time": "6:05.0"
+      },
+      {
+        "name": "Rachel Wong",
+        "place": 32,
+        "points": 365,
+        "time": "6:05.0"
+      },
+      {
+        "name": "Candace Hamilton",
+        "place": 34,
+        "points": 377,
+        "time": "6:17.0"
+      },
+      {
+        "name": "Maria Corvin",
+        "place": 35,
+        "points": 403,
+        "time": "6:43.0"
+      },
+      {
+        "name": "Kerri Wenke",
+        "place": 36,
+        "points": 406,
+        "time": "6:46.0"
+      }
+    ],
+    "Workout B": [
+      {
+        "name": "Caity Matter",
+        "place": 1,
+        "points": 210,
+        "time": "3:30.0"
+      },
+      {
+        "name": "Tamara Holmes",
+        "place": 2,
+        "points": 254,
+        "time": "4:14.0"
+      },
+      {
+        "name": "Tanya Wagner",
+        "place": 3,
+        "points": 280,
+        "time": "4:40.0"
+      },
+      {
+        "name": "Gillian Mounsey",
+        "place": 4,
+        "points": 311,
+        "time": "5:11.0"
+      },
+      {
+        "name": "Robin Lyons",
+        "place": 5,
+        "points": 315,
+        "time": "5:15.0"
+      },
+      {
+        "name": "Michele Vieux",
+        "place": 6,
+        "points": 373,
+        "time": "6:13.0"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 7,
+        "points": 378,
+        "time": "6:18.0"
+      },
+      {
+        "name": "Mary Everett",
+        "place": 7,
+        "points": 378,
+        "time": "6:18.0"
+      },
+      {
+        "name": "Jen Gonzales",
+        "place": 9,
+        "points": 382,
+        "time": "6:22.0"
+      },
+      {
+        "name": "Jenni Orr",
+        "place": 10,
+        "points": 395,
+        "time": "6:35.0"
+      },
+      {
+        "name": "Libby Dibiase",
+        "place": 11,
+        "points": 412,
+        "time": "6:52.0"
+      },
+      {
+        "name": "Nicki Violetti",
+        "place": 12,
+        "points": 418,
+        "time": "6:58.0"
+      },
+      {
+        "name": "Amber Wiggs",
+        "place": 13,
+        "points": 432,
+        "time": "7:12.0"
+      },
+      {
+        "name": "Candace Hamilton",
+        "place": 14,
+        "points": 460,
+        "time": "7:40.0"
+      },
+      {
+        "name": "Fern Webb",
+        "place": 14,
+        "points": 460,
+        "time": "7:40.0"
+      },
+      {
+        "name": "Jolie Gentry",
+        "place": 16,
+        "points": 469,
+        "time": "7:49.0"
+      },
+      {
+        "name": "Cyndi Frieling",
+        "place": 17,
+        "points": 481,
+        "time": "8:01.0"
+      },
+      {
+        "name": "Cori Gobell",
+        "place": 18,
+        "points": 507,
+        "time": "8:27.0"
+      },
+      {
+        "name": "Maggie Dabe-colby",
+        "place": 19,
+        "points": 511,
+        "time": "8:31.0"
+      },
+      {
+        "name": "Jenny Rydh",
+        "place": 20,
+        "points": 545,
+        "time": "9:05.0"
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 21,
+        "points": 570,
+        "time": "9:30.0"
+      },
+      {
+        "name": "Lisa Bender",
+        "place": 21,
+        "points": 570,
+        "time": "9:30.0"
+      },
+      {
+        "name": "Shelly Finlayson",
+        "place": 23,
+        "points": 573,
+        "time": "9:33.0"
+      },
+      {
+        "name": "Aqueelah Tillman",
+        "place": 24,
+        "points": 578,
+        "time": "9:38.0"
+      },
+      {
+        "name": "Trish Davis",
+        "place": 25,
+        "points": 599,
+        "time": "9:59.0"
+      },
+      {
+        "name": "Julie Cleghorn",
+        "place": 26,
+        "points": 600,
+        "time": "10:00.0"
+      },
+      {
+        "name": "Rebecca Ballstaedt",
+        "place": 27,
+        "points": 601,
+        "time": "10:01.0"
+      },
+      {
+        "name": "Miranda Oldroyd",
+        "place": 28,
+        "points": 611,
+        "time": "10:11.0"
+      },
+      {
+        "name": "Jeralee Anderson",
+        "place": 29,
+        "points": 612,
+        "time": "10:12.0"
+      },
+      {
+        "name": "Linda Leipper",
+        "place": 30,
+        "points": 620,
+        "time": "10:20.0"
+      },
+      {
+        "name": "Rachel Wong",
+        "place": 31,
+        "points": 632,
+        "time": "10:32.0"
+      },
+      {
+        "name": "Kerri Wenke",
+        "place": 32,
+        "points": 638,
+        "time": "10:38.0"
+      },
+      {
+        "name": "Kallista Pappas",
+        "place": 33,
+        "points": 647,
+        "time": "10:47.0"
+      },
+      {
+        "name": "Amy Summers",
+        "place": 34,
+        "points": 669,
+        "time": "11:09.0"
+      },
+      {
+        "name": "Crystal Mcreynolds",
+        "place": 35,
+        "points": 718,
+        "time": "11:58.0"
+      },
+      {
+        "name": "Maria Corvin",
+        "place": 36,
+        "points": 867,
+        "time": "14:27.0"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Caity Matter",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "69 in",
+      "total_points": 1150,
+      "events": {
+        "Sunday's Workout": {
+          "place": 8,
+          "time": "6:58.0",
+          "points": 418
+        },
+        "The Hill Run": {
+          "place": 2,
+          "time": "3:53.0",
+          "points": 233
+        },
+        "Workout A": {
+          "place": 7,
+          "time": "4:49.0",
+          "points": 289
+        },
+        "Workout B": {
+          "place": 1,
+          "time": "3:30.0",
+          "points": 210
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Tanya Wagner",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "66 in | 150 lb",
+      "total_points": 1160,
+      "events": {
+        "Sunday's Workout": {
+          "place": 4,
+          "time": "5:55.0",
+          "points": 355
+        },
+        "The Hill Run": {
+          "place": 5,
+          "time": "4:10.0",
+          "points": 250
+        },
+        "Workout A": {
+          "place": 2,
+          "time": "4:35.0",
+          "points": 275
+        },
+        "Workout B": {
+          "place": 3,
+          "time": "4:40.0",
+          "points": 280
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Gillian Mounsey",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1188,
+      "events": {
+        "Sunday's Workout": {
+          "place": 2,
+          "time": "5:17.0",
+          "points": 317
+        },
+        "The Hill Run": {
+          "place": 9,
+          "time": "4:17.0",
+          "points": 257
+        },
+        "Workout A": {
+          "place": 16,
+          "time": "5:03.0",
+          "points": 303
+        },
+        "Workout B": {
+          "place": 4,
+          "time": "5:11.0",
+          "points": 311
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Tamara Holmes",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "69 in | 182 lb",
+      "total_points": 1296,
+      "events": {
+        "Sunday's Workout": {
+          "place": 11,
+          "time": "7:33.0",
+          "points": 453
+        },
+        "The Hill Run": {
+          "place": 7,
+          "time": "4:12.0",
+          "points": 252
+        },
+        "Workout A": {
+          "place": 25,
+          "time": "5:37.0",
+          "points": 337
+        },
+        "Workout B": {
+          "place": 2,
+          "time": "4:14.0",
+          "points": 254
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Jolie Gentry",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1373,
+      "events": {
+        "Sunday's Workout": {
+          "place": 3,
+          "time": "5:43.0",
+          "points": 343
+        },
+        "The Hill Run": {
+          "place": 14,
+          "time": "4:38.0",
+          "points": 278
+        },
+        "Workout A": {
+          "place": 4,
+          "time": "4:43.0",
+          "points": 283
+        },
+        "Workout B": {
+          "place": 16,
+          "time": "7:49.0",
+          "points": 469
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Libby Dibiase",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 20",
+      "height_weight": "",
+      "total_points": 1404,
+      "events": {
+        "Sunday's Workout": {
+          "place": 14,
+          "time": "8:12.0",
+          "points": 492
+        },
+        "The Hill Run": {
+          "place": 1,
+          "time": "3:23.0",
+          "points": 203
+        },
+        "Workout A": {
+          "place": 12,
+          "time": "4:57.0",
+          "points": 297
+        },
+        "Workout B": {
+          "place": 11,
+          "time": "6:52.0",
+          "points": 412
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Rebecca Voigt",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "69 in | 152 lb",
+      "total_points": 1429,
+      "events": {
+        "Sunday's Workout": {
+          "place": 15,
+          "time": "8:19.0",
+          "points": 499
+        },
+        "The Hill Run": {
+          "place": 9,
+          "time": "4:17.0",
+          "points": 257
+        },
+        "Workout A": {
+          "place": 11,
+          "time": "4:55.0",
+          "points": 295
+        },
+        "Workout B": {
+          "place": 7,
+          "time": "6:18.0",
+          "points": 378
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Amber Wiggs",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1459,
+      "events": {
+        "Sunday's Workout": {
+          "place": 6,
+          "time": "6:39.0",
+          "points": 399
+        },
+        "The Hill Run": {
+          "place": 16,
+          "time": "4:44.0",
+          "points": 284
+        },
+        "Workout A": {
+          "place": 29,
+          "time": "5:44.0",
+          "points": 344
+        },
+        "Workout B": {
+          "place": 13,
+          "time": "7:12.0",
+          "points": 432
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Robin Lyons",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "",
+      "total_points": 1459,
+      "events": {
+        "Sunday's Workout": {
+          "place": 9,
+          "time": "7:24.0",
+          "points": 444
+        },
+        "The Hill Run": {
+          "place": 31,
+          "time": "6:13.0",
+          "points": 373
+        },
+        "Workout A": {
+          "place": 23,
+          "time": "5:27.0",
+          "points": 327
+        },
+        "Workout B": {
+          "place": 5,
+          "time": "5:15.0",
+          "points": 315
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Jenni Orr",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "",
+      "total_points": 1459,
+      "events": {
+        "Sunday's Workout": {
+          "place": 18,
+          "time": "8:33.0",
+          "points": 513
+        },
+        "The Hill Run": {
+          "place": 4,
+          "time": "4:03.0",
+          "points": 243
+        },
+        "Workout A": {
+          "place": 18,
+          "time": "5:08.0",
+          "points": 308
+        },
+        "Workout B": {
+          "place": 10,
+          "time": "6:35.0",
+          "points": 395
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Candace Hamilton",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "65 in | 155 lb",
+      "total_points": 1481,
+      "events": {
+        "Sunday's Workout": {
+          "place": 5,
+          "time": "6:28.0",
+          "points": 388
+        },
+        "The Hill Run": {
+          "place": 8,
+          "time": "4:16.0",
+          "points": 256
+        },
+        "Workout A": {
+          "place": 34,
+          "time": "6:17.0",
+          "points": 377
+        },
+        "Workout B": {
+          "place": 14,
+          "time": "7:40.0",
+          "points": 460
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Linda Leipper",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 40",
+      "height_weight": "64 in | 125 lb",
+      "total_points": 1541,
+      "events": {
+        "Sunday's Workout": {
+          "place": 1,
+          "time": "5:06.0",
+          "points": 306
+        },
+        "The Hill Run": {
+          "place": 23,
+          "time": "5:15.0",
+          "points": 315
+        },
+        "Workout A": {
+          "place": 13,
+          "time": "5:00.0",
+          "points": 300
+        },
+        "Workout B": {
+          "place": 30,
+          "time": "10:20.0",
+          "points": 620
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Mary Everett",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "69 in | 150 lb",
+      "total_points": 1549,
+      "events": {
+        "Sunday's Workout": {
+          "place": 25,
+          "time": "9:38.0",
+          "points": 578
+        },
+        "The Hill Run": {
+          "place": 17,
+          "time": "4:45.0",
+          "points": 285
+        },
+        "Workout A": {
+          "place": 18,
+          "time": "5:08.0",
+          "points": 308
+        },
+        "Workout B": {
+          "place": 7,
+          "time": "6:18.0",
+          "points": 378
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Fern Webb",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "",
+      "total_points": 1561,
+      "events": {
+        "Sunday's Workout": {
+          "place": 17,
+          "time": "8:29.0",
+          "points": 509
+        },
+        "The Hill Run": {
+          "place": 12,
+          "time": "4:30.0",
+          "points": 270
+        },
+        "Workout A": {
+          "place": 20,
+          "time": "5:22.0",
+          "points": 322
+        },
+        "Workout B": {
+          "place": 14,
+          "time": "7:40.0",
+          "points": 460
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Cherie Chan",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "66 in | 137 lb",
+      "total_points": 1579,
+      "events": {
+        "Sunday's Workout": {
+          "place": 7,
+          "time": "6:57.0",
+          "points": 417
+        },
+        "The Hill Run": {
+          "place": 22,
+          "time": "5:07.0",
+          "points": 307
+        },
+        "Workout A": {
+          "place": 5,
+          "time": "4:45.0",
+          "points": 285
+        },
+        "Workout B": {
+          "place": 21,
+          "time": "9:30.0",
+          "points": 570
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Cori Gobell",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "147 lb",
+      "total_points": 1642,
+      "events": {
+        "Sunday's Workout": {
+          "place": 16,
+          "time": "8:24.0",
+          "points": 504
+        },
+        "The Hill Run": {
+          "place": 13,
+          "time": "4:34.0",
+          "points": 274
+        },
+        "Workout A": {
+          "place": 30,
+          "time": "5:57.0",
+          "points": 357
+        },
+        "Workout B": {
+          "place": 18,
+          "time": "8:27.0",
+          "points": 507
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Nicki Violetti",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1643,
+      "events": {
+        "Sunday's Workout": {
+          "place": 24,
+          "time": "9:37.0",
+          "points": 577
+        },
+        "The Hill Run": {
+          "place": 19,
+          "time": "4:51.0",
+          "points": 291
+        },
+        "Workout A": {
+          "place": 30,
+          "time": "5:57.0",
+          "points": 357
+        },
+        "Workout B": {
+          "place": 12,
+          "time": "6:58.0",
+          "points": 418
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Jen Gonzales",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "",
+      "total_points": 1652,
+      "events": {
+        "Sunday's Workout": {
+          "place": 34,
+          "time": "10:50.0",
+          "points": 650
+        },
+        "The Hill Run": {
+          "place": 18,
+          "time": "4:46.0",
+          "points": 286
+        },
+        "Workout A": {
+          "place": 24,
+          "time": "5:34.0",
+          "points": 334
+        },
+        "Workout B": {
+          "place": 9,
+          "time": "6:22.0",
+          "points": 382
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Michele Vieux",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "",
+      "total_points": 1659,
+      "events": {
+        "Sunday's Workout": {
+          "place": 32,
+          "time": "10:41.0",
+          "points": 641
+        },
+        "The Hill Run": {
+          "place": 15,
+          "time": "4:40.0",
+          "points": 280
+        },
+        "Workout A": {
+          "place": 32,
+          "time": "6:05.0",
+          "points": 365
+        },
+        "Workout B": {
+          "place": 6,
+          "time": "6:13.0",
+          "points": 373
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Maggie Dabe-colby",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1670,
+      "events": {
+        "Sunday's Workout": {
+          "place": 22,
+          "time": "8:57.0",
+          "points": 537
+        },
+        "The Hill Run": {
+          "place": 21,
+          "time": "4:57.0",
+          "points": 297
+        },
+        "Workout A": {
+          "place": 21,
+          "time": "5:25.0",
+          "points": 325
+        },
+        "Workout B": {
+          "place": 19,
+          "time": "8:31.0",
+          "points": 511
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Cyndi Frieling",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "66 in | 155 lb",
+      "total_points": 1676,
+      "events": {
+        "Sunday's Workout": {
+          "place": 28,
+          "time": "10:16.0",
+          "points": 616
+        },
+        "The Hill Run": {
+          "place": 20,
+          "time": "4:54.0",
+          "points": 294
+        },
+        "Workout A": {
+          "place": 5,
+          "time": "4:45.0",
+          "points": 285
+        },
+        "Workout B": {
+          "place": 17,
+          "time": "8:01.0",
+          "points": 481
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Miranda Oldroyd",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "65 in | 140 lb",
+      "total_points": 1676,
+      "events": {
+        "Sunday's Workout": {
+          "place": 10,
+          "time": "7:26.0",
+          "points": 446
+        },
+        "The Hill Run": {
+          "place": 25,
+          "time": "5:18.0",
+          "points": 318
+        },
+        "Workout A": {
+          "place": 15,
+          "time": "5:01.0",
+          "points": 301
+        },
+        "Workout B": {
+          "place": 28,
+          "time": "10:11.0",
+          "points": 611
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Julie Cleghorn",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 42",
+      "height_weight": "65 in | 54 kg",
+      "total_points": 1731,
+      "events": {
+        "Sunday's Workout": {
+          "place": 19,
+          "time": "8:36.0",
+          "points": 516
+        },
+        "The Hill Run": {
+          "place": 26,
+          "time": "5:23.0",
+          "points": 323
+        },
+        "Workout A": {
+          "place": 8,
+          "time": "4:52.0",
+          "points": 292
+        },
+        "Workout B": {
+          "place": 26,
+          "time": "10:00.0",
+          "points": 600
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Shelly Finlayson",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1743,
+      "events": {
+        "Sunday's Workout": {
+          "place": 27,
+          "time": "10:15.0",
+          "points": 615
+        },
+        "The Hill Run": {
+          "place": 5,
+          "time": "4:10.0",
+          "points": 250
+        },
+        "Workout A": {
+          "place": 17,
+          "time": "5:05.0",
+          "points": 305
+        },
+        "Workout B": {
+          "place": 23,
+          "time": "9:33.0",
+          "points": 573
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Kallista Pappas",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1763,
+      "events": {
+        "Sunday's Workout": {
+          "place": 12,
+          "time": "7:51.0",
+          "points": 471
+        },
+        "The Hill Run": {
+          "place": 28,
+          "time": "5:53.0",
+          "points": 353
+        },
+        "Workout A": {
+          "place": 8,
+          "time": "4:52.0",
+          "points": 292
+        },
+        "Workout B": {
+          "place": 33,
+          "time": "10:47.0",
+          "points": 647
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Jenny Rydh",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1777,
+      "events": {
+        "Sunday's Workout": {
+          "place": 35,
+          "time": "10:55.0",
+          "points": 655
+        },
+        "The Hill Run": {
+          "place": 3,
+          "time": "3:54.0",
+          "points": 234
+        },
+        "Workout A": {
+          "place": 27,
+          "time": "5:43.0",
+          "points": 343
+        },
+        "Workout B": {
+          "place": 20,
+          "time": "9:05.0",
+          "points": 545
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Lisa Bender",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 42",
+      "height_weight": "65 in | 157 lb",
+      "total_points": 1780,
+      "events": {
+        "Sunday's Workout": {
+          "place": 26,
+          "time": "10:14.0",
+          "points": 614
+        },
+        "The Hill Run": {
+          "place": 24,
+          "time": "5:16.0",
+          "points": 316
+        },
+        "Workout A": {
+          "place": 3,
+          "time": "4:40.0",
+          "points": 280
+        },
+        "Workout B": {
+          "place": 21,
+          "time": "9:30.0",
+          "points": 570
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Trish Davis",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "68 in | 154 lb",
+      "total_points": 1788,
+      "events": {
+        "Sunday's Workout": {
+          "place": 20,
+          "time": "8:56.0",
+          "points": 536
+        },
+        "The Hill Run": {
+          "place": 27,
+          "time": "5:28.0",
+          "points": 328
+        },
+        "Workout A": {
+          "place": 21,
+          "time": "5:25.0",
+          "points": 325
+        },
+        "Workout B": {
+          "place": 25,
+          "time": "9:59.0",
+          "points": 599
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Rebecca Ballstaedt",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "66 in | 150 lb",
+      "total_points": 1803,
+      "events": {
+        "Sunday's Workout": {
+          "place": 33,
+          "time": "10:42.0",
+          "points": 642
+        },
+        "The Hill Run": {
+          "place": 11,
+          "time": "4:20.0",
+          "points": 260
+        },
+        "Workout A": {
+          "place": 13,
+          "time": "5:00.0",
+          "points": 300
+        },
+        "Workout B": {
+          "place": 27,
+          "time": "10:01.0",
+          "points": 601
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Amy Summers",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "",
+      "total_points": 1842,
+      "events": {
+        "Sunday's Workout": {
+          "place": 13,
+          "time": "7:52.0",
+          "points": 472
+        },
+        "The Hill Run": {
+          "place": 30,
+          "time": "6:00.0",
+          "points": 360
+        },
+        "Workout A": {
+          "place": 26,
+          "time": "5:41.0",
+          "points": 341
+        },
+        "Workout B": {
+          "place": 34,
+          "time": "11:09.0",
+          "points": 669
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Jeralee Anderson",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "64 in",
+      "total_points": 1881,
+      "events": {
+        "Sunday's Workout": {
+          "place": 23,
+          "time": "9:00.0",
+          "points": 540
+        },
+        "The Hill Run": {
+          "place": 33,
+          "time": "6:26.0",
+          "points": 386
+        },
+        "Workout A": {
+          "place": 27,
+          "time": "5:43.0",
+          "points": 343
+        },
+        "Workout B": {
+          "place": 29,
+          "time": "10:12.0",
+          "points": 612
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Aqueelah Tillman",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1975,
+      "events": {
+        "Sunday's Workout": {
+          "place": 36,
+          "time": "12:00.0",
+          "points": 720
+        },
+        "The Hill Run": {
+          "place": 34,
+          "time": "6:53.0",
+          "points": 413
+        },
+        "Workout A": {
+          "place": 1,
+          "time": "4:24.0",
+          "points": 264
+        },
+        "Workout B": {
+          "place": 24,
+          "time": "9:38.0",
+          "points": 578
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Crystal Mcreynolds",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "69 in | 152 lb",
+      "total_points": 1985,
+      "events": {
+        "Sunday's Workout": {
+          "place": 28,
+          "time": "10:16.0",
+          "points": 616
+        },
+        "The Hill Run": {
+          "place": 29,
+          "time": "5:57.0",
+          "points": 357
+        },
+        "Workout A": {
+          "place": 10,
+          "time": "4:54.0",
+          "points": 294
+        },
+        "Workout B": {
+          "place": 35,
+          "time": "11:58.0",
+          "points": 718
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Rachel Wong",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1995,
+      "events": {
+        "Sunday's Workout": {
+          "place": 30,
+          "time": "10:17.0",
+          "points": 617
+        },
+        "The Hill Run": {
+          "place": 32,
+          "time": "6:21.0",
+          "points": 381
+        },
+        "Workout A": {
+          "place": 32,
+          "time": "6:05.0",
+          "points": 365
+        },
+        "Workout B": {
+          "place": 31,
+          "time": "10:32.0",
+          "points": 632
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Kerri Wenke",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "",
+      "total_points": 2117,
+      "events": {
+        "Sunday's Workout": {
+          "place": 31,
+          "time": "10:40.0",
+          "points": 640
+        },
+        "The Hill Run": {
+          "place": 35,
+          "time": "7:13.0",
+          "points": 433
+        },
+        "Workout A": {
+          "place": 36,
+          "time": "6:46.0",
+          "points": 406
+        },
+        "Workout B": {
+          "place": 32,
+          "time": "10:38.0",
+          "points": 638
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Maria Corvin",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 44",
+      "height_weight": "60 in | 100 lb",
+      "total_points": 2251,
+      "events": {
+        "Sunday's Workout": {
+          "place": 20,
+          "time": "8:56.0",
+          "points": 536
+        },
+        "The Hill Run": {
+          "place": 36,
+          "time": "7:25.0",
+          "points": 445
+        },
+        "Workout A": {
+          "place": 35,
+          "time": "6:43.0",
+          "points": 403
+        },
+        "Workout B": {
+          "place": 36,
+          "time": "14:27.0",
+          "points": 867
+        }
+      }
+    }
+  ]
+}

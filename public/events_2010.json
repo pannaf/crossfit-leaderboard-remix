@@ -1,0 +1,109 @@
+{
+  "year": 2010,
+  "events": [
+    {
+      "name": "Amanda",
+      "details": [
+        "9-7-5",
+        "Muscle-ups",
+        "Squat Snatches (135/95 lb.)"
+      ],
+      "notes": [],
+      "description": "For time:",
+      "timeCap": ""
+    },
+    {
+      "name": "Cleans-Handstand Push-ups",
+      "details": [
+        "3 cleans (205/135 lb.)",
+        "4 handstand push-ups (Ring HSPU for men)",
+        "12-minute cap"
+      ],
+      "notes": [],
+      "description": "7 rounds for time of:",
+      "timeCap": ""
+    },
+    {
+      "name": "Deadlift-Pistol-Double-under",
+      "details": [
+        "7 deadlifts (315/205 lb.)",
+        "Sprint across court",
+        "14 pistols",
+        "21 double-unders",
+        "Sprint back"
+      ],
+      "notes": [],
+      "description": "As many rounds as possible in 7 minutes of:",
+      "timeCap": ""
+    },
+    {
+      "name": "Pyramid Double \"Helen\"",
+      "details": [
+        "Run 1,200 meters",
+        "63 kettlebell swings (1.5 pood)",
+        "36 pull-ups",
+        "Run 800 meters",
+        "42 kettlebell swings",
+        "24 pull-ups",
+        "Run 400 meters",
+        "21 kettlebell swings",
+        "12 pull-ups"
+      ],
+      "notes": [],
+      "description": "For time (22-min. cap):",
+      "timeCap": ""
+    },
+    {
+      "name": "Sandbag Move",
+      "details": [
+        "Move 600/370 lb. of sandbags down the stairs, across the stadium floor, up the wall and up the stairs."
+      ],
+      "notes": [],
+      "description": "For time:",
+      "timeCap": ""
+    },
+    {
+      "name": "Shoulder-to-Overhead",
+      "details": [
+        "1-rep-max Shoulder-to-Overhead"
+      ],
+      "notes": [],
+      "description": "Within 90 seconds of completing Pyramid Double Helen:",
+      "timeCap": ""
+    },
+    {
+      "name": "3 rounds for time of:",
+      "details": [
+        "30 push-ups with hand release",
+        "Over the wall",
+        "21 overhead squats (95/65 lb.)",
+        "7-minute cap"
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "3 rounds for time of:",
+      "details": [
+        "30 toes-to-bars",
+        "21 ground-to-overheads (95/65 lb.)",
+        "7-minute cap"
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "3 rounds for time of:",
+      "details": [
+        "5 burpee wall jumps",
+        "20-foot rope climbs (3 for men, 2 for women)",
+        "12-minute cap"
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    }
+  ]
+}

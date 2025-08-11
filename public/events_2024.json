@@ -1,0 +1,135 @@
+{
+  "year": 2024,
+  "events": [
+    {
+      "name": "Lake Day",
+      "description": "For time:",
+      "details": [
+        "3.5-mile run",
+        "800-meter swim"
+      ],
+      "timeCap": "Time cap: 20 min",
+      "notes": []
+    },
+    {
+      "name": "Midline Climb",
+      "description": "For time:",
+      "details": [
+        "50 deadlifts (155/225 lb)",
+        "3 rope climbs",
+        "30/50 ski-erg calories",
+        "3 rope climbs",
+        "50 GHD sit-ups",
+        "3 rope climbs",
+        "50 GHD sit-ups",
+        "3 rope climbs",
+        "30/50 ski-erg calories",
+        "3 rope climbs",
+        "50 deadlifts"
+      ],
+      "timeCap": "Time cap: 5 min (women) / 4 min (men)",
+      "notes": []
+    },
+    {
+      "name": "Firestorm",
+      "description": "3 rounds for time of:",
+      "details": [
+        "11/15 Echo-bike calories",
+        "11 burpees over barricade"
+      ],
+      "timeCap": "",
+      "notes": []
+    },
+    {
+      "name": "Track and Field",
+      "description": "For time:",
+      "details": [
+        "1,600-meter run",
+        "Then, at the 12-minute mark:",
+        "50-yard sprint",
+        "50-yard bag carry (70/100 lb)",
+        "75-yard sprint",
+        "75-yard bag carry",
+        "100-yard sprint"
+      ],
+      "timeCap": "Time cap 1: None (Part 2 begins at 12:00). Time cap 2: 3 min",
+      "notes": []
+    },
+    {
+      "name": "Chad",
+      "description": "For time:",
+      "details": [
+        "1,000 step-ups (35/45 lb)",
+        "*Completed as 250 trips"
+      ],
+      "timeCap": "Time cap: 67 min",
+      "notes": []
+    },
+    {
+      "name": "Clean Ladder",
+      "description": "For time:",
+      "details": [
+        "Round 1: 3-3-2-2-1 cleans",
+        "Round 2: 2-1-1-1 cleans",
+        "Round 3: 1-1-1 cleans",
+        "Round 1: 165/175/185/195/205 lb / 255/265/275/285/295 lb",
+        "Round 2: 205/215/225/230 lb / 295/305/315/325 lb",
+        "Round 3: 230/240/250 lb / 325/345/365 lb"
+      ],
+      "timeCap": "Time cap: 2 min",
+      "notes": []
+    },
+    {
+      "name": "Push Pull 2.0",
+      "description": "For time:",
+      "details": [
+        "45 handstand push-ups",
+        "80-foot sled pull from standing (110/180 lb)",
+        "30 strict handstand push-ups",
+        "80-foot sled pull seated from the platform",
+        "15 freestanding handstand push-ups"
+      ],
+      "timeCap": "Time cap: 10 min",
+      "notes": []
+    },
+    {
+      "name": "Dickies Triplet",
+      "description": "5 rounds for time:",
+      "details": [
+        "175-meter run",
+        "12 toes-to-bars",
+        "8 alternating dumbbell snatches (70/100 lb)"
+      ],
+      "timeCap": "Time cap: 11 min",
+      "notes": []
+    },
+    {
+      "name": "Final 2421",
+      "description": "For time:",
+      "details": [
+        "24 thrusters (65/95 lb)",
+        "24 chest-to-bar pull-ups",
+        "80-foot yoke carry (245/425 lb)",
+        "21 chest-to-bar pull-ups",
+        "21 thrusters"
+      ],
+      "timeCap": "Time cap: 5 min",
+      "notes": [
+        "Rest 2 minutes before Final 1815"
+      ]
+    },
+    {
+      "name": "Final 1815",
+      "description": "For time:",
+      "details": [
+        "18 thrusters (95/135 lb)",
+        "18 bar muscle-ups",
+        "80-foot yoke carry (345/525 lb)",
+        "15 bar muscle-ups",
+        "15 thrusters"
+      ],
+      "timeCap": "Time cap: 7 min",
+      "notes": []
+    }
+  ]
+}

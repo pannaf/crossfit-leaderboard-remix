@@ -1,0 +1,6756 @@
+{
+  "year": 2011,
+  "gender": "men",
+  "events": [
+    "Beach (100 Points)",
+    "Dog-Sled (100 Points)",
+    "Killer Kage (100 Points)",
+    "Rope-Clean (100 Points)",
+    "Skills 1 (100 Points)",
+    "Skills 2 (100 Points)",
+    "The End 1 (100 Points)",
+    "The End 2 (100 Points)",
+    "The End 3 (100 Points)",
+    "Triplet Sprint (100 Points)"
+  ],
+  "event_point_map": {
+    "Beach (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16,
+      "42": 15,
+      "43": 14,
+      "44": 13,
+      "45": 12,
+      "46": 11,
+      "47": 10,
+      "48": 9
+    },
+    "Dog-Sled (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "13": 61,
+      "14": 59,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "28": 31,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "42": 15,
+      "43": 14,
+      "45": 12,
+      "46": 11,
+      "47": 10
+    },
+    "Killer Kage (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "10": 67,
+      "11": 65,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16,
+      "42": 15,
+      "43": 14,
+      "44": 13,
+      "45": 12,
+      "46": 11,
+      "47": 10
+    },
+    "Rope-Clean (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "6": 75,
+      "8": 71,
+      "9": 69,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16,
+      "42": 15,
+      "43": 14,
+      "44": 13,
+      "45": 12,
+      "46": 11,
+      "47": 10
+    },
+    "Skills 1 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "27": 33,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "41": 16,
+      "42": 15,
+      "43": 14,
+      "44": 13,
+      "45": 12,
+      "46": 11,
+      "47": 10
+    },
+    "Skills 2 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "18": 51,
+      "19": 49,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22
+    },
+    "The End 1 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39
+    },
+    "The End 2 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63
+    },
+    "The End 3 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "5": 80,
+      "6": 75,
+      "9": 69,
+      "10": 67,
+      "12": 63
+    },
+    "Triplet Sprint (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63
+    }
+  },
+  "event_field_size": {
+    "Beach (100 Points)": 48,
+    "Dog-Sled (100 Points)": 47,
+    "Killer Kage (100 Points)": 47,
+    "Rope-Clean (100 Points)": 47,
+    "Skills 1 (100 Points)": 47,
+    "Skills 2 (100 Points)": 35,
+    "The End 1 (100 Points)": 24,
+    "The End 2 (100 Points)": 12,
+    "The End 3 (100 Points)": 12,
+    "Triplet Sprint (100 Points)": 12
+  },
+  "event_place_points": {
+    "Beach (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9
+    ],
+    "Dog-Sled (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      0,
+      73,
+      71,
+      69,
+      67,
+      65,
+      0,
+      61,
+      59,
+      0,
+      55,
+      53,
+      51,
+      49,
+      47,
+      0,
+      0,
+      41,
+      39,
+      37,
+      35,
+      0,
+      31,
+      0,
+      0,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      0,
+      15,
+      14,
+      0,
+      12,
+      11,
+      10
+    ],
+    "Killer Kage (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      0,
+      67,
+      65,
+      0,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      0,
+      33,
+      31,
+      29,
+      0,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      0,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10
+    ],
+    "Rope-Clean (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      0,
+      75,
+      0,
+      71,
+      69,
+      0,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      0,
+      47,
+      45,
+      43,
+      41,
+      39,
+      0,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      0,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10
+    ],
+    "Skills 1 (100 Points)": [
+      100,
+      95,
+      0,
+      85,
+      80,
+      75,
+      73,
+      0,
+      69,
+      67,
+      65,
+      0,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      0,
+      41,
+      39,
+      37,
+      0,
+      33,
+      0,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      0,
+      0,
+      0,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10
+    ],
+    "Skills 2 (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      0,
+      63,
+      61,
+      59,
+      57,
+      55,
+      0,
+      51,
+      49,
+      0,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22
+    ],
+    "The End 1 (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39
+    ],
+    "The End 2 (100 Points)": [
+      100,
+      95,
+      90,
+      0,
+      0,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63
+    ],
+    "The End 3 (100 Points)": [
+      100,
+      95,
+      0,
+      0,
+      80,
+      75,
+      0,
+      0,
+      69,
+      67,
+      0,
+      63
+    ],
+    "Triplet Sprint (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      0,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63
+    ]
+  },
+  "event_ordinals": {
+    "Beach (100 Points)": 1,
+    "Dog-Sled (100 Points)": 2,
+    "Killer Kage (100 Points)": 3,
+    "Rope-Clean (100 Points)": 4,
+    "Skills 1 (100 Points)": 5,
+    "Skills 2 (100 Points)": 6,
+    "The End 1 (100 Points)": 7,
+    "The End 2 (100 Points)": 8,
+    "The End 3 (100 Points)": 9,
+    "Triplet Sprint (100 Points)": 10
+  },
+  "event_finish_order": {
+    "Beach (100 Points)": [
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 1,
+        "points": 100,
+        "time": "33:21.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 2,
+        "points": 95,
+        "time": "34:41.0"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 3,
+        "points": 90,
+        "time": "37:19.0"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 4,
+        "points": 85,
+        "time": "37:42.0"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 5,
+        "points": 80,
+        "time": "37:57.0"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 6,
+        "points": 75,
+        "time": "38:13.0"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 7,
+        "points": 73,
+        "time": "38:50.0"
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 8,
+        "points": 71,
+        "time": "38:58.0"
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 9,
+        "points": 69,
+        "time": "39:04.0"
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 10,
+        "points": 67,
+        "time": "39:17.0"
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 11,
+        "points": 65,
+        "time": "39:31.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 12,
+        "points": 63,
+        "time": "39:32.0"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 13,
+        "points": 61,
+        "time": "39:34.0"
+      },
+      {
+        "name": "Jared Davis",
+        "place": 14,
+        "points": 59,
+        "time": "39:51.0"
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 15,
+        "points": 57,
+        "time": "39:58.0"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 16,
+        "points": 55,
+        "time": "40:08.0"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 17,
+        "points": 53,
+        "time": "40:19.0"
+      },
+      {
+        "name": "Daniel Tyminski",
+        "place": 18,
+        "points": 51,
+        "time": "40:42.0"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 19,
+        "points": 49,
+        "time": "40:43.0"
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 20,
+        "points": 47,
+        "time": "40:44.0"
+      },
+      {
+        "name": "Jason Cain",
+        "place": 21,
+        "points": 45,
+        "time": "40:45.0"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 22,
+        "points": 43,
+        "time": "40:47.0"
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 23,
+        "points": 41,
+        "time": "40:53.0"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 24,
+        "points": 39,
+        "time": "41:04.0"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 25,
+        "points": 37,
+        "time": "41:17.0"
+      },
+      {
+        "name": "Rich Froning",
+        "place": 26,
+        "points": 35,
+        "time": "41:33.0"
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 27,
+        "points": 33,
+        "time": "41:44.0"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 28,
+        "points": 31,
+        "time": "41:45.0"
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 29,
+        "points": 29,
+        "time": "41:47.0"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 30,
+        "points": 27,
+        "time": "42:32.0"
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 31,
+        "points": 26,
+        "time": "42:42.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 32,
+        "points": 25,
+        "time": "43:14.0"
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 33,
+        "points": 24,
+        "time": "43:23.0"
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 34,
+        "points": 23,
+        "time": "43:32.0"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 35,
+        "points": 22,
+        "time": "43:48.0"
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 36,
+        "points": 21,
+        "time": "44:16.0"
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 37,
+        "points": 20,
+        "time": "44:31.0"
+      },
+      {
+        "name": "Noah Pester",
+        "place": 38,
+        "points": 19,
+        "time": "44:51.0"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 39,
+        "points": 18,
+        "time": "44:54.0"
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 40,
+        "points": 17,
+        "time": "44:57.0"
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 41,
+        "points": 16,
+        "time": "45:00.0"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 42,
+        "points": 15,
+        "time": "45:37.0"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 43,
+        "points": 14,
+        "time": "46:46.0"
+      },
+      {
+        "name": "Nick Urankar",
+        "place": 44,
+        "points": 13,
+        "time": "47:22.0"
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 45,
+        "points": 12,
+        "time": "47:27.0"
+      },
+      {
+        "name": "Aja Barto",
+        "place": 46,
+        "points": 11,
+        "time": "48:13.0"
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 47,
+        "points": 10,
+        "time": "50:25.0"
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 48,
+        "points": 9,
+        "time": "52:02.0"
+      }
+    ],
+    "Dog-Sled (100 Points)": [
+      {
+        "name": "Mikko Salo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rich Froning",
+        "place": 1,
+        "points": 100,
+        "time": "100 pt"
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 2,
+        "points": 95,
+        "time": "95 pt"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 3,
+        "points": 90,
+        "time": "90 pt"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 4,
+        "points": 85,
+        "time": "85 pt"
+      },
+      {
+        "name": "Jared Davis",
+        "place": 5,
+        "points": 80,
+        "time": "80 pt"
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 5,
+        "points": 80,
+        "time": "80 pt"
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 7,
+        "points": 73,
+        "time": "73 pt"
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 8,
+        "points": 71,
+        "time": "71 pt"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 9,
+        "points": 69,
+        "time": "69 pt"
+      },
+      {
+        "name": "Nick Urankar",
+        "place": 10,
+        "points": 67,
+        "time": "67 pt"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 11,
+        "points": 65,
+        "time": "65 pt"
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 11,
+        "points": 65,
+        "time": "65 pt"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 13,
+        "points": 61,
+        "time": "61 pt"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 14,
+        "points": 59,
+        "time": "59 pt"
+      },
+      {
+        "name": "Aja Barto",
+        "place": 14,
+        "points": 59,
+        "time": "59 pt"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 16,
+        "points": 55,
+        "time": "55 pt"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 17,
+        "points": 53,
+        "time": "53 pt"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 18,
+        "points": 51,
+        "time": "51 pt"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 19,
+        "points": 49,
+        "time": "49 pt"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 20,
+        "points": 47,
+        "time": "47 pt"
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 20,
+        "points": 47,
+        "time": "47 pt"
+      },
+      {
+        "name": "Noah Pester",
+        "place": 20,
+        "points": 47,
+        "time": "47 pt"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 23,
+        "points": 41,
+        "time": "41 pt"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 24,
+        "points": 39,
+        "time": "39 pt"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 25,
+        "points": 37,
+        "time": "37 pt"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 26,
+        "points": 35,
+        "time": "35 pt"
+      },
+      {
+        "name": "Jason Cain",
+        "place": 26,
+        "points": 35,
+        "time": "35 pt"
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 28,
+        "points": 31,
+        "time": "31 pt"
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 28,
+        "points": 31,
+        "time": "31 pt"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 28,
+        "points": 31,
+        "time": "31 pt"
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 31,
+        "points": 26,
+        "time": "26 pt"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 32,
+        "points": 25,
+        "time": "25 pt"
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 33,
+        "points": 24,
+        "time": "24 pt"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 34,
+        "points": 23,
+        "time": "23 pt"
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 35,
+        "points": 22,
+        "time": "22 pt"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 36,
+        "points": 21,
+        "time": "21 pt"
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 37,
+        "points": 20,
+        "time": "20 pt"
+      },
+      {
+        "name": "Daniel Tyminski",
+        "place": 38,
+        "points": 19,
+        "time": "19 pt"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 39,
+        "points": 18,
+        "time": "18 pt"
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 40,
+        "points": 17,
+        "time": "17 pt"
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 40,
+        "points": 17,
+        "time": "17 pt"
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 42,
+        "points": 15,
+        "time": "15 pt"
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 43,
+        "points": 14,
+        "time": "14 pt"
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 43,
+        "points": 14,
+        "time": "14 pt"
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 45,
+        "points": 12,
+        "time": "12 pt"
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 46,
+        "points": 11,
+        "time": "11 pt"
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 47,
+        "points": 10,
+        "time": "10 pt"
+      }
+    ],
+    "Killer Kage (100 Points)": [
+      {
+        "name": "Mikko Salo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rich Froning",
+        "place": 1,
+        "points": 100,
+        "time": "4:57.0"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 2,
+        "points": 95,
+        "time": "5:00.0"
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 3,
+        "points": 90,
+        "time": "5:03.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 4,
+        "points": 85,
+        "time": "5:24.0"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 5,
+        "points": 80,
+        "time": "5:26.0"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 6,
+        "points": 75,
+        "time": "5:27.0"
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 7,
+        "points": 73,
+        "time": "5:30.0"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 8,
+        "points": 71,
+        "time": "5:42.0"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 8,
+        "points": 71,
+        "time": "5:42.0"
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 10,
+        "points": 67,
+        "time": "5:44.0"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 11,
+        "points": 65,
+        "time": "5:45.0"
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 11,
+        "points": 65,
+        "time": "5:45.0"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 13,
+        "points": 61,
+        "time": "5:50.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 14,
+        "points": 59,
+        "time": "6:02.0"
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 15,
+        "points": 57,
+        "time": "6:03.0"
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 16,
+        "points": 55,
+        "time": "6:12.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 17,
+        "points": 53,
+        "time": "6:14.0"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 18,
+        "points": 51,
+        "time": "6:23.0"
+      },
+      {
+        "name": "Aja Barto",
+        "place": 19,
+        "points": 49,
+        "time": "6:24.0"
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 20,
+        "points": 47,
+        "time": "6:32.0"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 21,
+        "points": 45,
+        "time": "6:35.0"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 22,
+        "points": 43,
+        "time": "6:37.0"
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 23,
+        "points": 41,
+        "time": "6:48.0"
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 24,
+        "points": 39,
+        "time": "6:50.0"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 25,
+        "points": 37,
+        "time": "6:52.0"
+      },
+      {
+        "name": "Nick Urankar",
+        "place": 25,
+        "points": 37,
+        "time": "6:52.0"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 27,
+        "points": 33,
+        "time": "6:53.0"
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 28,
+        "points": 31,
+        "time": "6:58.0"
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 29,
+        "points": 29,
+        "time": "7:07.0"
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 29,
+        "points": 29,
+        "time": "7:07.0"
+      },
+      {
+        "name": "Noah Pester",
+        "place": 31,
+        "points": 26,
+        "time": "7:08.0"
+      },
+      {
+        "name": "Daniel Tyminski",
+        "place": 32,
+        "points": 25,
+        "time": "7:11.0"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 33,
+        "points": 24,
+        "time": "7:22.0"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 34,
+        "points": 23,
+        "time": "7:28.0"
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 35,
+        "points": 22,
+        "time": "7:34.0"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 36,
+        "points": 21,
+        "time": "7:46.0"
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 36,
+        "points": 21,
+        "time": "7:46.0"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 38,
+        "points": 19,
+        "time": "7:52.0"
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 39,
+        "points": 18,
+        "time": "8:13.0"
+      },
+      {
+        "name": "Jared Davis",
+        "place": 40,
+        "points": 17,
+        "time": "8:24.0"
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 41,
+        "points": 16,
+        "time": "9:00.0"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 42,
+        "points": 15,
+        "time": "9:10.0"
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 43,
+        "points": 14,
+        "time": "9:27.0"
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 44,
+        "points": 13,
+        "time": "9:37.0"
+      },
+      {
+        "name": "Jason Cain",
+        "place": 45,
+        "points": 12,
+        "time": "9:47.0"
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 46,
+        "points": 11,
+        "time": "10:29.0"
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 47,
+        "points": 10,
+        "time": "12:01.0"
+      }
+    ],
+    "Rope-Clean (100 Points)": [
+      {
+        "name": "Mikko Salo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 1,
+        "points": 100,
+        "time": "7:14.0"
+      },
+      {
+        "name": "Rich Froning",
+        "place": 2,
+        "points": 95,
+        "time": "7:23.0"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 3,
+        "points": 90,
+        "time": "7:25.0"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 4,
+        "points": 85,
+        "time": "7:28.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 4,
+        "points": 85,
+        "time": "7:28.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 6,
+        "points": 75,
+        "time": "7:40.0"
+      },
+      {
+        "name": "Daniel Tyminski",
+        "place": 6,
+        "points": 75,
+        "time": "7:40.0"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 8,
+        "points": 71,
+        "time": "7:49.0"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 9,
+        "points": 69,
+        "time": "7:55.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 9,
+        "points": 69,
+        "time": "7:55.0"
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 11,
+        "points": 65,
+        "time": "8:08.0"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 12,
+        "points": 63,
+        "time": "8:11.0"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 13,
+        "points": 61,
+        "time": "8:15.0"
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 14,
+        "points": 59,
+        "time": "8:17.0"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 15,
+        "points": 57,
+        "time": "8:19.0"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 16,
+        "points": 55,
+        "time": "8:26.0"
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 17,
+        "points": 53,
+        "time": "8:27.0"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 18,
+        "points": 51,
+        "time": "8:30.0"
+      },
+      {
+        "name": "Jared Davis",
+        "place": 18,
+        "points": 51,
+        "time": "8:30.0"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 20,
+        "points": 47,
+        "time": "8:42.0"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 21,
+        "points": 45,
+        "time": "8:43.0"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 22,
+        "points": 43,
+        "time": "8:44.0"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 23,
+        "points": 41,
+        "time": "8:46.0"
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 24,
+        "points": 39,
+        "time": "8:47.0"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 24,
+        "points": 39,
+        "time": "8:47.0"
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 26,
+        "points": 35,
+        "time": "8:48.0"
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 27,
+        "points": 33,
+        "time": "8:49.0"
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 28,
+        "points": 31,
+        "time": "8:56.0"
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 29,
+        "points": 29,
+        "time": "8:58.0"
+      },
+      {
+        "name": "Jason Cain",
+        "place": 30,
+        "points": 27,
+        "time": "9:01.0"
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 31,
+        "points": 26,
+        "time": "9:05.0"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 31,
+        "points": 26,
+        "time": "9:05.0"
+      },
+      {
+        "name": "Aja Barto",
+        "place": 33,
+        "points": 24,
+        "time": "9:15.0"
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 34,
+        "points": 23,
+        "time": "9:17.0"
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 35,
+        "points": 22,
+        "time": "9:20.0"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 36,
+        "points": 21,
+        "time": "9:30.0"
+      },
+      {
+        "name": "Nick Urankar",
+        "place": 37,
+        "points": 20,
+        "time": "9:31.0"
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 38,
+        "points": 19,
+        "time": "9:39.0"
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 39,
+        "points": 18,
+        "time": "9:47.0"
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 40,
+        "points": 17,
+        "time": "10:26.0"
+      },
+      {
+        "name": "Noah Pester",
+        "place": 41,
+        "points": 16,
+        "time": "10:36.0"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 42,
+        "points": 15,
+        "time": "10:49.0"
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 43,
+        "points": 14,
+        "time": "11:02.0"
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 44,
+        "points": 13,
+        "time": "11:03.0"
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 45,
+        "points": 12,
+        "time": "11:21.0"
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 46,
+        "points": 11,
+        "time": "11:31.0"
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 47,
+        "points": 10,
+        "time": "11:58.0"
+      }
+    ],
+    "Skills 1 (100 Points)": [
+      {
+        "name": "Mikko Salo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matt Chan",
+        "place": 1,
+        "points": 100,
+        "time": "100 pt"
+      },
+      {
+        "name": "Rich Froning",
+        "place": 2,
+        "points": 95,
+        "time": "95 pt"
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 2,
+        "points": 95,
+        "time": "95 pt"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 4,
+        "points": 85,
+        "time": "85 pt"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 5,
+        "points": 80,
+        "time": "80 pt"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 6,
+        "points": 75,
+        "time": "75 pt"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 7,
+        "points": 73,
+        "time": "73 pt"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 7,
+        "points": 73,
+        "time": "73 pt"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 9,
+        "points": 69,
+        "time": "69 pt"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 10,
+        "points": 67,
+        "time": "67 pt"
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 11,
+        "points": 65,
+        "time": "65 pt"
+      },
+      {
+        "name": "Aja Barto",
+        "place": 11,
+        "points": 65,
+        "time": "65 pt"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 13,
+        "points": 61,
+        "time": "61 pt"
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 14,
+        "points": 59,
+        "time": "59 pt"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 15,
+        "points": 57,
+        "time": "57 pt"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 16,
+        "points": 55,
+        "time": "55 pt"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 17,
+        "points": 53,
+        "time": "53 pt"
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 18,
+        "points": 51,
+        "time": "51 pt"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 19,
+        "points": 49,
+        "time": "49 pt"
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 20,
+        "points": 47,
+        "time": "47 pt"
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 21,
+        "points": 45,
+        "time": "45 pt"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 21,
+        "points": 45,
+        "time": "45 pt"
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 23,
+        "points": 41,
+        "time": "41 pt"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 24,
+        "points": 39,
+        "time": "39 pt"
+      },
+      {
+        "name": "Daniel Tyminski",
+        "place": 25,
+        "points": 37,
+        "time": "37 pt"
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 25,
+        "points": 37,
+        "time": "37 pt"
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 27,
+        "points": 33,
+        "time": "33 pt"
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 27,
+        "points": 33,
+        "time": "33 pt"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 29,
+        "points": 29,
+        "time": "29 pt"
+      },
+      {
+        "name": "Jared Davis",
+        "place": 30,
+        "points": 27,
+        "time": "27 pt"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 31,
+        "points": 26,
+        "time": "26 pt"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 32,
+        "points": 25,
+        "time": "25 pt"
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 33,
+        "points": 24,
+        "time": "24 pt"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 34,
+        "points": 23,
+        "time": "23 pt"
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 35,
+        "points": 22,
+        "time": "22 pt"
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 36,
+        "points": 21,
+        "time": "21 pt"
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 37,
+        "points": 20,
+        "time": "20 pt"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 37,
+        "points": 20,
+        "time": "20 pt"
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 37,
+        "points": 20,
+        "time": "20 pt"
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 37,
+        "points": 20,
+        "time": "20 pt"
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 41,
+        "points": 16,
+        "time": "16 pt"
+      },
+      {
+        "name": "Noah Pester",
+        "place": 42,
+        "points": 15,
+        "time": "15 pt"
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 43,
+        "points": 14,
+        "time": "14 pt"
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 44,
+        "points": 13,
+        "time": "13 pt"
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 45,
+        "points": 12,
+        "time": "12 pt"
+      },
+      {
+        "name": "Jason Cain",
+        "place": 46,
+        "points": 11,
+        "time": "11 pt"
+      },
+      {
+        "name": "Nick Urankar",
+        "place": 47,
+        "points": 10,
+        "time": "10 pt"
+      }
+    ],
+    "Skills 2 (100 Points)": [
+      {
+        "name": "Nick Urankar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Cain",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Noah Pester",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 1,
+        "points": 100,
+        "time": "6:24.0"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 2,
+        "points": 95,
+        "time": "6:31.0"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 3,
+        "points": 90,
+        "time": "6:35.0"
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 4,
+        "points": 85,
+        "time": "6:36.0"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 5,
+        "points": 80,
+        "time": "6:37.0"
+      },
+      {
+        "name": "Rich Froning",
+        "place": 6,
+        "points": 75,
+        "time": "6:43.0"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 7,
+        "points": 73,
+        "time": "6:48.0"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 8,
+        "points": 71,
+        "time": "6:51.0"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 9,
+        "points": 69,
+        "time": "6:53.0"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 10,
+        "points": 67,
+        "time": "6:54.0"
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 10,
+        "points": 67,
+        "time": "6:54.0"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 12,
+        "points": 63,
+        "time": "6:57.0"
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 13,
+        "points": 61,
+        "time": "6:58.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 14,
+        "points": 59,
+        "time": "6:59.0"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 15,
+        "points": 57,
+        "time": "7:05.0"
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 16,
+        "points": 55,
+        "time": "7:07.0"
+      },
+      {
+        "name": "Daniel Tyminski",
+        "place": 16,
+        "points": 55,
+        "time": "7:07.0"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 18,
+        "points": 51,
+        "time": "7:09.0"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 19,
+        "points": 49,
+        "time": "7:12.0"
+      },
+      {
+        "name": "Jared Davis",
+        "place": 19,
+        "points": 49,
+        "time": "7:12.0"
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 21,
+        "points": 45,
+        "time": "7:35.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 22,
+        "points": 43,
+        "time": "7:41.0"
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 23,
+        "points": 41,
+        "time": "7:42.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 24,
+        "points": 39,
+        "time": "7:57.0"
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 25,
+        "points": 37,
+        "time": "8:00.0"
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 26,
+        "points": 35,
+        "time": "8:06.0"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 27,
+        "points": 33,
+        "time": "8:07.0"
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 28,
+        "points": 31,
+        "time": "8:09.0"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 29,
+        "points": 29,
+        "time": "8:14.0"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 30,
+        "points": 27,
+        "time": "8:28.0"
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 31,
+        "points": 26,
+        "time": "8:44.0"
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 32,
+        "points": 25,
+        "time": "8:55.0"
+      },
+      {
+        "name": "Aja Barto",
+        "place": 33,
+        "points": 24,
+        "time": "9:27.0"
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 34,
+        "points": 23,
+        "time": "11:23.0"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 35,
+        "points": 22,
+        "time": "12:14.0"
+      }
+    ],
+    "The End 1 (100 Points)": [
+      {
+        "name": "Daniel Tyminski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aja Barto",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Forte",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Urankar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Cain",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Noah Pester",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 1,
+        "points": 100,
+        "time": "4:58.0"
+      },
+      {
+        "name": "Rich Froning",
+        "place": 2,
+        "points": 95,
+        "time": "5:34.0"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 3,
+        "points": 90,
+        "time": "5:53.0"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 4,
+        "points": 85,
+        "time": "5:56.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 5,
+        "points": 80,
+        "time": "6:00.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 6,
+        "points": 75,
+        "time": "6:12.0"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 7,
+        "points": 73,
+        "time": "6:15.0"
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 8,
+        "points": 71,
+        "time": "6:20.0"
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 9,
+        "points": 69,
+        "time": "6:24.0"
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 10,
+        "points": 67,
+        "time": "6:39.0"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 11,
+        "points": 65,
+        "time": "6:44.0"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 12,
+        "points": 63,
+        "time": "7:06.0"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 13,
+        "points": 61,
+        "time": "7:07.0"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 14,
+        "points": 59,
+        "time": "7:57.0"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 15,
+        "points": 57,
+        "time": "8:03.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 16,
+        "points": 55,
+        "time": "8:04.0"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 17,
+        "points": 53,
+        "time": "8:14.0"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 18,
+        "points": 51,
+        "time": "8:18.0"
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 19,
+        "points": 49,
+        "time": "8:33.0"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 20,
+        "points": 47,
+        "time": "8:54.0"
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 21,
+        "points": 45,
+        "time": "9:37.0"
+      },
+      {
+        "name": "Jared Davis",
+        "place": 22,
+        "points": 43,
+        "time": "9:49.0"
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 23,
+        "points": 41,
+        "time": "9:51.0"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 24,
+        "points": 39,
+        "time": "12:43.0"
+      }
+    ],
+    "The End 2 (100 Points)": [
+      {
+        "name": "Patrick Burke",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jared Davis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Daniel Tyminski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aja Barto",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Forte",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Urankar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Cain",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Noah Pester",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 1,
+        "points": 100,
+        "time": "104 rep"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 2,
+        "points": 95,
+        "time": "96 rep"
+      },
+      {
+        "name": "Rich Froning",
+        "place": 3,
+        "points": 90,
+        "time": "94 rep"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 3,
+        "points": 90,
+        "time": "94 rep"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 3,
+        "points": 90,
+        "time": "94 rep"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 6,
+        "points": 75,
+        "time": "92 rep"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 7,
+        "points": 73,
+        "time": "89 rep"
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 8,
+        "points": 71,
+        "time": "83 rep"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 9,
+        "points": 69,
+        "time": "80 rep"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 10,
+        "points": 67,
+        "time": "78 rep"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 11,
+        "points": 65,
+        "time": "73 rep"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 12,
+        "points": 63,
+        "time": "70 rep"
+      }
+    ],
+    "The End 3 (100 Points)": [
+      {
+        "name": "Patrick Burke",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jared Davis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Daniel Tyminski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aja Barto",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Forte",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Urankar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Cain",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Noah Pester",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rich Froning",
+        "place": 1,
+        "points": 100,
+        "time": "143 rep"
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 2,
+        "points": 95,
+        "time": "137 rep"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 2,
+        "points": 95,
+        "time": "137 rep"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 2,
+        "points": 95,
+        "time": "137 rep"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 5,
+        "points": 80,
+        "time": "135 rep"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 6,
+        "points": 75,
+        "time": "130 rep"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 6,
+        "points": 75,
+        "time": "130 rep"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 6,
+        "points": 75,
+        "time": "130 rep"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 9,
+        "points": 69,
+        "time": "127 rep"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 10,
+        "points": 67,
+        "time": "123 rep"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 10,
+        "points": 67,
+        "time": "123 rep"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 12,
+        "points": 63,
+        "time": "60 rep"
+      }
+    ],
+    "Triplet Sprint (100 Points)": [
+      {
+        "name": "Patrick Burke",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nate Schrader",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joseph Weigel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chase Daniels",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tuomas Vainio",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Stoneberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jared Davis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Armand Mccormick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Daniel Tyminski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lucas Parker",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aja Barto",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jesse Disch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Forte",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Albert-dominic Larouche",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Aronpää",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Zeph Littleton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Urankar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Phillip Kniep",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Cain",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Noah Pester",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonathan Pera",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elvar Þór Karlsson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Daniel Hershey",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matthew Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Meredith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Andy Lewis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 1,
+        "points": 100,
+        "time": "11:12.0"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 2,
+        "points": 95,
+        "time": "11:24.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 3,
+        "points": 90,
+        "time": "11:32.0"
+      },
+      {
+        "name": "Joshua Bridges",
+        "place": 4,
+        "points": 85,
+        "time": "12:09.0"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 4,
+        "points": 85,
+        "time": "12:09.0"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 6,
+        "points": 75,
+        "time": "12:15.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 7,
+        "points": 73,
+        "time": "13:05.0"
+      },
+      {
+        "name": "Rich Froning",
+        "place": 8,
+        "points": 71,
+        "time": "14:10.0"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 9,
+        "points": 69,
+        "time": "14:17.0"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 10,
+        "points": 67,
+        "time": "14:32.0"
+      },
+      {
+        "name": "Dan Bailey",
+        "place": 11,
+        "points": 65,
+        "time": "15:10.0"
+      },
+      {
+        "name": "Zach Forrest",
+        "place": 12,
+        "points": 63,
+        "time": "15:33.0"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Rich Froning",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "69 in | 194 lb",
+      "total_points": 856,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 26,
+          "time": "41:33.0",
+          "points": 35
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 1,
+          "time": "100 pt",
+          "points": 100
+        },
+        "Killer Kage (100 Points)": {
+          "place": 1,
+          "time": "4:57.0",
+          "points": 100
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 2,
+          "time": "7:23.0",
+          "points": 95
+        },
+        "Skills 1 (100 Points)": {
+          "place": 2,
+          "time": "95 pt",
+          "points": 95
+        },
+        "Skills 2 (100 Points)": {
+          "place": 6,
+          "time": "6:43.0",
+          "points": 75
+        },
+        "The End 1 (100 Points)": {
+          "place": 2,
+          "time": "5:34.0",
+          "points": 95
+        },
+        "The End 2 (100 Points)": {
+          "place": 3,
+          "time": "94 rep",
+          "points": 90
+        },
+        "The End 3 (100 Points)": {
+          "place": 1,
+          "time": "143 rep",
+          "points": 100
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 8,
+          "time": "14:10.0",
+          "points": 71
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Joshua Bridges",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "71 in | 215 lb",
+      "total_points": 763,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 1,
+          "time": "33:21.0",
+          "points": 100
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 28,
+          "time": "31 pt",
+          "points": 31
+        },
+        "Killer Kage (100 Points)": {
+          "place": 16,
+          "time": "6:12.0",
+          "points": 55
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 1,
+          "time": "7:14.0",
+          "points": 100
+        },
+        "Skills 1 (100 Points)": {
+          "place": 23,
+          "time": "41 pt",
+          "points": 41
+        },
+        "Skills 2 (100 Points)": {
+          "place": 4,
+          "time": "6:36.0",
+          "points": 85
+        },
+        "The End 1 (100 Points)": {
+          "place": 1,
+          "time": "4:58.0",
+          "points": 100
+        },
+        "The End 2 (100 Points)": {
+          "place": 8,
+          "time": "83 rep",
+          "points": 71
+        },
+        "The End 3 (100 Points)": {
+          "place": 2,
+          "time": "137 rep",
+          "points": 95
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 4,
+          "time": "12:09.0",
+          "points": 85
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Ben Smith",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 21",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 738,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 16,
+          "time": "40:08.0",
+          "points": 55
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 3,
+          "time": "90 pt",
+          "points": 90
+        },
+        "Killer Kage (100 Points)": {
+          "place": 2,
+          "time": "5:00.0",
+          "points": 95
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 12,
+          "time": "8:11.0",
+          "points": 63
+        },
+        "Skills 1 (100 Points)": {
+          "place": 10,
+          "time": "67 pt",
+          "points": 67
+        },
+        "Skills 2 (100 Points)": {
+          "place": 19,
+          "time": "7:12.0",
+          "points": 49
+        },
+        "The End 1 (100 Points)": {
+          "place": 3,
+          "time": "5:53.0",
+          "points": 90
+        },
+        "The End 2 (100 Points)": {
+          "place": 11,
+          "time": "73 rep",
+          "points": 65
+        },
+        "The End 3 (100 Points)": {
+          "place": 9,
+          "time": "127 rep",
+          "points": 69
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 2,
+          "time": "11:24.0",
+          "points": 95
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Graham Holmberg",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "71 in | 190 lb",
+      "total_points": 717,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 28,
+          "time": "41:45.0",
+          "points": 31
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 19,
+          "time": "49 pt",
+          "points": 49
+        },
+        "Killer Kage (100 Points)": {
+          "place": 8,
+          "time": "5:42.0",
+          "points": 71
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 9,
+          "time": "7:55.0",
+          "points": 69
+        },
+        "Skills 1 (100 Points)": {
+          "place": 13,
+          "time": "61 pt",
+          "points": 61
+        },
+        "Skills 2 (100 Points)": {
+          "place": 2,
+          "time": "6:31.0",
+          "points": 95
+        },
+        "The End 1 (100 Points)": {
+          "place": 13,
+          "time": "7:07.0",
+          "points": 61
+        },
+        "The End 2 (100 Points)": {
+          "place": 1,
+          "time": "104 rep",
+          "points": 100
+        },
+        "The End 3 (100 Points)": {
+          "place": 2,
+          "time": "137 rep",
+          "points": 95
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 4,
+          "time": "12:09.0",
+          "points": 85
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Blair Morrison",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "72 in | 190 lb",
+      "total_points": 708,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 5,
+          "time": "37:57.0",
+          "points": 80
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 18,
+          "time": "51 pt",
+          "points": 51
+        },
+        "Killer Kage (100 Points)": {
+          "place": 8,
+          "time": "5:42.0",
+          "points": 71
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 8,
+          "time": "7:49.0",
+          "points": 71
+        },
+        "Skills 1 (100 Points)": {
+          "place": 4,
+          "time": "85 pt",
+          "points": 85
+        },
+        "Skills 2 (100 Points)": {
+          "place": 18,
+          "time": "7:09.0",
+          "points": 51
+        },
+        "The End 1 (100 Points)": {
+          "place": 15,
+          "time": "8:03.0",
+          "points": 57
+        },
+        "The End 2 (100 Points)": {
+          "place": 2,
+          "time": "96 rep",
+          "points": 95
+        },
+        "The End 3 (100 Points)": {
+          "place": 5,
+          "time": "135 rep",
+          "points": 80
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 10,
+          "time": "14:32.0",
+          "points": 67
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Dan Bailey",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "67 in | 180 lb",
+      "total_points": 696,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 4,
+          "time": "37:42.0",
+          "points": 85
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 13,
+          "time": "61 pt",
+          "points": 61
+        },
+        "Killer Kage (100 Points)": {
+          "place": 27,
+          "time": "6:53.0",
+          "points": 33
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 4,
+          "time": "7:28.0",
+          "points": 85
+        },
+        "Skills 1 (100 Points)": {
+          "place": 17,
+          "time": "53 pt",
+          "points": 53
+        },
+        "Skills 2 (100 Points)": {
+          "place": 8,
+          "time": "6:51.0",
+          "points": 71
+        },
+        "The End 1 (100 Points)": {
+          "place": 7,
+          "time": "6:15.0",
+          "points": 73
+        },
+        "The End 2 (100 Points)": {
+          "place": 6,
+          "time": "92 rep",
+          "points": 75
+        },
+        "The End 3 (100 Points)": {
+          "place": 2,
+          "time": "137 rep",
+          "points": 95
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 11,
+          "time": "15:10.0",
+          "points": 65
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Jason Khalipa",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "69 in | 210 lb",
+      "total_points": 694,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 12,
+          "time": "39:32.0",
+          "points": 63
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 16,
+          "time": "55 pt",
+          "points": 55
+        },
+        "Killer Kage (100 Points)": {
+          "place": 17,
+          "time": "6:14.0",
+          "points": 53
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 4,
+          "time": "7:28.0",
+          "points": 85
+        },
+        "Skills 1 (100 Points)": {
+          "place": 7,
+          "time": "73 pt",
+          "points": 73
+        },
+        "Skills 2 (100 Points)": {
+          "place": 22,
+          "time": "7:41.0",
+          "points": 43
+        },
+        "The End 1 (100 Points)": {
+          "place": 6,
+          "time": "6:12.0",
+          "points": 75
+        },
+        "The End 2 (100 Points)": {
+          "place": 3,
+          "time": "94 rep",
+          "points": 90
+        },
+        "The End 3 (100 Points)": {
+          "place": 10,
+          "time": "123 rep",
+          "points": 67
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 3,
+          "time": "11:32.0",
+          "points": 90
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Patrick Barber",
+      "country": "New Zealand",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "67 in | 175 lb",
+      "total_points": 678,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 35,
+          "time": "43:48.0",
+          "points": 22
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 4,
+          "time": "85 pt",
+          "points": 85
+        },
+        "Killer Kage (100 Points)": {
+          "place": 5,
+          "time": "5:26.0",
+          "points": 80
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 23,
+          "time": "8:46.0",
+          "points": 41
+        },
+        "Skills 1 (100 Points)": {
+          "place": 16,
+          "time": "55 pt",
+          "points": 55
+        },
+        "Skills 2 (100 Points)": {
+          "place": 5,
+          "time": "6:37.0",
+          "points": 80
+        },
+        "The End 1 (100 Points)": {
+          "place": 4,
+          "time": "5:56.0",
+          "points": 85
+        },
+        "The End 2 (100 Points)": {
+          "place": 10,
+          "time": "78 rep",
+          "points": 67
+        },
+        "The End 3 (100 Points)": {
+          "place": 12,
+          "time": "60 rep",
+          "points": 63
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 1,
+          "time": "11:12.0",
+          "points": 100
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Spencer Hendel",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "74 in | 215 lb",
+      "total_points": 675,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 19,
+          "time": "40:43.0",
+          "points": 49
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 9,
+          "time": "69 pt",
+          "points": 69
+        },
+        "Killer Kage (100 Points)": {
+          "place": 25,
+          "time": "6:52.0",
+          "points": 37
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 13,
+          "time": "8:15.0",
+          "points": 61
+        },
+        "Skills 1 (100 Points)": {
+          "place": 7,
+          "time": "73 pt",
+          "points": 73
+        },
+        "Skills 2 (100 Points)": {
+          "place": 1,
+          "time": "6:24.0",
+          "points": 100
+        },
+        "The End 1 (100 Points)": {
+          "place": 12,
+          "time": "7:06.0",
+          "points": 63
+        },
+        "The End 2 (100 Points)": {
+          "place": 7,
+          "time": "89 rep",
+          "points": 73
+        },
+        "The End 3 (100 Points)": {
+          "place": 6,
+          "time": "130 rep",
+          "points": 75
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 6,
+          "time": "12:15.0",
+          "points": 75
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Matt Chan",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "69 in | 217 lb",
+      "total_points": 670,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 17,
+          "time": "40:19.0",
+          "points": 53
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 20,
+          "time": "47 pt",
+          "points": 47
+        },
+        "Killer Kage (100 Points)": {
+          "place": 11,
+          "time": "5:45.0",
+          "points": 65
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 15,
+          "time": "8:19.0",
+          "points": 57
+        },
+        "Skills 1 (100 Points)": {
+          "place": 1,
+          "time": "100 pt",
+          "points": 100
+        },
+        "Skills 2 (100 Points)": {
+          "place": 10,
+          "time": "6:54.0",
+          "points": 67
+        },
+        "The End 1 (100 Points)": {
+          "place": 20,
+          "time": "8:54.0",
+          "points": 47
+        },
+        "The End 2 (100 Points)": {
+          "place": 3,
+          "time": "94 rep",
+          "points": 90
+        },
+        "The End 3 (100 Points)": {
+          "place": 6,
+          "time": "130 rep",
+          "points": 75
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 9,
+          "time": "14:17.0",
+          "points": 69
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Chris Spealler",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "65 in | 143 lb",
+      "total_points": 651,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 2,
+          "time": "34:41.0",
+          "points": 95
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 26,
+          "time": "35 pt",
+          "points": 35
+        },
+        "Killer Kage (100 Points)": {
+          "place": 4,
+          "time": "5:24.0",
+          "points": 85
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 6,
+          "time": "7:40.0",
+          "points": 75
+        },
+        "Skills 1 (100 Points)": {
+          "place": 24,
+          "time": "39 pt",
+          "points": 39
+        },
+        "Skills 2 (100 Points)": {
+          "place": 24,
+          "time": "7:57.0",
+          "points": 39
+        },
+        "The End 1 (100 Points)": {
+          "place": 5,
+          "time": "6:00.0",
+          "points": 80
+        },
+        "The End 2 (100 Points)": {
+          "place": 12,
+          "time": "70 rep",
+          "points": 63
+        },
+        "The End 3 (100 Points)": {
+          "place": 10,
+          "time": "123 rep",
+          "points": 67
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 7,
+          "time": "13:05.0",
+          "points": 73
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Zach Forrest",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "67 in | 180 lb",
+      "total_points": 625,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 3,
+          "time": "37:19.0",
+          "points": 90
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 17,
+          "time": "53 pt",
+          "points": 53
+        },
+        "Killer Kage (100 Points)": {
+          "place": 6,
+          "time": "5:27.0",
+          "points": 75
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 18,
+          "time": "8:30.0",
+          "points": 51
+        },
+        "Skills 1 (100 Points)": {
+          "place": 29,
+          "time": "29 pt",
+          "points": 29
+        },
+        "Skills 2 (100 Points)": {
+          "place": 9,
+          "time": "6:53.0",
+          "points": 69
+        },
+        "The End 1 (100 Points)": {
+          "place": 18,
+          "time": "8:18.0",
+          "points": 51
+        },
+        "The End 2 (100 Points)": {
+          "place": 9,
+          "time": "80 rep",
+          "points": 69
+        },
+        "The End 3 (100 Points)": {
+          "place": 6,
+          "time": "130 rep",
+          "points": 75
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 12,
+          "time": "15:33.0",
+          "points": 63
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Patrick Burke",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "70 in | 185 lb",
+      "total_points": 406,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 32,
+          "time": "43:14.0",
+          "points": 25
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 14,
+          "time": "59 pt",
+          "points": 59
+        },
+        "Killer Kage (100 Points)": {
+          "place": 14,
+          "time": "6:02.0",
+          "points": 59
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 9,
+          "time": "7:55.0",
+          "points": 69
+        },
+        "Skills 1 (100 Points)": {
+          "place": 5,
+          "time": "80 pt",
+          "points": 80
+        },
+        "Skills 2 (100 Points)": {
+          "place": 14,
+          "time": "6:59.0",
+          "points": 59
+        },
+        "The End 1 (100 Points)": {
+          "place": 16,
+          "time": "8:04.0",
+          "points": 55
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Nate Schrader",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "73 in | 220 lb",
+      "total_points": 386,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 37,
+          "time": "44:31.0",
+          "points": 20
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 2,
+          "time": "95 pt",
+          "points": 95
+        },
+        "Killer Kage (100 Points)": {
+          "place": 10,
+          "time": "5:44.0",
+          "points": 67
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 34,
+          "time": "9:17.0",
+          "points": 23
+        },
+        "Skills 1 (100 Points)": {
+          "place": 2,
+          "time": "95 pt",
+          "points": 95
+        },
+        "Skills 2 (100 Points)": {
+          "place": 25,
+          "time": "8:00.0",
+          "points": 37
+        },
+        "The End 1 (100 Points)": {
+          "place": 19,
+          "time": "8:33.0",
+          "points": 49
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Joseph Weigel",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 21",
+      "height_weight": "72 in | 195 lb",
+      "total_points": 377,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 23,
+          "time": "40:53.0",
+          "points": 41
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 8,
+          "time": "71 pt",
+          "points": 71
+        },
+        "Killer Kage (100 Points)": {
+          "place": 11,
+          "time": "5:45.0",
+          "points": 65
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 17,
+          "time": "8:27.0",
+          "points": 53
+        },
+        "Skills 1 (100 Points)": {
+          "place": 20,
+          "time": "47 pt",
+          "points": 47
+        },
+        "Skills 2 (100 Points)": {
+          "place": 16,
+          "time": "7:07.0",
+          "points": 55
+        },
+        "The End 1 (100 Points)": {
+          "place": 21,
+          "time": "9:37.0",
+          "points": 45
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Chase Daniels",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "71 in | 190 lb",
+      "total_points": 365,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 15,
+          "time": "39:58.0",
+          "points": 57
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 28,
+          "time": "31 pt",
+          "points": 31
+        },
+        "Killer Kage (100 Points)": {
+          "place": 3,
+          "time": "5:03.0",
+          "points": 90
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 29,
+          "time": "8:58.0",
+          "points": 29
+        },
+        "Skills 1 (100 Points)": {
+          "place": 33,
+          "time": "24 pt",
+          "points": 24
+        },
+        "Skills 2 (100 Points)": {
+          "place": 10,
+          "time": "6:54.0",
+          "points": 67
+        },
+        "The End 1 (100 Points)": {
+          "place": 10,
+          "time": "6:39.0",
+          "points": 67
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Chris Hogan",
+      "country": "Australia",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "179 cm | 200 lb",
+      "total_points": 364,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 7,
+          "time": "38:50.0",
+          "points": 73
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 11,
+          "time": "65 pt",
+          "points": 65
+        },
+        "Killer Kage (100 Points)": {
+          "place": 33,
+          "time": "7:22.0",
+          "points": 24
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 20,
+          "time": "8:42.0",
+          "points": 47
+        },
+        "Skills 1 (100 Points)": {
+          "place": 15,
+          "time": "57 pt",
+          "points": 57
+        },
+        "Skills 2 (100 Points)": {
+          "place": 27,
+          "time": "8:07.0",
+          "points": 33
+        },
+        "The End 1 (100 Points)": {
+          "place": 11,
+          "time": "6:44.0",
+          "points": 65
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Austin Malleolo",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "65 in | 175 lb",
+      "total_points": 352,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 22,
+          "time": "40:47.0",
+          "points": 43
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 32,
+          "time": "25 pt",
+          "points": 25
+        },
+        "Killer Kage (100 Points)": {
+          "place": 22,
+          "time": "6:37.0",
+          "points": 43
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 3,
+          "time": "7:25.0",
+          "points": 90
+        },
+        "Skills 1 (100 Points)": {
+          "place": 32,
+          "time": "25 pt",
+          "points": 25
+        },
+        "Skills 2 (100 Points)": {
+          "place": 7,
+          "time": "6:48.0",
+          "points": 73
+        },
+        "The End 1 (100 Points)": {
+          "place": 17,
+          "time": "8:14.0",
+          "points": 53
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Tuomas Vainio",
+      "country": "Finland",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "",
+      "total_points": 342,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 10,
+          "time": "39:17.0",
+          "points": 67
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 7,
+          "time": "73 pt",
+          "points": 73
+        },
+        "Killer Kage (100 Points)": {
+          "place": 20,
+          "time": "6:32.0",
+          "points": 47
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 47,
+          "time": "11:58.0",
+          "points": 10
+        },
+        "Skills 1 (100 Points)": {
+          "place": 21,
+          "time": "45 pt",
+          "points": 45
+        },
+        "Skills 2 (100 Points)": {
+          "place": 28,
+          "time": "8:09.0",
+          "points": 31
+        },
+        "The End 1 (100 Points)": {
+          "place": 9,
+          "time": "6:24.0",
+          "points": 69
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Ben Stoneberg",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "67 in | 180 lb",
+      "total_points": 340,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 11,
+          "time": "39:31.0",
+          "points": 65
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 20,
+          "time": "47 pt",
+          "points": 47
+        },
+        "Killer Kage (100 Points)": {
+          "place": 15,
+          "time": "6:03.0",
+          "points": 57
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 38,
+          "time": "9:39.0",
+          "points": 19
+        },
+        "Skills 1 (100 Points)": {
+          "place": 37,
+          "time": "20 pt",
+          "points": 20
+        },
+        "Skills 2 (100 Points)": {
+          "place": 13,
+          "time": "6:58.0",
+          "points": 61
+        },
+        "The End 1 (100 Points)": {
+          "place": 8,
+          "time": "6:20.0",
+          "points": 71
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Brandon Pastorek",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "71 in | 205 lb",
+      "total_points": 337,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 24,
+          "time": "41:04.0",
+          "points": 39
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 28,
+          "time": "31 pt",
+          "points": 31
+        },
+        "Killer Kage (100 Points)": {
+          "place": 36,
+          "time": "7:46.0",
+          "points": 21
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 16,
+          "time": "8:26.0",
+          "points": 55
+        },
+        "Skills 1 (100 Points)": {
+          "place": 9,
+          "time": "69 pt",
+          "points": 69
+        },
+        "Skills 2 (100 Points)": {
+          "place": 12,
+          "time": "6:57.0",
+          "points": 63
+        },
+        "The End 1 (100 Points)": {
+          "place": 14,
+          "time": "7:57.0",
+          "points": 59
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Jared Davis",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "71 in | 190 lb",
+      "total_points": 326,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 14,
+          "time": "39:51.0",
+          "points": 59
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 5,
+          "time": "80 pt",
+          "points": 80
+        },
+        "Killer Kage (100 Points)": {
+          "place": 40,
+          "time": "8:24.0",
+          "points": 17
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 18,
+          "time": "8:30.0",
+          "points": 51
+        },
+        "Skills 1 (100 Points)": {
+          "place": 30,
+          "time": "27 pt",
+          "points": 27
+        },
+        "Skills 2 (100 Points)": {
+          "place": 19,
+          "time": "7:12.0",
+          "points": 49
+        },
+        "The End 1 (100 Points)": {
+          "place": 22,
+          "time": "9:49.0",
+          "points": 43
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Tommy Hackenbruck",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "73 in | 212 lb",
+      "total_points": 320,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 25,
+          "time": "41:17.0",
+          "points": 37
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 34,
+          "time": "23 pt",
+          "points": 23
+        },
+        "Killer Kage (100 Points)": {
+          "place": 13,
+          "time": "5:50.0",
+          "points": 61
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 36,
+          "time": "9:30.0",
+          "points": 21
+        },
+        "Skills 1 (100 Points)": {
+          "place": 19,
+          "time": "49 pt",
+          "points": 49
+        },
+        "Skills 2 (100 Points)": {
+          "place": 3,
+          "time": "6:35.0",
+          "points": 90
+        },
+        "The End 1 (100 Points)": {
+          "place": 24,
+          "time": "12:43.0",
+          "points": 39
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Armand Mccormick",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "70 in | 185 lb",
+      "total_points": 320,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 31,
+          "time": "42:42.0",
+          "points": 26
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 42,
+          "time": "15 pt",
+          "points": 15
+        },
+        "Killer Kage (100 Points)": {
+          "place": 7,
+          "time": "5:30.0",
+          "points": 73
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 11,
+          "time": "8:08.0",
+          "points": 65
+        },
+        "Skills 1 (100 Points)": {
+          "place": 14,
+          "time": "59 pt",
+          "points": 59
+        },
+        "Skills 2 (100 Points)": {
+          "place": 23,
+          "time": "7:42.0",
+          "points": 41
+        },
+        "The End 1 (100 Points)": {
+          "place": 23,
+          "time": "9:51.0",
+          "points": 41
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Daniel Tyminski",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "69 in | 195 lb",
+      "total_points": 262,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 18,
+          "time": "40:42.0",
+          "points": 51
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 38,
+          "time": "19 pt",
+          "points": 19
+        },
+        "Killer Kage (100 Points)": {
+          "place": 32,
+          "time": "7:11.0",
+          "points": 25
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 6,
+          "time": "7:40.0",
+          "points": 75
+        },
+        "Skills 1 (100 Points)": {
+          "place": 25,
+          "time": "37 pt",
+          "points": 37
+        },
+        "Skills 2 (100 Points)": {
+          "place": 16,
+          "time": "7:07.0",
+          "points": 55
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Lucas Parker",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 21",
+      "height_weight": "68 in | 190 lb",
+      "total_points": 260,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 40,
+          "time": "44:57.0",
+          "points": 17
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 5,
+          "time": "80 pt",
+          "points": 80
+        },
+        "Killer Kage (100 Points)": {
+          "place": 23,
+          "time": "6:48.0",
+          "points": 41
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 35,
+          "time": "9:20.0",
+          "points": 22
+        },
+        "Skills 1 (100 Points)": {
+          "place": 11,
+          "time": "65 pt",
+          "points": 65
+        },
+        "Skills 2 (100 Points)": {
+          "place": 26,
+          "time": "8:06.0",
+          "points": 35
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Gabe Subry",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "69 in | 190 lb",
+      "total_points": 246,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 13,
+          "time": "39:34.0",
+          "points": 61
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 36,
+          "time": "21 pt",
+          "points": 21
+        },
+        "Killer Kage (100 Points)": {
+          "place": 38,
+          "time": "7:52.0",
+          "points": 19
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 22,
+          "time": "8:44.0",
+          "points": 43
+        },
+        "Skills 1 (100 Points)": {
+          "place": 21,
+          "time": "45 pt",
+          "points": 45
+        },
+        "Skills 2 (100 Points)": {
+          "place": 15,
+          "time": "7:05.0",
+          "points": 57
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Aja Barto",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "77 in | 220 lb",
+      "total_points": 232,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 46,
+          "time": "48:13.0",
+          "points": 11
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 14,
+          "time": "59 pt",
+          "points": 59
+        },
+        "Killer Kage (100 Points)": {
+          "place": 19,
+          "time": "6:24.0",
+          "points": 49
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 33,
+          "time": "9:15.0",
+          "points": 24
+        },
+        "Skills 1 (100 Points)": {
+          "place": 11,
+          "time": "65 pt",
+          "points": 65
+        },
+        "Skills 2 (100 Points)": {
+          "place": 33,
+          "time": "9:27.0",
+          "points": 24
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Jesse Disch",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "70 in | 200 lb",
+      "total_points": 229,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 45,
+          "time": "47:27.0",
+          "points": 12
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 11,
+          "time": "65 pt",
+          "points": 65
+        },
+        "Killer Kage (100 Points)": {
+          "place": 24,
+          "time": "6:50.0",
+          "points": 39
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 24,
+          "time": "8:47.0",
+          "points": 39
+        },
+        "Skills 1 (100 Points)": {
+          "place": 18,
+          "time": "51 pt",
+          "points": 51
+        },
+        "Skills 2 (100 Points)": {
+          "place": 34,
+          "time": "11:23.0",
+          "points": 23
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Rob Forte",
+      "country": "Australia",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "174 cm | 89 kg",
+      "total_points": 225,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 6,
+          "time": "38:13.0",
+          "points": 75
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 23,
+          "time": "41 pt",
+          "points": 41
+        },
+        "Killer Kage (100 Points)": {
+          "place": 21,
+          "time": "6:35.0",
+          "points": 45
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 42,
+          "time": "10:49.0",
+          "points": 15
+        },
+        "Skills 1 (100 Points)": {
+          "place": 37,
+          "time": "20 pt",
+          "points": 20
+        },
+        "Skills 2 (100 Points)": {
+          "place": 29,
+          "time": "8:14.0",
+          "points": 29
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Brandon Phillips",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "71 in | 215 lb",
+      "total_points": 207,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 30,
+          "time": "42:32.0",
+          "points": 27
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 25,
+          "time": "37 pt",
+          "points": 37
+        },
+        "Killer Kage (100 Points)": {
+          "place": 18,
+          "time": "6:23.0",
+          "points": 51
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 24,
+          "time": "8:47.0",
+          "points": 39
+        },
+        "Skills 1 (100 Points)": {
+          "place": 31,
+          "time": "26 pt",
+          "points": 26
+        },
+        "Skills 2 (100 Points)": {
+          "place": 30,
+          "time": "8:28.0",
+          "points": 27
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Neal Maddox",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "70 in | 215 lb",
+      "total_points": 201,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 39,
+          "time": "44:54.0",
+          "points": 18
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 39,
+          "time": "18 pt",
+          "points": 18
+        },
+        "Killer Kage (100 Points)": {
+          "place": 34,
+          "time": "7:28.0",
+          "points": 23
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 21,
+          "time": "8:43.0",
+          "points": 45
+        },
+        "Skills 1 (100 Points)": {
+          "place": 6,
+          "time": "75 pt",
+          "points": 75
+        },
+        "Skills 2 (100 Points)": {
+          "place": 35,
+          "time": "12:14.0",
+          "points": 22
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Albert-dominic Larouche",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 21",
+      "height_weight": "70 in | 200 lb",
+      "total_points": 201,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 9,
+          "time": "39:04.0",
+          "points": 69
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 43,
+          "time": "14 pt",
+          "points": 14
+        },
+        "Killer Kage (100 Points)": {
+          "place": 29,
+          "time": "7:07.0",
+          "points": 29
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 31,
+          "time": "9:05.0",
+          "points": 26
+        },
+        "Skills 1 (100 Points)": {
+          "place": 25,
+          "time": "37 pt",
+          "points": 37
+        },
+        "Skills 2 (100 Points)": {
+          "place": 31,
+          "time": "8:44.0",
+          "points": 26
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Mikko Aronpää",
+      "country": "Finland",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "178 cm | 92 kg",
+      "total_points": 192,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 8,
+          "time": "38:58.0",
+          "points": 71
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 31,
+          "time": "26 pt",
+          "points": 26
+        },
+        "Killer Kage (100 Points)": {
+          "place": 35,
+          "time": "7:34.0",
+          "points": 22
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 45,
+          "time": "11:21.0",
+          "points": 12
+        },
+        "Skills 1 (100 Points)": {
+          "place": 41,
+          "time": "16 pt",
+          "points": 16
+        },
+        "Skills 2 (100 Points)": {
+          "place": 21,
+          "time": "7:35.0",
+          "points": 45
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Zeph Littleton",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "70 in | 180 lb",
+      "total_points": 182,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 20,
+          "time": "40:44.0",
+          "points": 47
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 33,
+          "time": "24 pt",
+          "points": 24
+        },
+        "Killer Kage (100 Points)": {
+          "place": 28,
+          "time": "6:58.0",
+          "points": 31
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 26,
+          "time": "8:48.0",
+          "points": 35
+        },
+        "Skills 1 (100 Points)": {
+          "place": 37,
+          "time": "20 pt",
+          "points": 20
+        },
+        "Skills 2 (100 Points)": {
+          "place": 32,
+          "time": "8:55.0",
+          "points": 25
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Nick Urankar",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "70 in | 192 lb",
+      "total_points": 147,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 44,
+          "time": "47:22.0",
+          "points": 13
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 10,
+          "time": "67 pt",
+          "points": 67
+        },
+        "Killer Kage (100 Points)": {
+          "place": 25,
+          "time": "6:52.0",
+          "points": 37
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 37,
+          "time": "9:31.0",
+          "points": 20
+        },
+        "Skills 1 (100 Points)": {
+          "place": 47,
+          "time": "10 pt",
+          "points": 10
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Phillip Kniep",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "72 in | 200 lb",
+      "total_points": 145,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 34,
+          "time": "43:32.0",
+          "points": 23
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 40,
+          "time": "17 pt",
+          "points": 17
+        },
+        "Killer Kage (100 Points)": {
+          "place": 44,
+          "time": "9:37.0",
+          "points": 13
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 14,
+          "time": "8:17.0",
+          "points": 59
+        },
+        "Skills 1 (100 Points)": {
+          "place": 27,
+          "time": "33 pt",
+          "points": 33
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Jason Cain",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "66 in | 177 lb",
+      "total_points": 130,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 21,
+          "time": "40:45.0",
+          "points": 45
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 26,
+          "time": "35 pt",
+          "points": 35
+        },
+        "Killer Kage (100 Points)": {
+          "place": 45,
+          "time": "9:47.0",
+          "points": 12
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 30,
+          "time": "9:01.0",
+          "points": 27
+        },
+        "Skills 1 (100 Points)": {
+          "place": 46,
+          "time": "11 pt",
+          "points": 11
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "rank_label": "39",
+      "name": "Noah Pester",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "72 in | 195 lb",
+      "total_points": 123,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 38,
+          "time": "44:51.0",
+          "points": 19
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 20,
+          "time": "47 pt",
+          "points": 47
+        },
+        "Killer Kage (100 Points)": {
+          "place": 31,
+          "time": "7:08.0",
+          "points": 26
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 41,
+          "time": "10:36.0",
+          "points": 16
+        },
+        "Skills 1 (100 Points)": {
+          "place": 42,
+          "time": "15 pt",
+          "points": 15
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "rank_label": "40",
+      "name": "Jeremy Kinnick",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "70 in | 195 lb",
+      "total_points": 117,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 43,
+          "time": "46:46.0",
+          "points": 14
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 24,
+          "time": "39 pt",
+          "points": 39
+        },
+        "Killer Kage (100 Points)": {
+          "place": 42,
+          "time": "9:10.0",
+          "points": 15
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 31,
+          "time": "9:05.0",
+          "points": 26
+        },
+        "Skills 1 (100 Points)": {
+          "place": 34,
+          "time": "23 pt",
+          "points": 23
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 41,
+      "rank_label": "41",
+      "name": "Jonathan Pera",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "70 in | 202 lb",
+      "total_points": 117,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 36,
+          "time": "44:16.0",
+          "points": 21
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 43,
+          "time": "14 pt",
+          "points": 14
+        },
+        "Killer Kage (100 Points)": {
+          "place": 39,
+          "time": "8:13.0",
+          "points": 18
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 28,
+          "time": "8:56.0",
+          "points": 31
+        },
+        "Skills 1 (100 Points)": {
+          "place": 27,
+          "time": "33 pt",
+          "points": 33
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 42,
+      "rank_label": "42",
+      "name": "Elvar Þór Karlsson",
+      "country": "Iceland",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 20",
+      "height_weight": "",
+      "total_points": 92,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 29,
+          "time": "41:47.0",
+          "points": 29
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 45,
+          "time": "12 pt",
+          "points": 12
+        },
+        "Killer Kage (100 Points)": {
+          "place": 36,
+          "time": "7:46.0",
+          "points": 21
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 39,
+          "time": "9:47.0",
+          "points": 18
+        },
+        "Skills 1 (100 Points)": {
+          "place": 45,
+          "time": "12 pt",
+          "points": 12
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 43,
+      "rank_label": "43",
+      "name": "Daniel Hershey",
+      "country": "Japan",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "74 in | 225 lb",
+      "total_points": 92,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 33,
+          "time": "43:23.0",
+          "points": 24
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 37,
+          "time": "20 pt",
+          "points": 20
+        },
+        "Killer Kage (100 Points)": {
+          "place": 41,
+          "time": "9:00.0",
+          "points": 16
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 46,
+          "time": "11:31.0",
+          "points": 11
+        },
+        "Skills 1 (100 Points)": {
+          "place": 36,
+          "time": "21 pt",
+          "points": 21
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 44,
+      "rank_label": "44",
+      "name": "Matthew Barnett",
+      "country": "Cayman Islands",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "73 in | 206 lb",
+      "total_points": 91,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 48,
+          "time": "52:02.0",
+          "points": 9
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 35,
+          "time": "22 pt",
+          "points": 22
+        },
+        "Killer Kage (100 Points)": {
+          "place": 29,
+          "time": "7:07.0",
+          "points": 29
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 40,
+          "time": "10:26.0",
+          "points": 17
+        },
+        "Skills 1 (100 Points)": {
+          "place": 43,
+          "time": "14 pt",
+          "points": 14
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 45,
+      "rank_label": "45",
+      "name": "Jeremy Meredith",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "72 in | 210 lb",
+      "total_points": 90,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 27,
+          "time": "41:44.0",
+          "points": 33
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 47,
+          "time": "10 pt",
+          "points": 10
+        },
+        "Killer Kage (100 Points)": {
+          "place": 46,
+          "time": "10:29.0",
+          "points": 11
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 43,
+          "time": "11:02.0",
+          "points": 14
+        },
+        "Skills 1 (100 Points)": {
+          "place": 35,
+          "time": "22 pt",
+          "points": 22
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 46,
+      "rank_label": "46",
+      "name": "Andy Lewis",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "70 in | 193 lb",
+      "total_points": 87,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 41,
+          "time": "45:00.0",
+          "points": 16
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 46,
+          "time": "11 pt",
+          "points": 11
+        },
+        "Killer Kage (100 Points)": {
+          "place": 43,
+          "time": "9:27.0",
+          "points": 14
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 27,
+          "time": "8:49.0",
+          "points": 33
+        },
+        "Skills 1 (100 Points)": {
+          "place": 44,
+          "time": "13 pt",
+          "points": 13
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 47,
+      "rank_label": "47",
+      "name": "Danie Du Preez",
+      "country": "South Africa",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 42",
+      "height_weight": "178 cm | 211 lb",
+      "total_points": 70,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 47,
+          "time": "50:25.0",
+          "points": 10
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 40,
+          "time": "17 pt",
+          "points": 17
+        },
+        "Killer Kage (100 Points)": {
+          "place": 47,
+          "time": "12:01.0",
+          "points": 10
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 44,
+          "time": "11:03.0",
+          "points": 13
+        },
+        "Skills 1 (100 Points)": {
+          "place": 37,
+          "time": "20 pt",
+          "points": 20
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 48,
+      "rank_label": "48",
+      "name": "Mikko Salo",
+      "country": "Finland",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "175 cm | 85 kg",
+      "total_points": 15,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 42,
+          "time": "45:37.0",
+          "points": 15
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Killer Kage (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Skills 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 49,
+      "rank_label": "49",
+      "name": "Rob Orlando",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 36",
+      "height_weight": "68 in | 195 lb",
+      "total_points": 0,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Killer Kage (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Skills 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

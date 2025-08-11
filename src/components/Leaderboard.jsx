@@ -1,5 +1,50 @@
 import React, { useState, useEffect } from 'react'
 
+const YearDropdown = ({ selectedYear, onYearChange, selectedGender }) => {
+    const [years, setYears] = useState([])
+    const [latest, setLatest] = useState('Latest')
+
+    useEffect(() => {
+        let isMounted = true
+        const loadYears = async () => {
+            try {
+                const resp = await fetch(`${import.meta.env.BASE_URL}years_available.json`)
+                if (!resp.ok) throw new Error('Failed to load years_available.json')
+                const payload = await resp.json()
+                const byGender = payload.byGender?.[selectedGender]
+                const list = Array.isArray(byGender) ? byGender : payload.years
+                if (isMounted) {
+                    setYears(Array.isArray(list) ? list : [])
+                    const latestByGender = payload.latestByGender?.[selectedGender]
+                    setLatest(typeof latestByGender === 'number' ? String(latestByGender) : 'Latest')
+                }
+            } catch (e) {
+                // Fallback to hardcoded range if file missing
+                if (isMounted) {
+                    setYears([2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007])
+                    setLatest('Latest')
+                }
+            }
+        }
+        loadYears()
+        return () => { isMounted = false }
+    }, [selectedGender])
+
+    return (
+        <select
+            id="year-select"
+            aria-label="Year"
+            value={selectedYear || 'Latest'}
+            onChange={(e) => onYearChange(e.target.value)}
+        >
+            <option value="Latest">Latest</option>
+            {years.map((y) => (
+                <option key={y} value={String(y)}>{y}</option>
+            ))}
+        </select>
+    )
+}
+
 const Leaderboard = ({
     athletes,
     events,
@@ -16,6 +61,8 @@ const Leaderboard = ({
     directlyModifiedAthletes,
     selectedGender,
     onGenderChange,
+    selectedYear,
+    onYearChange,
     stats,
     calculateRankingsUpToEvent
 }) => {
@@ -43,6 +90,7 @@ const Leaderboard = ({
     }
     const [sortConfig, setSortConfig] = useState({ key: 'rank', direction: 'asc' })
     const [expandedAthlete, setExpandedAthlete] = useState(null)
+    const [isTributeOpen, setIsTributeOpen] = useState(false)
     // Reset expanded athlete when gender changes
     useEffect(() => {
         setExpandedAthlete(null)
@@ -143,6 +191,11 @@ const Leaderboard = ({
             let aValue, bValue
 
             if (sortConfig.key === 'rank') {
+                // Always place rank 0 (DQ/NA) at the bottom regardless of sort direction
+                const aIsNA = a.rank === 0
+                const bIsNA = b.rank === 0
+                if (aIsNA && !bIsNA) return 1
+                if (!aIsNA && bIsNA) return -1
                 aValue = a.rank
                 bValue = b.rank
             } else if (sortConfig.key === 'total_points') {
@@ -195,13 +248,18 @@ const Leaderboard = ({
         const displayPoints = event.points
         const displayTime = originalEvent ? originalEvent.time : event.time
 
+        const isLazar2024 = isYear2024 && isLazar(athlete.name)
         return (
-            <td className={`event-result ${isSimulated ? 'simulated' : ''}`}>
-                <div className="event-compact">
-                    <span className="event-place">{getOrdinal(displayPlace)}</span>
-                    <span className="event-time">{displayTime}</span>
-                    <span className="event-points">{displayPoints} pts</span>
-                </div>
+            <td className={`event-result ${isSimulated ? 'simulated' : ''} ${isLazar2024 ? 'lazar-event' : ''}`}>
+                {isLazar2024 ? (
+                    <div className="lazar-event-message">In memory of Lazar Đukić</div>
+                ) : (
+                    <div className="event-compact">
+                        <span className="event-place">{displayPlace > 0 ? getOrdinal(displayPlace) : '—'}</span>
+                        <span className="event-time">{displayTime}</span>
+                        <span className="event-points">{displayPoints} pts</span>
+                    </div>
+                )}
             </td>
         )
     }
@@ -223,6 +281,13 @@ const Leaderboard = ({
 
     const toggleAthleteExpansion = (athleteName) => {
         setExpandedAthlete(expandedAthlete === athleteName ? null : athleteName)
+    }
+
+    const handleAthleteNameClick = (e, athleteName) => {
+        if (selectedYear === '2024' && (athleteName === 'Lazar Đukić' || athleteName === 'Lazar Dukic')) {
+            e.stopPropagation()
+            setIsTributeOpen(true)
+        }
     }
 
     // Handle different time formats (MM:SS.ss or HH:MM:SS.ss)
@@ -456,12 +521,40 @@ const Leaderboard = ({
     }
 
     const sortedAthletes = sortAthletes(athletes)
+    const isYear2024 = String(selectedYear) === '2024'
+    const isLazar = (name) => {
+        if (!name) return false
+        const n = String(name).toLowerCase()
+        return n === 'lazar đukić' || n === 'lazar dukic' || n === 'lazar djukic'
+    }
 
     return (
         <div className="leaderboard-container">
             <div className="leaderboard-header">
                 <div className="header-left">
+                    {selectedYear === '2024' && (
+                        <div
+                            className="memorial-banner"
+                            role="button"
+                            tabIndex={0}
+                            aria-label="Open tribute to Lazar Đukić"
+                            title="Open tribute to Lazar Đukić"
+                            onClick={() => setIsTributeOpen(true)}
+                            onKeyDown={(e) => {
+                                if (e.key === 'Enter' || e.key === ' ') {
+                                    e.preventDefault();
+                                    setIsTributeOpen(true);
+                                }
+                            }}
+                        >
+                            <i className="fas fa-ribbon" aria-hidden="true"></i>
+                            <span>In memory of <strong>Lazar Đukić</strong> (1996–2024)</span>
+                        </div>
+                    )}
                     <div className="leaderboard-title-section">
+                        <div className="year-select">
+                            <YearDropdown selectedYear={selectedYear} onYearChange={onYearChange} selectedGender={selectedGender} />
+                        </div>
                         <h2>Leaderboard</h2>
                         <div className="gender-toggle">
                             <button
@@ -540,16 +633,36 @@ const Leaderboard = ({
                         {sortedAthletes.map((athlete) => (
                             <React.Fragment key={athlete.name}>
                                 <tr
-                                    className={`athlete-row ${hasChanges(athlete) ? 'modified' : ''} ${expandedAthlete === athlete.name ? 'expanded' : ''}`}
+                                    className={`athlete-row ${hasChanges(athlete) ? 'modified' : ''} ${expandedAthlete === athlete.name ? 'expanded' : ''} ${isYear2024 && isLazar(athlete.name) ? 'lazar-tribute' : ''}`}
                                     onClick={() => toggleAthleteExpansion(athlete.name)}
                                 >
                                     <td className="rank">
-                                        {athlete.rank}
+                                        {isYear2024 && isLazar(athlete.name) ? (
+                                            <i className="fas fa-ribbon" aria-hidden="true" title="In memory of Lazar Đukić"></i>
+                                        ) : (
+                                            athlete.rank === 0 ? (
+                                                athlete.rank_label ? athlete.rank_label : <i className="fas fa-ribbon" aria-hidden="true" title="N/A"></i>
+                                            ) : (
+                                                athlete.rank
+                                            )
+                                        )}
                                         {getRankChange(athlete)}
                                     </td>
-                                    <td className="athlete-column">
+                                    <td className={`athlete-column ${isYear2024 && isLazar(athlete.name) ? 'lazar-row' : ''}`}>
                                         <div className="athlete-info">
-                                            <div className="athlete-name">
+                                            <div
+                                                className="athlete-name"
+                                                onClick={(e) => handleAthleteNameClick(e, athlete.name)}
+                                                role="button"
+                                                tabIndex={0}
+                                                onKeyDown={(e) => {
+                                                    if ((e.key === 'Enter' || e.key === ' ') && selectedYear === '2024' && (athlete.name === 'Lazar Đukić' || athlete.name === 'Lazar Dukic')) {
+                                                        e.preventDefault()
+                                                        e.stopPropagation()
+                                                        setIsTributeOpen(true)
+                                                    }
+                                                }}
+                                            >
                                                 {athlete.name}
                                                 <i className={`fas fa-chevron-${expandedAthlete === athlete.name ? 'up' : 'down'} expand-icon`}></i>
                                             </div>
@@ -568,8 +681,20 @@ const Leaderboard = ({
                                             </button>
                                         )}
                                     </td>
-                                    <td className="total-points">{athlete.total_points}</td>
-                                    {events.map(event => renderEventCell(athlete, event))}
+                                    <td className="total-points">
+                                        {isYear2024 && isLazar(athlete.name) ? (
+                                            <i className="fas fa-ribbon" aria-hidden="true" title="In memory of Lazar Đukić"></i>
+                                        ) : (
+                                            athlete.total_points
+                                        )}
+                                    </td>
+                                    {isYear2024 && isLazar(athlete.name) ? (
+                                        <td className="lazar-event-merged" colSpan={events.length}>
+                                            In memory of Lazar Đukić
+                                        </td>
+                                    ) : (
+                                        events.map(event => renderEventCell(athlete, event))
+                                    )}
                                 </tr>
                                 {expandedAthlete === athlete.name && renderAthleteDetail(athlete)}
                             </React.Fragment>
@@ -577,6 +702,25 @@ const Leaderboard = ({
                     </tbody>
                 </table>
             </div>
+
+            {isTributeOpen && (
+                <div className="modal-overlay" role="dialog" aria-modal="true" aria-label="Tribute to Lazar Đukić" onClick={() => setIsTributeOpen(false)}>
+                    <div className="modal-content" onClick={(e) => e.stopPropagation()}>
+                        <button className="modal-close" aria-label="Close tribute" onClick={() => setIsTributeOpen(false)}>
+                            <i className="fas fa-times"></i>
+                        </button>
+                        <div className="modal-header">
+                            <i className="fas fa-ribbon"></i>
+                            <h3>In memory of Lazar Đukić</h3>
+                        </div>
+                        <div className="modal-body">
+                            <p>
+                                Tribute placeholder. Add photos, memories, and a brief note celebrating his life and impact on the sport.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     )
 }

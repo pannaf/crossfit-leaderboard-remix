@@ -18,13 +18,16 @@ function App() {
   const [activeGapChanges, setActiveGapChanges] = useState(new Map()) // Track active gap changes by gapId
   const [loading, setLoading] = useState(true)
   const [selectedGender, setSelectedGender] = useState('men') // New state for gender selection
+  const [selectedYear, setSelectedYear] = useState('Latest') // New state for year selection
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false) // New state for sidebar collapse
+  const [eventPointMap, setEventPointMap] = useState({}) // Per-event place→points map derived from data
+  const [originalEventPoints, setOriginalEventPoints] = useState({}) // Exact points observed per event/place in the source data
 
   useEffect(() => {
     loadData()
-  }, [selectedGender])
+  }, [selectedGender, selectedYear])
 
-  // Reset state when gender changes
+  // Reset state when gender or year changes
   useEffect(() => {
     setSelectedAthlete('')
     setSelectedEvent('')
@@ -33,28 +36,135 @@ function App() {
     setDirectlyModifiedAthletes(new Set())
     setActiveGapChanges(new Map())
     setCurrentView('original')
-  }, [selectedGender])
+  }, [selectedGender, selectedYear])
 
   const loadData = async () => {
     try {
-      console.log(`Loading ${selectedGender} data...`)
-      const response = await fetch(`${import.meta.env.BASE_URL}leaderboard_data-${selectedGender}.json`)
-      if (!response.ok) {
-        throw new Error(`Failed to load ${selectedGender} data`)
+      setLoading(true)
+      console.log(`Loading ${selectedGender} data for year: ${selectedYear}...`)
+
+      const urlsToTry = []
+      if (selectedYear && selectedYear !== 'Latest') {
+        urlsToTry.push(`${import.meta.env.BASE_URL}${selectedYear}_leaderboard_data-${selectedGender}.json`)
       }
-      const jsonData = await response.json()
-      console.log(`${selectedGender} data loaded successfully:`, jsonData)
-      setData(jsonData)
+      // Always try the default ("Latest") file as a fallback
+      urlsToTry.push(`${import.meta.env.BASE_URL}leaderboard_data-${selectedGender}.json`)
+
+      let jsonData = null
+      let lastError = null
+      for (const url of urlsToTry) {
+        try {
+          const resp = await fetch(url)
+          if (!resp.ok) {
+            lastError = new Error(`Failed to load data from ${url} (status ${resp.status})`)
+            continue
+          }
+          jsonData = await resp.json()
+          break
+        } catch (err) {
+          lastError = err
+        }
+      }
+
+      if (!jsonData) {
+        throw lastError || new Error('Failed to load leaderboard data')
+      }
+      // Build or use provided event point scales
+      const derivedEventPointMap = jsonData.event_point_map || buildEventPointMap(jsonData)
+
+      const dataWithEventMap = { ...jsonData, event_point_map: derivedEventPointMap }
+
+      console.log(`${selectedGender} data loaded successfully:`, dataWithEventMap)
+      setData(dataWithEventMap)
+      setEventPointMap(derivedEventPointMap)
 
       // Create deep copies for original and simulated data
-      setOriginalAthletes(JSON.parse(JSON.stringify(jsonData.athletes)))
-      setSimulatedAthletes(JSON.parse(JSON.stringify(jsonData.athletes)))
+      setOriginalAthletes(JSON.parse(JSON.stringify(dataWithEventMap.athletes)))
+      setSimulatedAthletes(JSON.parse(JSON.stringify(dataWithEventMap.athletes)))
+
+      // Build a per-event exact place→points table from the original data for scoring during simulations
+      setOriginalEventPoints(buildOriginalEventPoints(dataWithEventMap.athletes, dataWithEventMap.events))
       setLoading(false)
       console.log('App initialized successfully')
     } catch (error) {
       console.error('Error loading data:', error)
       setLoading(false)
     }
+  }
+
+  const isYear2024 = () => String(selectedYear) === '2024'
+  const isLazar = (name) => {
+    if (!name) return false
+    const n = String(name).toLowerCase()
+    return n === 'lazar đukić' || n === 'lazar dukic' || n === 'lazar djukic'
+  }
+
+  // Athletes that originally have rank -1 are excluded from any re-ranking
+  const isExcludedFromRerank = (athleteName) => {
+    const original = originalAthletes.find(a => a.name === athleteName)
+    return original && original.rank === -1
+  }
+
+  // Build per-event scoring table from provided athlete results
+  const buildEventPointMap = (loadedData) => {
+    if (!loadedData?.events || !loadedData?.athletes) return {}
+    const map = {}
+    for (const eventName of loadedData.events) {
+      map[eventName] = {}
+    }
+    for (const athlete of loadedData.athletes) {
+      if (!athlete.events) continue
+      for (const [eventName, eventResult] of Object.entries(athlete.events)) {
+        if (!eventResult) continue
+        const placeStr = getPlaceString(eventResult.place)
+        // Prefer higher points if duplicates appear for safety
+        const prev = map[eventName]?.[placeStr]
+        if (prev === undefined || (typeof eventResult.points === 'number' && eventResult.points > prev)) {
+          map[eventName][placeStr] = typeof eventResult.points === 'number' ? eventResult.points : 0
+        }
+      }
+    }
+    return map
+  }
+
+  // Build exact observed points per event/place from the original dataset
+  const buildOriginalEventPoints = (athletesSource, eventsList) => {
+    if (!athletesSource || !eventsList) return {}
+    const map = {}
+    for (const eventName of eventsList) {
+      map[eventName] = {}
+    }
+    for (const athlete of athletesSource) {
+      if (!athlete?.events) continue
+      for (const [eventName, result] of Object.entries(athlete.events)) {
+        if (!result) continue
+        const placeStr = getPlaceString(result.place)
+        if (map[eventName][placeStr] === undefined) {
+          map[eventName][placeStr] = typeof result.points === 'number' ? result.points : 0
+        }
+      }
+    }
+    return map
+  }
+
+  const getPointsFor = (eventName, place) => {
+    // 1) Use observed finish order (handles sliding scales, ties, cuts)
+    const finishes = data?.event_finish_order?.[eventName]
+    if (Array.isArray(finishes) && place >= 1 && place <= finishes.length) {
+      const row = finishes[place - 1]
+      if (row && typeof row.points === 'number') return row.points
+    }
+    // 2) Fallback: exact observed points per place built from athlete results
+    const placeStr = getPlaceString(place)
+    if (originalEventPoints?.[eventName]?.[placeStr] !== undefined) {
+      return originalEventPoints[eventName][placeStr]
+    }
+    // 3) Fallback: derived event map
+    const byEvent = (data?.event_point_map || eventPointMap || {})
+    if (byEvent?.[eventName]?.[placeStr] !== undefined) return byEvent[eventName][placeStr]
+    // 4) Legacy fallback if available
+    if (data?.point_system?.[placeStr] !== undefined) return data.point_system[placeStr]
+    return 0
   }
 
   // Calculate rankings up to a specific event
@@ -86,21 +196,52 @@ function App() {
       }
     })
 
-    // Sort by cumulative points and assign ranks
-    const sortedAthletes = athletesWithCumulativePoints.sort((a, b) => b.total_points - a.total_points)
-    return sortedAthletes.map((athlete, index) => ({
+    // Split into included and excluded for re-ranking
+    const excluded = athletesWithCumulativePoints.filter(a => isExcludedFromRerank(a.name))
+    let included = athletesWithCumulativePoints.filter(a => !isExcludedFromRerank(a.name))
+
+    // Sort included by cumulative points
+    let sortedAthletes = included.sort((a, b) => b.total_points - a.total_points)
+
+    // Anchor Lazar at original rank for 2024
+    if (isYear2024()) {
+      const originalLazar = originalAthletes.find(a => isLazar(a.name))
+      if (originalLazar) {
+        const lazarIdx = sortedAthletes.findIndex(a => isLazar(a.name))
+        if (lazarIdx !== -1) {
+          const lazar = sortedAthletes.splice(lazarIdx, 1)[0]
+          const insertIdx = Math.max(0, (originalLazar.rank || 1) - 1)
+          sortedAthletes.splice(insertIdx, 0, lazar)
+        }
+      }
+    }
+
+    const rankedIncluded = sortedAthletes.map((athlete, index) => ({
       ...athlete,
       rank: index + 1
     }))
+
+    // Excluded remain unranked (-1)
+    const finalExcluded = excluded.map(a => ({ ...a, rank: -1 }))
+
+    return [...rankedIncluded, ...finalExcluded]
   }
 
   // Function to update event rankings when an athlete's place changes
   const updateEventRankings = (athletes, eventName, athleteName, newPlace, newTime = null, isDirectChange = false) => {
+    // Never modify Lazar in 2024
+    if (isYear2024() && isLazar(athleteName)) {
+      return athletes
+    }
+    // Don't modify excluded athletes
+    if (isExcludedFromRerank(athleteName)) {
+      return athletes
+    }
     const placeString = getPlaceString(newPlace)
-    const newPoints = data.point_system[placeString]
+    const newPoints = getPointsFor(eventName, newPlace)
 
     // Get all athletes who participated in this event
-    const eventParticipants = athletes.filter(a => a.events[eventName])
+    const eventParticipants = athletes.filter(a => a.events[eventName] && !isExcludedFromRerank(a.name))
 
     // Find the athlete being updated
     const targetAthlete = eventParticipants.find(a => a.name === athleteName)
@@ -125,11 +266,19 @@ function App() {
     const updatedAthletes = athletes.map(athlete => {
       if (!athlete.events[eventName]) return athlete
 
+      // Skip excluded athletes entirely
+      if (isExcludedFromRerank(athlete.name)) return athlete
+
       const event = athlete.events[eventName]
       let newEventPlace = event.place
       let newEventPoints = event.points
       let totalPointsChange = 0
       let wasAffected = false
+
+      // Lock Lazar in 2024: do not change his row
+      if (isYear2024() && isLazar(athlete.name)) {
+        return athlete
+      }
 
       if (athlete.name === athleteName) {
         // Update the target athlete
@@ -144,7 +293,7 @@ function App() {
           if (event.place > oldPlace && event.place <= newPlace) {
             // Athletes between old and new place move up one position
             newEventPlace = event.place - 1
-            newEventPoints = data.point_system[getPlaceString(newEventPlace)]
+            newEventPoints = getPointsFor(eventName, newEventPlace)
             totalPointsChange = newEventPoints - event.points
             wasAffected = true
           }
@@ -153,7 +302,7 @@ function App() {
           if (event.place >= newPlace && event.place < oldPlace) {
             // Athletes between new and old place move down one position
             newEventPlace = event.place + 1
-            newEventPoints = data.point_system[getPlaceString(newEventPlace)]
+            newEventPoints = getPointsFor(eventName, newEventPlace)
             totalPointsChange = newEventPoints - event.points
             wasAffected = true
           }
@@ -203,19 +352,42 @@ function App() {
       return
     }
 
+    if (isYear2024() && isLazar(selectedAthlete)) {
+      alert('In memory of Lazar Đukić, his results cannot be modified for 2024.')
+      return
+    }
+
+    if (isExcludedFromRerank(selectedAthlete)) {
+      alert('This athlete is not eligible for re-ranking.')
+      return
+    }
+
     const newPlace = getPlaceNumber(selectedPlace)
 
     // Update event rankings for all athletes
     const updatedAthletes = updateEventRankings(simulatedAthletes, selectedEvent, selectedAthlete, newPlace, null, true)
 
     // Recalculate overall ranks
-    const sortedAthletes = [...updatedAthletes].sort((a, b) => b.total_points - a.total_points)
-    const rankedAthletes = sortedAthletes.map((athlete, index) => ({
-      ...athlete,
-      rank: index + 1
-    }))
+    const excluded = updatedAthletes.filter(a => isExcludedFromRerank(a.name))
+    const included = updatedAthletes.filter(a => !isExcludedFromRerank(a.name))
+    const sortedAthletes = [...included].sort((a, b) => b.total_points - a.total_points)
+    // Anchor Lazar at original rank for 2024
+    let rankedAthletes = sortedAthletes
+    if (isYear2024()) {
+      const originalLazar = originalAthletes.find(a => isLazar(a.name))
+      if (originalLazar) {
+        const lazarIdx = rankedAthletes.findIndex(a => isLazar(a.name))
+        if (lazarIdx !== -1) {
+          const lazar = rankedAthletes.splice(lazarIdx, 1)[0]
+          const insertIdx = Math.max(0, (originalLazar.rank || 1) - 1)
+          rankedAthletes.splice(insertIdx, 0, lazar)
+        }
+      }
+    }
+    rankedAthletes = rankedAthletes.map((athlete, index) => ({ ...athlete, rank: index + 1 }))
+    const finalExcluded = excluded.map(a => ({ ...a, rank: -1 }))
 
-    setSimulatedAthletes(rankedAthletes)
+    setSimulatedAthletes([...rankedAthletes, ...finalExcluded])
     setCurrentView('simulated')
 
     // Keep all selections for the stats panel (don't clear them)
@@ -240,18 +412,37 @@ function App() {
 
     // Apply all gap changes
     for (const [gapId, change] of gapChanges) {
+      if (isYear2024() && isLazar(change.athleteName)) {
+        continue
+      }
+      if (isExcludedFromRerank(change.athleteName)) {
+        continue
+      }
       athletes = updateEventRankings(athletes, change.eventName, change.athleteName, change.newPlace, change.time, true)
       modifiedAthletes.add(change.athleteName)
     }
 
     // Recalculate overall ranks
-    const sortedAthletes = athletes.sort((a, b) => b.total_points - a.total_points)
-    const finalAthletes = sortedAthletes.map((athlete, index) => ({
-      ...athlete,
-      rank: index + 1
-    }))
+    const excluded = athletes.filter(a => isExcludedFromRerank(a.name))
+    let included = athletes.filter(a => !isExcludedFromRerank(a.name))
+    const sortedAthletes = included.sort((a, b) => b.total_points - a.total_points)
+    // Anchor Lazar at original rank for 2024
+    let finalAthletes = sortedAthletes
+    if (isYear2024()) {
+      const originalLazar = originalAthletes.find(a => isLazar(a.name))
+      if (originalLazar) {
+        const lazarIdx = finalAthletes.findIndex(a => isLazar(a.name))
+        if (lazarIdx !== -1) {
+          const lazar = finalAthletes.splice(lazarIdx, 1)[0]
+          const insertIdx = Math.max(0, (originalLazar.rank || 1) - 1)
+          finalAthletes.splice(insertIdx, 0, lazar)
+        }
+      }
+    }
+    finalAthletes = finalAthletes.map((athlete, index) => ({ ...athlete, rank: index + 1 }))
+    const finalExcluded = excluded.map(a => ({ ...a, rank: -1 }))
 
-    setSimulatedAthletes(finalAthletes)
+    setSimulatedAthletes([...finalAthletes, ...finalExcluded])
     setDirectlyModifiedAthletes(modifiedAthletes)
 
     return finalAthletes
@@ -347,13 +538,16 @@ function App() {
     })
 
     // Recalculate overall ranks
-    const sortedAthletes = updatedAthletes.sort((a, b) => b.total_points - a.total_points)
-    const finalAthletes = sortedAthletes.map((athlete, index) => ({
+    const excluded = updatedAthletes.filter(a => isExcludedFromRerank(a.name))
+    const included = updatedAthletes.filter(a => !isExcludedFromRerank(a.name))
+    const sortedAthletes = included.sort((a, b) => b.total_points - a.total_points)
+    const finalIncluded = sortedAthletes.map((athlete, index) => ({
       ...athlete,
       rank: index + 1
     }))
+    const finalExcluded = excluded.map(a => ({ ...a, rank: -1 }))
 
-    setSimulatedAthletes(finalAthletes)
+    setSimulatedAthletes([...finalIncluded, ...finalExcluded])
 
     // Remove this athlete from the directly modified set
     setDirectlyModifiedAthletes(prev => {
@@ -496,6 +690,8 @@ function App() {
               directlyModifiedAthletes={directlyModifiedAthletes}
               selectedGender={selectedGender}
               onGenderChange={setSelectedGender}
+              selectedYear={selectedYear}
+              onYearChange={setSelectedYear}
               stats={getStats()}
               calculateRankingsUpToEvent={calculateRankingsUpToEvent}
             />

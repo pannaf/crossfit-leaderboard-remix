@@ -1,0 +1,4570 @@
+{
+  "year": 2010,
+  "gender": "men",
+  "events": [
+    "Amanda",
+    "Cleans-Handstand Push-ups",
+    "Deadlift-Pistol-Double-under",
+    "Pyramid Double \"Helen\"",
+    "Sandbag Move",
+    "Shoulder-to-Overhead",
+    "3 rounds for time of:",
+    "3 rounds for time of:",
+    "3 rounds for time of:"
+  ],
+  "event_point_map": {
+    "Amanda": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "25": 25,
+      "26": 26,
+      "27": 27,
+      "28": 28,
+      "29": 29,
+      "30": 30,
+      "31": 31,
+      "32": 32,
+      "33": 33,
+      "34": 34,
+      "35": 35,
+      "36": 36,
+      "37": 37,
+      "38": 38,
+      "39": 39,
+      "40": 40,
+      "41": 41,
+      "44": 44,
+      "45": 45
+    },
+    "Cleans-Handstand Push-ups": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "23": 23,
+      "24": 24,
+      "25": 25,
+      "26": 26,
+      "27": 27,
+      "28": 28,
+      "29": 29,
+      "30": 30,
+      "31": 31,
+      "32": 32,
+      "33": 33,
+      "34": 34,
+      "35": 35,
+      "36": 36,
+      "37": 37,
+      "38": 38,
+      "39": 39,
+      "40": 40,
+      "41": 41,
+      "42": 42,
+      "43": 43,
+      "44": 44,
+      "45": 45
+    },
+    "Deadlift-Pistol-Double-under": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "13": 13,
+      "22": 22,
+      "23": 23,
+      "26": 26,
+      "34": 34,
+      "37": 37,
+      "42": 42,
+      "44": 44
+    },
+    "Pyramid Double \"Helen\"": {
+      "1": 1,
+      "3": 3,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "10": 10,
+      "12": 12,
+      "13": 13,
+      "15": 15,
+      "16": 16,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24,
+      "25": 25,
+      "26": 26,
+      "27": 27,
+      "29": 29,
+      "30": 30,
+      "31": 31,
+      "32": 32,
+      "34": 34,
+      "35": 35,
+      "36": 36,
+      "37": 37,
+      "38": 38,
+      "39": 39,
+      "40": 40,
+      "41": 41,
+      "42": 42,
+      "43": 43,
+      "44": 44,
+      "45": 45
+    },
+    "Sandbag Move": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24
+    },
+    "Shoulder-to-Overhead": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "20": 20,
+      "21": 21,
+      "23": 23,
+      "24": 24
+    },
+    "3 rounds for time of:": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "15": 15
+    }
+  },
+  "event_field_size": {
+    "Amanda": 45,
+    "Cleans-Handstand Push-ups": 45,
+    "Deadlift-Pistol-Double-under": 44,
+    "Pyramid Double \"Helen\"": 45,
+    "Sandbag Move": 24,
+    "Shoulder-to-Overhead": 24,
+    "3 rounds for time of:": 15
+  },
+  "event_place_points": {
+    "Amanda": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      0,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      0,
+      0,
+      44,
+      45
+    ],
+    "Cleans-Handstand Push-ups": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      0,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      0,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "Deadlift-Pistol-Double-under": [
+      1,
+      2,
+      3,
+      4,
+      0,
+      0,
+      0,
+      8,
+      9,
+      10,
+      0,
+      0,
+      13,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      23,
+      0,
+      0,
+      26,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      34,
+      0,
+      0,
+      37,
+      0,
+      0,
+      0,
+      0,
+      42,
+      0,
+      44
+    ],
+    "Pyramid Double \"Helen\"": [
+      1,
+      0,
+      3,
+      0,
+      5,
+      6,
+      7,
+      8,
+      0,
+      10,
+      0,
+      12,
+      13,
+      0,
+      15,
+      16,
+      0,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      0,
+      29,
+      30,
+      31,
+      32,
+      0,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "Sandbag Move": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      0,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "Shoulder-to-Overhead": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      0,
+      20,
+      21,
+      0,
+      23,
+      24
+    ],
+    "3 rounds for time of:": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      0,
+      9,
+      10,
+      11,
+      12,
+      13,
+      0,
+      15
+    ]
+  },
+  "event_ordinals": {
+    "Amanda": 1,
+    "Cleans-Handstand Push-ups": 2,
+    "Deadlift-Pistol-Double-under": 3,
+    "Pyramid Double \"Helen\"": 4,
+    "Sandbag Move": 5,
+    "Shoulder-to-Overhead": 6,
+    "3 rounds for time of:": 9
+  },
+  "event_finish_order": {
+    "Amanda": [
+      {
+        "name": "Chris Spealler",
+        "place": 1,
+        "points": 1,
+        "time": "3:29"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 2,
+        "points": 2,
+        "time": "3:46"
+      },
+      {
+        "name": "Rich Froning Jr.",
+        "place": 3,
+        "points": 3,
+        "time": "3:47"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 4,
+        "points": 4,
+        "time": "3:50"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 5,
+        "points": 5,
+        "time": "4:01"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 6,
+        "points": 6,
+        "time": "4:04"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 7,
+        "points": 7,
+        "time": "4:14"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 8,
+        "points": 8,
+        "time": "4:24"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 9,
+        "points": 9,
+        "time": "4:30"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 10,
+        "points": 10,
+        "time": "4:31"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 11,
+        "points": 11,
+        "time": "4:33"
+      },
+      {
+        "name": "Chad Mackay",
+        "place": 12,
+        "points": 12,
+        "time": "4:57"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 13,
+        "points": 13,
+        "time": "4:58"
+      },
+      {
+        "name": "Joey Warren",
+        "place": 14,
+        "points": 14,
+        "time": "5:04"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 15,
+        "points": 15,
+        "time": "5:17"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 16,
+        "points": 16,
+        "time": "5:20"
+      },
+      {
+        "name": "Chase Ingraham",
+        "place": 17,
+        "points": 17,
+        "time": "5:21"
+      },
+      {
+        "name": "James Hobart",
+        "place": 18,
+        "points": 18,
+        "time": "5:22"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 19,
+        "points": 19,
+        "time": "5:24"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 20,
+        "points": 20,
+        "time": "5:27"
+      },
+      {
+        "name": "Deric Maruquin",
+        "place": 21,
+        "points": 21,
+        "time": "5:33"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 22,
+        "points": 22,
+        "time": "5:43"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 23,
+        "points": 23,
+        "time": "5:51"
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 23,
+        "points": 23,
+        "time": "5:51"
+      },
+      {
+        "name": "Jeremy Christofferson",
+        "place": 25,
+        "points": 25,
+        "time": "5:52"
+      },
+      {
+        "name": "Dan Rogers",
+        "place": 26,
+        "points": 26,
+        "time": "5:56"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 27,
+        "points": 27,
+        "time": "5:58"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 28,
+        "points": 28,
+        "time": "6:01"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 29,
+        "points": 29,
+        "time": "6:13"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 30,
+        "points": 30,
+        "time": "6:49"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 31,
+        "points": 31,
+        "time": "7:05"
+      },
+      {
+        "name": "Ryan Lilienthal",
+        "place": 32,
+        "points": 32,
+        "time": "7:12"
+      },
+      {
+        "name": "Bjorn Albrecht-walker",
+        "place": 33,
+        "points": 33,
+        "time": "7:47"
+      },
+      {
+        "name": "Richard Vanmeerbeek",
+        "place": 34,
+        "points": 34,
+        "time": "8:14"
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 35,
+        "points": 35,
+        "time": "8:47"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 36,
+        "points": 36,
+        "time": "9:09"
+      },
+      {
+        "name": "Neil Scholtz",
+        "place": 37,
+        "points": 37,
+        "time": "9:12"
+      },
+      {
+        "name": "Nate Malton",
+        "place": 38,
+        "points": 38,
+        "time": "9:14"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 39,
+        "points": 39,
+        "time": "9:19"
+      },
+      {
+        "name": "Sveinbjörn Sveinbjörnsson",
+        "place": 40,
+        "points": 40,
+        "time": "11:46"
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 41,
+        "points": 41,
+        "time": "12:06"
+      },
+      {
+        "name": "Erik Szakaly",
+        "place": 41,
+        "points": 41,
+        "time": "12:06"
+      },
+      {
+        "name": "Douglas Oberbeck",
+        "place": 41,
+        "points": 41,
+        "time": "12:06"
+      },
+      {
+        "name": "Geoffrey Tudisco",
+        "place": 44,
+        "points": 44,
+        "time": "12:10"
+      },
+      {
+        "name": "Garth Prouse",
+        "place": 45,
+        "points": 45,
+        "time": "12:22"
+      }
+    ],
+    "Cleans-Handstand Push-ups": [
+      {
+        "name": "Graham Holmberg",
+        "place": 1,
+        "points": 1,
+        "time": "16:59"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 2,
+        "points": 2,
+        "time": "17:02"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 3,
+        "points": 3,
+        "time": "17:34"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 4,
+        "points": 4,
+        "time": "17:35"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 5,
+        "points": 5,
+        "time": "18:07"
+      },
+      {
+        "name": "Rich Froning Jr.",
+        "place": 6,
+        "points": 6,
+        "time": "18:10"
+      },
+      {
+        "name": "Garth Prouse",
+        "place": 7,
+        "points": 7,
+        "time": "18:24"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 8,
+        "points": 8,
+        "time": "18:34"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 9,
+        "points": 9,
+        "time": "18:39"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 9,
+        "points": 9,
+        "time": "18:39"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 11,
+        "points": 11,
+        "time": "18:40"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 12,
+        "points": 12,
+        "time": "18:42"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 13,
+        "points": 13,
+        "time": "18:58"
+      },
+      {
+        "name": "Bjorn Albrecht-walker",
+        "place": 14,
+        "points": 14,
+        "time": "19:02"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 15,
+        "points": 15,
+        "time": "19:03"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 16,
+        "points": 16,
+        "time": "19:08"
+      },
+      {
+        "name": "Chad Mackay",
+        "place": 17,
+        "points": 17,
+        "time": "19:10"
+      },
+      {
+        "name": "Erik Szakaly",
+        "place": 18,
+        "points": 18,
+        "time": "19:17"
+      },
+      {
+        "name": "Joey Warren",
+        "place": 19,
+        "points": 19,
+        "time": "19:20"
+      },
+      {
+        "name": "Ryan Lilienthal",
+        "place": 20,
+        "points": 20,
+        "time": "19:23"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 21,
+        "points": 21,
+        "time": "19:31"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 21,
+        "points": 21,
+        "time": "19:31"
+      },
+      {
+        "name": "Chase Ingraham",
+        "place": 23,
+        "points": 23,
+        "time": "19:38"
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 24,
+        "points": 24,
+        "time": "19:39"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 25,
+        "points": 25,
+        "time": "19:42"
+      },
+      {
+        "name": "Deric Maruquin",
+        "place": 26,
+        "points": 26,
+        "time": "19:53"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 27,
+        "points": 27,
+        "time": "19:57"
+      },
+      {
+        "name": "Nate Malton",
+        "place": 28,
+        "points": 28,
+        "time": "20:03"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 29,
+        "points": 29,
+        "time": "20:09"
+      },
+      {
+        "name": "Richard Vanmeerbeek",
+        "place": 30,
+        "points": 30,
+        "time": "20:28"
+      },
+      {
+        "name": "James Hobart",
+        "place": 31,
+        "points": 31,
+        "time": "20:44"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 32,
+        "points": 32,
+        "time": "20:53"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 33,
+        "points": 33,
+        "time": "21:06"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 34,
+        "points": 34,
+        "time": "21:08"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 35,
+        "points": 35,
+        "time": "21:29"
+      },
+      {
+        "name": "Dan Rogers",
+        "place": 36,
+        "points": 36,
+        "time": "21:32"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 37,
+        "points": 37,
+        "time": "21:36"
+      },
+      {
+        "name": "Sveinbjörn Sveinbjörnsson",
+        "place": 38,
+        "points": 38,
+        "time": "21:51"
+      },
+      {
+        "name": "Douglas Oberbeck",
+        "place": 39,
+        "points": 39,
+        "time": "22:55"
+      },
+      {
+        "name": "Neil Scholtz",
+        "place": 40,
+        "points": 40,
+        "time": "23:11"
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 41,
+        "points": 41,
+        "time": "23:19"
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 42,
+        "points": 42,
+        "time": "23:33"
+      },
+      {
+        "name": "Jeremy Christofferson",
+        "place": 43,
+        "points": 43,
+        "time": "23:49"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 44,
+        "points": 44,
+        "time": "24:12"
+      },
+      {
+        "name": "Geoffrey Tudisco",
+        "place": 45,
+        "points": 45,
+        "time": "25:41"
+      }
+    ],
+    "Deadlift-Pistol-Double-under": [
+      {
+        "name": "Garth Prouse",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 1,
+        "points": 1,
+        "time": "325 lb"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 2,
+        "points": 2,
+        "time": "295 lb"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 3,
+        "points": 3,
+        "time": "285 lb"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 4,
+        "points": 4,
+        "time": "275 lb"
+      },
+      {
+        "name": "Chad Mackay",
+        "place": 4,
+        "points": 4,
+        "time": "275 lb"
+      },
+      {
+        "name": "Jeremy Christofferson",
+        "place": 4,
+        "points": 4,
+        "time": "275 lb"
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 4,
+        "points": 4,
+        "time": "275 lb"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 8,
+        "points": 8,
+        "time": "265 lb"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 9,
+        "points": 9,
+        "time": "260 lb"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 10,
+        "points": 10,
+        "time": "255 lb"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 10,
+        "points": 10,
+        "time": "255 lb"
+      },
+      {
+        "name": "Dan Rogers",
+        "place": 10,
+        "points": 10,
+        "time": "255 lb"
+      },
+      {
+        "name": "Rich Froning Jr.",
+        "place": 13,
+        "points": 13,
+        "time": "245 lb"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 13,
+        "points": 13,
+        "time": "245 lb"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 13,
+        "points": 13,
+        "time": "245 lb"
+      },
+      {
+        "name": "Joey Warren",
+        "place": 13,
+        "points": 13,
+        "time": "245 lb"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 13,
+        "points": 13,
+        "time": "245 lb"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 13,
+        "points": 13,
+        "time": "245 lb"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 13,
+        "points": 13,
+        "time": "245 lb"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 13,
+        "points": 13,
+        "time": "245 lb"
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 13,
+        "points": 13,
+        "time": "245 lb"
+      },
+      {
+        "name": "Ryan Lilienthal",
+        "place": 22,
+        "points": 22,
+        "time": "240 lb"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 23,
+        "points": 23,
+        "time": "235 lb"
+      },
+      {
+        "name": "James Hobart",
+        "place": 23,
+        "points": 23,
+        "time": "235 lb"
+      },
+      {
+        "name": "Deric Maruquin",
+        "place": 23,
+        "points": 23,
+        "time": "235 lb"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 26,
+        "points": 26,
+        "time": "225 lb"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 26,
+        "points": 26,
+        "time": "225 lb"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 26,
+        "points": 26,
+        "time": "225 lb"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 26,
+        "points": 26,
+        "time": "225 lb"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 26,
+        "points": 26,
+        "time": "225 lb"
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 26,
+        "points": 26,
+        "time": "225 lb"
+      },
+      {
+        "name": "Nate Malton",
+        "place": 26,
+        "points": 26,
+        "time": "225 lb"
+      },
+      {
+        "name": "Neil Scholtz",
+        "place": 26,
+        "points": 26,
+        "time": "225 lb"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 34,
+        "points": 34,
+        "time": "215 lb"
+      },
+      {
+        "name": "Sveinbjörn Sveinbjörnsson",
+        "place": 34,
+        "points": 34,
+        "time": "215 lb"
+      },
+      {
+        "name": "Erik Szakaly",
+        "place": 34,
+        "points": 34,
+        "time": "215 lb"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 37,
+        "points": 37,
+        "time": "205 lb"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 37,
+        "points": 37,
+        "time": "205 lb"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 37,
+        "points": 37,
+        "time": "205 lb"
+      },
+      {
+        "name": "Richard Vanmeerbeek",
+        "place": 37,
+        "points": 37,
+        "time": "205 lb"
+      },
+      {
+        "name": "Geoffrey Tudisco",
+        "place": 37,
+        "points": 37,
+        "time": "205 lb"
+      },
+      {
+        "name": "Bjorn Albrecht-walker",
+        "place": 42,
+        "points": 42,
+        "time": "185 lb"
+      },
+      {
+        "name": "Douglas Oberbeck",
+        "place": 42,
+        "points": 42,
+        "time": "185 lb"
+      },
+      {
+        "name": "Chase Ingraham",
+        "place": 44,
+        "points": 44,
+        "time": "135 lb"
+      }
+    ],
+    "Pyramid Double \"Helen\"": [
+      {
+        "name": "Rich Froning Jr.",
+        "place": 1,
+        "points": 1,
+        "time": "242 rep"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 1,
+        "points": 1,
+        "time": "242 rep"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 3,
+        "points": 3,
+        "time": "237 rep"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 3,
+        "points": 3,
+        "time": "237 rep"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 5,
+        "points": 5,
+        "time": "236 rep"
+      },
+      {
+        "name": "Joey Warren",
+        "place": 6,
+        "points": 6,
+        "time": "227 rep"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 7,
+        "points": 7,
+        "time": "226 rep"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 8,
+        "points": 8,
+        "time": "225 rep"
+      },
+      {
+        "name": "James Hobart",
+        "place": 8,
+        "points": 8,
+        "time": "225 rep"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 10,
+        "points": 10,
+        "time": "224 rep"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 10,
+        "points": 10,
+        "time": "224 rep"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 12,
+        "points": 12,
+        "time": "222 rep"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 13,
+        "points": 13,
+        "time": "221 rep"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 13,
+        "points": 13,
+        "time": "221 rep"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 15,
+        "points": 15,
+        "time": "220 rep"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 16,
+        "points": 16,
+        "time": "219 rep"
+      },
+      {
+        "name": "Garth Prouse",
+        "place": 16,
+        "points": 16,
+        "time": "219 rep"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 18,
+        "points": 18,
+        "time": "211 rep"
+      },
+      {
+        "name": "Chad Mackay",
+        "place": 19,
+        "points": 19,
+        "time": "209 rep"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 20,
+        "points": 20,
+        "time": "208 rep"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 21,
+        "points": 21,
+        "time": "206 rep"
+      },
+      {
+        "name": "Sveinbjörn Sveinbjörnsson",
+        "place": 22,
+        "points": 22,
+        "time": "199 rep"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 23,
+        "points": 23,
+        "time": "197 rep"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 24,
+        "points": 24,
+        "time": "192 rep"
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 25,
+        "points": 25,
+        "time": "189 rep"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 26,
+        "points": 26,
+        "time": "188 rep"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 27,
+        "points": 27,
+        "time": "187 rep"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 27,
+        "points": 27,
+        "time": "187 rep"
+      },
+      {
+        "name": "Deric Maruquin",
+        "place": 29,
+        "points": 29,
+        "time": "185 rep"
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 30,
+        "points": 30,
+        "time": "183 rep"
+      },
+      {
+        "name": "Dan Rogers",
+        "place": 31,
+        "points": 31,
+        "time": "181 rep"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 32,
+        "points": 32,
+        "time": "180 rep"
+      },
+      {
+        "name": "Chase Ingraham",
+        "place": 32,
+        "points": 32,
+        "time": "180 rep"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 34,
+        "points": 34,
+        "time": "176 rep"
+      },
+      {
+        "name": "Neil Scholtz",
+        "place": 35,
+        "points": 35,
+        "time": "175 rep"
+      },
+      {
+        "name": "Ryan Lilienthal",
+        "place": 36,
+        "points": 36,
+        "time": "165 rep"
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 37,
+        "points": 37,
+        "time": "164 rep"
+      },
+      {
+        "name": "Bjorn Albrecht-walker",
+        "place": 38,
+        "points": 38,
+        "time": "163 rep"
+      },
+      {
+        "name": "Nate Malton",
+        "place": 39,
+        "points": 39,
+        "time": "154 rep"
+      },
+      {
+        "name": "Geoffrey Tudisco",
+        "place": 40,
+        "points": 40,
+        "time": "149 rep"
+      },
+      {
+        "name": "Richard Vanmeerbeek",
+        "place": 41,
+        "points": 41,
+        "time": "147 rep"
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 42,
+        "points": 42,
+        "time": "145 rep"
+      },
+      {
+        "name": "Jeremy Christofferson",
+        "place": 43,
+        "points": 43,
+        "time": "143 rep"
+      },
+      {
+        "name": "Erik Szakaly",
+        "place": 44,
+        "points": 44,
+        "time": "135 rep"
+      },
+      {
+        "name": "Douglas Oberbeck",
+        "place": 45,
+        "points": 45,
+        "time": "92 rep"
+      }
+    ],
+    "Sandbag Move": [
+      {
+        "name": "Neal Maddox",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Deric Maruquin",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dan Rogers",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Lilienthal",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Garth Prouse",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Christofferson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chase Ingraham",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bjorn Albrecht-walker",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nate Malton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sveinbjörn Sveinbjörnsson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Erik Szakaly",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Neil Scholtz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Richard Vanmeerbeek",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Geoffrey Tudisco",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Douglas Oberbeck",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 1,
+        "points": 1,
+        "time": "6:57"
+      },
+      {
+        "name": "Rich Froning Jr.",
+        "place": 2,
+        "points": 2,
+        "time": "7:14"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 3,
+        "points": 3,
+        "time": "7:24"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 4,
+        "points": 4,
+        "time": "7:32"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 5,
+        "points": 5,
+        "time": "7:37"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 6,
+        "points": 6,
+        "time": "7:43"
+      },
+      {
+        "name": "Chad Mackay",
+        "place": 7,
+        "points": 7,
+        "time": "7:53"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 8,
+        "points": 8,
+        "time": "8:03"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 9,
+        "points": 9,
+        "time": "8:17"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 10,
+        "points": 10,
+        "time": "8:24"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 11,
+        "points": 11,
+        "time": "8:34"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 12,
+        "points": 12,
+        "time": "8:56"
+      },
+      {
+        "name": "James Hobart",
+        "place": 13,
+        "points": 13,
+        "time": "9:00"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 14,
+        "points": 14,
+        "time": "9:01"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 15,
+        "points": 15,
+        "time": "9:08"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 16,
+        "points": 16,
+        "time": "9:09"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 16,
+        "points": 16,
+        "time": "9:09"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 18,
+        "points": 18,
+        "time": "9:18"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 19,
+        "points": 19,
+        "time": "9:29"
+      },
+      {
+        "name": "Joey Warren",
+        "place": 20,
+        "points": 20,
+        "time": "9:31"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 21,
+        "points": 21,
+        "time": "10:08"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 22,
+        "points": 22,
+        "time": "10:21"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 23,
+        "points": 23,
+        "time": "10:59"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 24,
+        "points": 24,
+        "time": "11:56"
+      }
+    ],
+    "Shoulder-to-Overhead": [
+      {
+        "name": "Neal Maddox",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Deric Maruquin",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dan Rogers",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Lilienthal",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Garth Prouse",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Christofferson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chase Ingraham",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bjorn Albrecht-walker",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nate Malton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sveinbjörn Sveinbjörnsson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Erik Szakaly",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Neil Scholtz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Richard Vanmeerbeek",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Geoffrey Tudisco",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Douglas Oberbeck",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 1,
+        "points": 1,
+        "time": "4:26"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 2,
+        "points": 2,
+        "time": "4:27"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 3,
+        "points": 3,
+        "time": "4:57"
+      },
+      {
+        "name": "Rich Froning Jr.",
+        "place": 4,
+        "points": 4,
+        "time": "5:21"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 5,
+        "points": 5,
+        "time": "5:56"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 6,
+        "points": 6,
+        "time": "6:01"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 7,
+        "points": 7,
+        "time": "6:04"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 8,
+        "points": 8,
+        "time": "7:49"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 9,
+        "points": 9,
+        "time": "8:09"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 10,
+        "points": 10,
+        "time": "8:14"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 11,
+        "points": 11,
+        "time": "8:43"
+      },
+      {
+        "name": "James Hobart",
+        "place": 12,
+        "points": 12,
+        "time": "8:58"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 13,
+        "points": 13,
+        "time": "9:15"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 14,
+        "points": 14,
+        "time": "9:42"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 15,
+        "points": 15,
+        "time": "10:10"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 16,
+        "points": 16,
+        "time": "10:38"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 17,
+        "points": 17,
+        "time": "10:52"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 18,
+        "points": 18,
+        "time": "12:02"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 18,
+        "points": 18,
+        "time": "12:02"
+      },
+      {
+        "name": "Joey Warren",
+        "place": 20,
+        "points": 20,
+        "time": "12:09"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 21,
+        "points": 21,
+        "time": "12:10"
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 21,
+        "points": 21,
+        "time": "12:10"
+      },
+      {
+        "name": "Chad Mackay",
+        "place": 23,
+        "points": 23,
+        "time": "12:16"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 24,
+        "points": 24,
+        "time": "12:18"
+      }
+    ],
+    "3 rounds for time of:": [
+      {
+        "name": "Spencer Hendel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "James Hobart",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Breck Berry",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gabe Subry",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Neal Maddox",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Deric Maruquin",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dan Rogers",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Lilienthal",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Garth Prouse",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Christofferson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chase Ingraham",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bjorn Albrecht-walker",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nate Malton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sveinbjörn Sveinbjörnsson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Erik Szakaly",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Neil Scholtz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Richard Vanmeerbeek",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Geoffrey Tudisco",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Douglas Oberbeck",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 1,
+        "points": 1,
+        "time": "231 rep"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 2,
+        "points": 2,
+        "time": "107 rep"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 3,
+        "points": 3,
+        "time": "104 rep"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 4,
+        "points": 4,
+        "time": "50 rep"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 5,
+        "points": 5,
+        "time": "48 rep"
+      },
+      {
+        "name": "Austin Malleolo",
+        "place": 6,
+        "points": 6,
+        "time": "23 rep"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 7,
+        "points": 7,
+        "time": "21 rep"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 7,
+        "points": 7,
+        "time": "21 rep"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 9,
+        "points": 9,
+        "time": "19 rep"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 10,
+        "points": 10,
+        "time": "14 rep"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 11,
+        "points": 11,
+        "time": "13 rep"
+      },
+      {
+        "name": "Rich Froning Jr.",
+        "place": 12,
+        "points": 12,
+        "time": "9 rep"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 13,
+        "points": 13,
+        "time": "7 rep"
+      },
+      {
+        "name": "Joey Warren",
+        "place": 13,
+        "points": 13,
+        "time": "7 rep"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 15,
+        "points": 15,
+        "time": "6 rep"
+      },
+      {
+        "name": "Chad Mackay",
+        "place": 15,
+        "points": 15,
+        "time": "6 rep"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Graham Holmberg",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 48,
+      "events": {
+        "Amanda": {
+          "place": 11,
+          "time": "4:33",
+          "points": 11
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 1,
+          "time": "16:59",
+          "points": 1
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 3,
+          "time": "285 lb",
+          "points": 3
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 3,
+          "time": "237 rep",
+          "points": 3
+        },
+        "Sandbag Move": {
+          "place": 16,
+          "time": "9:09",
+          "points": 16
+        },
+        "Shoulder-to-Overhead": {
+          "place": 1,
+          "time": "4:26",
+          "points": 1
+        },
+        "3 rounds for time of:": {
+          "place": 5,
+          "time": "48 rep",
+          "points": 5
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Rich Froning Jr.",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "69 in | 194 lb",
+      "total_points": 51,
+      "events": {
+        "Amanda": {
+          "place": 3,
+          "time": "3:47",
+          "points": 3
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 6,
+          "time": "18:10",
+          "points": 6
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 13,
+          "time": "245 lb",
+          "points": 13
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 1,
+          "time": "242 rep",
+          "points": 1
+        },
+        "Sandbag Move": {
+          "place": 2,
+          "time": "7:14",
+          "points": 2
+        },
+        "Shoulder-to-Overhead": {
+          "place": 4,
+          "time": "5:21",
+          "points": 4
+        },
+        "3 rounds for time of:": {
+          "place": 12,
+          "time": "9 rep",
+          "points": 12
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Chris Spealler",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "65 in | 143 lb",
+      "total_points": 69,
+      "events": {
+        "Amanda": {
+          "place": 1,
+          "time": "3:29",
+          "points": 1
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 2,
+          "time": "17:02",
+          "points": 2
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 26,
+          "time": "225 lb",
+          "points": 26
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 8,
+          "time": "225 rep",
+          "points": 8
+        },
+        "Sandbag Move": {
+          "place": 22,
+          "time": "10:21",
+          "points": 22
+        },
+        "Shoulder-to-Overhead": {
+          "place": 2,
+          "time": "4:27",
+          "points": 2
+        },
+        "3 rounds for time of:": {
+          "place": 1,
+          "time": "231 rep",
+          "points": 1
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Matt Chan",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "69 in | 217 lb",
+      "total_points": 73,
+      "events": {
+        "Amanda": {
+          "place": 4,
+          "time": "3:50",
+          "points": 4
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 11,
+          "time": "18:40",
+          "points": 11
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 4,
+          "time": "275 lb",
+          "points": 4
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 5,
+          "time": "236 rep",
+          "points": 5
+        },
+        "Sandbag Move": {
+          "place": 21,
+          "time": "10:08",
+          "points": 21
+        },
+        "Shoulder-to-Overhead": {
+          "place": 9,
+          "time": "8:09",
+          "points": 9
+        },
+        "3 rounds for time of:": {
+          "place": 9,
+          "time": "19 rep",
+          "points": 9
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Mikko Salo",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "175 cm | 85 kg",
+      "total_points": 77,
+      "events": {
+        "Amanda": {
+          "place": 15,
+          "time": "5:17",
+          "points": 15
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 4,
+          "time": "17:35",
+          "points": 4
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 10,
+          "time": "255 lb",
+          "points": 10
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 16,
+          "time": "219 rep",
+          "points": 16
+        },
+        "Sandbag Move": {
+          "place": 3,
+          "time": "7:24",
+          "points": 3
+        },
+        "Shoulder-to-Overhead": {
+          "place": 7,
+          "time": "6:04",
+          "points": 7
+        },
+        "3 rounds for time of:": {
+          "place": 13,
+          "time": "7 rep",
+          "points": 13
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Austin Malleolo",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "65 in | 175 lb",
+      "total_points": 84,
+      "events": {
+        "Amanda": {
+          "place": 7,
+          "time": "4:14",
+          "points": 7
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 9,
+          "time": "18:39",
+          "points": 9
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 37,
+          "time": "205 lb",
+          "points": 37
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 1,
+          "time": "242 rep",
+          "points": 1
+        },
+        "Sandbag Move": {
+          "place": 10,
+          "time": "8:24",
+          "points": 10
+        },
+        "Shoulder-to-Overhead": {
+          "place": 6,
+          "time": "6:01",
+          "points": 6
+        },
+        "3 rounds for time of:": {
+          "place": 6,
+          "time": "23 rep",
+          "points": 6
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Patrick Burke",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "70 in | 185 lb",
+      "total_points": 91,
+      "events": {
+        "Amanda": {
+          "place": 10,
+          "time": "4:31",
+          "points": 10
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 9,
+          "time": "18:39",
+          "points": 9
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 23,
+          "time": "235 lb",
+          "points": 23
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 12,
+          "time": "222 rep",
+          "points": 12
+        },
+        "Sandbag Move": {
+          "place": 4,
+          "time": "7:32",
+          "points": 4
+        },
+        "Shoulder-to-Overhead": {
+          "place": 15,
+          "time": "10:10",
+          "points": 15
+        },
+        "3 rounds for time of:": {
+          "place": 2,
+          "time": "107 rep",
+          "points": 2
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Ben Smith",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 20",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 93,
+      "events": {
+        "Amanda": {
+          "place": 5,
+          "time": "4:01",
+          "points": 5
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 35,
+          "time": "21:29",
+          "points": 35
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 2,
+          "time": "295 lb",
+          "points": 2
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 13,
+          "time": "221 rep",
+          "points": 13
+        },
+        "Sandbag Move": {
+          "place": 15,
+          "time": "9:08",
+          "points": 15
+        },
+        "Shoulder-to-Overhead": {
+          "place": 3,
+          "time": "4:57",
+          "points": 3
+        },
+        "3 rounds for time of:": {
+          "place": 7,
+          "time": "21 rep",
+          "points": 7
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Tommy Hackenbruck",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "73 in | 212 lb",
+      "total_points": 111,
+      "events": {
+        "Amanda": {
+          "place": 30,
+          "time": "6:49",
+          "points": 30
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 5,
+          "time": "18:07",
+          "points": 5
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 13,
+          "time": "245 lb",
+          "points": 13
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 26,
+          "time": "188 rep",
+          "points": 26
+        },
+        "Sandbag Move": {
+          "place": 1,
+          "time": "6:57",
+          "points": 1
+        },
+        "Shoulder-to-Overhead": {
+          "place": 14,
+          "time": "9:42",
+          "points": 14
+        },
+        "3 rounds for time of:": {
+          "place": 3,
+          "time": "104 rep",
+          "points": 3
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Peter Egyed",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "71 in | 193 lb",
+      "total_points": 117,
+      "events": {
+        "Amanda": {
+          "place": 6,
+          "time": "4:04",
+          "points": 6
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 3,
+          "time": "17:34",
+          "points": 3
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 37,
+          "time": "205 lb",
+          "points": 37
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 27,
+          "time": "187 rep",
+          "points": 27
+        },
+        "Sandbag Move": {
+          "place": 9,
+          "time": "8:17",
+          "points": 9
+        },
+        "Shoulder-to-Overhead": {
+          "place": 10,
+          "time": "8:14",
+          "points": 10
+        },
+        "3 rounds for time of:": {
+          "place": 4,
+          "time": "50 rep",
+          "points": 4
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Brandon Phillips",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "71 in | 215 lb",
+      "total_points": 121,
+      "events": {
+        "Amanda": {
+          "place": 9,
+          "time": "4:30",
+          "points": 9
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 15,
+          "time": "19:03",
+          "points": 15
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 13,
+          "time": "245 lb",
+          "points": 13
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 3,
+          "time": "237 rep",
+          "points": 3
+        },
+        "Sandbag Move": {
+          "place": 24,
+          "time": "11:56",
+          "points": 24
+        },
+        "Shoulder-to-Overhead": {
+          "place": 17,
+          "time": "10:52",
+          "points": 17
+        },
+        "3 rounds for time of:": {
+          "place": 15,
+          "time": "6 rep",
+          "points": 15
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Chad Mackay",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "73 in | 235 lb",
+      "total_points": 123,
+      "events": {
+        "Amanda": {
+          "place": 12,
+          "time": "4:57",
+          "points": 12
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 17,
+          "time": "19:10",
+          "points": 17
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 4,
+          "time": "275 lb",
+          "points": 4
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 19,
+          "time": "209 rep",
+          "points": 19
+        },
+        "Sandbag Move": {
+          "place": 7,
+          "time": "7:53",
+          "points": 7
+        },
+        "Shoulder-to-Overhead": {
+          "place": 23,
+          "time": "12:16",
+          "points": 23
+        },
+        "3 rounds for time of:": {
+          "place": 15,
+          "time": "6 rep",
+          "points": 15
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Joey Warren",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "71 in | 180 lb",
+      "total_points": 126,
+      "events": {
+        "Amanda": {
+          "place": 14,
+          "time": "5:04",
+          "points": 14
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 19,
+          "time": "19:20",
+          "points": 19
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 13,
+          "time": "245 lb",
+          "points": 13
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 6,
+          "time": "227 rep",
+          "points": 6
+        },
+        "Sandbag Move": {
+          "place": 20,
+          "time": "9:31",
+          "points": 20
+        },
+        "Shoulder-to-Overhead": {
+          "place": 20,
+          "time": "12:09",
+          "points": 20
+        },
+        "3 rounds for time of:": {
+          "place": 13,
+          "time": "7 rep",
+          "points": 13
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Moe Kelsey",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "74 in | 215 lb",
+      "total_points": 130,
+      "events": {
+        "Amanda": {
+          "place": 20,
+          "time": "5:27",
+          "points": 20
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 29,
+          "time": "20:09",
+          "points": 29
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 10,
+          "time": "255 lb",
+          "points": 10
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 32,
+          "time": "180 rep",
+          "points": 32
+        },
+        "Sandbag Move": {
+          "place": 5,
+          "time": "7:37",
+          "points": 5
+        },
+        "Shoulder-to-Overhead": {
+          "place": 5,
+          "time": "5:56",
+          "points": 5
+        },
+        "3 rounds for time of:": {
+          "place": 7,
+          "time": "21 rep",
+          "points": 7
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Rob Orlando",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "68 in | 195 lb",
+      "total_points": 134,
+      "events": {
+        "Amanda": {
+          "place": 8,
+          "time": "4:24",
+          "points": 8
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 12,
+          "time": "18:42",
+          "points": 12
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 13,
+          "time": "245 lb",
+          "points": 13
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 23,
+          "time": "197 rep",
+          "points": 23
+        },
+        "Sandbag Move": {
+          "place": 19,
+          "time": "9:29",
+          "points": 19
+        },
+        "Shoulder-to-Overhead": {
+          "place": 18,
+          "time": "12:02",
+          "points": 18
+        },
+        "3 rounds for time of:": {
+          "place": 10,
+          "time": "14 rep",
+          "points": 10
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Jason Khalipa",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "69 in | 210 lb",
+      "total_points": 136,
+      "events": {
+        "Amanda": {
+          "place": 28,
+          "time": "6:01",
+          "points": 28
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 13,
+          "time": "18:58",
+          "points": 13
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 8,
+          "time": "265 lb",
+          "points": 8
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 20,
+          "time": "208 rep",
+          "points": 20
+        },
+        "Sandbag Move": {
+          "place": 23,
+          "time": "10:59",
+          "points": 23
+        },
+        "Shoulder-to-Overhead": {
+          "place": 11,
+          "time": "8:43",
+          "points": 11
+        },
+        "3 rounds for time of:": {
+          "place": 11,
+          "time": "13 rep",
+          "points": 11
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Spencer Hendel",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 21",
+      "height_weight": "74 in | 215 lb",
+      "total_points": 104,
+      "events": {
+        "Amanda": {
+          "place": 27,
+          "time": "5:58",
+          "points": 27
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 33,
+          "time": "21:06",
+          "points": 33
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 13,
+          "time": "245 lb",
+          "points": 13
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 7,
+          "time": "226 rep",
+          "points": 7
+        },
+        "Sandbag Move": {
+          "place": 6,
+          "time": "7:43",
+          "points": 6
+        },
+        "Shoulder-to-Overhead": {
+          "place": 18,
+          "time": "12:02",
+          "points": 18
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "James Hobart",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "68 in | 185 lb",
+      "total_points": 105,
+      "events": {
+        "Amanda": {
+          "place": 18,
+          "time": "5:22",
+          "points": 18
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 31,
+          "time": "20:44",
+          "points": 31
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 23,
+          "time": "235 lb",
+          "points": 23
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 8,
+          "time": "225 rep",
+          "points": 8
+        },
+        "Sandbag Move": {
+          "place": 13,
+          "time": "9:00",
+          "points": 13
+        },
+        "Shoulder-to-Overhead": {
+          "place": 12,
+          "time": "8:58",
+          "points": 12
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Eric O'connor",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "70 in | 183 lb",
+      "total_points": 105,
+      "events": {
+        "Amanda": {
+          "place": 22,
+          "time": "5:43",
+          "points": 22
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 25,
+          "time": "19:42",
+          "points": 25
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 13,
+          "time": "245 lb",
+          "points": 13
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 10,
+          "time": "224 rep",
+          "points": 10
+        },
+        "Sandbag Move": {
+          "place": 14,
+          "time": "9:01",
+          "points": 14
+        },
+        "Shoulder-to-Overhead": {
+          "place": 21,
+          "time": "12:10",
+          "points": 21
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Braden Lutz",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 36",
+      "height_weight": "",
+      "total_points": 107,
+      "events": {
+        "Amanda": {
+          "place": 13,
+          "time": "4:58",
+          "points": 13
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 27,
+          "time": "19:57",
+          "points": 27
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 9,
+          "time": "260 lb",
+          "points": 9
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 34,
+          "time": "176 rep",
+          "points": 34
+        },
+        "Sandbag Move": {
+          "place": 11,
+          "time": "8:34",
+          "points": 11
+        },
+        "Shoulder-to-Overhead": {
+          "place": 13,
+          "time": "9:15",
+          "points": 13
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Breck Berry",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "67 in | 170 lb",
+      "total_points": 110,
+      "events": {
+        "Amanda": {
+          "place": 31,
+          "time": "7:05",
+          "points": 31
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 8,
+          "time": "18:34",
+          "points": 8
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 26,
+          "time": "225 lb",
+          "points": 26
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 21,
+          "time": "206 rep",
+          "points": 21
+        },
+        "Sandbag Move": {
+          "place": 16,
+          "time": "9:09",
+          "points": 16
+        },
+        "Shoulder-to-Overhead": {
+          "place": 8,
+          "time": "7:49",
+          "points": 8
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Dj Wickham",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "74 in | 227 lb",
+      "total_points": 115,
+      "events": {
+        "Amanda": {
+          "place": 16,
+          "time": "5:20",
+          "points": 16
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 44,
+          "time": "24:12",
+          "points": 44
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 1,
+          "time": "325 lb",
+          "points": 1
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 18,
+          "time": "211 rep",
+          "points": 18
+        },
+        "Sandbag Move": {
+          "place": 12,
+          "time": "8:56",
+          "points": 12
+        },
+        "Shoulder-to-Overhead": {
+          "place": 24,
+          "time": "12:18",
+          "points": 24
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Blair Morrison",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "72 in | 190 lb",
+      "total_points": 116,
+      "events": {
+        "Amanda": {
+          "place": 39,
+          "time": "9:19",
+          "points": 39
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 16,
+          "time": "19:08",
+          "points": 16
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 13,
+          "time": "245 lb",
+          "points": 13
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 24,
+          "time": "192 rep",
+          "points": 24
+        },
+        "Sandbag Move": {
+          "place": 8,
+          "time": "8:03",
+          "points": 8
+        },
+        "Shoulder-to-Overhead": {
+          "place": 16,
+          "time": "10:38",
+          "points": 16
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Gabe Subry",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "69 in | 190 lb",
+      "total_points": 122,
+      "events": {
+        "Amanda": {
+          "place": 23,
+          "time": "5:51",
+          "points": 23
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 21,
+          "time": "19:31",
+          "points": 21
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 26,
+          "time": "225 lb",
+          "points": 26
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 13,
+          "time": "221 rep",
+          "points": 13
+        },
+        "Sandbag Move": {
+          "place": 18,
+          "time": "9:18",
+          "points": 18
+        },
+        "Shoulder-to-Overhead": {
+          "place": 21,
+          "time": "12:10",
+          "points": 21
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Neal Maddox",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "70 in | 215 lb",
+      "total_points": 93,
+      "events": {
+        "Amanda": {
+          "place": 2,
+          "time": "3:46",
+          "points": 2
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 32,
+          "time": "20:53",
+          "points": 32
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 34,
+          "time": "215 lb",
+          "points": 34
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 25,
+          "time": "189 rep",
+          "points": 25
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Chris Hogan",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "179 cm | 200 lb",
+      "total_points": 93,
+      "events": {
+        "Amanda": {
+          "place": 19,
+          "time": "5:24",
+          "points": 19
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 21,
+          "time": "19:31",
+          "points": 21
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 26,
+          "time": "225 lb",
+          "points": 26
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 27,
+          "time": "187 rep",
+          "points": 27
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Deric Maruquin",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "63 in | 180 lb",
+      "total_points": 99,
+      "events": {
+        "Amanda": {
+          "place": 21,
+          "time": "5:33",
+          "points": 21
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 26,
+          "time": "19:53",
+          "points": 26
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 23,
+          "time": "235 lb",
+          "points": 23
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 29,
+          "time": "185 rep",
+          "points": 29
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "James Fitzgerald",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 36",
+      "height_weight": "69 in | 176 lb",
+      "total_points": 102,
+      "events": {
+        "Amanda": {
+          "place": 29,
+          "time": "6:13",
+          "points": 29
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 37,
+          "time": "21:36",
+          "points": 37
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 26,
+          "time": "225 lb",
+          "points": 26
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 10,
+          "time": "224 rep",
+          "points": 10
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Dan Rogers",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "183 cm | 195 lb",
+      "total_points": 103,
+      "events": {
+        "Amanda": {
+          "place": 26,
+          "time": "5:56",
+          "points": 26
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 36,
+          "time": "21:32",
+          "points": 36
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 10,
+          "time": "255 lb",
+          "points": 10
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 31,
+          "time": "181 rep",
+          "points": 31
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Ryan Lilienthal",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "69 in | 180 lb",
+      "total_points": 110,
+      "events": {
+        "Amanda": {
+          "place": 32,
+          "time": "7:12",
+          "points": 32
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 20,
+          "time": "19:23",
+          "points": 20
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 22,
+          "time": "240 lb",
+          "points": 22
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 36,
+          "time": "165 rep",
+          "points": 36
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Garth Prouse",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "",
+      "total_points": 68,
+      "events": {
+        "Amanda": {
+          "place": 45,
+          "time": "12:22",
+          "points": 45
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 7,
+          "time": "18:24",
+          "points": 7
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 16,
+          "time": "219 rep",
+          "points": 16
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Jeremy Christofferson",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "",
+      "total_points": 115,
+      "events": {
+        "Amanda": {
+          "place": 25,
+          "time": "5:52",
+          "points": 25
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 43,
+          "time": "23:49",
+          "points": 43
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 4,
+          "time": "275 lb",
+          "points": 4
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 43,
+          "time": "143 rep",
+          "points": 43
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Chase Ingraham",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "74 in | 200 lb",
+      "total_points": 116,
+      "events": {
+        "Amanda": {
+          "place": 17,
+          "time": "5:21",
+          "points": 17
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 23,
+          "time": "19:38",
+          "points": 23
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 44,
+          "time": "135 lb",
+          "points": 44
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 32,
+          "time": "180 rep",
+          "points": 32
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Jerome Perryman",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 36",
+      "height_weight": "75 in | 220 lb",
+      "total_points": 117,
+      "events": {
+        "Amanda": {
+          "place": 35,
+          "time": "8:47",
+          "points": 35
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 41,
+          "time": "23:19",
+          "points": 41
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 4,
+          "time": "275 lb",
+          "points": 4
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 37,
+          "time": "164 rep",
+          "points": 37
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Michael Giardina",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "70 in | 186 lb",
+      "total_points": 120,
+      "events": {
+        "Amanda": {
+          "place": 23,
+          "time": "5:51",
+          "points": 23
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 42,
+          "time": "23:33",
+          "points": 42
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 13,
+          "time": "245 lb",
+          "points": 13
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 42,
+          "time": "145 rep",
+          "points": 42
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Vic Zachary",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "184 lb",
+      "total_points": 121,
+      "events": {
+        "Amanda": {
+          "place": 41,
+          "time": "12:06",
+          "points": 41
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 24,
+          "time": "19:39",
+          "points": 24
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 26,
+          "time": "225 lb",
+          "points": 26
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 30,
+          "time": "183 rep",
+          "points": 30
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Michael Fitzgerald",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "73 in | 200 lb",
+      "total_points": 122,
+      "events": {
+        "Amanda": {
+          "place": 36,
+          "time": "9:09",
+          "points": 36
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 34,
+          "time": "21:08",
+          "points": 34
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 37,
+          "time": "205 lb",
+          "points": 37
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 15,
+          "time": "220 rep",
+          "points": 15
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Bjorn Albrecht-walker",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "183 cm | 83 kg",
+      "total_points": 127,
+      "events": {
+        "Amanda": {
+          "place": 33,
+          "time": "7:47",
+          "points": 33
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 14,
+          "time": "19:02",
+          "points": 14
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 42,
+          "time": "185 lb",
+          "points": 42
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 38,
+          "time": "163 rep",
+          "points": 38
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "rank_label": "39",
+      "name": "Nate Malton",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "",
+      "total_points": 131,
+      "events": {
+        "Amanda": {
+          "place": 38,
+          "time": "9:14",
+          "points": 38
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 28,
+          "time": "20:03",
+          "points": 28
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 26,
+          "time": "225 lb",
+          "points": 26
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 39,
+          "time": "154 rep",
+          "points": 39
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "rank_label": "40",
+      "name": "Sveinbjörn Sveinbjörnsson",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "186 cm | 198 lb",
+      "total_points": 134,
+      "events": {
+        "Amanda": {
+          "place": 40,
+          "time": "11:46",
+          "points": 40
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 38,
+          "time": "21:51",
+          "points": 38
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 34,
+          "time": "215 lb",
+          "points": 34
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 22,
+          "time": "199 rep",
+          "points": 22
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 41,
+      "rank_label": "41",
+      "name": "Erik Szakaly",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 137,
+      "events": {
+        "Amanda": {
+          "place": 41,
+          "time": "12:06",
+          "points": 41
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 18,
+          "time": "19:17",
+          "points": 18
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 34,
+          "time": "215 lb",
+          "points": 34
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 44,
+          "time": "135 rep",
+          "points": 44
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 42,
+      "rank_label": "42",
+      "name": "Neil Scholtz",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "179 cm | 82 kg",
+      "total_points": 138,
+      "events": {
+        "Amanda": {
+          "place": 37,
+          "time": "9:12",
+          "points": 37
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 40,
+          "time": "23:11",
+          "points": 40
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 26,
+          "time": "225 lb",
+          "points": 26
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 35,
+          "time": "175 rep",
+          "points": 35
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 43,
+      "rank_label": "43",
+      "name": "Richard Vanmeerbeek",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "188 cm | 198 lb",
+      "total_points": 142,
+      "events": {
+        "Amanda": {
+          "place": 34,
+          "time": "8:14",
+          "points": 34
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 30,
+          "time": "20:28",
+          "points": 30
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 37,
+          "time": "205 lb",
+          "points": 37
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 41,
+          "time": "147 rep",
+          "points": 41
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 44,
+      "rank_label": "44",
+      "name": "Geoffrey Tudisco",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "",
+      "total_points": 166,
+      "events": {
+        "Amanda": {
+          "place": 44,
+          "time": "12:10",
+          "points": 44
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 45,
+          "time": "25:41",
+          "points": 45
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 37,
+          "time": "205 lb",
+          "points": 37
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 40,
+          "time": "149 rep",
+          "points": 40
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 45,
+      "rank_label": "45",
+      "name": "Douglas Oberbeck",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "74 in | 185 lb",
+      "total_points": 167,
+      "events": {
+        "Amanda": {
+          "place": 41,
+          "time": "12:06",
+          "points": 41
+        },
+        "Cleans-Handstand Push-ups": {
+          "place": 39,
+          "time": "22:55",
+          "points": 39
+        },
+        "Deadlift-Pistol-Double-under": {
+          "place": 42,
+          "time": "185 lb",
+          "points": 42
+        },
+        "Pyramid Double \"Helen\"": {
+          "place": 45,
+          "time": "92 rep",
+          "points": 45
+        },
+        "Sandbag Move": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Shoulder-to-Overhead": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

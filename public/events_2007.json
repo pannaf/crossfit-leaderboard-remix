@@ -1,0 +1,37 @@
+{
+  "year": 2007,
+  "events": [
+    {
+      "name": "CrossFit Total",
+      "details": [
+        "Back squat 1-rep max",
+        "Press 1-rep max",
+        "Deadlift 1-rep max"
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "Hopper-Style CrossFit WOD",
+      "details": [
+        "1,000-meter row",
+        "Then, 5 rounds of:",
+        "25 Pull-ups",
+        "7 Push Jerks (135/85 lb.)"
+      ],
+      "notes": [],
+      "description": "For time:",
+      "timeCap": ""
+    },
+    {
+      "name": "Trail Run",
+      "details": [
+        "Trail run (approximately 5 k)"
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    }
+  ]
+}

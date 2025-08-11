@@ -1,0 +1,5716 @@
+{
+  "year": 2009,
+  "gender": "men",
+  "events": [
+    "7-k Hill Run",
+    "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.",
+    "170-meter Hill Sprint with 35-lb. sandbags",
+    "Row 500 meters",
+    "3 rounds for time of:",
+    "Barbell snatch, 1 rep max",
+    "8-min. AMRAP of:",
+    "For time:"
+  ],
+  "event_point_map": {
+    "7-k Hill Run": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "23": 23,
+      "24": 24,
+      "25": 25,
+      "26": 26,
+      "28": 28,
+      "30": 30,
+      "31": 31,
+      "32": 32,
+      "33": 33,
+      "39": 39,
+      "40": 40,
+      "41": 41,
+      "42": 42,
+      "43": 43,
+      "44": 44,
+      "45": 45,
+      "46": 46,
+      "47": 47,
+      "51": 51,
+      "52": 52,
+      "53": 53,
+      "54": 54,
+      "56": 56,
+      "58": 58,
+      "61": 61,
+      "65": 65,
+      "66": 66,
+      "69": 69,
+      "72": 72,
+      "74": 74
+    },
+    "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+      "1": 1,
+      "17": 17,
+      "20": 20,
+      "24": 24,
+      "27": 27,
+      "33": 33,
+      "37": 37,
+      "44": 44,
+      "55": 55,
+      "59": 59,
+      "64": 64,
+      "67": 67,
+      "71": 71
+    },
+    "170-meter Hill Sprint with 35-lb. sandbags": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "20": 20,
+      "22": 22,
+      "23": 23,
+      "24": 24,
+      "27": 27,
+      "29": 29,
+      "30": 30,
+      "31": 31,
+      "32": 32,
+      "33": 33,
+      "35": 35,
+      "36": 36,
+      "37": 37,
+      "38": 38,
+      "41": 41,
+      "43": 43,
+      "44": 44,
+      "45": 45,
+      "46": 46,
+      "50": 50,
+      "51": 51,
+      "52": 52,
+      "53": 53,
+      "56": 56,
+      "58": 58,
+      "64": 64
+    },
+    "Row 500 meters": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24,
+      "25": 25,
+      "26": 26,
+      "27": 27,
+      "28": 28,
+      "29": 29,
+      "30": 30,
+      "32": 32,
+      "33": 33,
+      "34": 34,
+      "36": 36,
+      "37": 37,
+      "38": 38,
+      "39": 39,
+      "41": 41,
+      "45": 45,
+      "46": 46,
+      "47": 47,
+      "48": 48,
+      "49": 49,
+      "50": 50,
+      "51": 51,
+      "53": 53,
+      "54": 54,
+      "57": 57
+    },
+    "3 rounds for time of:": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24,
+      "25": 25,
+      "26": 26,
+      "27": 27,
+      "28": 28,
+      "29": 29,
+      "30": 30,
+      "31": 31,
+      "32": 32,
+      "33": 33,
+      "34": 34,
+      "35": 35,
+      "36": 36,
+      "37": 37,
+      "38": 38,
+      "39": 39,
+      "40": 40,
+      "41": 41
+    },
+    "Barbell snatch, 1 rep max": {
+      "1": 1,
+      "2": 2,
+      "5": 5,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "16": 16
+    },
+    "8-min. AMRAP of:": {
+      "1": 1,
+      "2": 2,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "13": 13,
+      "15": 15,
+      "16": 16
+    },
+    "For time:": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11
+    }
+  },
+  "event_field_size": {
+    "7-k Hill Run": 74,
+    "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": 71,
+    "170-meter Hill Sprint with 35-lb. sandbags": 64,
+    "Row 500 meters": 57,
+    "3 rounds for time of:": 41,
+    "Barbell snatch, 1 rep max": 16,
+    "8-min. AMRAP of:": 16,
+    "For time:": 11
+  },
+  "event_place_points": {
+    "7-k Hill Run": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      0,
+      19,
+      20,
+      21,
+      0,
+      23,
+      24,
+      25,
+      26,
+      0,
+      28,
+      0,
+      30,
+      31,
+      32,
+      33,
+      0,
+      0,
+      0,
+      0,
+      0,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      0,
+      0,
+      0,
+      51,
+      52,
+      53,
+      54,
+      0,
+      56,
+      0,
+      58,
+      0,
+      0,
+      61,
+      0,
+      0,
+      0,
+      65,
+      66,
+      0,
+      0,
+      69,
+      0,
+      0,
+      72,
+      0,
+      74
+    ],
+    "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      17,
+      0,
+      0,
+      20,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      27,
+      0,
+      0,
+      0,
+      0,
+      0,
+      33,
+      0,
+      0,
+      0,
+      37,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      44,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      55,
+      0,
+      0,
+      0,
+      59,
+      0,
+      0,
+      0,
+      0,
+      64,
+      0,
+      0,
+      67,
+      0,
+      0,
+      0,
+      71
+    ],
+    "170-meter Hill Sprint with 35-lb. sandbags": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      0,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      0,
+      20,
+      0,
+      22,
+      23,
+      24,
+      0,
+      0,
+      27,
+      0,
+      29,
+      30,
+      31,
+      32,
+      33,
+      0,
+      35,
+      36,
+      37,
+      38,
+      0,
+      0,
+      41,
+      0,
+      43,
+      44,
+      45,
+      46,
+      0,
+      0,
+      0,
+      50,
+      51,
+      52,
+      53,
+      0,
+      0,
+      56,
+      0,
+      58,
+      0,
+      0,
+      0,
+      0,
+      0,
+      64
+    ],
+    "Row 500 meters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      0,
+      32,
+      33,
+      34,
+      0,
+      36,
+      37,
+      38,
+      39,
+      0,
+      41,
+      0,
+      0,
+      0,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      0,
+      53,
+      54,
+      0,
+      0,
+      57
+    ],
+    "3 rounds for time of:": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      0,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "Barbell snatch, 1 rep max": [
+      1,
+      2,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      9,
+      10,
+      11,
+      12,
+      13,
+      0,
+      0,
+      16
+    ],
+    "8-min. AMRAP of:": [
+      1,
+      2,
+      0,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      0,
+      0,
+      13,
+      0,
+      15,
+      16
+    ],
+    "For time:": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "event_ordinals": {
+    "7-k Hill Run": 1,
+    "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": 2,
+    "170-meter Hill Sprint with 35-lb. sandbags": 3,
+    "Row 500 meters": 4,
+    "3 rounds for time of:": 5,
+    "Barbell snatch, 1 rep max": 6,
+    "8-min. AMRAP of:": 7,
+    "For time:": 8
+  },
+  "event_finish_order": {
+    "7-k Hill Run": [
+      {
+        "name": "Chris Spealler",
+        "place": 1,
+        "points": 1,
+        "time": "37:43.2"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 2,
+        "points": 2,
+        "time": "37:44.6"
+      },
+      {
+        "name": "Russell Berger",
+        "place": 3,
+        "points": 3,
+        "time": "38:07.8"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 4,
+        "points": 4,
+        "time": "38:54.5"
+      },
+      {
+        "name": "David Millar",
+        "place": 5,
+        "points": 5,
+        "time": "39:20.3"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 6,
+        "points": 6,
+        "time": "39:25.3"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 7,
+        "points": 7,
+        "time": "40:08.8"
+      },
+      {
+        "name": "Sveinbjorn Sveinbjornsson",
+        "place": 8,
+        "points": 8,
+        "time": "40:17.6"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 9,
+        "points": 9,
+        "time": "40:25.9"
+      },
+      {
+        "name": "J.c. Nessa",
+        "place": 10,
+        "points": 10,
+        "time": "41:14.3"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 11,
+        "points": 11,
+        "time": "41:41.8"
+      },
+      {
+        "name": "Craig Mccarroll",
+        "place": 12,
+        "points": 12,
+        "time": "41:42.3"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 13,
+        "points": 13,
+        "time": "41:42.7"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 14,
+        "points": 14,
+        "time": "41:45.4"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 15,
+        "points": 15,
+        "time": "41:58.8"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 16,
+        "points": 16,
+        "time": "42:17.6"
+      },
+      {
+        "name": "Ricky Frausto",
+        "place": 17,
+        "points": 17,
+        "time": "42:18.3"
+      },
+      {
+        "name": "Kyle Kasperbauer",
+        "place": 19,
+        "points": 19,
+        "time": "42:58.6"
+      },
+      {
+        "name": "Jason Bird",
+        "place": 20,
+        "points": 20,
+        "time": "43:09.9"
+      },
+      {
+        "name": "Ben Carter",
+        "place": 21,
+        "points": 21,
+        "time": "43:10.2"
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 23,
+        "points": 23,
+        "time": "43:25.8"
+      },
+      {
+        "name": "Jason Boag",
+        "place": 24,
+        "points": 24,
+        "time": "43:36.7"
+      },
+      {
+        "name": "Steve Smith",
+        "place": 25,
+        "points": 25,
+        "time": "43:41.5"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 26,
+        "points": 26,
+        "time": "43:51.0"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 28,
+        "points": 28,
+        "time": "44:11.3"
+      },
+      {
+        "name": "Josh Everett",
+        "place": 30,
+        "points": 30,
+        "time": "44:22.3"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 31,
+        "points": 31,
+        "time": "44:26.4"
+      },
+      {
+        "name": "Lance Cantu",
+        "place": 32,
+        "points": 32,
+        "time": "44:29.7"
+      },
+      {
+        "name": "Steve Willis",
+        "place": 33,
+        "points": 33,
+        "time": "44:36.2"
+      },
+      {
+        "name": "Darren Rosten",
+        "place": 39,
+        "points": 39,
+        "time": "45:16.6"
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 40,
+        "points": 40,
+        "time": "45:32.2"
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 41,
+        "points": 41,
+        "time": "45:32.3"
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 42,
+        "points": 42,
+        "time": "45:36.3"
+      },
+      {
+        "name": "Scott Lewis",
+        "place": 43,
+        "points": 43,
+        "time": "45:45.5"
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 44,
+        "points": 44,
+        "time": "45:49.5"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 45,
+        "points": 45,
+        "time": "46:00.5"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 46,
+        "points": 46,
+        "time": "46:05.4"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 47,
+        "points": 47,
+        "time": "46:09.1"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 51,
+        "points": 51,
+        "time": "46:21.3"
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 52,
+        "points": 52,
+        "time": "46:29.3"
+      },
+      {
+        "name": "Jeff Leonard",
+        "place": 53,
+        "points": 53,
+        "time": "46:36.9"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 54,
+        "points": 54,
+        "time": "46:39.4"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 56,
+        "points": 56,
+        "time": "46:58.6"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 58,
+        "points": 58,
+        "time": "47:25.3"
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 61,
+        "points": 61,
+        "time": "47:59.6"
+      },
+      {
+        "name": "David Lipson",
+        "place": 65,
+        "points": 65,
+        "time": "48:44.1"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 66,
+        "points": 66,
+        "time": "49:17.9"
+      },
+      {
+        "name": "Jeffrey Tincher",
+        "place": 69,
+        "points": 69,
+        "time": "50:28.5"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 72,
+        "points": 72,
+        "time": "54:35.5"
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 74,
+        "points": 74,
+        "time": "1:00:24.7"
+      }
+    ],
+    "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": [
+      {
+        "name": "Moe Kelsey",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "J.c. Nessa",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Josh Everett",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Scott Lewis",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "David Lipson",
+        "place": 1,
+        "points": 1,
+        "time": "505 lb"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 17,
+        "points": 17,
+        "time": "495 lb"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 17,
+        "points": 17,
+        "time": "495 lb"
+      },
+      {
+        "name": "Steve Smith",
+        "place": 17,
+        "points": 17,
+        "time": "495 lb"
+      },
+      {
+        "name": "Steve Willis",
+        "place": 20,
+        "points": 20,
+        "time": "485 lb"
+      },
+      {
+        "name": "David Millar",
+        "place": 20,
+        "points": 20,
+        "time": "485 lb"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 20,
+        "points": 20,
+        "time": "485 lb"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 24,
+        "points": 24,
+        "time": "475 lb"
+      },
+      {
+        "name": "Jeff Leonard",
+        "place": 24,
+        "points": 24,
+        "time": "475 lb"
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 24,
+        "points": 24,
+        "time": "475 lb"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 27,
+        "points": 27,
+        "time": "465 lb"
+      },
+      {
+        "name": "Jeffrey Tincher",
+        "place": 27,
+        "points": 27,
+        "time": "465 lb"
+      },
+      {
+        "name": "Kyle Kasperbauer",
+        "place": 27,
+        "points": 27,
+        "time": "465 lb"
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 27,
+        "points": 27,
+        "time": "465 lb"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 33,
+        "points": 33,
+        "time": "455 lb"
+      },
+      {
+        "name": "Craig Mccarroll",
+        "place": 33,
+        "points": 33,
+        "time": "455 lb"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 37,
+        "points": 37,
+        "time": "445 lb"
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 37,
+        "points": 37,
+        "time": "445 lb"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 37,
+        "points": 37,
+        "time": "445 lb"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 44,
+        "points": 44,
+        "time": "435 lb"
+      },
+      {
+        "name": "Sveinbjorn Sveinbjornsson",
+        "place": 44,
+        "points": 44,
+        "time": "435 lb"
+      },
+      {
+        "name": "Ben Carter",
+        "place": 44,
+        "points": 44,
+        "time": "435 lb"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 44,
+        "points": 44,
+        "time": "435 lb"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 44,
+        "points": 44,
+        "time": "435 lb"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 44,
+        "points": 44,
+        "time": "435 lb"
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 44,
+        "points": 44,
+        "time": "435 lb"
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 44,
+        "points": 44,
+        "time": "435 lb"
+      },
+      {
+        "name": "Ricky Frausto",
+        "place": 44,
+        "points": 44,
+        "time": "435 lb"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 55,
+        "points": 55,
+        "time": "425 lb"
+      },
+      {
+        "name": "Darren Rosten",
+        "place": 55,
+        "points": 55,
+        "time": "425 lb"
+      },
+      {
+        "name": "Jason Bird",
+        "place": 55,
+        "points": 55,
+        "time": "425 lb"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 59,
+        "points": 59,
+        "time": "415 lb"
+      },
+      {
+        "name": "Russell Berger",
+        "place": 64,
+        "points": 64,
+        "time": "405 lb"
+      },
+      {
+        "name": "Lance Cantu",
+        "place": 67,
+        "points": 67,
+        "time": "395 lb"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 71,
+        "points": 71,
+        "time": "375 lb"
+      },
+      {
+        "name": "Jason Boag",
+        "place": 71,
+        "points": 71,
+        "time": "375 lb"
+      }
+    ],
+    "170-meter Hill Sprint with 35-lb. sandbags": [
+      {
+        "name": "Sveinbjorn Sveinbjornsson",
+        "place": 1,
+        "points": 1,
+        "time": "1:01.0"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 2,
+        "points": 2,
+        "time": "1:03.4"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 3,
+        "points": 3,
+        "time": "1:04.9"
+      },
+      {
+        "name": "Steve Willis",
+        "place": 4,
+        "points": 4,
+        "time": "1:06.6"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 5,
+        "points": 5,
+        "time": "1:06.8"
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 6,
+        "points": 6,
+        "time": "1:07.0"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 7,
+        "points": 7,
+        "time": "1:07.4"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 8,
+        "points": 8,
+        "time": "1:08.4"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 9,
+        "points": 9,
+        "time": "1:08.6"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 9,
+        "points": 9,
+        "time": "1:08.6"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 11,
+        "points": 11,
+        "time": "1:09.1"
+      },
+      {
+        "name": "Jeff Leonard",
+        "place": 12,
+        "points": 12,
+        "time": "1:09.5"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 13,
+        "points": 13,
+        "time": "1:10.0"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 14,
+        "points": 14,
+        "time": "1:10.2"
+      },
+      {
+        "name": "Jason Boag",
+        "place": 15,
+        "points": 15,
+        "time": "1:11.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 16,
+        "points": 16,
+        "time": "1:11.1"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 17,
+        "points": 17,
+        "time": "1:11.5"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 18,
+        "points": 18,
+        "time": "1:11.6"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 18,
+        "points": 18,
+        "time": "1:11.6"
+      },
+      {
+        "name": "Lance Cantu",
+        "place": 20,
+        "points": 20,
+        "time": "1:12.0"
+      },
+      {
+        "name": "Kyle Kasperbauer",
+        "place": 20,
+        "points": 20,
+        "time": "1:12.0"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 22,
+        "points": 22,
+        "time": "1:12.5"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 23,
+        "points": 23,
+        "time": "1:12.9"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 24,
+        "points": 24,
+        "time": "1:13.0"
+      },
+      {
+        "name": "David Lipson",
+        "place": 24,
+        "points": 24,
+        "time": "1:13.0"
+      },
+      {
+        "name": "Russell Berger",
+        "place": 24,
+        "points": 24,
+        "time": "1:13.0"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 27,
+        "points": 27,
+        "time": "1:13.3"
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 27,
+        "points": 27,
+        "time": "1:13.3"
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 29,
+        "points": 29,
+        "time": "1:14.0"
+      },
+      {
+        "name": "David Millar",
+        "place": 30,
+        "points": 30,
+        "time": "1:14.3"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 31,
+        "points": 31,
+        "time": "1:14.5"
+      },
+      {
+        "name": "Craig Mccarroll",
+        "place": 32,
+        "points": 32,
+        "time": "1:14.8"
+      },
+      {
+        "name": "J.c. Nessa",
+        "place": 33,
+        "points": 33,
+        "time": "1:15.0"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 35,
+        "points": 35,
+        "time": "1:15.6"
+      },
+      {
+        "name": "Jeffrey Tincher",
+        "place": 36,
+        "points": 36,
+        "time": "1:15.9"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 37,
+        "points": 37,
+        "time": "1:17.0"
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 38,
+        "points": 38,
+        "time": "1:18.0"
+      },
+      {
+        "name": "Ben Carter",
+        "place": 41,
+        "points": 41,
+        "time": "1:19.3"
+      },
+      {
+        "name": "Scott Lewis",
+        "place": 41,
+        "points": 41,
+        "time": "1:19.3"
+      },
+      {
+        "name": "Steve Smith",
+        "place": 43,
+        "points": 43,
+        "time": "1:19.9"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 44,
+        "points": 44,
+        "time": "1:20.0"
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 45,
+        "points": 45,
+        "time": "1:20.4"
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 46,
+        "points": 46,
+        "time": "1:21.0"
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 50,
+        "points": 50,
+        "time": "1:22.8"
+      },
+      {
+        "name": "Ricky Frausto",
+        "place": 51,
+        "points": 51,
+        "time": "1:23.0"
+      },
+      {
+        "name": "Jason Bird",
+        "place": 52,
+        "points": 52,
+        "time": "1:24.2"
+      },
+      {
+        "name": "Darren Rosten",
+        "place": 53,
+        "points": 53,
+        "time": "1:25.0"
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 56,
+        "points": 56,
+        "time": "1:28.4"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 58,
+        "points": 58,
+        "time": "1:33.1"
+      },
+      {
+        "name": "Josh Everett",
+        "place": 64,
+        "points": 64,
+        "time": "1:41.7"
+      }
+    ],
+    "Row 500 meters": [
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 1,
+        "points": 1,
+        "time": "4:36.6"
+      },
+      {
+        "name": "Jeff Leonard",
+        "place": 2,
+        "points": 2,
+        "time": "4:42.9"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 3,
+        "points": 3,
+        "time": "4:46.3"
+      },
+      {
+        "name": "Sveinbjorn Sveinbjornsson",
+        "place": 4,
+        "points": 4,
+        "time": "4:52.8"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 5,
+        "points": 5,
+        "time": "4:53.5"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 6,
+        "points": 6,
+        "time": "4:55.2"
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 7,
+        "points": 7,
+        "time": "4:55.7"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 8,
+        "points": 8,
+        "time": "5:07.6"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 9,
+        "points": 9,
+        "time": "5:10.6"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 10,
+        "points": 10,
+        "time": "5:18.3"
+      },
+      {
+        "name": "Ben Carter",
+        "place": 11,
+        "points": 11,
+        "time": "5:21.2"
+      },
+      {
+        "name": "Jeffrey Tincher",
+        "place": 12,
+        "points": 12,
+        "time": "5:26.8"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 13,
+        "points": 13,
+        "time": "5:28.2"
+      },
+      {
+        "name": "David Millar",
+        "place": 14,
+        "points": 14,
+        "time": "5:30.7"
+      },
+      {
+        "name": "Steve Willis",
+        "place": 15,
+        "points": 15,
+        "time": "5:33.6"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 16,
+        "points": 16,
+        "time": "5:36.1"
+      },
+      {
+        "name": "Lance Cantu",
+        "place": 17,
+        "points": 17,
+        "time": "5:40.0"
+      },
+      {
+        "name": "Kyle Kasperbauer",
+        "place": 18,
+        "points": 18,
+        "time": "5:48.0"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 19,
+        "points": 19,
+        "time": "5:50.0"
+      },
+      {
+        "name": "Darren Rosten",
+        "place": 20,
+        "points": 20,
+        "time": "5:58.0"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 21,
+        "points": 21,
+        "time": "6:00.0"
+      },
+      {
+        "name": "Craig Mccarroll",
+        "place": 22,
+        "points": 22,
+        "time": "6:01.1"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 23,
+        "points": 23,
+        "time": "6:02.0"
+      },
+      {
+        "name": "Jason Boag",
+        "place": 24,
+        "points": 24,
+        "time": "6:04.0"
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 25,
+        "points": 25,
+        "time": "6:05.2"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 26,
+        "points": 26,
+        "time": "6:10.7"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 27,
+        "points": 27,
+        "time": "6:12.6"
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 28,
+        "points": 28,
+        "time": "6:12.8"
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 29,
+        "points": 29,
+        "time": "6:15.9"
+      },
+      {
+        "name": "Scott Lewis",
+        "place": 30,
+        "points": 30,
+        "time": "6:19.0"
+      },
+      {
+        "name": "Jason Bird",
+        "place": 30,
+        "points": 30,
+        "time": "6:19.0"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 32,
+        "points": 32,
+        "time": "6:24.4"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 33,
+        "points": 33,
+        "time": "6:24.5"
+      },
+      {
+        "name": "David Lipson",
+        "place": 34,
+        "points": 34,
+        "time": "6:25.2"
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 36,
+        "points": 36,
+        "time": "6:27.0"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 37,
+        "points": 37,
+        "time": "6:29.9"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 38,
+        "points": 38,
+        "time": "6:31.0"
+      },
+      {
+        "name": "Russell Berger",
+        "place": 39,
+        "points": 39,
+        "time": "6:33.6"
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 41,
+        "points": 41,
+        "time": "6:39.7"
+      },
+      {
+        "name": "Ricky Frausto",
+        "place": 45,
+        "points": 45,
+        "time": "7:04.4"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 46,
+        "points": 46,
+        "time": "7:05.2"
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 47,
+        "points": 47,
+        "time": "7:18.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 48,
+        "points": 48,
+        "time": "7:23.5"
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 49,
+        "points": 49,
+        "time": "7:23.7"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 50,
+        "points": 50,
+        "time": "7:31.7"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 51,
+        "points": 51,
+        "time": "6:35.0"
+      },
+      {
+        "name": "Steve Smith",
+        "place": 51,
+        "points": 51,
+        "time": "7:35.0"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 53,
+        "points": 53,
+        "time": "7:37.3"
+      },
+      {
+        "name": "J.c. Nessa",
+        "place": 54,
+        "points": 54,
+        "time": "7:38.0"
+      },
+      {
+        "name": "Josh Everett",
+        "place": 57,
+        "points": 57,
+        "time": "7:44.0"
+      }
+    ],
+    "3 rounds for time of:": [
+      {
+        "name": "Kyle Kasperbauer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Craig Mccarroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Scott Lewis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "David Lipson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Russell Berger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Boag",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Steve Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Bird",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 1,
+        "points": 1,
+        "time": "11:18.7"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 2,
+        "points": 2,
+        "time": "11:56.0"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 3,
+        "points": 3,
+        "time": "12:09.2"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 4,
+        "points": 4,
+        "time": "12:14.7"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 5,
+        "points": 5,
+        "time": "12:35.3"
+      },
+      {
+        "name": "Ben Carter",
+        "place": 6,
+        "points": 6,
+        "time": "12:36.5"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 7,
+        "points": 7,
+        "time": "12:37.0"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 8,
+        "points": 8,
+        "time": "13:01.0"
+      },
+      {
+        "name": "Steve Willis",
+        "place": 9,
+        "points": 9,
+        "time": "13:06.9"
+      },
+      {
+        "name": "Jeff Leonard",
+        "place": 9,
+        "points": 9,
+        "time": "13:06.9"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 11,
+        "points": 11,
+        "time": "13:11.0"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 12,
+        "points": 12,
+        "time": "13:21.6"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 13,
+        "points": 13,
+        "time": "13:23.1"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 14,
+        "points": 14,
+        "time": "13:42.7"
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 15,
+        "points": 15,
+        "time": "14:26.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 16,
+        "points": 16,
+        "time": "14:28.8"
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 17,
+        "points": 17,
+        "time": "15:08.0"
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 18,
+        "points": 18,
+        "time": "15:12.0"
+      },
+      {
+        "name": "David Millar",
+        "place": 19,
+        "points": 19,
+        "time": "15:19.0"
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 20,
+        "points": 20,
+        "time": "15:41.5"
+      },
+      {
+        "name": "J.c. Nessa",
+        "place": 21,
+        "points": 21,
+        "time": "15:58.0"
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 22,
+        "points": 22,
+        "time": "16:25.7"
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 23,
+        "points": 23,
+        "time": "16:38.0"
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 24,
+        "points": 24,
+        "time": "16:42.0"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 25,
+        "points": 25,
+        "time": "16:44.4"
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 26,
+        "points": 26,
+        "time": "16:54.9"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 27,
+        "points": 27,
+        "time": "16:56.0"
+      },
+      {
+        "name": "Josh Everett",
+        "place": 28,
+        "points": 28,
+        "time": "17:03.4"
+      },
+      {
+        "name": "Darren Rosten",
+        "place": 29,
+        "points": 29,
+        "time": "17:07.5"
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 30,
+        "points": 30,
+        "time": "17:27.0"
+      },
+      {
+        "name": "Jeffrey Tincher",
+        "place": 31,
+        "points": 31,
+        "time": "17:36.3"
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 32,
+        "points": 32,
+        "time": "17:44.9"
+      },
+      {
+        "name": "Sveinbjorn Sveinbjornsson",
+        "place": 33,
+        "points": 33,
+        "time": "17:52.4"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 34,
+        "points": 34,
+        "time": "18:16.0"
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 35,
+        "points": 35,
+        "time": "18:39.0"
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 36,
+        "points": 36,
+        "time": "18:46.0"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 37,
+        "points": 37,
+        "time": "19:04.0"
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 38,
+        "points": 38,
+        "time": "19:14.4"
+      },
+      {
+        "name": "Ricky Frausto",
+        "place": 39,
+        "points": 39,
+        "time": "19:14.9"
+      },
+      {
+        "name": "Lance Cantu",
+        "place": 40,
+        "points": 40,
+        "time": "19:26.8"
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 41,
+        "points": 41,
+        "time": "19:37.0"
+      }
+    ],
+    "Barbell snatch, 1 rep max": [
+      {
+        "name": "Jerome Perryman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matt Chan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "J.c. Nessa",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Carter",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Breck Berry",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Tincher",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lance Cantu",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Josh Everett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ricky Frausto",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Darren Rosten",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Kyle Kasperbauer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Craig Mccarroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Scott Lewis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "David Lipson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Russell Berger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Boag",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Steve Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Bird",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeff Leonard",
+        "place": 1,
+        "points": 1,
+        "time": "240 lb"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 2,
+        "points": 2,
+        "time": "225 lb"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 2,
+        "points": 2,
+        "time": "225 lb"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 2,
+        "points": 2,
+        "time": "225 lb"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 5,
+        "points": 5,
+        "time": "215 lb"
+      },
+      {
+        "name": "Steve Willis",
+        "place": 5,
+        "points": 5,
+        "time": "215 lb"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 5,
+        "points": 5,
+        "time": "215 lb"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 5,
+        "points": 5,
+        "time": "215 lb"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 9,
+        "points": 9,
+        "time": "205 lb"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 10,
+        "points": 10,
+        "time": "195 lb"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 11,
+        "points": 11,
+        "time": "190 lb"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 12,
+        "points": 12,
+        "time": "185 lb"
+      },
+      {
+        "name": "David Millar",
+        "place": 13,
+        "points": 13,
+        "time": "175 lb"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 13,
+        "points": 13,
+        "time": "175 lb"
+      },
+      {
+        "name": "Sveinbjorn Sveinbjornsson",
+        "place": 13,
+        "points": 13,
+        "time": "175 lb"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 16,
+        "points": 16,
+        "time": "145 lb"
+      }
+    ],
+    "8-min. AMRAP of:": [
+      {
+        "name": "Jerome Perryman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matt Chan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "J.c. Nessa",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Carter",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Breck Berry",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Tincher",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lance Cantu",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Josh Everett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ricky Frausto",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Darren Rosten",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Kyle Kasperbauer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Craig Mccarroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Scott Lewis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "David Lipson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Russell Berger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Boag",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Steve Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Bird",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 1,
+        "points": 1,
+        "time": "172 rep"
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 2,
+        "points": 2,
+        "time": "152 rep"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 2,
+        "points": 2,
+        "time": "152 rep"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 4,
+        "points": 4,
+        "time": "146 rep"
+      },
+      {
+        "name": "Steve Willis",
+        "place": 5,
+        "points": 5,
+        "time": "142 rep"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 6,
+        "points": 6,
+        "time": "124 rep"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 7,
+        "points": 7,
+        "time": "122 rep"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 8,
+        "points": 8,
+        "time": "120 rep"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 9,
+        "points": 9,
+        "time": "107 rep"
+      },
+      {
+        "name": "David Millar",
+        "place": 10,
+        "points": 10,
+        "time": "98 rep"
+      },
+      {
+        "name": "Jeff Leonard",
+        "place": 10,
+        "points": 10,
+        "time": "98 rep"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 10,
+        "points": 10,
+        "time": "98 rep"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 13,
+        "points": 13,
+        "time": "75 rep"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 13,
+        "points": 13,
+        "time": "75 rep"
+      },
+      {
+        "name": "Sveinbjorn Sveinbjornsson",
+        "place": 15,
+        "points": 15,
+        "time": "51 rep"
+      },
+      {
+        "name": "Spencer Hendel",
+        "place": 16,
+        "points": 16,
+        "time": "27 rep"
+      }
+    ],
+    "For time:": [
+      {
+        "name": "Spencer Hendel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeff Leonard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sveinbjorn Sveinbjornsson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jerome Perryman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matt Chan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Graham Holmberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "J.c. Nessa",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Carter",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rob Orlando",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Pastorek",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Breck Berry",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeremy Kinnick",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Phillips",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chris Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Vic Zachary",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Tincher",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lance Cantu",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Josh Everett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Barber",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ricky Frausto",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Darren Rosten",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Kyle Kasperbauer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Craig Mccarroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Scott Lewis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "David Lipson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Russell Berger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Boag",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Steve Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Danie Du Preez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Bird",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mikko Salo",
+        "place": 1,
+        "points": 1,
+        "time": "19:46.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 2,
+        "points": 2,
+        "time": "21:35.2"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "place": 3,
+        "points": 3,
+        "time": "22:13.7"
+      },
+      {
+        "name": "Blair Morrison",
+        "place": 4,
+        "points": 4,
+        "time": "22:51.1"
+      },
+      {
+        "name": "David Millar",
+        "place": 5,
+        "points": 5,
+        "time": "23:02.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 6,
+        "points": 6,
+        "time": "23:10.0"
+      },
+      {
+        "name": "Tommy Hackenbruck",
+        "place": 7,
+        "points": 7,
+        "time": "23:23.2"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 8,
+        "points": 8,
+        "time": "24:25.7"
+      },
+      {
+        "name": "Moe Kelsey",
+        "place": 9,
+        "points": 9,
+        "time": "24:54.0"
+      },
+      {
+        "name": "Steve Willis",
+        "place": 10,
+        "points": 10,
+        "time": "26:33.0"
+      },
+      {
+        "name": "Dj Wickham",
+        "place": 11,
+        "points": 11,
+        "time": "27:37.0"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Mikko Salo",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "175 cm | 85 kg",
+      "total_points": 78,
+      "events": {
+        "7-k Hill Run": {
+          "place": 2,
+          "time": "37:44.6",
+          "points": 2
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 17,
+          "time": "495 lb",
+          "points": 17
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 9,
+          "time": "1:08.6",
+          "points": 9
+        },
+        "Row 500 meters": {
+          "place": 32,
+          "time": "6:24.4",
+          "points": 32
+        },
+        "3 rounds for time of:": {
+          "place": 4,
+          "time": "12:14.7",
+          "points": 4
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 11,
+          "time": "190 lb",
+          "points": 11
+        },
+        "8-min. AMRAP of:": {
+          "place": 2,
+          "time": "152 rep",
+          "points": 2
+        },
+        "For time:": {
+          "place": 1,
+          "time": "19:46.0",
+          "points": 1
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Tommy Hackenbruck",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "73 in | 212 lb",
+      "total_points": 83,
+      "events": {
+        "7-k Hill Run": {
+          "place": 14,
+          "time": "41:45.4",
+          "points": 14
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 24,
+          "time": "475 lb",
+          "points": 24
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 17,
+          "time": "1:11.5",
+          "points": 17
+        },
+        "Row 500 meters": {
+          "place": 1,
+          "time": "4:36.6",
+          "points": 1
+        },
+        "3 rounds for time of:": {
+          "place": 2,
+          "time": "11:56.0",
+          "points": 2
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 9,
+          "time": "205 lb",
+          "points": 9
+        },
+        "8-min. AMRAP of:": {
+          "place": 9,
+          "time": "107 rep",
+          "points": 9
+        },
+        "For time:": {
+          "place": 7,
+          "time": "23:23.2",
+          "points": 7
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Moe Kelsey",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "74 in | 215 lb",
+      "total_points": 91,
+      "events": {
+        "7-k Hill Run": {
+          "place": 28,
+          "time": "44:11.3",
+          "points": 28
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 24,
+          "time": "1:13.0",
+          "points": 24
+        },
+        "Row 500 meters": {
+          "place": 3,
+          "time": "4:46.3",
+          "points": 3
+        },
+        "3 rounds for time of:": {
+          "place": 8,
+          "time": "13:01.0",
+          "points": 8
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 5,
+          "time": "215 lb",
+          "points": 5
+        },
+        "8-min. AMRAP of:": {
+          "place": 13,
+          "time": "75 rep",
+          "points": 13
+        },
+        "For time:": {
+          "place": 9,
+          "time": "24:54.0",
+          "points": 9
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Steve Willis",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "",
+      "total_points": 101,
+      "events": {
+        "7-k Hill Run": {
+          "place": 33,
+          "time": "44:36.2",
+          "points": 33
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 20,
+          "time": "485 lb",
+          "points": 20
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 4,
+          "time": "1:06.6",
+          "points": 4
+        },
+        "Row 500 meters": {
+          "place": 15,
+          "time": "5:33.6",
+          "points": 15
+        },
+        "3 rounds for time of:": {
+          "place": 9,
+          "time": "13:06.9",
+          "points": 9
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 5,
+          "time": "215 lb",
+          "points": 5
+        },
+        "8-min. AMRAP of:": {
+          "place": 5,
+          "time": "142 rep",
+          "points": 5
+        },
+        "For time:": {
+          "place": 10,
+          "time": "26:33.0",
+          "points": 10
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Jason Khalipa",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "69 in | 210 lb",
+      "total_points": 106,
+      "events": {
+        "7-k Hill Run": {
+          "place": 72,
+          "time": "54:35.5",
+          "points": 72
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 13,
+          "time": "1:10.0",
+          "points": 13
+        },
+        "Row 500 meters": {
+          "place": 13,
+          "time": "5:28.2",
+          "points": 13
+        },
+        "3 rounds for time of:": {
+          "place": 1,
+          "time": "11:18.7",
+          "points": 1
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 2,
+          "time": "225 lb",
+          "points": 2
+        },
+        "8-min. AMRAP of:": {
+          "place": 2,
+          "time": "152 rep",
+          "points": 2
+        },
+        "For time:": {
+          "place": 2,
+          "time": "21:35.2",
+          "points": 2
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Peter Egyed",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "71 in | 193 lb",
+      "total_points": 107,
+      "events": {
+        "7-k Hill Run": {
+          "place": 15,
+          "time": "41:58.8",
+          "points": 15
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 44,
+          "time": "1:20.0",
+          "points": 44
+        },
+        "Row 500 meters": {
+          "place": 9,
+          "time": "5:10.6",
+          "points": 9
+        },
+        "3 rounds for time of:": {
+          "place": 5,
+          "time": "12:35.3",
+          "points": 5
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 12,
+          "time": "185 lb",
+          "points": 12
+        },
+        "8-min. AMRAP of:": {
+          "place": 13,
+          "time": "75 rep",
+          "points": 13
+        },
+        "For time:": {
+          "place": 8,
+          "time": "24:25.7",
+          "points": 8
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Blair Morrison",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "72 in | 190 lb",
+      "total_points": 111,
+      "events": {
+        "7-k Hill Run": {
+          "place": 4,
+          "time": "38:54.5",
+          "points": 4
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 44,
+          "time": "435 lb",
+          "points": 44
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 23,
+          "time": "1:12.9",
+          "points": 23
+        },
+        "Row 500 meters": {
+          "place": 21,
+          "time": "6:00.0",
+          "points": 21
+        },
+        "3 rounds for time of:": {
+          "place": 3,
+          "time": "12:09.2",
+          "points": 3
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 5,
+          "time": "215 lb",
+          "points": 5
+        },
+        "8-min. AMRAP of:": {
+          "place": 7,
+          "time": "122 rep",
+          "points": 7
+        },
+        "For time:": {
+          "place": 4,
+          "time": "22:51.1",
+          "points": 4
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Patrick Burke",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "70 in | 185 lb",
+      "total_points": 112,
+      "events": {
+        "7-k Hill Run": {
+          "place": 13,
+          "time": "41:42.7",
+          "points": 13
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 17,
+          "time": "495 lb",
+          "points": 17
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 16,
+          "time": "1:11.1",
+          "points": 16
+        },
+        "Row 500 meters": {
+          "place": 38,
+          "time": "6:31.0",
+          "points": 38
+        },
+        "3 rounds for time of:": {
+          "place": 11,
+          "time": "13:11.0",
+          "points": 11
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 10,
+          "time": "195 lb",
+          "points": 10
+        },
+        "8-min. AMRAP of:": {
+          "place": 1,
+          "time": "172 rep",
+          "points": 1
+        },
+        "For time:": {
+          "place": 6,
+          "time": "23:10.0",
+          "points": 6
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "David Millar",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "71 in | 185 lb",
+      "total_points": 116,
+      "events": {
+        "7-k Hill Run": {
+          "place": 5,
+          "time": "39:20.3",
+          "points": 5
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 20,
+          "time": "485 lb",
+          "points": 20
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 30,
+          "time": "1:14.3",
+          "points": 30
+        },
+        "Row 500 meters": {
+          "place": 14,
+          "time": "5:30.7",
+          "points": 14
+        },
+        "3 rounds for time of:": {
+          "place": 19,
+          "time": "15:19.0",
+          "points": 19
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 13,
+          "time": "175 lb",
+          "points": 13
+        },
+        "8-min. AMRAP of:": {
+          "place": 10,
+          "time": "98 rep",
+          "points": 10
+        },
+        "For time:": {
+          "place": 5,
+          "time": "23:02.0",
+          "points": 5
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Dj Wickham",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "74 in | 227 lb",
+      "total_points": 127,
+      "events": {
+        "7-k Hill Run": {
+          "place": 47,
+          "time": "46:09.1",
+          "points": 47
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 3,
+          "time": "1:04.9",
+          "points": 3
+        },
+        "Row 500 meters": {
+          "place": 50,
+          "time": "7:31.7",
+          "points": 50
+        },
+        "3 rounds for time of:": {
+          "place": 7,
+          "time": "12:37.0",
+          "points": 7
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 2,
+          "time": "225 lb",
+          "points": 2
+        },
+        "8-min. AMRAP of:": {
+          "place": 6,
+          "time": "124 rep",
+          "points": 6
+        },
+        "For time:": {
+          "place": 11,
+          "time": "27:37.0",
+          "points": 11
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Michael Fitzgerald",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "73 in | 200 lb",
+      "total_points": 137,
+      "events": {
+        "7-k Hill Run": {
+          "place": 7,
+          "time": "40:08.8",
+          "points": 7
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 55,
+          "time": "425 lb",
+          "points": 55
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 9,
+          "time": "1:08.6",
+          "points": 9
+        },
+        "Row 500 meters": {
+          "place": 5,
+          "time": "4:53.5",
+          "points": 5
+        },
+        "3 rounds for time of:": {
+          "place": 34,
+          "time": "18:16.0",
+          "points": 34
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 16,
+          "time": "145 lb",
+          "points": 16
+        },
+        "8-min. AMRAP of:": {
+          "place": 8,
+          "time": "120 rep",
+          "points": 8
+        },
+        "For time:": {
+          "place": 3,
+          "time": "22:13.7",
+          "points": 3
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Spencer Hendel",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 20",
+      "height_weight": "74 in | 215 lb",
+      "total_points": 103,
+      "events": {
+        "7-k Hill Run": {
+          "place": 51,
+          "time": "46:21.3",
+          "points": 51
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 2,
+          "time": "1:03.4",
+          "points": 2
+        },
+        "Row 500 meters": {
+          "place": 19,
+          "time": "5:50.0",
+          "points": 19
+        },
+        "3 rounds for time of:": {
+          "place": 12,
+          "time": "13:21.6",
+          "points": 12
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 2,
+          "time": "225 lb",
+          "points": 2
+        },
+        "8-min. AMRAP of:": {
+          "place": 16,
+          "time": "27 rep",
+          "points": 16
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "James Fitzgerald",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "69 in | 176 lb",
+      "total_points": 104,
+      "events": {
+        "7-k Hill Run": {
+          "place": 6,
+          "time": "39:25.3",
+          "points": 6
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 37,
+          "time": "445 lb",
+          "points": 37
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 11,
+          "time": "1:09.1",
+          "points": 11
+        },
+        "Row 500 meters": {
+          "place": 8,
+          "time": "5:07.6",
+          "points": 8
+        },
+        "3 rounds for time of:": {
+          "place": 25,
+          "time": "16:44.4",
+          "points": 25
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 13,
+          "time": "175 lb",
+          "points": 13
+        },
+        "8-min. AMRAP of:": {
+          "place": 4,
+          "time": "146 rep",
+          "points": 4
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Jeff Leonard",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "75 in | 240 lb",
+      "total_points": 111,
+      "events": {
+        "7-k Hill Run": {
+          "place": 53,
+          "time": "46:36.9",
+          "points": 53
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 24,
+          "time": "475 lb",
+          "points": 24
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 12,
+          "time": "1:09.5",
+          "points": 12
+        },
+        "Row 500 meters": {
+          "place": 2,
+          "time": "4:42.9",
+          "points": 2
+        },
+        "3 rounds for time of:": {
+          "place": 9,
+          "time": "13:06.9",
+          "points": 9
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 1,
+          "time": "240 lb",
+          "points": 1
+        },
+        "8-min. AMRAP of:": {
+          "place": 10,
+          "time": "98 rep",
+          "points": 10
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Sveinbjorn Sveinbjornsson",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "186 cm | 198 lb",
+      "total_points": 118,
+      "events": {
+        "7-k Hill Run": {
+          "place": 8,
+          "time": "40:17.6",
+          "points": 8
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 44,
+          "time": "435 lb",
+          "points": 44
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 1,
+          "time": "1:01.0",
+          "points": 1
+        },
+        "Row 500 meters": {
+          "place": 4,
+          "time": "4:52.8",
+          "points": 4
+        },
+        "3 rounds for time of:": {
+          "place": 33,
+          "time": "17:52.4",
+          "points": 33
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 13,
+          "time": "175 lb",
+          "points": 13
+        },
+        "8-min. AMRAP of:": {
+          "place": 15,
+          "time": "51 rep",
+          "points": 15
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Jeremy Thiel",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "205 lb",
+      "total_points": 118,
+      "events": {
+        "7-k Hill Run": {
+          "place": 16,
+          "time": "42:17.6",
+          "points": 16
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 27,
+          "time": "1:13.3",
+          "points": 27
+        },
+        "Row 500 meters": {
+          "place": 46,
+          "time": "7:05.2",
+          "points": 46
+        },
+        "3 rounds for time of:": {
+          "place": 13,
+          "time": "13:23.1",
+          "points": 13
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 5,
+          "time": "215 lb",
+          "points": 5
+        },
+        "8-min. AMRAP of:": {
+          "place": 10,
+          "time": "98 rep",
+          "points": 10
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Jerome Perryman",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "75 in | 220 lb",
+      "total_points": 115,
+      "events": {
+        "7-k Hill Run": {
+          "place": 44,
+          "time": "45:49.5",
+          "points": 44
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 27,
+          "time": "1:13.3",
+          "points": 27
+        },
+        "Row 500 meters": {
+          "place": 7,
+          "time": "4:55.7",
+          "points": 7
+        },
+        "3 rounds for time of:": {
+          "place": 36,
+          "time": "18:46.0",
+          "points": 36
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Matt Chan",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "69 in | 217 lb",
+      "total_points": 116,
+      "events": {
+        "7-k Hill Run": {
+          "place": 58,
+          "time": "47:25.3",
+          "points": 58
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 20,
+          "time": "485 lb",
+          "points": 20
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 18,
+          "time": "1:11.6",
+          "points": 18
+        },
+        "Row 500 meters": {
+          "place": 6,
+          "time": "4:55.2",
+          "points": 6
+        },
+        "3 rounds for time of:": {
+          "place": 14,
+          "time": "13:42.7",
+          "points": 14
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Graham Holmberg",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 119,
+      "events": {
+        "7-k Hill Run": {
+          "place": 56,
+          "time": "46:58.6",
+          "points": 56
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 37,
+          "time": "1:17.0",
+          "points": 37
+        },
+        "Row 500 meters": {
+          "place": 10,
+          "time": "5:18.3",
+          "points": 10
+        },
+        "3 rounds for time of:": {
+          "place": 15,
+          "time": "14:26.0",
+          "points": 15
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "J.c. Nessa",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "70 in | 190 lb",
+      "total_points": 119,
+      "events": {
+        "7-k Hill Run": {
+          "place": 10,
+          "time": "41:14.3",
+          "points": 10
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 33,
+          "time": "1:15.0",
+          "points": 33
+        },
+        "Row 500 meters": {
+          "place": 54,
+          "time": "7:38.0",
+          "points": 54
+        },
+        "3 rounds for time of:": {
+          "place": 21,
+          "time": "15:58.0",
+          "points": 21
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Ben Carter",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "",
+      "total_points": 123,
+      "events": {
+        "7-k Hill Run": {
+          "place": 21,
+          "time": "43:10.2",
+          "points": 21
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 44,
+          "time": "435 lb",
+          "points": 44
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 41,
+          "time": "1:19.3",
+          "points": 41
+        },
+        "Row 500 meters": {
+          "place": 11,
+          "time": "5:21.2",
+          "points": 11
+        },
+        "3 rounds for time of:": {
+          "place": 6,
+          "time": "12:36.5",
+          "points": 6
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Rob Orlando",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "68 in | 195 lb",
+      "total_points": 125,
+      "events": {
+        "7-k Hill Run": {
+          "place": 66,
+          "time": "49:17.9",
+          "points": 66
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 14,
+          "time": "1:10.2",
+          "points": 14
+        },
+        "Row 500 meters": {
+          "place": 27,
+          "time": "6:12.6",
+          "points": 27
+        },
+        "3 rounds for time of:": {
+          "place": 17,
+          "time": "15:08.0",
+          "points": 17
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Andrew Swartz",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "68 in | 165 lb",
+      "total_points": 133,
+      "events": {
+        "7-k Hill Run": {
+          "place": 23,
+          "time": "43:25.8",
+          "points": 23
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 37,
+          "time": "445 lb",
+          "points": 37
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 6,
+          "time": "1:07.0",
+          "points": 6
+        },
+        "Row 500 meters": {
+          "place": 41,
+          "time": "6:39.7",
+          "points": 41
+        },
+        "3 rounds for time of:": {
+          "place": 26,
+          "time": "16:54.9",
+          "points": 26
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Jordan Holland",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 21",
+      "height_weight": "71 in | 210 lb",
+      "total_points": 143,
+      "events": {
+        "7-k Hill Run": {
+          "place": 52,
+          "time": "46:29.3",
+          "points": 52
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 45,
+          "time": "1:20.4",
+          "points": 45
+        },
+        "Row 500 meters": {
+          "place": 25,
+          "time": "6:05.2",
+          "points": 25
+        },
+        "3 rounds for time of:": {
+          "place": 20,
+          "time": "15:41.5",
+          "points": 20
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Chris Spealler",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "65 in | 143 lb",
+      "total_points": 144,
+      "events": {
+        "7-k Hill Run": {
+          "place": 1,
+          "time": "37:43.2",
+          "points": 1
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 71,
+          "time": "375 lb",
+          "points": 71
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 8,
+          "time": "1:08.4",
+          "points": 8
+        },
+        "Row 500 meters": {
+          "place": 48,
+          "time": "7:23.5",
+          "points": 48
+        },
+        "3 rounds for time of:": {
+          "place": 16,
+          "time": "14:28.8",
+          "points": 16
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Eric O'connor",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "70 in | 183 lb",
+      "total_points": 145,
+      "events": {
+        "7-k Hill Run": {
+          "place": 9,
+          "time": "40:25.9",
+          "points": 9
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 44,
+          "time": "435 lb",
+          "points": 44
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 22,
+          "time": "1:12.5",
+          "points": 22
+        },
+        "Row 500 meters": {
+          "place": 33,
+          "time": "6:24.5",
+          "points": 33
+        },
+        "3 rounds for time of:": {
+          "place": 37,
+          "time": "19:04.0",
+          "points": 37
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Brandon Pastorek",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "71 in | 205 lb",
+      "total_points": 147,
+      "events": {
+        "7-k Hill Run": {
+          "place": 54,
+          "time": "46:39.4",
+          "points": 54
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 33,
+          "time": "455 lb",
+          "points": 33
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 7,
+          "time": "1:07.4",
+          "points": 7
+        },
+        "Row 500 meters": {
+          "place": 23,
+          "time": "6:02.0",
+          "points": 23
+        },
+        "3 rounds for time of:": {
+          "place": 30,
+          "time": "17:27.0",
+          "points": 30
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Breck Berry",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "67 in | 170 lb",
+      "total_points": 157,
+      "events": {
+        "7-k Hill Run": {
+          "place": 11,
+          "time": "41:41.8",
+          "points": 11
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 37,
+          "time": "445 lb",
+          "points": 37
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 31,
+          "time": "1:14.5",
+          "points": 31
+        },
+        "Row 500 meters": {
+          "place": 51,
+          "time": "6:35.0",
+          "points": 51
+        },
+        "3 rounds for time of:": {
+          "place": 27,
+          "time": "16:56.0",
+          "points": 27
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Jeremy Kinnick",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "70 in | 195 lb",
+      "total_points": 163,
+      "events": {
+        "7-k Hill Run": {
+          "place": 46,
+          "time": "46:05.4",
+          "points": 46
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 44,
+          "time": "435 lb",
+          "points": 44
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 35,
+          "time": "1:15.6",
+          "points": 35
+        },
+        "Row 500 meters": {
+          "place": 16,
+          "time": "5:36.1",
+          "points": 16
+        },
+        "3 rounds for time of:": {
+          "place": 22,
+          "time": "16:25.7",
+          "points": 22
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Brandon Phillips",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "71 in | 212 lb",
+      "total_points": 165,
+      "events": {
+        "7-k Hill Run": {
+          "place": 45,
+          "time": "46:00.5",
+          "points": 45
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 27,
+          "time": "465 lb",
+          "points": 27
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 18,
+          "time": "1:11.6",
+          "points": 18
+        },
+        "Row 500 meters": {
+          "place": 37,
+          "time": "6:29.9",
+          "points": 37
+        },
+        "3 rounds for time of:": {
+          "place": 38,
+          "time": "19:14.4",
+          "points": 38
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Chris Hogan",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "179 cm | 200 lb",
+      "total_points": 172,
+      "events": {
+        "7-k Hill Run": {
+          "place": 26,
+          "time": "43:51.0",
+          "points": 26
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 44,
+          "time": "435 lb",
+          "points": 44
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 58,
+          "time": "1:33.1",
+          "points": 58
+        },
+        "Row 500 meters": {
+          "place": 26,
+          "time": "6:10.7",
+          "points": 26
+        },
+        "3 rounds for time of:": {
+          "place": 18,
+          "time": "15:12.0",
+          "points": 18
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Vic Zachary",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "184 lb",
+      "total_points": 173,
+      "events": {
+        "7-k Hill Run": {
+          "place": 40,
+          "time": "45:32.2",
+          "points": 40
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 44,
+          "time": "435 lb",
+          "points": 44
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 29,
+          "time": "1:14.0",
+          "points": 29
+        },
+        "Row 500 meters": {
+          "place": 36,
+          "time": "6:27.0",
+          "points": 36
+        },
+        "3 rounds for time of:": {
+          "place": 24,
+          "time": "16:42.0",
+          "points": 24
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Jeffrey Tincher",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 40",
+      "height_weight": "69 in | 185 lb",
+      "total_points": 175,
+      "events": {
+        "7-k Hill Run": {
+          "place": 69,
+          "time": "50:28.5",
+          "points": 69
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 27,
+          "time": "465 lb",
+          "points": 27
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 36,
+          "time": "1:15.9",
+          "points": 36
+        },
+        "Row 500 meters": {
+          "place": 12,
+          "time": "5:26.8",
+          "points": 12
+        },
+        "3 rounds for time of:": {
+          "place": 31,
+          "time": "17:36.3",
+          "points": 31
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Lance Cantu",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "71 in | 180 lb",
+      "total_points": 176,
+      "events": {
+        "7-k Hill Run": {
+          "place": 32,
+          "time": "44:29.7",
+          "points": 32
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 67,
+          "time": "395 lb",
+          "points": 67
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 20,
+          "time": "1:12.0",
+          "points": 20
+        },
+        "Row 500 meters": {
+          "place": 17,
+          "time": "5:40.0",
+          "points": 17
+        },
+        "3 rounds for time of:": {
+          "place": 40,
+          "time": "19:26.8",
+          "points": 40
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Josh Everett",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "69 in | 185 lb",
+      "total_points": 180,
+      "events": {
+        "7-k Hill Run": {
+          "place": 30,
+          "time": "44:22.3",
+          "points": 30
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 64,
+          "time": "1:41.7",
+          "points": 64
+        },
+        "Row 500 meters": {
+          "place": 57,
+          "time": "7:44.0",
+          "points": 57
+        },
+        "3 rounds for time of:": {
+          "place": 28,
+          "time": "17:03.4",
+          "points": 28
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Patrick Barber",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "67 in | 175 lb",
+      "total_points": 180,
+      "events": {
+        "7-k Hill Run": {
+          "place": 31,
+          "time": "44:26.4",
+          "points": 31
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 59,
+          "time": "415 lb",
+          "points": 59
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 5,
+          "time": "1:06.8",
+          "points": 5
+        },
+        "Row 500 meters": {
+          "place": 53,
+          "time": "7:37.3",
+          "points": 53
+        },
+        "3 rounds for time of:": {
+          "place": 32,
+          "time": "17:44.9",
+          "points": 32
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Brad Posnanski",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 37",
+      "height_weight": "69 in | 198 lb",
+      "total_points": 194,
+      "events": {
+        "7-k Hill Run": {
+          "place": 42,
+          "time": "45:36.3",
+          "points": 42
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 44,
+          "time": "435 lb",
+          "points": 44
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 56,
+          "time": "1:28.4",
+          "points": 56
+        },
+        "Row 500 meters": {
+          "place": 29,
+          "time": "6:15.9",
+          "points": 29
+        },
+        "3 rounds for time of:": {
+          "place": 23,
+          "time": "16:38.0",
+          "points": 23
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Ricky Frausto",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "65 in | 160 lb",
+      "total_points": 196,
+      "events": {
+        "7-k Hill Run": {
+          "place": 17,
+          "time": "42:18.3",
+          "points": 17
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 44,
+          "time": "435 lb",
+          "points": 44
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 51,
+          "time": "1:23.0",
+          "points": 51
+        },
+        "Row 500 meters": {
+          "place": 45,
+          "time": "7:04.4",
+          "points": 45
+        },
+        "3 rounds for time of:": {
+          "place": 39,
+          "time": "19:14.9",
+          "points": 39
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "rank_label": "39",
+      "name": "Darren Rosten",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "73 in | 216 lb",
+      "total_points": 196,
+      "events": {
+        "7-k Hill Run": {
+          "place": 39,
+          "time": "45:16.6",
+          "points": 39
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 55,
+          "time": "425 lb",
+          "points": 55
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 53,
+          "time": "1:25.0",
+          "points": 53
+        },
+        "Row 500 meters": {
+          "place": 20,
+          "time": "5:58.0",
+          "points": 20
+        },
+        "3 rounds for time of:": {
+          "place": 29,
+          "time": "17:07.5",
+          "points": 29
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "rank_label": "40",
+      "name": "Josh Wagner",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "69 in | 183 lb",
+      "total_points": 200,
+      "events": {
+        "7-k Hill Run": {
+          "place": 61,
+          "time": "47:59.6",
+          "points": 61
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 24,
+          "time": "475 lb",
+          "points": 24
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 46,
+          "time": "1:21.0",
+          "points": 46
+        },
+        "Row 500 meters": {
+          "place": 28,
+          "time": "6:12.8",
+          "points": 28
+        },
+        "3 rounds for time of:": {
+          "place": 41,
+          "time": "19:37.0",
+          "points": 41
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 41,
+      "rank_label": "41",
+      "name": "Lance Mosley",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 36",
+      "height_weight": "193 lb",
+      "total_points": 209,
+      "events": {
+        "7-k Hill Run": {
+          "place": 74,
+          "time": "1:00:24.7",
+          "points": 74
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 50,
+          "time": "1:22.8",
+          "points": 50
+        },
+        "Row 500 meters": {
+          "place": 49,
+          "time": "7:23.7",
+          "points": 49
+        },
+        "3 rounds for time of:": {
+          "place": 35,
+          "time": "18:39.0",
+          "points": 35
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 42,
+      "rank_label": "42",
+      "name": "Kyle Kasperbauer",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "68 in | 190 lb",
+      "total_points": 84,
+      "events": {
+        "7-k Hill Run": {
+          "place": 19,
+          "time": "42:58.6",
+          "points": 19
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 27,
+          "time": "465 lb",
+          "points": 27
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 20,
+          "time": "1:12.0",
+          "points": 20
+        },
+        "Row 500 meters": {
+          "place": 18,
+          "time": "5:48.0",
+          "points": 18
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 43,
+      "rank_label": "43",
+      "name": "Craig Mccarroll",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "",
+      "total_points": 99,
+      "events": {
+        "7-k Hill Run": {
+          "place": 12,
+          "time": "41:42.3",
+          "points": 12
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 33,
+          "time": "455 lb",
+          "points": 33
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 32,
+          "time": "1:14.8",
+          "points": 32
+        },
+        "Row 500 meters": {
+          "place": 22,
+          "time": "6:01.1",
+          "points": 22
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 44,
+      "rank_label": "44",
+      "name": "Scott Lewis",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "69 in | 197 lb",
+      "total_points": 115,
+      "events": {
+        "7-k Hill Run": {
+          "place": 43,
+          "time": "45:45.5",
+          "points": 43
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 41,
+          "time": "1:19.3",
+          "points": 41
+        },
+        "Row 500 meters": {
+          "place": 30,
+          "time": "6:19.0",
+          "points": 30
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 45,
+      "rank_label": "45",
+      "name": "David Lipson",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "72 in | 210 lb",
+      "total_points": 124,
+      "events": {
+        "7-k Hill Run": {
+          "place": 65,
+          "time": "48:44.1",
+          "points": 65
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 1,
+          "time": "505 lb",
+          "points": 1
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 24,
+          "time": "1:13.0",
+          "points": 24
+        },
+        "Row 500 meters": {
+          "place": 34,
+          "time": "6:25.2",
+          "points": 34
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 46,
+      "rank_label": "46",
+      "name": "Russell Berger",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "",
+      "total_points": 130,
+      "events": {
+        "7-k Hill Run": {
+          "place": 3,
+          "time": "38:07.8",
+          "points": 3
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 64,
+          "time": "405 lb",
+          "points": 64
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 24,
+          "time": "1:13.0",
+          "points": 24
+        },
+        "Row 500 meters": {
+          "place": 39,
+          "time": "6:33.6",
+          "points": 39
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 47,
+      "rank_label": "47",
+      "name": "Jason Boag",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "68 in | 180 lb",
+      "total_points": 134,
+      "events": {
+        "7-k Hill Run": {
+          "place": 24,
+          "time": "43:36.7",
+          "points": 24
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 71,
+          "time": "375 lb",
+          "points": 71
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 15,
+          "time": "1:11.0",
+          "points": 15
+        },
+        "Row 500 meters": {
+          "place": 24,
+          "time": "6:04.0",
+          "points": 24
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 48,
+      "rank_label": "48",
+      "name": "Steve Smith",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "67 in | 170 lb",
+      "total_points": 136,
+      "events": {
+        "7-k Hill Run": {
+          "place": 25,
+          "time": "43:41.5",
+          "points": 25
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 17,
+          "time": "495 lb",
+          "points": 17
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 43,
+          "time": "1:19.9",
+          "points": 43
+        },
+        "Row 500 meters": {
+          "place": 51,
+          "time": "7:35.0",
+          "points": 51
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 49,
+      "rank_label": "49",
+      "name": "Danie Du Preez",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 153,
+      "events": {
+        "7-k Hill Run": {
+          "place": 41,
+          "time": "45:32.3",
+          "points": 41
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 27,
+          "time": "465 lb",
+          "points": 27
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 38,
+          "time": "1:18.0",
+          "points": 38
+        },
+        "Row 500 meters": {
+          "place": 47,
+          "time": "7:18.0",
+          "points": 47
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 50,
+      "rank_label": "50",
+      "name": "Jason Bird",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "180 cm | 191 lb",
+      "total_points": 157,
+      "events": {
+        "7-k Hill Run": {
+          "place": 20,
+          "time": "43:09.9",
+          "points": 20
+        },
+        "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.": {
+          "place": 55,
+          "time": "425 lb",
+          "points": 55
+        },
+        "170-meter Hill Sprint with 35-lb. sandbags": {
+          "place": 52,
+          "time": "1:24.2",
+          "points": 52
+        },
+        "Row 500 meters": {
+          "place": 30,
+          "time": "6:19.0",
+          "points": 30
+        },
+        "3 rounds for time of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Barbell snatch, 1 rep max": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "8-min. AMRAP of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

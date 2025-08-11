@@ -1,0 +1,230 @@
+{
+  "year": 2012,
+  "events": [
+    {
+      "name": "Ball Toss (50 Points)",
+      "details": [
+        "Points Available: 50",
+        "Location: Track",
+        "Friday 11:30-2:20",
+        "Sitting in the GHD, athletes will throw as many medicine balls as far as possible.",
+        "Men will throw 4 pound medicine balls.",
+        "Women will throw 2 pound medicine balls.",
+        "Immediately after the event, athletes will reset together for the Track Triplet Event."
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "Broad Jump (50 Points)",
+      "details": [
+        "Points Available: 50",
+        "Location: Home Depot Center",
+        "Friday Morning",
+        "Standing broad jump for distance.",
+        "Athletes will have three attempts to complete a standing broad jump for distance. Athletes will be ranked by distance of the furthest of their three attempts."
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "Chipper (100 Points)",
+      "details": [
+        "Points Available: 100",
+        "Location: Stadium",
+        "Saturday 6:10-8:20",
+        "10 Overhead squats (155 / 105 lbs)",
+        "10 Box jump overs (24” / 20” box)",
+        "10 Fat bar thrusters, (135 / 95 lbs)",
+        "10 Power cleans (205 / 125 lbs)",
+        "10 Toes to bar",
+        "10 Burpee muscle-ups",
+        "10 Toes to bar",
+        "10 Power cleans (205 / 125 lbs)",
+        "10 Fat bar thrusters, (135 / 95 lbs)",
+        "10 Box jump overs (24” / 20” box)",
+        "10 Overhead squats (155 / 105 lbs)",
+        "The top 24 athletes overall after this Event will move on to compete on Sunday."
+      ],
+      "notes": [],
+      "description": "For time:",
+      "timeCap": "Time Cap: 15 minutes"
+    },
+    {
+      "name": "Clean Ladder (100 Points)",
+      "details": [
+        "Points Available: 100",
+        "Location: Stadium",
+        "Saturday 4:00-5:10",
+        "1-rep Clean every 30 seconds with progressively heavier barbells",
+        "Athletes will be ranked by the weight of their heaviest successful clean. Partial pounds will be awarded for each additional deadlift completed after they attempt and fail the clean.",
+        "Men’s Weights (pounds) - 245, 255, 265, 275, 285, 295, 305, 315, 325, 335, 345, 355, 365, 375, 385.",
+        "Women’s Weights (pounds) - 140, 150, 160, 170, 180, 190, 195, 200, 205, 210, 215, 220, 225, 230, 235.",
+        "The top 36 athletes overall after this event will move on."
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "Double Banger (100 Points)",
+      "details": [
+        "Points Available: 100",
+        "Location: Stadium",
+        "Sunday 11:00-12:10",
+        "50 Double-unders",
+        "Low banger",
+        "50 Double-unders",
+        "Down banger",
+        "50 Double-unders",
+        "Mid banger",
+        "The top 18 athletes overall after this event will move on to the next event."
+      ],
+      "notes": [],
+      "description": "For time:",
+      "timeCap": "Time Cap: 9 minutes"
+    },
+    {
+      "name": "Elizabeth (100 Points)",
+      "details": [
+        "Points Available: 3 x 100",
+        "Location: Stadium",
+        "Sunday 1:30-3:50",
+        "The top 18 athletes overall will compete in this Event.",
+        "Clean (135 / 95 lbs)",
+        "Ring dips",
+        "The top 15 athletes overall after this Event will move on to the next Event as soon as the results are tabulated."
+      ],
+      "notes": [],
+      "description": "21-15-9 reps for time of:",
+      "timeCap": "Time Cap: 6 minutes"
+    },
+    {
+      "name": "Fran (100 Points)",
+      "details": [
+        "Points Available: 100",
+        "Location: Stadium",
+        "Sunday",
+        "The top 12 athletes overall will compete in this Event.",
+        "Thruster (95 / 65 lbs)",
+        "Pull-ups"
+      ],
+      "notes": [],
+      "description": "21-15-9 reps for time of:",
+      "timeCap": "Time Cap: 6 minutes"
+    },
+    {
+      "name": "Isabel (100 Points)",
+      "details": [
+        "Points Available: 100",
+        "Location: Stadium",
+        "Sunday",
+        "The top 15 athletes overall will compete in this Event.",
+        "30 Snatch (135 / 95 lbs)",
+        "The top 12 athletes overall after this Event will move on to the next Event as soon as the results are tabulated."
+      ],
+      "notes": [],
+      "description": "For time:",
+      "timeCap": "Time Cap: 6 minutes"
+    },
+    {
+      "name": "MedBall-Handstand Push-up (100 Points)",
+      "details": [
+        "Points Available: 100",
+        "Location: Stadium",
+        "Friday 6:00-8:05",
+        "Points Available: 100",
+        "Location: Stadium",
+        "Friday 6:00-8:05",
+        "8 Medicine ball cleans (150 / 80 lbs)",
+        "100 foot Medicine ball carry",
+        "7 Parallette handstand push-ups",
+        "100 foot Medicine ball carry",
+        "Athletes will be ranked by time."
+      ],
+      "notes": [],
+      "description": "Three rounds for time of:",
+      "timeCap": "Time Cap: 10 minutes"
+    },
+    {
+      "name": "Obstacle Course (100 Points)",
+      "details": [
+        "Points Available: 100",
+        "Location: Camp Pendleton",
+        "Wednesday 12:30 - 3:30",
+        "Complete Camp Pendleton School of Infantry Obstacle course. Athletes will race against each other head to head in a 3-round bracketed tournament.",
+        "Four athletes will race against each other in heats. The top finisher from each heat moves on to the next round of the obstacle course, competing next to the other heat winners and four wildcard athletes. These are the four best times of all the athletes who didn’t win their heats in the first round. The winners of the four heats in the second round then move onto the final round for the win.",
+        "Places 1-4 will be awarded to the athletes in the final round, ranked by their finishing order. Places 5-16 will be awarded to the athletes from the second round, based on their times. Places 17 on will be awarded to the remaining athletes based on their times to complete the course in the first round."
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "Pendleton 1 and Pendleton 2 (2 x 100 Points)",
+      "details": [
+        "Points Available: 2 x 100",
+        "Location: Camp Pendleton",
+        "Wednesday 8:00 - 11:30",
+        "Swim 700± meters",
+        "Bike 8± kilometers",
+        "Run 11± kilometers",
+        "In this event, athletes will begin by swimming approximately 700 meters with fins. They will then grab their bicycles and ride approximately 8 kilometers across undulating terrain, with approximately 400 meters through unrideable soft sand. They finish with an 11 kilometer dirt-road run across steep hills with over 1,400 feet of elevation gain.",
+        "Pendleton 1 will end at the checkpoint approximately 150 meters into the run. Athletes will receive points based on their arrival order at the checkpoint. There is no scheduled rest at the checkpoint as the race continues.",
+        "Pendleton 2 will be ranked by total time to finish the entire swim, bike and run race. Arrival order at the checkpoint (Pendleton 1) will have no bearing on the scoring for Pendleton 2."
+      ],
+      "notes": [],
+      "description": "For time:",
+      "timeCap": ""
+    },
+    {
+      "name": "Rope-Sled (50 Points)",
+      "details": [
+        "Points Available: 100",
+        "Location: Track",
+        "Saturday 10:50-1:40",
+        "Athletes will begin this event just after completing the Sprint Event.",
+        "20 foot Rope climb, 1 ascent",
+        "20 yard Sled drive",
+        "The athletes will drive the padded sled 100 yards in 20-yard increments. The men’s sleds have 90 pounds added.",
+        "Athletes will be ranked by time."
+      ],
+      "notes": [],
+      "description": "Five rounds for time of:",
+      "timeCap": "Time Cap: 13 minutes"
+    },
+    {
+      "name": "Sprint (50 Points)",
+      "details": [
+        "Points Available: 50",
+        "Location: Track",
+        "Saturday 10:50-1:40",
+        "Run to the 50-yard line and back",
+        "Run to the 100-yard line and back",
+        "Athletes will be ranked by time.",
+        "Immediately after the sprint, athletes will reset together for the Rope-Sled Event."
+      ],
+      "notes": [],
+      "description": "300-yard Shuttle sprint for time:",
+      "timeCap": ""
+    },
+    {
+      "name": "Track Triplet (100 Points)",
+      "details": [
+        "Points Available: 100",
+        "Location: Track",
+        "Friday 11:30-2:20",
+        "Athletes will begin this event just after completing the Ball Toss.",
+        "8 Split snatch, alternating legs (115 / 75lbs)",
+        "7 Bar muscle-ups",
+        "Run 400 meters",
+        "Athletes will be ranked by time."
+      ],
+      "notes": [],
+      "description": "Three rounds for time of:",
+      "timeCap": "Time Cap: 13 minutes"
+    }
+  ]
+}

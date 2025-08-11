@@ -1,0 +1,3445 @@
+{
+  "year": 2008,
+  "gender": "men",
+  "events": [
+    "Sunday's Workout",
+    "The Hill Run",
+    "Workout A",
+    "Workout B"
+  ],
+  "event_point_map": {
+    "Sunday's Workout": {
+      "1": 181,
+      "2": 209,
+      "3": 210,
+      "5": 213,
+      "6": 219,
+      "7": 222,
+      "8": 223,
+      "9": 230,
+      "10": 231,
+      "11": 236,
+      "12": 237,
+      "13": 238,
+      "14": 239,
+      "15": 240,
+      "17": 253,
+      "18": 256,
+      "19": 258,
+      "20": 259,
+      "21": 260,
+      "22": 264,
+      "24": 265,
+      "26": 269,
+      "29": 275,
+      "30": 281,
+      "32": 287,
+      "33": 288,
+      "35": 293,
+      "36": 297,
+      "37": 299,
+      "38": 301,
+      "40": 303,
+      "41": 304,
+      "42": 305,
+      "44": 307,
+      "46": 309,
+      "47": 311,
+      "49": 313,
+      "50": 327,
+      "52": 329,
+      "54": 335,
+      "62": 352,
+      "64": 356,
+      "66": 362,
+      "74": 380,
+      "81": 396,
+      "85": 405,
+      "98": 454
+    },
+    "The Hill Run": {
+      "1": 153,
+      "3": 157,
+      "4": 161,
+      "6": 162,
+      "8": 164,
+      "9": 165,
+      "10": 166,
+      "11": 170,
+      "12": 171,
+      "13": 173,
+      "14": 175,
+      "15": 176,
+      "16": 180,
+      "17": 185,
+      "18": 187,
+      "19": 191,
+      "20": 192,
+      "21": 195,
+      "22": 196,
+      "23": 197,
+      "24": 198,
+      "26": 204,
+      "27": 205,
+      "28": 206,
+      "30": 208,
+      "32": 209,
+      "35": 213,
+      "36": 214,
+      "39": 218,
+      "42": 223,
+      "43": 226,
+      "45": 228,
+      "47": 230,
+      "49": 233,
+      "53": 239,
+      "58": 246,
+      "61": 249,
+      "66": 257,
+      "68": 258,
+      "70": 266,
+      "73": 268,
+      "90": 303
+    },
+    "Workout A": {
+      "1": 200,
+      "2": 202,
+      "3": 205,
+      "6": 214,
+      "8": 217,
+      "10": 219,
+      "14": 220,
+      "15": 222,
+      "18": 224,
+      "20": 227,
+      "23": 228,
+      "27": 231,
+      "29": 232,
+      "30": 235,
+      "32": 238,
+      "33": 239,
+      "36": 241,
+      "43": 244,
+      "45": 245,
+      "48": 247,
+      "54": 250,
+      "55": 252,
+      "60": 256,
+      "63": 257,
+      "65": 260,
+      "69": 262,
+      "70": 263,
+      "72": 264,
+      "80": 273,
+      "82": 274,
+      "83": 275,
+      "86": 281,
+      "90": 285,
+      "103": 309,
+      "106": 325,
+      "108": 332
+    },
+    "Workout B": {
+      "1": 166,
+      "2": 204,
+      "3": 232,
+      "5": 257,
+      "6": 262,
+      "8": 272,
+      "9": 296,
+      "10": 300,
+      "11": 302,
+      "12": 326,
+      "13": 335,
+      "15": 337,
+      "17": 337,
+      "18": 339,
+      "20": 346,
+      "21": 348,
+      "22": 352,
+      "23": 355,
+      "24": 357,
+      "25": 358,
+      "26": 369,
+      "28": 387,
+      "29": 389,
+      "30": 393,
+      "31": 394,
+      "32": 395,
+      "33": 396,
+      "34": 398,
+      "35": 399,
+      "37": 403,
+      "39": 408,
+      "41": 418,
+      "42": 422,
+      "44": 424,
+      "45": 426,
+      "46": 435,
+      "47": 447,
+      "48": 450,
+      "49": 452,
+      "54": 468,
+      "55": 471,
+      "56": 473,
+      "60": 478,
+      "76": 546
+    }
+  },
+  "event_field_size": {
+    "Sunday's Workout": 98,
+    "The Hill Run": 90,
+    "Workout A": 108,
+    "Workout B": 76
+  },
+  "event_place_points": {
+    "Sunday's Workout": [
+      181,
+      209,
+      210,
+      0,
+      213,
+      219,
+      222,
+      223,
+      230,
+      231,
+      236,
+      237,
+      238,
+      239,
+      240,
+      0,
+      253,
+      256,
+      258,
+      259,
+      260,
+      264,
+      0,
+      265,
+      0,
+      269,
+      0,
+      0,
+      275,
+      281,
+      0,
+      287,
+      288,
+      0,
+      293,
+      297,
+      299,
+      301,
+      0,
+      303,
+      304,
+      305,
+      0,
+      307,
+      0,
+      309,
+      311,
+      0,
+      313,
+      327,
+      0,
+      329,
+      0,
+      335,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      352,
+      0,
+      356,
+      0,
+      362,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      380,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      396,
+      0,
+      0,
+      0,
+      405,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      454
+    ],
+    "The Hill Run": [
+      153,
+      0,
+      157,
+      161,
+      0,
+      162,
+      0,
+      164,
+      165,
+      166,
+      170,
+      171,
+      173,
+      175,
+      176,
+      180,
+      185,
+      187,
+      191,
+      192,
+      195,
+      196,
+      197,
+      198,
+      0,
+      204,
+      205,
+      206,
+      0,
+      208,
+      0,
+      209,
+      0,
+      0,
+      213,
+      214,
+      0,
+      0,
+      218,
+      0,
+      0,
+      223,
+      226,
+      0,
+      228,
+      0,
+      230,
+      0,
+      233,
+      0,
+      0,
+      0,
+      239,
+      0,
+      0,
+      0,
+      0,
+      246,
+      0,
+      0,
+      249,
+      0,
+      0,
+      0,
+      0,
+      257,
+      0,
+      258,
+      0,
+      266,
+      0,
+      0,
+      268,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      303
+    ],
+    "Workout A": [
+      200,
+      202,
+      205,
+      0,
+      0,
+      214,
+      0,
+      217,
+      0,
+      219,
+      0,
+      0,
+      0,
+      220,
+      222,
+      0,
+      0,
+      224,
+      0,
+      227,
+      0,
+      0,
+      228,
+      0,
+      0,
+      0,
+      231,
+      0,
+      232,
+      235,
+      0,
+      238,
+      239,
+      0,
+      0,
+      241,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      244,
+      0,
+      245,
+      0,
+      0,
+      247,
+      0,
+      0,
+      0,
+      0,
+      0,
+      250,
+      252,
+      0,
+      0,
+      0,
+      0,
+      256,
+      0,
+      0,
+      257,
+      0,
+      260,
+      0,
+      0,
+      0,
+      262,
+      263,
+      0,
+      264,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      273,
+      0,
+      274,
+      275,
+      0,
+      0,
+      281,
+      0,
+      0,
+      0,
+      285,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      309,
+      0,
+      0,
+      325,
+      0,
+      332
+    ],
+    "Workout B": [
+      166,
+      204,
+      232,
+      0,
+      257,
+      262,
+      0,
+      272,
+      296,
+      300,
+      302,
+      326,
+      335,
+      0,
+      337,
+      0,
+      337,
+      339,
+      0,
+      346,
+      348,
+      352,
+      355,
+      357,
+      358,
+      369,
+      0,
+      387,
+      389,
+      393,
+      394,
+      395,
+      396,
+      398,
+      399,
+      0,
+      403,
+      0,
+      408,
+      0,
+      418,
+      422,
+      0,
+      424,
+      426,
+      435,
+      447,
+      450,
+      452,
+      0,
+      0,
+      0,
+      0,
+      468,
+      471,
+      473,
+      0,
+      0,
+      0,
+      478,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      546
+    ]
+  },
+  "event_ordinals": {
+    "Sunday's Workout": 1,
+    "The Hill Run": 2,
+    "Workout A": 3,
+    "Workout B": 4
+  },
+  "event_finish_order": {
+    "Sunday's Workout": [
+      {
+        "name": "Chris Spealler",
+        "place": 1,
+        "points": 181,
+        "time": "3:01.0"
+      },
+      {
+        "name": "Josh Everett",
+        "place": 2,
+        "points": 209,
+        "time": "3:29.0"
+      },
+      {
+        "name": "Rick Frausto",
+        "place": 3,
+        "points": 210,
+        "time": "3:30.0"
+      },
+      {
+        "name": "Dutch Lowy",
+        "place": 3,
+        "points": 210,
+        "time": "3:30.0"
+      },
+      {
+        "name": "Jeff Tincher",
+        "place": 5,
+        "points": 213,
+        "time": "3:33.0"
+      },
+      {
+        "name": "Pat Barber",
+        "place": 6,
+        "points": 219,
+        "time": "3:39.0"
+      },
+      {
+        "name": "Brett Marshall",
+        "place": 7,
+        "points": 222,
+        "time": "3:42.0"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 8,
+        "points": 223,
+        "time": "3:43.0"
+      },
+      {
+        "name": "Mark Riebel",
+        "place": 9,
+        "points": 230,
+        "time": "3:50.0"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 10,
+        "points": 231,
+        "time": "3:51.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 11,
+        "points": 236,
+        "time": "3:56.0"
+      },
+      {
+        "name": "Lucas Brainerd",
+        "place": 12,
+        "points": 237,
+        "time": "3:57.0"
+      },
+      {
+        "name": "Travis Cassidy",
+        "place": 13,
+        "points": 238,
+        "time": "3:58.0"
+      },
+      {
+        "name": "Jason Boag",
+        "place": 14,
+        "points": 239,
+        "time": "3:59.0"
+      },
+      {
+        "name": "Brendan Gilliam",
+        "place": 15,
+        "points": 240,
+        "time": "4:00.0"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 17,
+        "points": 253,
+        "time": "4:13.0"
+      },
+      {
+        "name": "Omar Torres",
+        "place": 18,
+        "points": 256,
+        "time": "4:16.0"
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 19,
+        "points": 258,
+        "time": "4:18.0"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 20,
+        "points": 259,
+        "time": "4:19.0"
+      },
+      {
+        "name": "Simon Warnos",
+        "place": 21,
+        "points": 260,
+        "time": "4:20.0"
+      },
+      {
+        "name": "John Fragoso",
+        "place": 22,
+        "points": 264,
+        "time": "4:24.0"
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 22,
+        "points": 264,
+        "time": "4:24.0"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 24,
+        "points": 265,
+        "time": "4:25.0"
+      },
+      {
+        "name": "Christopher Woods",
+        "place": 26,
+        "points": 269,
+        "time": "4:29.0"
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 29,
+        "points": 275,
+        "time": "4:35.0"
+      },
+      {
+        "name": "Anthony Bainbridge",
+        "place": 30,
+        "points": 281,
+        "time": "4:41.0"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 32,
+        "points": 287,
+        "time": "4:47.0"
+      },
+      {
+        "name": "Aaron Lucke",
+        "place": 33,
+        "points": 288,
+        "time": "4:48.0"
+      },
+      {
+        "name": "Austin Begiebing",
+        "place": 35,
+        "points": 293,
+        "time": "4:53.0"
+      },
+      {
+        "name": "Jimi Letchford",
+        "place": 36,
+        "points": 297,
+        "time": "4:57.0"
+      },
+      {
+        "name": "Dale Saran",
+        "place": 37,
+        "points": 299,
+        "time": "4:59.0"
+      },
+      {
+        "name": "Nolan Foster",
+        "place": 38,
+        "points": 301,
+        "time": "5:01.0"
+      },
+      {
+        "name": "Daniel Hester",
+        "place": 40,
+        "points": 303,
+        "time": "5:03.0"
+      },
+      {
+        "name": "Freddy Camacho",
+        "place": 41,
+        "points": 304,
+        "time": "5:04.0"
+      },
+      {
+        "name": "Nicholas Ballstaedt",
+        "place": 42,
+        "points": 305,
+        "time": "5:05.0"
+      },
+      {
+        "name": "Matt Murski",
+        "place": 44,
+        "points": 307,
+        "time": "5:07.0"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 46,
+        "points": 309,
+        "time": "5:09.0"
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 47,
+        "points": 311,
+        "time": "5:11.0"
+      },
+      {
+        "name": "Justin Riley",
+        "place": 47,
+        "points": 311,
+        "time": "5:11.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 49,
+        "points": 313,
+        "time": "5:13.0"
+      },
+      {
+        "name": "Jeremy Fisher",
+        "place": 50,
+        "points": 327,
+        "time": "5:27.0"
+      },
+      {
+        "name": "Dave Lipson",
+        "place": 52,
+        "points": 329,
+        "time": "5:29.0"
+      },
+      {
+        "name": "Joe Carlson",
+        "place": 54,
+        "points": 335,
+        "time": "5:35.0"
+      },
+      {
+        "name": "Brandon Banks",
+        "place": 62,
+        "points": 352,
+        "time": "5:52.0"
+      },
+      {
+        "name": "David Leys",
+        "place": 64,
+        "points": 356,
+        "time": "5:56.0"
+      },
+      {
+        "name": "Max Mormont",
+        "place": 66,
+        "points": 362,
+        "time": "6:02.0"
+      },
+      {
+        "name": "Robert Corson",
+        "place": 74,
+        "points": 380,
+        "time": "6:20.0"
+      },
+      {
+        "name": "Jeremy Jones",
+        "place": 81,
+        "points": 396,
+        "time": "6:36.0"
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 85,
+        "points": 405,
+        "time": "6:45.0"
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 98,
+        "points": 454,
+        "time": "7:34.0"
+      }
+    ],
+    "The Hill Run": [
+      {
+        "name": "Matt Chan",
+        "place": 1,
+        "points": 153,
+        "time": "2:33.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 3,
+        "points": 157,
+        "time": "2:37.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 4,
+        "points": 161,
+        "time": "2:41.0"
+      },
+      {
+        "name": "Omar Torres",
+        "place": 6,
+        "points": 162,
+        "time": "2:42.0"
+      },
+      {
+        "name": "Jeremy Jones",
+        "place": 6,
+        "points": 162,
+        "time": "2:42.0"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 8,
+        "points": 164,
+        "time": "2:44.0"
+      },
+      {
+        "name": "Anthony Bainbridge",
+        "place": 9,
+        "points": 165,
+        "time": "2:45.0"
+      },
+      {
+        "name": "Rick Frausto",
+        "place": 10,
+        "points": 166,
+        "time": "2:46.0"
+      },
+      {
+        "name": "Pat Barber",
+        "place": 11,
+        "points": 170,
+        "time": "2:50.0"
+      },
+      {
+        "name": "Dutch Lowy",
+        "place": 12,
+        "points": 171,
+        "time": "2:51.0"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 13,
+        "points": 173,
+        "time": "2:53.0"
+      },
+      {
+        "name": "Josh Everett",
+        "place": 14,
+        "points": 175,
+        "time": "2:55.0"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 15,
+        "points": 176,
+        "time": "2:56.0"
+      },
+      {
+        "name": "John Fragoso",
+        "place": 16,
+        "points": 180,
+        "time": "3:00.0"
+      },
+      {
+        "name": "Matt Murski",
+        "place": 17,
+        "points": 185,
+        "time": "3:05.0"
+      },
+      {
+        "name": "Jeff Tincher",
+        "place": 18,
+        "points": 187,
+        "time": "3:07.0"
+      },
+      {
+        "name": "Christopher Woods",
+        "place": 19,
+        "points": 191,
+        "time": "3:11.0"
+      },
+      {
+        "name": "Austin Begiebing",
+        "place": 20,
+        "points": 192,
+        "time": "3:12.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 21,
+        "points": 195,
+        "time": "3:15.0"
+      },
+      {
+        "name": "Travis Cassidy",
+        "place": 22,
+        "points": 196,
+        "time": "3:16.0"
+      },
+      {
+        "name": "Jeremy Fisher",
+        "place": 23,
+        "points": 197,
+        "time": "3:17.0"
+      },
+      {
+        "name": "Brendan Gilliam",
+        "place": 24,
+        "points": 198,
+        "time": "3:18.0"
+      },
+      {
+        "name": "Dave Lipson",
+        "place": 26,
+        "points": 204,
+        "time": "3:24.0"
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 27,
+        "points": 205,
+        "time": "3:25.0"
+      },
+      {
+        "name": "Simon Warnos",
+        "place": 28,
+        "points": 206,
+        "time": "3:26.0"
+      },
+      {
+        "name": "Freddy Camacho",
+        "place": 28,
+        "points": 206,
+        "time": "3:26.0"
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 30,
+        "points": 208,
+        "time": "3:28.0"
+      },
+      {
+        "name": "David Leys",
+        "place": 30,
+        "points": 208,
+        "time": "3:28.0"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 32,
+        "points": 209,
+        "time": "3:29.0"
+      },
+      {
+        "name": "Brett Marshall",
+        "place": 32,
+        "points": 209,
+        "time": "3:29.0"
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 32,
+        "points": 209,
+        "time": "3:29.0"
+      },
+      {
+        "name": "Nicholas Ballstaedt",
+        "place": 35,
+        "points": 213,
+        "time": "3:33.0"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 36,
+        "points": 214,
+        "time": "3:34.0"
+      },
+      {
+        "name": "Nolan Foster",
+        "place": 36,
+        "points": 214,
+        "time": "3:34.0"
+      },
+      {
+        "name": "Brandon Banks",
+        "place": 39,
+        "points": 218,
+        "time": "3:38.0"
+      },
+      {
+        "name": "Joe Carlson",
+        "place": 42,
+        "points": 223,
+        "time": "3:43.0"
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 43,
+        "points": 226,
+        "time": "3:46.0"
+      },
+      {
+        "name": "Lucas Brainerd",
+        "place": 45,
+        "points": 228,
+        "time": "3:48.0"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 47,
+        "points": 230,
+        "time": "3:50.0"
+      },
+      {
+        "name": "Daniel Hester",
+        "place": 49,
+        "points": 233,
+        "time": "3:53.0"
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 49,
+        "points": 233,
+        "time": "3:53.0"
+      },
+      {
+        "name": "Aaron Lucke",
+        "place": 53,
+        "points": 239,
+        "time": "3:59.0"
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 53,
+        "points": 239,
+        "time": "3:59.0"
+      },
+      {
+        "name": "Jimi Letchford",
+        "place": 58,
+        "points": 246,
+        "time": "4:06.0"
+      },
+      {
+        "name": "Robert Corson",
+        "place": 61,
+        "points": 249,
+        "time": "4:09.0"
+      },
+      {
+        "name": "Mark Riebel",
+        "place": 66,
+        "points": 257,
+        "time": "4:17.0"
+      },
+      {
+        "name": "Dale Saran",
+        "place": 68,
+        "points": 258,
+        "time": "4:18.0"
+      },
+      {
+        "name": "Justin Riley",
+        "place": 70,
+        "points": 266,
+        "time": "4:26.0"
+      },
+      {
+        "name": "Jason Boag",
+        "place": 73,
+        "points": 268,
+        "time": "4:28.0"
+      },
+      {
+        "name": "Max Mormont",
+        "place": 90,
+        "points": 303,
+        "time": "5:03.0"
+      }
+    ],
+    "Workout A": [
+      {
+        "name": "Eric O'connor",
+        "place": 1,
+        "points": 200,
+        "time": "3:20.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 2,
+        "points": 202,
+        "time": "3:22.0"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 3,
+        "points": 205,
+        "time": "3:25.0"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 6,
+        "points": 214,
+        "time": "3:34.0"
+      },
+      {
+        "name": "Simon Warnos",
+        "place": 6,
+        "points": 214,
+        "time": "3:34.0"
+      },
+      {
+        "name": "Aaron Lucke",
+        "place": 8,
+        "points": 217,
+        "time": "3:37.0"
+      },
+      {
+        "name": "David Leys",
+        "place": 8,
+        "points": 217,
+        "time": "3:37.0"
+      },
+      {
+        "name": "Jason Boag",
+        "place": 10,
+        "points": 219,
+        "time": "3:39.0"
+      },
+      {
+        "name": "Robert Corson",
+        "place": 10,
+        "points": 219,
+        "time": "3:39.0"
+      },
+      {
+        "name": "Nicholas Ballstaedt",
+        "place": 14,
+        "points": 220,
+        "time": "3:40.0"
+      },
+      {
+        "name": "Lucas Brainerd",
+        "place": 15,
+        "points": 222,
+        "time": "3:42.0"
+      },
+      {
+        "name": "Brett Marshall",
+        "place": 15,
+        "points": 222,
+        "time": "3:42.0"
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 15,
+        "points": 222,
+        "time": "3:42.0"
+      },
+      {
+        "name": "Josh Everett",
+        "place": 18,
+        "points": 224,
+        "time": "3:44.0"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 20,
+        "points": 227,
+        "time": "3:47.0"
+      },
+      {
+        "name": "Rick Frausto",
+        "place": 20,
+        "points": 227,
+        "time": "3:47.0"
+      },
+      {
+        "name": "Brandon Banks",
+        "place": 20,
+        "points": 227,
+        "time": "3:47.0"
+      },
+      {
+        "name": "Pat Barber",
+        "place": 23,
+        "points": 228,
+        "time": "3:48.0"
+      },
+      {
+        "name": "Joe Carlson",
+        "place": 27,
+        "points": 231,
+        "time": "3:51.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 29,
+        "points": 232,
+        "time": "3:52.0"
+      },
+      {
+        "name": "Jeff Tincher",
+        "place": 30,
+        "points": 235,
+        "time": "3:55.0"
+      },
+      {
+        "name": "Jason Khalipa",
+        "place": 32,
+        "points": 238,
+        "time": "3:58.0"
+      },
+      {
+        "name": "Austin Begiebing",
+        "place": 33,
+        "points": 239,
+        "time": "3:59.0"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 36,
+        "points": 241,
+        "time": "4:01.0"
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 36,
+        "points": 241,
+        "time": "4:01.0"
+      },
+      {
+        "name": "Dutch Lowy",
+        "place": 43,
+        "points": 244,
+        "time": "4:04.0"
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 45,
+        "points": 245,
+        "time": "4:05.0"
+      },
+      {
+        "name": "Nolan Foster",
+        "place": 48,
+        "points": 247,
+        "time": "4:07.0"
+      },
+      {
+        "name": "Jimi Letchford",
+        "place": 54,
+        "points": 250,
+        "time": "4:10.0"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 55,
+        "points": 252,
+        "time": "4:12.0"
+      },
+      {
+        "name": "Omar Torres",
+        "place": 55,
+        "points": 252,
+        "time": "4:12.0"
+      },
+      {
+        "name": "Dave Lipson",
+        "place": 60,
+        "points": 256,
+        "time": "4:16.0"
+      },
+      {
+        "name": "Justin Riley",
+        "place": 60,
+        "points": 256,
+        "time": "4:16.0"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 63,
+        "points": 257,
+        "time": "4:17.0"
+      },
+      {
+        "name": "Brendan Gilliam",
+        "place": 65,
+        "points": 260,
+        "time": "4:20.0"
+      },
+      {
+        "name": "Travis Cassidy",
+        "place": 65,
+        "points": 260,
+        "time": "4:20.0"
+      },
+      {
+        "name": "Matt Murski",
+        "place": 65,
+        "points": 260,
+        "time": "4:20.0"
+      },
+      {
+        "name": "Freddy Camacho",
+        "place": 69,
+        "points": 262,
+        "time": "4:22.0"
+      },
+      {
+        "name": "Jeremy Jones",
+        "place": 70,
+        "points": 263,
+        "time": "4:23.0"
+      },
+      {
+        "name": "Daniel Hester",
+        "place": 70,
+        "points": 263,
+        "time": "4:23.0"
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 72,
+        "points": 264,
+        "time": "4:24.0"
+      },
+      {
+        "name": "Anthony Bainbridge",
+        "place": 80,
+        "points": 273,
+        "time": "4:33.0"
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 82,
+        "points": 274,
+        "time": "4:34.0"
+      },
+      {
+        "name": "Jeremy Fisher",
+        "place": 83,
+        "points": 275,
+        "time": "4:35.0"
+      },
+      {
+        "name": "Dale Saran",
+        "place": 83,
+        "points": 275,
+        "time": "4:35.0"
+      },
+      {
+        "name": "Mark Riebel",
+        "place": 86,
+        "points": 281,
+        "time": "4:41.0"
+      },
+      {
+        "name": "John Fragoso",
+        "place": 90,
+        "points": 285,
+        "time": "4:45.0"
+      },
+      {
+        "name": "Christopher Woods",
+        "place": 103,
+        "points": 309,
+        "time": "5:09.0"
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 106,
+        "points": 325,
+        "time": "5:25.0"
+      },
+      {
+        "name": "Max Mormont",
+        "place": 108,
+        "points": 332,
+        "time": "5:32.0"
+      }
+    ],
+    "Workout B": [
+      {
+        "name": "Jason Khalipa",
+        "place": 1,
+        "points": 166,
+        "time": "2:46.0"
+      },
+      {
+        "name": "Max Mormont",
+        "place": 2,
+        "points": 204,
+        "time": "3:24.0"
+      },
+      {
+        "name": "Jeremy Thiel",
+        "place": 3,
+        "points": 232,
+        "time": "3:52.0"
+      },
+      {
+        "name": "Josh Everett",
+        "place": 5,
+        "points": 257,
+        "time": "4:17.0"
+      },
+      {
+        "name": "Dave Lipson",
+        "place": 6,
+        "points": 262,
+        "time": "4:22.0"
+      },
+      {
+        "name": "Lance Mosley",
+        "place": 8,
+        "points": 272,
+        "time": "4:32.0"
+      },
+      {
+        "name": "Pat Barber",
+        "place": 9,
+        "points": 296,
+        "time": "4:56.0"
+      },
+      {
+        "name": "Lucas Brainerd",
+        "place": 10,
+        "points": 300,
+        "time": "5:00.0"
+      },
+      {
+        "name": "Jeff Tincher",
+        "place": 11,
+        "points": 302,
+        "time": "5:02.0"
+      },
+      {
+        "name": "Austin Begiebing",
+        "place": 12,
+        "points": 326,
+        "time": "5:26.0"
+      },
+      {
+        "name": "Jeremy Jones",
+        "place": 13,
+        "points": 335,
+        "time": "5:35.0"
+      },
+      {
+        "name": "Jimi Letchford",
+        "place": 15,
+        "points": 337,
+        "time": "5:37.0"
+      },
+      {
+        "name": "Aaron Lucke",
+        "place": 15,
+        "points": 335,
+        "time": "5:35.0"
+      },
+      {
+        "name": "Dutch Lowy",
+        "place": 17,
+        "points": 337,
+        "time": "5:37.0"
+      },
+      {
+        "name": "Omar Torres",
+        "place": 17,
+        "points": 337,
+        "time": "5:37.0"
+      },
+      {
+        "name": "Braden Lutz",
+        "place": 18,
+        "points": 339,
+        "time": "5:39.0"
+      },
+      {
+        "name": "Matt Chan",
+        "place": 20,
+        "points": 346,
+        "time": "5:46.0"
+      },
+      {
+        "name": "Anthony Bainbridge",
+        "place": 21,
+        "points": 348,
+        "time": "5:48.0"
+      },
+      {
+        "name": "Rick Frausto",
+        "place": 22,
+        "points": 352,
+        "time": "5:52.0"
+      },
+      {
+        "name": "Breck Berry",
+        "place": 23,
+        "points": 355,
+        "time": "5:55.0"
+      },
+      {
+        "name": "Freddy Camacho",
+        "place": 24,
+        "points": 357,
+        "time": "5:57.0"
+      },
+      {
+        "name": "Michael Giardina",
+        "place": 25,
+        "points": 358,
+        "time": "5:58.0"
+      },
+      {
+        "name": "Jeremy Fisher",
+        "place": 26,
+        "points": 369,
+        "time": "6:09.0"
+      },
+      {
+        "name": "Daniel Hester",
+        "place": 26,
+        "points": 369,
+        "time": "6:09.0"
+      },
+      {
+        "name": "Patrick Burke",
+        "place": 28,
+        "points": 387,
+        "time": "6:27.0"
+      },
+      {
+        "name": "James Fitzgerald",
+        "place": 29,
+        "points": 389,
+        "time": "6:29.0"
+      },
+      {
+        "name": "Peter Egyed",
+        "place": 30,
+        "points": 393,
+        "time": "6:33.0"
+      },
+      {
+        "name": "Mark Riebel",
+        "place": 31,
+        "points": 394,
+        "time": "6:34.0"
+      },
+      {
+        "name": "Robert Corson",
+        "place": 32,
+        "points": 395,
+        "time": "6:35.0"
+      },
+      {
+        "name": "Justin Riley",
+        "place": 33,
+        "points": 396,
+        "time": "6:36.0"
+      },
+      {
+        "name": "Christopher Woods",
+        "place": 34,
+        "points": 398,
+        "time": "6:38.0"
+      },
+      {
+        "name": "Nolan Foster",
+        "place": 35,
+        "points": 399,
+        "time": "6:39.0"
+      },
+      {
+        "name": "Brandon Banks",
+        "place": 35,
+        "points": 399,
+        "time": "6:39.0"
+      },
+      {
+        "name": "John Fragoso",
+        "place": 37,
+        "points": 403,
+        "time": "6:43.0"
+      },
+      {
+        "name": "Simon Warnos",
+        "place": 39,
+        "points": 408,
+        "time": "6:48.0"
+      },
+      {
+        "name": "Brendan Gilliam",
+        "place": 41,
+        "points": 418,
+        "time": "6:58.0"
+      },
+      {
+        "name": "Josh Wagner",
+        "place": 42,
+        "points": 422,
+        "time": "7:02.0"
+      },
+      {
+        "name": "Dale Saran",
+        "place": 42,
+        "points": 422,
+        "time": "7:02.0"
+      },
+      {
+        "name": "Matt Murski",
+        "place": 44,
+        "points": 424,
+        "time": "7:04.0"
+      },
+      {
+        "name": "Andrew Swartz",
+        "place": 45,
+        "points": 426,
+        "time": "7:06.0"
+      },
+      {
+        "name": "Jordan Holland",
+        "place": 46,
+        "points": 435,
+        "time": "7:15.0"
+      },
+      {
+        "name": "Chris Spealler",
+        "place": 47,
+        "points": 447,
+        "time": "7:27.0"
+      },
+      {
+        "name": "Eric O'connor",
+        "place": 48,
+        "points": 450,
+        "time": "7:30.0"
+      },
+      {
+        "name": "Travis Cassidy",
+        "place": 49,
+        "points": 452,
+        "time": "7:32.0"
+      },
+      {
+        "name": "Brad Posnanski",
+        "place": 49,
+        "points": 452,
+        "time": "7:32.0"
+      },
+      {
+        "name": "Joe Carlson",
+        "place": 54,
+        "points": 468,
+        "time": "7:48.0"
+      },
+      {
+        "name": "Nicholas Ballstaedt",
+        "place": 55,
+        "points": 471,
+        "time": "7:51.0"
+      },
+      {
+        "name": "Jason Boag",
+        "place": 56,
+        "points": 473,
+        "time": "7:53.0"
+      },
+      {
+        "name": "David Leys",
+        "place": 60,
+        "points": 478,
+        "time": "7:58.0"
+      },
+      {
+        "name": "Brett Marshall",
+        "place": 76,
+        "points": 546,
+        "time": "9:06.0"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Jason Khalipa",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "69 in | 210 lb",
+      "total_points": 797,
+      "events": {
+        "Sunday's Workout": {
+          "place": 11,
+          "time": "3:56.0",
+          "points": 236
+        },
+        "The Hill Run": {
+          "place": 3,
+          "time": "2:37.0",
+          "points": 157
+        },
+        "Workout A": {
+          "place": 32,
+          "time": "3:58.0",
+          "points": 238
+        },
+        "Workout B": {
+          "place": 1,
+          "time": "2:46.0",
+          "points": 166
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Josh Everett",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "69 in | 185 lb",
+      "total_points": 865,
+      "events": {
+        "Sunday's Workout": {
+          "place": 2,
+          "time": "3:29.0",
+          "points": 209
+        },
+        "The Hill Run": {
+          "place": 14,
+          "time": "2:55.0",
+          "points": 175
+        },
+        "Workout A": {
+          "place": 18,
+          "time": "3:44.0",
+          "points": 224
+        },
+        "Workout B": {
+          "place": 5,
+          "time": "4:17.0",
+          "points": 257
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Jeremy Thiel",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "205 lb",
+      "total_points": 888,
+      "events": {
+        "Sunday's Workout": {
+          "place": 17,
+          "time": "4:13.0",
+          "points": 253
+        },
+        "The Hill Run": {
+          "place": 15,
+          "time": "2:56.0",
+          "points": 176
+        },
+        "Workout A": {
+          "place": 20,
+          "time": "3:47.0",
+          "points": 227
+        },
+        "Workout B": {
+          "place": 3,
+          "time": "3:52.0",
+          "points": 232
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Pat Barber",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "67 in | 175 lb",
+      "total_points": 913,
+      "events": {
+        "Sunday's Workout": {
+          "place": 6,
+          "time": "3:39.0",
+          "points": 219
+        },
+        "The Hill Run": {
+          "place": 11,
+          "time": "2:50.0",
+          "points": 170
+        },
+        "Workout A": {
+          "place": 23,
+          "time": "3:48.0",
+          "points": 228
+        },
+        "Workout B": {
+          "place": 9,
+          "time": "4:56.0",
+          "points": 296
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Jeff Tincher",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 39",
+      "height_weight": "69 in | 185 lb",
+      "total_points": 937,
+      "events": {
+        "Sunday's Workout": {
+          "place": 5,
+          "time": "3:33.0",
+          "points": 213
+        },
+        "The Hill Run": {
+          "place": 18,
+          "time": "3:07.0",
+          "points": 187
+        },
+        "Workout A": {
+          "place": 30,
+          "time": "3:55.0",
+          "points": 235
+        },
+        "Workout B": {
+          "place": 11,
+          "time": "5:02.0",
+          "points": 302
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Rick Frausto",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "65 in | 160 lb",
+      "total_points": 955,
+      "events": {
+        "Sunday's Workout": {
+          "place": 3,
+          "time": "3:30.0",
+          "points": 210
+        },
+        "The Hill Run": {
+          "place": 10,
+          "time": "2:46.0",
+          "points": 166
+        },
+        "Workout A": {
+          "place": 20,
+          "time": "3:47.0",
+          "points": 227
+        },
+        "Workout B": {
+          "place": 22,
+          "time": "5:52.0",
+          "points": 352
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Dutch Lowy",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "",
+      "total_points": 962,
+      "events": {
+        "Sunday's Workout": {
+          "place": 3,
+          "time": "3:30.0",
+          "points": 210
+        },
+        "The Hill Run": {
+          "place": 12,
+          "time": "2:51.0",
+          "points": 171
+        },
+        "Workout A": {
+          "place": 43,
+          "time": "4:04.0",
+          "points": 244
+        },
+        "Workout B": {
+          "place": 17,
+          "time": "5:37.0",
+          "points": 337
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Matt Chan",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "69 in | 217 lb",
+      "total_points": 974,
+      "events": {
+        "Sunday's Workout": {
+          "place": 8,
+          "time": "3:43.0",
+          "points": 223
+        },
+        "The Hill Run": {
+          "place": 1,
+          "time": "2:33.0",
+          "points": 153
+        },
+        "Workout A": {
+          "place": 55,
+          "time": "4:12.0",
+          "points": 252
+        },
+        "Workout B": {
+          "place": 20,
+          "time": "5:46.0",
+          "points": 346
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Lucas Brainerd",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 987,
+      "events": {
+        "Sunday's Workout": {
+          "place": 12,
+          "time": "3:57.0",
+          "points": 237
+        },
+        "The Hill Run": {
+          "place": 45,
+          "time": "3:48.0",
+          "points": 228
+        },
+        "Workout A": {
+          "place": 15,
+          "time": "3:42.0",
+          "points": 222
+        },
+        "Workout B": {
+          "place": 10,
+          "time": "5:00.0",
+          "points": 300
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Chris Spealler",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "65 in | 143 lb",
+      "total_points": 991,
+      "events": {
+        "Sunday's Workout": {
+          "place": 1,
+          "time": "3:01.0",
+          "points": 181
+        },
+        "The Hill Run": {
+          "place": 4,
+          "time": "2:41.0",
+          "points": 161
+        },
+        "Workout A": {
+          "place": 2,
+          "time": "3:22.0",
+          "points": 202
+        },
+        "Workout B": {
+          "place": 47,
+          "time": "7:27.0",
+          "points": 447
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Omar Torres",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "65 in | 175 lb",
+      "total_points": 1007,
+      "events": {
+        "Sunday's Workout": {
+          "place": 18,
+          "time": "4:16.0",
+          "points": 256
+        },
+        "The Hill Run": {
+          "place": 6,
+          "time": "2:42.0",
+          "points": 162
+        },
+        "Workout A": {
+          "place": 55,
+          "time": "4:12.0",
+          "points": 252
+        },
+        "Workout B": {
+          "place": 17,
+          "time": "5:37.0",
+          "points": 337
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "James Fitzgerald",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "69 in | 176 lb",
+      "total_points": 1007,
+      "events": {
+        "Sunday's Workout": {
+          "place": 10,
+          "time": "3:51.0",
+          "points": 231
+        },
+        "The Hill Run": {
+          "place": 13,
+          "time": "2:53.0",
+          "points": 173
+        },
+        "Workout A": {
+          "place": 6,
+          "time": "3:34.0",
+          "points": 214
+        },
+        "Workout B": {
+          "place": 29,
+          "time": "6:29.0",
+          "points": 389
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Austin Begiebing",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "74 in | 210 lb",
+      "total_points": 1050,
+      "events": {
+        "Sunday's Workout": {
+          "place": 35,
+          "time": "4:53.0",
+          "points": 293
+        },
+        "The Hill Run": {
+          "place": 20,
+          "time": "3:12.0",
+          "points": 192
+        },
+        "Workout A": {
+          "place": 33,
+          "time": "3:59.0",
+          "points": 239
+        },
+        "Workout B": {
+          "place": 12,
+          "time": "5:26.0",
+          "points": 326
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Dave Lipson",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "72 in | 210 lb",
+      "total_points": 1051,
+      "events": {
+        "Sunday's Workout": {
+          "place": 52,
+          "time": "5:29.0",
+          "points": 329
+        },
+        "The Hill Run": {
+          "place": 26,
+          "time": "3:24.0",
+          "points": 204
+        },
+        "Workout A": {
+          "place": 60,
+          "time": "4:16.0",
+          "points": 256
+        },
+        "Workout B": {
+          "place": 6,
+          "time": "4:22.0",
+          "points": 262
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Breck Berry",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "67 in | 170 lb",
+      "total_points": 1056,
+      "events": {
+        "Sunday's Workout": {
+          "place": 32,
+          "time": "4:47.0",
+          "points": 287
+        },
+        "The Hill Run": {
+          "place": 32,
+          "time": "3:29.0",
+          "points": 209
+        },
+        "Workout A": {
+          "place": 3,
+          "time": "3:25.0",
+          "points": 205
+        },
+        "Workout B": {
+          "place": 23,
+          "time": "5:55.0",
+          "points": 355
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Anthony Bainbridge",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "67 in | 166 lb",
+      "total_points": 1067,
+      "events": {
+        "Sunday's Workout": {
+          "place": 30,
+          "time": "4:41.0",
+          "points": 281
+        },
+        "The Hill Run": {
+          "place": 9,
+          "time": "2:45.0",
+          "points": 165
+        },
+        "Workout A": {
+          "place": 80,
+          "time": "4:33.0",
+          "points": 273
+        },
+        "Workout B": {
+          "place": 21,
+          "time": "5:48.0",
+          "points": 348
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Aaron Lucke",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1079,
+      "events": {
+        "Sunday's Workout": {
+          "place": 33,
+          "time": "4:48.0",
+          "points": 288
+        },
+        "The Hill Run": {
+          "place": 53,
+          "time": "3:59.0",
+          "points": 239
+        },
+        "Workout A": {
+          "place": 8,
+          "time": "3:37.0",
+          "points": 217
+        },
+        "Workout B": {
+          "place": 15,
+          "time": "5:35.0",
+          "points": 335
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Braden Lutz",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "",
+      "total_points": 1085,
+      "events": {
+        "Sunday's Workout": {
+          "place": 20,
+          "time": "4:19.0",
+          "points": 259
+        },
+        "The Hill Run": {
+          "place": 47,
+          "time": "3:50.0",
+          "points": 230
+        },
+        "Workout A": {
+          "place": 63,
+          "time": "4:17.0",
+          "points": 257
+        },
+        "Workout B": {
+          "place": 18,
+          "time": "5:39.0",
+          "points": 339
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Simon Warnos",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "69 in | 198 lb",
+      "total_points": 1088,
+      "events": {
+        "Sunday's Workout": {
+          "place": 21,
+          "time": "4:20.0",
+          "points": 260
+        },
+        "The Hill Run": {
+          "place": 28,
+          "time": "3:26.0",
+          "points": 206
+        },
+        "Workout A": {
+          "place": 6,
+          "time": "3:34.0",
+          "points": 214
+        },
+        "Workout B": {
+          "place": 39,
+          "time": "6:48.0",
+          "points": 408
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Michael Giardina",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "70 in | 186 lb",
+      "total_points": 1098,
+      "events": {
+        "Sunday's Workout": {
+          "place": 19,
+          "time": "4:18.0",
+          "points": 258
+        },
+        "The Hill Run": {
+          "place": 30,
+          "time": "3:28.0",
+          "points": 208
+        },
+        "Workout A": {
+          "place": 82,
+          "time": "4:34.0",
+          "points": 274
+        },
+        "Workout B": {
+          "place": 25,
+          "time": "5:58.0",
+          "points": 358
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Peter Egyed",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "71 in | 193 lb",
+      "total_points": 1113,
+      "events": {
+        "Sunday's Workout": {
+          "place": 24,
+          "time": "4:25.0",
+          "points": 265
+        },
+        "The Hill Run": {
+          "place": 36,
+          "time": "3:34.0",
+          "points": 214
+        },
+        "Workout A": {
+          "place": 36,
+          "time": "4:01.0",
+          "points": 241
+        },
+        "Workout B": {
+          "place": 30,
+          "time": "6:33.0",
+          "points": 393
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Brendan Gilliam",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "72 in | 185 lb",
+      "total_points": 1116,
+      "events": {
+        "Sunday's Workout": {
+          "place": 15,
+          "time": "4:00.0",
+          "points": 240
+        },
+        "The Hill Run": {
+          "place": 24,
+          "time": "3:18.0",
+          "points": 198
+        },
+        "Workout A": {
+          "place": 65,
+          "time": "4:20.0",
+          "points": 260
+        },
+        "Workout B": {
+          "place": 41,
+          "time": "6:58.0",
+          "points": 418
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Eric O'connor",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "70 in | 183 lb",
+      "total_points": 1123,
+      "events": {
+        "Sunday's Workout": {
+          "place": 46,
+          "time": "5:09.0",
+          "points": 309
+        },
+        "The Hill Run": {
+          "place": 8,
+          "time": "2:44.0",
+          "points": 164
+        },
+        "Workout A": {
+          "place": 1,
+          "time": "3:20.0",
+          "points": 200
+        },
+        "Workout B": {
+          "place": 48,
+          "time": "7:30.0",
+          "points": 450
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Patrick Burke",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "70 in | 185 lb",
+      "total_points": 1127,
+      "events": {
+        "Sunday's Workout": {
+          "place": 49,
+          "time": "5:13.0",
+          "points": 313
+        },
+        "The Hill Run": {
+          "place": 21,
+          "time": "3:15.0",
+          "points": 195
+        },
+        "Workout A": {
+          "place": 29,
+          "time": "3:52.0",
+          "points": 232
+        },
+        "Workout B": {
+          "place": 28,
+          "time": "6:27.0",
+          "points": 387
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Freddy Camacho",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 43",
+      "height_weight": "68 in | 190 lb",
+      "total_points": 1129,
+      "events": {
+        "Sunday's Workout": {
+          "place": 41,
+          "time": "5:04.0",
+          "points": 304
+        },
+        "The Hill Run": {
+          "place": 28,
+          "time": "3:26.0",
+          "points": 206
+        },
+        "Workout A": {
+          "place": 69,
+          "time": "4:22.0",
+          "points": 262
+        },
+        "Workout B": {
+          "place": 24,
+          "time": "5:57.0",
+          "points": 357
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Jimi Letchford",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "69 in | 200 lb",
+      "total_points": 1130,
+      "events": {
+        "Sunday's Workout": {
+          "place": 36,
+          "time": "4:57.0",
+          "points": 297
+        },
+        "The Hill Run": {
+          "place": 58,
+          "time": "4:06.0",
+          "points": 246
+        },
+        "Workout A": {
+          "place": 54,
+          "time": "4:10.0",
+          "points": 250
+        },
+        "Workout B": {
+          "place": 15,
+          "time": "5:37.0",
+          "points": 337
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "John Fragoso",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1132,
+      "events": {
+        "Sunday's Workout": {
+          "place": 22,
+          "time": "4:24.0",
+          "points": 264
+        },
+        "The Hill Run": {
+          "place": 16,
+          "time": "3:00.0",
+          "points": 180
+        },
+        "Workout A": {
+          "place": 90,
+          "time": "4:45.0",
+          "points": 285
+        },
+        "Workout B": {
+          "place": 37,
+          "time": "6:43.0",
+          "points": 403
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Travis Cassidy",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "67 in | 180 lb",
+      "total_points": 1146,
+      "events": {
+        "Sunday's Workout": {
+          "place": 13,
+          "time": "3:58.0",
+          "points": 238
+        },
+        "The Hill Run": {
+          "place": 22,
+          "time": "3:16.0",
+          "points": 196
+        },
+        "Workout A": {
+          "place": 65,
+          "time": "4:20.0",
+          "points": 260
+        },
+        "Workout B": {
+          "place": 49,
+          "time": "7:32.0",
+          "points": 452
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Jeremy Jones",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "66 in | 162 lb",
+      "total_points": 1156,
+      "events": {
+        "Sunday's Workout": {
+          "place": 81,
+          "time": "6:36.0",
+          "points": 396
+        },
+        "The Hill Run": {
+          "place": 6,
+          "time": "2:42.0",
+          "points": 162
+        },
+        "Workout A": {
+          "place": 70,
+          "time": "4:23.0",
+          "points": 263
+        },
+        "Workout B": {
+          "place": 13,
+          "time": "5:35.0",
+          "points": 335
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Nolan Foster",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 1161,
+      "events": {
+        "Sunday's Workout": {
+          "place": 38,
+          "time": "5:01.0",
+          "points": 301
+        },
+        "The Hill Run": {
+          "place": 36,
+          "time": "3:34.0",
+          "points": 214
+        },
+        "Workout A": {
+          "place": 48,
+          "time": "4:07.0",
+          "points": 247
+        },
+        "Workout B": {
+          "place": 35,
+          "time": "6:39.0",
+          "points": 399
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Mark Riebel",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 0",
+      "height_weight": "",
+      "total_points": 1162,
+      "events": {
+        "Sunday's Workout": {
+          "place": 9,
+          "time": "3:50.0",
+          "points": 230
+        },
+        "The Hill Run": {
+          "place": 66,
+          "time": "4:17.0",
+          "points": 257
+        },
+        "Workout A": {
+          "place": 86,
+          "time": "4:41.0",
+          "points": 281
+        },
+        "Workout B": {
+          "place": 31,
+          "time": "6:34.0",
+          "points": 394
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Christopher Woods",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "64 in | 180 lb",
+      "total_points": 1167,
+      "events": {
+        "Sunday's Workout": {
+          "place": 26,
+          "time": "4:29.0",
+          "points": 269
+        },
+        "The Hill Run": {
+          "place": 19,
+          "time": "3:11.0",
+          "points": 191
+        },
+        "Workout A": {
+          "place": 103,
+          "time": "5:09.0",
+          "points": 309
+        },
+        "Workout B": {
+          "place": 34,
+          "time": "6:38.0",
+          "points": 398
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Jeremy Fisher",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "",
+      "total_points": 1168,
+      "events": {
+        "Sunday's Workout": {
+          "place": 50,
+          "time": "5:27.0",
+          "points": 327
+        },
+        "The Hill Run": {
+          "place": 23,
+          "time": "3:17.0",
+          "points": 197
+        },
+        "Workout A": {
+          "place": 83,
+          "time": "4:35.0",
+          "points": 275
+        },
+        "Workout B": {
+          "place": 26,
+          "time": "6:09.0",
+          "points": 369
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Daniel Hester",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "",
+      "total_points": 1168,
+      "events": {
+        "Sunday's Workout": {
+          "place": 40,
+          "time": "5:03.0",
+          "points": 303
+        },
+        "The Hill Run": {
+          "place": 49,
+          "time": "3:53.0",
+          "points": 233
+        },
+        "Workout A": {
+          "place": 70,
+          "time": "4:23.0",
+          "points": 263
+        },
+        "Workout B": {
+          "place": 26,
+          "time": "6:09.0",
+          "points": 369
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Matt Murski",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "",
+      "total_points": 1176,
+      "events": {
+        "Sunday's Workout": {
+          "place": 44,
+          "time": "5:07.0",
+          "points": 307
+        },
+        "The Hill Run": {
+          "place": 17,
+          "time": "3:05.0",
+          "points": 185
+        },
+        "Workout A": {
+          "place": 65,
+          "time": "4:20.0",
+          "points": 260
+        },
+        "Workout B": {
+          "place": 44,
+          "time": "7:04.0",
+          "points": 424
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Jordan Holland",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 20",
+      "height_weight": "71 in | 210 lb",
+      "total_points": 1190,
+      "events": {
+        "Sunday's Workout": {
+          "place": 29,
+          "time": "4:35.0",
+          "points": 275
+        },
+        "The Hill Run": {
+          "place": 53,
+          "time": "3:59.0",
+          "points": 239
+        },
+        "Workout A": {
+          "place": 36,
+          "time": "4:01.0",
+          "points": 241
+        },
+        "Workout B": {
+          "place": 46,
+          "time": "7:15.0",
+          "points": 435
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Brandon Banks",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "8 in | 185 lb",
+      "total_points": 1196,
+      "events": {
+        "Sunday's Workout": {
+          "place": 62,
+          "time": "5:52.0",
+          "points": 352
+        },
+        "The Hill Run": {
+          "place": 39,
+          "time": "3:38.0",
+          "points": 218
+        },
+        "Workout A": {
+          "place": 20,
+          "time": "3:47.0",
+          "points": 227
+        },
+        "Workout B": {
+          "place": 35,
+          "time": "6:39.0",
+          "points": 399
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Jason Boag",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "68 in | 180 lb",
+      "total_points": 1199,
+      "events": {
+        "Sunday's Workout": {
+          "place": 14,
+          "time": "3:59.0",
+          "points": 239
+        },
+        "The Hill Run": {
+          "place": 73,
+          "time": "4:28.0",
+          "points": 268
+        },
+        "Workout A": {
+          "place": 10,
+          "time": "3:39.0",
+          "points": 219
+        },
+        "Workout B": {
+          "place": 56,
+          "time": "7:53.0",
+          "points": 473
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "rank_label": "39",
+      "name": "Brett Marshall",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "168 cm | 155 lb",
+      "total_points": 1199,
+      "events": {
+        "Sunday's Workout": {
+          "place": 7,
+          "time": "3:42.0",
+          "points": 222
+        },
+        "The Hill Run": {
+          "place": 32,
+          "time": "3:29.0",
+          "points": 209
+        },
+        "Workout A": {
+          "place": 15,
+          "time": "3:42.0",
+          "points": 222
+        },
+        "Workout B": {
+          "place": 76,
+          "time": "9:06.0",
+          "points": 546
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "rank_label": "40",
+      "name": "Max Mormont",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "68 in | 226 lb",
+      "total_points": 1201,
+      "events": {
+        "Sunday's Workout": {
+          "place": 66,
+          "time": "6:02.0",
+          "points": 362
+        },
+        "The Hill Run": {
+          "place": 90,
+          "time": "5:03.0",
+          "points": 303
+        },
+        "Workout A": {
+          "place": 108,
+          "time": "5:32.0",
+          "points": 332
+        },
+        "Workout B": {
+          "place": 2,
+          "time": "3:24.0",
+          "points": 204
+        }
+      }
+    },
+    {
+      "rank": 41,
+      "rank_label": "41",
+      "name": "Andrew Swartz",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "",
+      "total_points": 1208,
+      "events": {
+        "Sunday's Workout": {
+          "place": 47,
+          "time": "5:11.0",
+          "points": 311
+        },
+        "The Hill Run": {
+          "place": 43,
+          "time": "3:46.0",
+          "points": 226
+        },
+        "Workout A": {
+          "place": 45,
+          "time": "4:05.0",
+          "points": 245
+        },
+        "Workout B": {
+          "place": 45,
+          "time": "7:06.0",
+          "points": 426
+        }
+      }
+    },
+    {
+      "rank": 42,
+      "rank_label": "42",
+      "name": "Nicholas Ballstaedt",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "",
+      "total_points": 1209,
+      "events": {
+        "Sunday's Workout": {
+          "place": 42,
+          "time": "5:05.0",
+          "points": 305
+        },
+        "The Hill Run": {
+          "place": 35,
+          "time": "3:33.0",
+          "points": 213
+        },
+        "Workout A": {
+          "place": 14,
+          "time": "3:40.0",
+          "points": 220
+        },
+        "Workout B": {
+          "place": 55,
+          "time": "7:51.0",
+          "points": 471
+        }
+      }
+    },
+    {
+      "rank": 43,
+      "rank_label": "43",
+      "name": "Brad Posnanski",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 36",
+      "height_weight": "69 in | 198 lb",
+      "total_points": 1213,
+      "events": {
+        "Sunday's Workout": {
+          "place": 22,
+          "time": "4:24.0",
+          "points": 264
+        },
+        "The Hill Run": {
+          "place": 49,
+          "time": "3:53.0",
+          "points": 233
+        },
+        "Workout A": {
+          "place": 72,
+          "time": "4:24.0",
+          "points": 264
+        },
+        "Workout B": {
+          "place": 49,
+          "time": "7:32.0",
+          "points": 452
+        }
+      }
+    },
+    {
+      "rank": 44,
+      "rank_label": "44",
+      "name": "Justin Riley",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "69 in | 200 lb",
+      "total_points": 1229,
+      "events": {
+        "Sunday's Workout": {
+          "place": 47,
+          "time": "5:11.0",
+          "points": 311
+        },
+        "The Hill Run": {
+          "place": 70,
+          "time": "4:26.0",
+          "points": 266
+        },
+        "Workout A": {
+          "place": 60,
+          "time": "4:16.0",
+          "points": 256
+        },
+        "Workout B": {
+          "place": 33,
+          "time": "6:36.0",
+          "points": 396
+        }
+      }
+    },
+    {
+      "rank": 45,
+      "rank_label": "45",
+      "name": "Robert Corson",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 43",
+      "height_weight": "73 in | 185 lb",
+      "total_points": 1243,
+      "events": {
+        "Sunday's Workout": {
+          "place": 74,
+          "time": "6:20.0",
+          "points": 380
+        },
+        "The Hill Run": {
+          "place": 61,
+          "time": "4:09.0",
+          "points": 249
+        },
+        "Workout A": {
+          "place": 10,
+          "time": "3:39.0",
+          "points": 219
+        },
+        "Workout B": {
+          "place": 32,
+          "time": "6:35.0",
+          "points": 395
+        }
+      }
+    },
+    {
+      "rank": 46,
+      "rank_label": "46",
+      "name": "Josh Wagner",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "75 in | 200 lb",
+      "total_points": 1254,
+      "events": {
+        "Sunday's Workout": {
+          "place": 85,
+          "time": "6:45.0",
+          "points": 405
+        },
+        "The Hill Run": {
+          "place": 27,
+          "time": "3:25.0",
+          "points": 205
+        },
+        "Workout A": {
+          "place": 15,
+          "time": "3:42.0",
+          "points": 222
+        },
+        "Workout B": {
+          "place": 42,
+          "time": "7:02.0",
+          "points": 422
+        }
+      }
+    },
+    {
+      "rank": 47,
+      "rank_label": "47",
+      "name": "Dale Saran",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 38",
+      "height_weight": "66 in | 190 lb",
+      "total_points": 1254,
+      "events": {
+        "Sunday's Workout": {
+          "place": 37,
+          "time": "4:59.0",
+          "points": 299
+        },
+        "The Hill Run": {
+          "place": 68,
+          "time": "4:18.0",
+          "points": 258
+        },
+        "Workout A": {
+          "place": 83,
+          "time": "4:35.0",
+          "points": 275
+        },
+        "Workout B": {
+          "place": 42,
+          "time": "7:02.0",
+          "points": 422
+        }
+      }
+    },
+    {
+      "rank": 48,
+      "rank_label": "48",
+      "name": "Joe Carlson",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "70 in | 180 lb",
+      "total_points": 1257,
+      "events": {
+        "Sunday's Workout": {
+          "place": 54,
+          "time": "5:35.0",
+          "points": 335
+        },
+        "The Hill Run": {
+          "place": 42,
+          "time": "3:43.0",
+          "points": 223
+        },
+        "Workout A": {
+          "place": 27,
+          "time": "3:51.0",
+          "points": 231
+        },
+        "Workout B": {
+          "place": 54,
+          "time": "7:48.0",
+          "points": 468
+        }
+      }
+    },
+    {
+      "rank": 49,
+      "rank_label": "49",
+      "name": "David Leys",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "69 in | 200 lb",
+      "total_points": 1259,
+      "events": {
+        "Sunday's Workout": {
+          "place": 64,
+          "time": "5:56.0",
+          "points": 356
+        },
+        "The Hill Run": {
+          "place": 30,
+          "time": "3:28.0",
+          "points": 208
+        },
+        "Workout A": {
+          "place": 8,
+          "time": "3:37.0",
+          "points": 217
+        },
+        "Workout B": {
+          "place": 60,
+          "time": "7:58.0",
+          "points": 478
+        }
+      }
+    },
+    {
+      "rank": 50,
+      "rank_label": "50",
+      "name": "Lance Mosley",
+      "country": "",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "193 lb",
+      "total_points": 1260,
+      "events": {
+        "Sunday's Workout": {
+          "place": 98,
+          "time": "7:34.0",
+          "points": 454
+        },
+        "The Hill Run": {
+          "place": 32,
+          "time": "3:29.0",
+          "points": 209
+        },
+        "Workout A": {
+          "place": 106,
+          "time": "5:25.0",
+          "points": 325
+        },
+        "Workout B": {
+          "place": 8,
+          "time": "4:32.0",
+          "points": 272
+        }
+      }
+    }
+  ]
+}

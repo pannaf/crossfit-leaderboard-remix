@@ -1,0 +1,5065 @@
+{
+  "year": 2021,
+  "gender": "men",
+  "events": [
+    "July 28",
+    "For time:",
+    "For time:",
+    "For time:",
+    "For time:",
+    "4 rounds for time:",
+    "For time:",
+    "21-15-9:",
+    "For time:",
+    "11-min. AMRAP:",
+    "1-rep-max snatch",
+    "4 rounds of:",
+    "6-10-14 reps of:",
+    "For time:",
+    "Event 15"
+  ],
+  "event_point_map": {
+    "July 28": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 38,
+      "23": 36,
+      "24": 34,
+      "25": 32,
+      "26": 30,
+      "27": 28,
+      "28": 26,
+      "29": 24,
+      "30": 22,
+      "31": 20,
+      "32": 18,
+      "33": 16,
+      "34": 14,
+      "35": 12,
+      "36": 10,
+      "37": 8,
+      "38": 6
+    },
+    "For time:": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "7": 70,
+      "8": 65,
+      "9": 60,
+      "11": 50,
+      "12": 45,
+      "13": 40,
+      "14": 35,
+      "15": 30,
+      "16": 25,
+      "17": 20,
+      "18": 15,
+      "19": 10,
+      "20": 5,
+      "21": 0
+    },
+    "4 rounds for time:": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "13": 64,
+      "14": 61,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "21": 40,
+      "22": 38,
+      "23": 36,
+      "24": 34,
+      "25": 32,
+      "26": 30,
+      "27": 28,
+      "28": 26,
+      "29": 24,
+      "30": 22,
+      "32": 18,
+      "33": 16,
+      "34": 14,
+      "35": 12,
+      "36": 0
+    },
+    "21-15-9:": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 38,
+      "23": 36,
+      "24": 34,
+      "25": 32,
+      "26": 30,
+      "27": 28,
+      "28": 26,
+      "29": 24,
+      "30": 22,
+      "31": 20,
+      "32": 18,
+      "33": 16,
+      "34": 14,
+      "35": 0
+    },
+    "11-min. AMRAP:": {
+      "1": 100,
+      "2": 96,
+      "3": 92,
+      "4": 88,
+      "5": 84,
+      "6": 80,
+      "7": 76,
+      "8": 72,
+      "9": 68,
+      "10": 64,
+      "11": 60,
+      "12": 56,
+      "13": 52,
+      "14": 49,
+      "15": 46,
+      "16": 43,
+      "17": 40,
+      "18": 37,
+      "19": 34,
+      "20": 31,
+      "21": 28,
+      "22": 25,
+      "23": 22,
+      "24": 19,
+      "25": 16,
+      "26": 13,
+      "27": 10,
+      "28": 7,
+      "29": 4,
+      "30": 1,
+      "31": 0
+    },
+    "1-rep-max snatch": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 70,
+      "9": 60,
+      "10": 55,
+      "12": 45,
+      "13": 40,
+      "14": 35,
+      "15": 30,
+      "17": 20,
+      "18": 15,
+      "19": 10,
+      "20": 5,
+      "21": 0
+    },
+    "4 rounds of:": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 70,
+      "8": 65,
+      "9": 60,
+      "10": 55,
+      "11": 50,
+      "12": 45,
+      "13": 40,
+      "14": 35,
+      "15": 30,
+      "16": 25,
+      "17": 20,
+      "18": 15,
+      "19": 10,
+      "20": 5,
+      "21": 0
+    },
+    "6-10-14 reps of:": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 70,
+      "8": 65,
+      "9": 60,
+      "10": 55,
+      "11": 50,
+      "12": 45,
+      "13": 40,
+      "14": 35,
+      "15": 30,
+      "16": 25,
+      "17": 20,
+      "18": 15,
+      "19": 10,
+      "20": 5,
+      "21": 0
+    },
+    "Event 15": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 70,
+      "8": 65,
+      "9": 60,
+      "10": 55,
+      "11": 50,
+      "12": 45,
+      "13": 40,
+      "14": 35,
+      "15": 30,
+      "16": 25,
+      "17": 20,
+      "18": 15,
+      "19": 10,
+      "20": 5,
+      "21": 0
+    }
+  },
+  "event_field_size": {
+    "July 28": 38,
+    "For time:": 21,
+    "4 rounds for time:": 36,
+    "21-15-9:": 35,
+    "11-min. AMRAP:": 31,
+    "1-rep-max snatch": 21,
+    "4 rounds of:": 21,
+    "6-10-14 reps of:": 21,
+    "Event 15": 21
+  },
+  "event_place_points": {
+    "July 28": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6
+    ],
+    "For time:": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      0,
+      70,
+      65,
+      60,
+      0,
+      50,
+      45,
+      40,
+      35,
+      30,
+      25,
+      20,
+      15,
+      10,
+      5,
+      0
+    ],
+    "4 rounds for time:": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      0,
+      64,
+      61,
+      0,
+      0,
+      52,
+      49,
+      46,
+      0,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      0,
+      18,
+      16,
+      14,
+      12,
+      0
+    ],
+    "21-15-9:": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      0
+    ],
+    "11-min. AMRAP:": [
+      100,
+      96,
+      92,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      56,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      31,
+      28,
+      25,
+      22,
+      19,
+      16,
+      13,
+      10,
+      7,
+      4,
+      1,
+      0
+    ],
+    "1-rep-max snatch": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      70,
+      0,
+      60,
+      55,
+      0,
+      45,
+      40,
+      35,
+      30,
+      0,
+      20,
+      15,
+      10,
+      5,
+      0
+    ],
+    "4 rounds of:": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      70,
+      65,
+      60,
+      55,
+      50,
+      45,
+      40,
+      35,
+      30,
+      25,
+      20,
+      15,
+      10,
+      5,
+      0
+    ],
+    "6-10-14 reps of:": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      70,
+      65,
+      60,
+      55,
+      50,
+      45,
+      40,
+      35,
+      30,
+      25,
+      20,
+      15,
+      10,
+      5,
+      0
+    ],
+    "Event 15": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      70,
+      65,
+      60,
+      55,
+      50,
+      45,
+      40,
+      35,
+      30,
+      25,
+      20,
+      15,
+      10,
+      5,
+      0
+    ]
+  },
+  "event_ordinals": {
+    "July 28": 1,
+    "For time:": 14,
+    "4 rounds for time:": 6,
+    "21-15-9:": 8,
+    "11-min. AMRAP:": 10,
+    "1-rep-max snatch": 11,
+    "4 rounds of:": 12,
+    "6-10-14 reps of:": 13,
+    "Event 15": 15
+  },
+  "event_finish_order": {
+    "July 28": [
+      {
+        "name": "Stas Solodov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 1,
+        "points": 100,
+        "time": "1:06:44.23"
+      },
+      {
+        "name": "Lazar Đukić",
+        "place": 2,
+        "points": 97,
+        "time": "1:09:08.68"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 3,
+        "points": 94,
+        "time": "1:09:48.17"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 4,
+        "points": 91,
+        "time": "1:10:35.29"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 5,
+        "points": 88,
+        "time": "1:10:54.31"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 6,
+        "points": 85,
+        "time": "1:11:10.13"
+      },
+      {
+        "name": "Bayden Brown",
+        "place": 7,
+        "points": 82,
+        "time": "1:11:35.12"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 8,
+        "points": 79,
+        "time": "1:12:08.38"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 9,
+        "points": 76,
+        "time": "1:12:26.84"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 10,
+        "points": 73,
+        "time": "1:12:40.21"
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 11,
+        "points": 70,
+        "time": "1:12:40.76"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 12,
+        "points": 67,
+        "time": "1:12:56.12"
+      },
+      {
+        "name": "Rogelio Gamboa",
+        "place": 13,
+        "points": 64,
+        "time": "1:12:57.14"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 14,
+        "points": 61,
+        "time": "1:13:10.55"
+      },
+      {
+        "name": "André Houdet",
+        "place": 15,
+        "points": 58,
+        "time": "1:13:14.15"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 16,
+        "points": 55,
+        "time": "1:13:22.12"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 17,
+        "points": 52,
+        "time": "1:13:35.04"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 18,
+        "points": 49,
+        "time": "1:13:37.00"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 19,
+        "points": 46,
+        "time": "1:13:37.05"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 20,
+        "points": 43,
+        "time": "1:14:00.84"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 21,
+        "points": 40,
+        "time": "1:14:39.13"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 22,
+        "points": 38,
+        "time": "1:14:44.05"
+      },
+      {
+        "name": "Aleksandar Ilin",
+        "place": 23,
+        "points": 36,
+        "time": "1:15:17.47"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 24,
+        "points": 34,
+        "time": "1:15:20.59"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 25,
+        "points": 32,
+        "time": "1:15:45.30"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 26,
+        "points": 30,
+        "time": "1:16:13.28"
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 27,
+        "points": 28,
+        "time": "1:16:39.98"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 28,
+        "points": 26,
+        "time": "1:16:52.44"
+      },
+      {
+        "name": "Timothy Paulson",
+        "place": 29,
+        "points": 24,
+        "time": "1:16:56.27"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 30,
+        "points": 22,
+        "time": "1:17:03.71"
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 31,
+        "points": 20,
+        "time": "1:17:18.34"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 32,
+        "points": 18,
+        "time": "1:18:35.76"
+      },
+      {
+        "name": "Sam Stewart",
+        "place": 33,
+        "points": 16,
+        "time": "1:19:08.17"
+      },
+      {
+        "name": "Colten Mertens",
+        "place": 34,
+        "points": 14,
+        "time": "1:19:36.84"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 35,
+        "points": 12,
+        "time": "1:19:48.62"
+      },
+      {
+        "name": "Royce Dunne",
+        "place": 36,
+        "points": 10,
+        "time": "1:20:23.53"
+      },
+      {
+        "name": "Zach Watts",
+        "place": 37,
+        "points": 8,
+        "time": "1:23:12.94"
+      },
+      {
+        "name": "Giorgos Karavis",
+        "place": 38,
+        "points": 6,
+        "time": "1:24:45.57"
+      }
+    ],
+    "For time:": [
+      {
+        "name": "Stas Solodov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 1,
+        "points": 100,
+        "time": "06:31.65"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 2,
+        "points": 95,
+        "time": "06:41.27"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 3,
+        "points": 90,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 4,
+        "points": 85,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 5,
+        "points": 80,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 5,
+        "points": 80,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 7,
+        "points": 70,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Lazar Đukić",
+        "place": 8,
+        "points": 65,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 9,
+        "points": 60,
+        "time": "CAP+12"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 9,
+        "points": 60,
+        "time": "CAP+12"
+      },
+      {
+        "name": "André Houdet",
+        "place": 11,
+        "points": 50,
+        "time": "CAP+16"
+      },
+      {
+        "name": "Bayden Brown",
+        "place": 12,
+        "points": 45,
+        "time": "CAP+17"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 13,
+        "points": 40,
+        "time": "CAP+18"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 14,
+        "points": 35,
+        "time": "CAP+23"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 15,
+        "points": 30,
+        "time": "CAP+29"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 16,
+        "points": 25,
+        "time": "CAP+30"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 17,
+        "points": 20,
+        "time": "CAP+31"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 18,
+        "points": 15,
+        "time": "CAP+32"
+      },
+      {
+        "name": "Royce Dunne",
+        "place": 19,
+        "points": 10,
+        "time": "CAP+33"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 20,
+        "points": 5,
+        "time": "CAP+36"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Timothy Paulson",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Zach Watts",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Colten Mertens",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Giorgos Karavis",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rogelio Gamboa",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sam Stewart",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleksandar Ilin",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "4 rounds for time:": [
+      {
+        "name": "Stas Solodov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 1,
+        "points": 100,
+        "time": "05:45.01"
+      },
+      {
+        "name": "Bayden Brown",
+        "place": 2,
+        "points": 97,
+        "time": "05:46.56"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 3,
+        "points": 94,
+        "time": "05:51.30"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 4,
+        "points": 91,
+        "time": "05:52.50"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 5,
+        "points": 88,
+        "time": "05:53.66"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 6,
+        "points": 85,
+        "time": "05:59.86"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 7,
+        "points": 82,
+        "time": "CAP"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 8,
+        "points": 79,
+        "time": "CAP"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 9,
+        "points": 76,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 10,
+        "points": 73,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 11,
+        "points": 70,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 11,
+        "points": 70,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 13,
+        "points": 64,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Royce Dunne",
+        "place": 14,
+        "points": 61,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 14,
+        "points": 61,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 14,
+        "points": 61,
+        "time": "CAP+1"
+      },
+      {
+        "name": "André Houdet",
+        "place": 17,
+        "points": 52,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 18,
+        "points": 49,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 19,
+        "points": 46,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 19,
+        "points": 46,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Zach Watts",
+        "place": 21,
+        "points": 40,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Lazar Đukić",
+        "place": 22,
+        "points": 38,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Timothy Paulson",
+        "place": 23,
+        "points": 36,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 24,
+        "points": 34,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 25,
+        "points": 32,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 26,
+        "points": 30,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Giorgos Karavis",
+        "place": 27,
+        "points": 28,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Colten Mertens",
+        "place": 28,
+        "points": 26,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 29,
+        "points": 24,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 30,
+        "points": 22,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 30,
+        "points": 22,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Rogelio Gamboa",
+        "place": 32,
+        "points": 18,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 33,
+        "points": 16,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 34,
+        "points": 14,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 35,
+        "points": 12,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 36,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sam Stewart",
+        "place": 36,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleksandar Ilin",
+        "place": 36,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "21-15-9:": [
+      {
+        "name": "Stas Solodov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 1,
+        "points": 100,
+        "time": "02:05.21"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 2,
+        "points": 97,
+        "time": "02:15.33"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 3,
+        "points": 94,
+        "time": "02:19.58"
+      },
+      {
+        "name": "Royce Dunne",
+        "place": 4,
+        "points": 91,
+        "time": "02:39.72"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 5,
+        "points": 88,
+        "time": "02:45.87"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 6,
+        "points": 85,
+        "time": "02:47.05"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 7,
+        "points": 82,
+        "time": "02:57.28"
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 8,
+        "points": 79,
+        "time": "03:00.34"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 9,
+        "points": 76,
+        "time": "03:02.13"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 10,
+        "points": 73,
+        "time": "03:02.24"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 11,
+        "points": 70,
+        "time": "03:15.36"
+      },
+      {
+        "name": "Lazar Đukić",
+        "place": 12,
+        "points": 67,
+        "time": "03:21.86"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 13,
+        "points": 64,
+        "time": "03:28.99"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 14,
+        "points": 61,
+        "time": "03:34.22"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 15,
+        "points": 58,
+        "time": "03:53.81"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 16,
+        "points": 55,
+        "time": "03:56.28"
+      },
+      {
+        "name": "Timothy Paulson",
+        "place": 17,
+        "points": 52,
+        "time": "04:02.91"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 18,
+        "points": 49,
+        "time": "04:05.08"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 19,
+        "points": 46,
+        "time": "04:06.47"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 20,
+        "points": 43,
+        "time": "04:07.11"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 21,
+        "points": 40,
+        "time": "04:19.30"
+      },
+      {
+        "name": "Bayden Brown",
+        "place": 22,
+        "points": 38,
+        "time": "04:31.58"
+      },
+      {
+        "name": "Colten Mertens",
+        "place": 23,
+        "points": 36,
+        "time": "04:39.22"
+      },
+      {
+        "name": "André Houdet",
+        "place": 24,
+        "points": 34,
+        "time": "04:40.56"
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 25,
+        "points": 32,
+        "time": "04:59.39"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 26,
+        "points": 30,
+        "time": "CAP"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 27,
+        "points": 28,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 28,
+        "points": 26,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Rogelio Gamboa",
+        "place": 29,
+        "points": 24,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 30,
+        "points": 22,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Zach Watts",
+        "place": 31,
+        "points": 20,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 32,
+        "points": 18,
+        "time": "CAP+16"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 33,
+        "points": 16,
+        "time": "CAP+41"
+      },
+      {
+        "name": "Giorgos Karavis",
+        "place": 34,
+        "points": 14,
+        "time": "CAP+43"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 35,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 35,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sam Stewart",
+        "place": 35,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleksandar Ilin",
+        "place": 35,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "11-min. AMRAP:": [
+      {
+        "name": "Stas Solodov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lazar Đukić",
+        "place": 1,
+        "points": 100,
+        "time": "21:10.18"
+      },
+      {
+        "name": "Bayden Brown",
+        "place": 2,
+        "points": 96,
+        "time": "21:14.81"
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 3,
+        "points": 92,
+        "time": "21:22.73"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 4,
+        "points": 88,
+        "time": "21:28.18"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 5,
+        "points": 84,
+        "time": "21:31.84"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 6,
+        "points": 80,
+        "time": "21:36.01"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 7,
+        "points": 76,
+        "time": "21:42.22"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 8,
+        "points": 72,
+        "time": "21:43.00"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 9,
+        "points": 68,
+        "time": "21:46.73"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 10,
+        "points": 64,
+        "time": "21:49.25"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 11,
+        "points": 60,
+        "time": "21:52.73"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 12,
+        "points": 56,
+        "time": "21:54.53"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 13,
+        "points": 52,
+        "time": "21:57.97"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 14,
+        "points": 49,
+        "time": "22:01.12"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 15,
+        "points": 46,
+        "time": "22:09.25"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 16,
+        "points": 43,
+        "time": "22:11.63"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 17,
+        "points": 40,
+        "time": "22:15.05"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 18,
+        "points": 37,
+        "time": "22:35.57"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 19,
+        "points": 34,
+        "time": "23:00.38"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 20,
+        "points": 31,
+        "time": "23:04.71"
+      },
+      {
+        "name": "Timothy Paulson",
+        "place": 21,
+        "points": 28,
+        "time": "23:13.99"
+      },
+      {
+        "name": "André Houdet",
+        "place": 22,
+        "points": 25,
+        "time": "23:18.23"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 23,
+        "points": 22,
+        "time": "23:21.62"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 24,
+        "points": 19,
+        "time": "23:24.27"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 25,
+        "points": 16,
+        "time": "23:32.85"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 26,
+        "points": 13,
+        "time": "24:09.64"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 27,
+        "points": 10,
+        "time": "24:38.58"
+      },
+      {
+        "name": "Royce Dunne",
+        "place": 28,
+        "points": 7,
+        "time": "24:55.22"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 29,
+        "points": 4,
+        "time": "25:40.05"
+      },
+      {
+        "name": "Zach Watts",
+        "place": 30,
+        "points": 1,
+        "time": "26:06.93"
+      },
+      {
+        "name": "Colten Mertens",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Giorgos Karavis",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rogelio Gamboa",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sam Stewart",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleksandar Ilin",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "1-rep-max snatch": [
+      {
+        "name": "Stas Solodov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cole Sager",
+        "place": 1,
+        "points": 100,
+        "time": "276 rep"
+      },
+      {
+        "name": "Lazar Đukić",
+        "place": 2,
+        "points": 95,
+        "time": "271 rep"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 3,
+        "points": 90,
+        "time": "261 rep"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 4,
+        "points": 85,
+        "time": "259 rep"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 5,
+        "points": 80,
+        "time": "255 rep"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 6,
+        "points": 75,
+        "time": "254 rep"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 7,
+        "points": 70,
+        "time": "253 rep"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 7,
+        "points": 70,
+        "time": "253 rep"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 9,
+        "points": 60,
+        "time": "245 rep"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 10,
+        "points": 55,
+        "time": "230 rep"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 10,
+        "points": 55,
+        "time": "230 rep"
+      },
+      {
+        "name": "Royce Dunne",
+        "place": 12,
+        "points": 45,
+        "time": "215 rep"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 13,
+        "points": 40,
+        "time": "214 rep"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 14,
+        "points": 35,
+        "time": "208 rep"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 15,
+        "points": 30,
+        "time": "207 rep"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 15,
+        "points": 30,
+        "time": "207 rep"
+      },
+      {
+        "name": "André Houdet",
+        "place": 17,
+        "points": 20,
+        "time": "201 rep"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 18,
+        "points": 15,
+        "time": "184 rep"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 19,
+        "points": 10,
+        "time": "162 rep"
+      },
+      {
+        "name": "Bayden Brown",
+        "place": 20,
+        "points": 5,
+        "time": "161 rep"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Timothy Paulson",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Zach Watts",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Colten Mertens",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Giorgos Karavis",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rogelio Gamboa",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sam Stewart",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleksandar Ilin",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "4 rounds of:": [
+      {
+        "name": "Stas Solodov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 1,
+        "points": 100,
+        "time": "305.0 lb"
+      },
+      {
+        "name": "Royce Dunne",
+        "place": 2,
+        "points": 95,
+        "time": "300.0 lb"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 3,
+        "points": 90,
+        "time": "290.0 lb"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 4,
+        "points": 85,
+        "time": "285.0 lb"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 5,
+        "points": 80,
+        "time": "285.0 lb"
+      },
+      {
+        "name": "André Houdet",
+        "place": 6,
+        "points": 75,
+        "time": "285.0 lb"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 7,
+        "points": 70,
+        "time": "285.0 lb"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 8,
+        "points": 65,
+        "time": "280.0 lb"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 9,
+        "points": 60,
+        "time": "280.0 lb"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 10,
+        "points": 55,
+        "time": "280.0 lb"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 11,
+        "points": 50,
+        "time": "275.0 lb"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 12,
+        "points": 45,
+        "time": "275.0 lb"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 13,
+        "points": 40,
+        "time": "275.0 lb"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 14,
+        "points": 35,
+        "time": "270.0 lb"
+      },
+      {
+        "name": "Lazar Đukić",
+        "place": 15,
+        "points": 30,
+        "time": "270.0 lb"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 16,
+        "points": 25,
+        "time": "260.0 lb"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 17,
+        "points": 20,
+        "time": "260.0 lb"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 18,
+        "points": 15,
+        "time": "225.0 lb"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 19,
+        "points": 10,
+        "time": "225.0 lb"
+      },
+      {
+        "name": "Bayden Brown",
+        "place": 20,
+        "points": 5,
+        "time": "225.0 lb"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Timothy Paulson",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Zach Watts",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Colten Mertens",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Giorgos Karavis",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rogelio Gamboa",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sam Stewart",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleksandar Ilin",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "6-10-14 reps of:": [
+      {
+        "name": "Stas Solodov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 1,
+        "points": 100,
+        "time": "04:41.17"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 2,
+        "points": 95,
+        "time": "04:44.04"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 3,
+        "points": 90,
+        "time": "04:46.59"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 4,
+        "points": 85,
+        "time": "04:49.49"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 5,
+        "points": 80,
+        "time": "04:49.69"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 6,
+        "points": 75,
+        "time": "04:53.39"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 7,
+        "points": 70,
+        "time": "04:55.38"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 8,
+        "points": 65,
+        "time": "04:55.42"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 9,
+        "points": 60,
+        "time": "07:47.55"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 10,
+        "points": 55,
+        "time": "07:51.59"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 11,
+        "points": 50,
+        "time": "07:52.87"
+      },
+      {
+        "name": "Royce Dunne",
+        "place": 12,
+        "points": 45,
+        "time": "07:53.03"
+      },
+      {
+        "name": "André Houdet",
+        "place": 13,
+        "points": 40,
+        "time": "07:56.15"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 14,
+        "points": 35,
+        "time": "07:58.21"
+      },
+      {
+        "name": "Bayden Brown",
+        "place": 15,
+        "points": 30,
+        "time": "08:00.16"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 16,
+        "points": 25,
+        "time": "11:07.65"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 17,
+        "points": 20,
+        "time": "11:08.00"
+      },
+      {
+        "name": "Lazar Đukić",
+        "place": 18,
+        "points": 15,
+        "time": "11:34.80"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 19,
+        "points": 10,
+        "time": "11:43.43"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 20,
+        "points": 5,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Timothy Paulson",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Zach Watts",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Colten Mertens",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Giorgos Karavis",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rogelio Gamboa",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sam Stewart",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleksandar Ilin",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Event 15": [
+      {
+        "name": "Stas Solodov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 1,
+        "points": 100,
+        "time": "06:36.59"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 2,
+        "points": 95,
+        "time": "06:47.09"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 3,
+        "points": 90,
+        "time": "07:00.66"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 4,
+        "points": 85,
+        "time": "07:01.54"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 5,
+        "points": 80,
+        "time": "07:15.89"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 6,
+        "points": 75,
+        "time": "07:16.20"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 7,
+        "points": 70,
+        "time": "07:16.90"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 8,
+        "points": 65,
+        "time": "07:23.88"
+      },
+      {
+        "name": "Lazar Đukić",
+        "place": 9,
+        "points": 60,
+        "time": "07:25.77"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 10,
+        "points": 55,
+        "time": "07:28.15"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 11,
+        "points": 50,
+        "time": "07:29.05"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 12,
+        "points": 45,
+        "time": "07:32.03"
+      },
+      {
+        "name": "Bayden Brown",
+        "place": 13,
+        "points": 40,
+        "time": "07:32.43"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 14,
+        "points": 35,
+        "time": "07:36.47"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 15,
+        "points": 30,
+        "time": "07:37.77"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 16,
+        "points": 25,
+        "time": "07:53.37"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 17,
+        "points": 20,
+        "time": "08:08.35"
+      },
+      {
+        "name": "André Houdet",
+        "place": 18,
+        "points": 15,
+        "time": "08:08.68"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 19,
+        "points": 10,
+        "time": "08:27.18"
+      },
+      {
+        "name": "Royce Dunne",
+        "place": 20,
+        "points": 5,
+        "time": "08:46.34"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Timothy Paulson",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Zach Watts",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Colten Mertens",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Giorgos Karavis",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rogelio Gamboa",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sam Stewart",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleksandar Ilin",
+        "place": 21,
+        "points": 0,
+        "time": ""
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Justin Medeiros",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Fort Vancouver",
+      "age": "Age 22",
+      "height_weight": "69 in | 195 lb",
+      "total_points": 1234,
+      "events": {
+        "July 28": {
+          "place": 5,
+          "time": "1:10:54.31",
+          "points": 88
+        },
+        "For time:": {
+          "place": 2,
+          "time": "06:41.27",
+          "points": 95
+        },
+        "4 rounds for time:": {
+          "place": 6,
+          "time": "05:59.86",
+          "points": 85
+        },
+        "21-15-9:": {
+          "place": 2,
+          "time": "02:15.33",
+          "points": 97
+        },
+        "11-min. AMRAP:": {
+          "place": 6,
+          "time": "21:36.01",
+          "points": 80
+        },
+        "1-rep-max snatch": {
+          "place": 10,
+          "time": "230 rep",
+          "points": 55
+        },
+        "4 rounds of:": {
+          "place": 7,
+          "time": "285.0 lb",
+          "points": 70
+        },
+        "6-10-14 reps of:": {
+          "place": 3,
+          "time": "04:46.59",
+          "points": 90
+        },
+        "Event 15": {
+          "place": 1,
+          "time": "06:36.59",
+          "points": 100
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Patrick Vellner",
+      "country": "Canada",
+      "region": "North America",
+      "affiliate": "CrossFit Nanaimo",
+      "age": "Age 31",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 1152,
+      "events": {
+        "July 28": {
+          "place": 35,
+          "time": "1:19:48.62",
+          "points": 12
+        },
+        "For time:": {
+          "place": 1,
+          "time": "06:31.65",
+          "points": 100
+        },
+        "4 rounds for time:": {
+          "place": 9,
+          "time": "CAP+1",
+          "points": 76
+        },
+        "21-15-9:": {
+          "place": 16,
+          "time": "03:56.28",
+          "points": 55
+        },
+        "11-min. AMRAP:": {
+          "place": 11,
+          "time": "21:52.73",
+          "points": 60
+        },
+        "1-rep-max snatch": {
+          "place": 5,
+          "time": "255 rep",
+          "points": 80
+        },
+        "4 rounds of:": {
+          "place": 3,
+          "time": "290.0 lb",
+          "points": 90
+        },
+        "6-10-14 reps of:": {
+          "place": 2,
+          "time": "04:44.04",
+          "points": 95
+        },
+        "Event 15": {
+          "place": 11,
+          "time": "07:29.05",
+          "points": 50
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Brent Fikowski",
+      "country": "Canada",
+      "region": "North America",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "74 in | 220 lb",
+      "total_points": 1028,
+      "events": {
+        "July 28": {
+          "place": 8,
+          "time": "1:12:08.38",
+          "points": 79
+        },
+        "For time:": {
+          "place": 9,
+          "time": "CAP+12",
+          "points": 60
+        },
+        "4 rounds for time:": {
+          "place": 10,
+          "time": "CAP+1",
+          "points": 73
+        },
+        "21-15-9:": {
+          "place": 13,
+          "time": "03:28.99",
+          "points": 64
+        },
+        "11-min. AMRAP:": {
+          "place": 26,
+          "time": "24:09.64",
+          "points": 13
+        },
+        "1-rep-max snatch": {
+          "place": 7,
+          "time": "253 rep",
+          "points": 70
+        },
+        "4 rounds of:": {
+          "place": 4,
+          "time": "285.0 lb",
+          "points": 85
+        },
+        "6-10-14 reps of:": {
+          "place": 11,
+          "time": "07:52.87",
+          "points": 50
+        },
+        "Event 15": {
+          "place": 15,
+          "time": "07:37.77",
+          "points": 30
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Björgvin Karl Guðmundsson",
+      "country": "Iceland",
+      "region": "Europe",
+      "affiliate": "CrossFit Hengill",
+      "age": "Age 28",
+      "height_weight": "178 cm | 190 lb",
+      "total_points": 1004,
+      "events": {
+        "July 28": {
+          "place": 6,
+          "time": "1:11:10.13",
+          "points": 85
+        },
+        "For time:": {
+          "place": 5,
+          "time": "CAP+7",
+          "points": 80
+        },
+        "4 rounds for time:": {
+          "place": 13,
+          "time": "CAP+1",
+          "points": 64
+        },
+        "21-15-9:": {
+          "place": 6,
+          "time": "02:47.05",
+          "points": 85
+        },
+        "11-min. AMRAP:": {
+          "place": 14,
+          "time": "22:01.12",
+          "points": 49
+        },
+        "1-rep-max snatch": {
+          "place": 3,
+          "time": "261 rep",
+          "points": 90
+        },
+        "4 rounds of:": {
+          "place": 13,
+          "time": "275.0 lb",
+          "points": 40
+        },
+        "6-10-14 reps of:": {
+          "place": 1,
+          "time": "04:41.17",
+          "points": 100
+        },
+        "Event 15": {
+          "place": 16,
+          "time": "07:53.37",
+          "points": 25
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Saxon Panchik",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Cliffside",
+      "age": "Age 25",
+      "height_weight": "69 in | 180 lb",
+      "total_points": 996,
+      "events": {
+        "July 28": {
+          "place": 20,
+          "time": "1:14:00.84",
+          "points": 43
+        },
+        "For time:": {
+          "place": 3,
+          "time": "CAP+3",
+          "points": 90
+        },
+        "4 rounds for time:": {
+          "place": 5,
+          "time": "05:53.66",
+          "points": 88
+        },
+        "21-15-9:": {
+          "place": 7,
+          "time": "02:57.28",
+          "points": 82
+        },
+        "11-min. AMRAP:": {
+          "place": 18,
+          "time": "22:35.57",
+          "points": 37
+        },
+        "1-rep-max snatch": {
+          "place": 13,
+          "time": "214 rep",
+          "points": 40
+        },
+        "4 rounds of:": {
+          "place": 5,
+          "time": "285.0 lb",
+          "points": 80
+        },
+        "6-10-14 reps of:": {
+          "place": 19,
+          "time": "11:43.43",
+          "points": 10
+        },
+        "Event 15": {
+          "place": 2,
+          "time": "06:47.09",
+          "points": 95
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Jonne Koski",
+      "country": "Finland",
+      "region": "Europe",
+      "affiliate": "CrossFit 10K",
+      "age": "Age 26",
+      "height_weight": "171 cm | 190 lb",
+      "total_points": 965,
+      "events": {
+        "July 28": {
+          "place": 1,
+          "time": "1:06:44.23",
+          "points": 100
+        },
+        "For time:": {
+          "place": 7,
+          "time": "CAP+8",
+          "points": 70
+        },
+        "4 rounds for time:": {
+          "place": 25,
+          "time": "CAP+2",
+          "points": 32
+        },
+        "21-15-9:": {
+          "place": 9,
+          "time": "03:02.13",
+          "points": 76
+        },
+        "11-min. AMRAP:": {
+          "place": 15,
+          "time": "22:09.25",
+          "points": 46
+        },
+        "1-rep-max snatch": {
+          "place": 4,
+          "time": "259 rep",
+          "points": 85
+        },
+        "4 rounds of:": {
+          "place": 17,
+          "time": "260.0 lb",
+          "points": 20
+        },
+        "6-10-14 reps of:": {
+          "place": 14,
+          "time": "07:58.21",
+          "points": 35
+        },
+        "Event 15": {
+          "place": 3,
+          "time": "07:00.66",
+          "points": 90
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Guilherme Malheiros",
+      "country": "Brazil",
+      "region": "South America",
+      "affiliate": "Cavaleiros CrossFit",
+      "age": "Age 21",
+      "height_weight": "177 cm | 88 kg",
+      "total_points": 958,
+      "events": {
+        "July 28": {
+          "place": 22,
+          "time": "1:14:44.05",
+          "points": 38
+        },
+        "For time:": {
+          "place": 9,
+          "time": "CAP+12",
+          "points": 60
+        },
+        "4 rounds for time:": {
+          "place": 8,
+          "time": "CAP",
+          "points": 79
+        },
+        "21-15-9:": {
+          "place": 5,
+          "time": "02:45.87",
+          "points": 88
+        },
+        "11-min. AMRAP:": {
+          "place": 27,
+          "time": "24:38.58",
+          "points": 10
+        },
+        "1-rep-max snatch": {
+          "place": 6,
+          "time": "254 rep",
+          "points": 75
+        },
+        "4 rounds of:": {
+          "place": 1,
+          "time": "305.0 lb",
+          "points": 100
+        },
+        "6-10-14 reps of:": {
+          "place": 16,
+          "time": "11:07.65",
+          "points": 25
+        },
+        "Event 15": {
+          "place": 4,
+          "time": "07:01.54",
+          "points": 85
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Alex Vigneault",
+      "country": "Canada",
+      "region": "North America",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "71 in | 205 lb",
+      "total_points": 912,
+      "events": {
+        "July 28": {
+          "place": 3,
+          "time": "1:09:48.17",
+          "points": 94
+        },
+        "For time:": {
+          "place": 20,
+          "time": "CAP+36",
+          "points": 5
+        },
+        "4 rounds for time:": {
+          "place": 4,
+          "time": "05:52.50",
+          "points": 91
+        },
+        "21-15-9:": {
+          "place": 14,
+          "time": "03:34.22",
+          "points": 61
+        },
+        "11-min. AMRAP:": {
+          "place": 9,
+          "time": "21:46.73",
+          "points": 68
+        },
+        "1-rep-max snatch": {
+          "place": 14,
+          "time": "208 rep",
+          "points": 35
+        },
+        "4 rounds of:": {
+          "place": 10,
+          "time": "280.0 lb",
+          "points": 55
+        },
+        "6-10-14 reps of:": {
+          "place": 9,
+          "time": "07:47.55",
+          "points": 60
+        },
+        "Event 15": {
+          "place": 8,
+          "time": "07:23.88",
+          "points": 65
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Lazar Đukić",
+      "country": "Serbia",
+      "region": "Europe",
+      "affiliate": "CrossFit NS",
+      "age": "Age 25",
+      "height_weight": "182 cm | 90 kg",
+      "total_points": 887,
+      "events": {
+        "July 28": {
+          "place": 2,
+          "time": "1:09:08.68",
+          "points": 97
+        },
+        "For time:": {
+          "place": 8,
+          "time": "CAP+11",
+          "points": 65
+        },
+        "4 rounds for time:": {
+          "place": 22,
+          "time": "CAP+1",
+          "points": 38
+        },
+        "21-15-9:": {
+          "place": 12,
+          "time": "03:21.86",
+          "points": 67
+        },
+        "11-min. AMRAP:": {
+          "place": 1,
+          "time": "21:10.18",
+          "points": 100
+        },
+        "1-rep-max snatch": {
+          "place": 2,
+          "time": "271 rep",
+          "points": 95
+        },
+        "4 rounds of:": {
+          "place": 15,
+          "time": "270.0 lb",
+          "points": 30
+        },
+        "6-10-14 reps of:": {
+          "place": 18,
+          "time": "11:34.80",
+          "points": 15
+        },
+        "Event 15": {
+          "place": 9,
+          "time": "07:25.77",
+          "points": 60
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Noah Ohlsen",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "Peak 360 CrossFit",
+      "age": "Age 30",
+      "height_weight": "67 in | 188 lb",
+      "total_points": 873,
+      "events": {
+        "July 28": {
+          "place": 17,
+          "time": "1:13:35.04",
+          "points": 52
+        },
+        "For time:": {
+          "place": 4,
+          "time": "CAP+4",
+          "points": 85
+        },
+        "4 rounds for time:": {
+          "place": 19,
+          "time": "CAP+1",
+          "points": 46
+        },
+        "21-15-9:": {
+          "place": 10,
+          "time": "03:02.24",
+          "points": 73
+        },
+        "11-min. AMRAP:": {
+          "place": 25,
+          "time": "23:32.85",
+          "points": 16
+        },
+        "1-rep-max snatch": {
+          "place": 10,
+          "time": "230 rep",
+          "points": 55
+        },
+        "4 rounds of:": {
+          "place": 16,
+          "time": "260.0 lb",
+          "points": 25
+        },
+        "6-10-14 reps of:": {
+          "place": 5,
+          "time": "04:49.69",
+          "points": 80
+        },
+        "Event 15": {
+          "place": 7,
+          "time": "07:16.90",
+          "points": 70
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Scott Panchik",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Mentality",
+      "age": "Age 33",
+      "height_weight": "69 in | 187 lb",
+      "total_points": 840,
+      "events": {
+        "July 28": {
+          "place": 24,
+          "time": "1:15:20.59",
+          "points": 34
+        },
+        "For time:": {
+          "place": 5,
+          "time": "CAP+7",
+          "points": 80
+        },
+        "4 rounds for time:": {
+          "place": 30,
+          "time": "CAP+2",
+          "points": 22
+        },
+        "21-15-9:": {
+          "place": 1,
+          "time": "02:05.21",
+          "points": 100
+        },
+        "11-min. AMRAP:": {
+          "place": 29,
+          "time": "25:40.05",
+          "points": 4
+        },
+        "1-rep-max snatch": {
+          "place": 7,
+          "time": "253 rep",
+          "points": 70
+        },
+        "4 rounds of:": {
+          "place": 9,
+          "time": "280.0 lb",
+          "points": 60
+        },
+        "6-10-14 reps of:": {
+          "place": 17,
+          "time": "11:08.00",
+          "points": 20
+        },
+        "Event 15": {
+          "place": 6,
+          "time": "07:16.20",
+          "points": 75
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Travis Mayer",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit UNTD",
+      "age": "Age 30",
+      "height_weight": "71 in | 204 lb",
+      "total_points": 822,
+      "events": {
+        "July 28": {
+          "place": 10,
+          "time": "1:12:40.21",
+          "points": 73
+        },
+        "For time:": {
+          "place": 18,
+          "time": "CAP+32",
+          "points": 15
+        },
+        "4 rounds for time:": {
+          "place": 3,
+          "time": "05:51.30",
+          "points": 94
+        },
+        "21-15-9:": {
+          "place": 11,
+          "time": "03:15.36",
+          "points": 70
+        },
+        "11-min. AMRAP:": {
+          "place": 13,
+          "time": "21:57.97",
+          "points": 52
+        },
+        "1-rep-max snatch": {
+          "place": 18,
+          "time": "184 rep",
+          "points": 15
+        },
+        "4 rounds of:": {
+          "place": 11,
+          "time": "275.0 lb",
+          "points": 50
+        },
+        "6-10-14 reps of:": {
+          "place": 8,
+          "time": "04:55.42",
+          "points": 65
+        },
+        "Event 15": {
+          "place": 5,
+          "time": "07:15.89",
+          "points": 80
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Jeffrey Adler",
+      "country": "Canada",
+      "region": "North America",
+      "affiliate": "CrossFit Wonderland",
+      "age": "Age 27",
+      "height_weight": "69 in | 197 lb",
+      "total_points": 815,
+      "events": {
+        "July 28": {
+          "place": 21,
+          "time": "1:14:39.13",
+          "points": 40
+        },
+        "For time:": {
+          "place": 13,
+          "time": "CAP+18",
+          "points": 40
+        },
+        "4 rounds for time:": {
+          "place": 1,
+          "time": "05:45.01",
+          "points": 100
+        },
+        "21-15-9:": {
+          "place": 26,
+          "time": "CAP",
+          "points": 30
+        },
+        "11-min. AMRAP:": {
+          "place": 8,
+          "time": "21:43.00",
+          "points": 72
+        },
+        "1-rep-max snatch": {
+          "place": 9,
+          "time": "245 rep",
+          "points": 60
+        },
+        "4 rounds of:": {
+          "place": 12,
+          "time": "275.0 lb",
+          "points": 45
+        },
+        "6-10-14 reps of:": {
+          "place": 4,
+          "time": "04:49.49",
+          "points": 85
+        },
+        "Event 15": {
+          "place": 10,
+          "time": "07:28.15",
+          "points": 55
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Cole Sager",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Spokane Valley",
+      "age": "Age 30",
+      "height_weight": "71 in | 198 lb",
+      "total_points": 776,
+      "events": {
+        "July 28": {
+          "place": 16,
+          "time": "1:13:22.12",
+          "points": 55
+        },
+        "For time:": {
+          "place": 14,
+          "time": "CAP+23",
+          "points": 35
+        },
+        "4 rounds for time:": {
+          "place": 18,
+          "time": "CAP+1",
+          "points": 49
+        },
+        "21-15-9:": {
+          "place": 20,
+          "time": "04:07.11",
+          "points": 43
+        },
+        "11-min. AMRAP:": {
+          "place": 4,
+          "time": "21:28.18",
+          "points": 88
+        },
+        "1-rep-max snatch": {
+          "place": 1,
+          "time": "276 rep",
+          "points": 100
+        },
+        "4 rounds of:": {
+          "place": 18,
+          "time": "225.0 lb",
+          "points": 15
+        },
+        "6-10-14 reps of:": {
+          "place": 7,
+          "time": "04:55.38",
+          "points": 70
+        },
+        "Event 15": {
+          "place": 14,
+          "time": "07:36.47",
+          "points": 35
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "André Houdet",
+      "country": "Denmark",
+      "region": "Europe",
+      "affiliate": "CrossFit Butcher's Lab",
+      "age": "Age 27",
+      "height_weight": "183 cm | 96 kg",
+      "total_points": 768,
+      "events": {
+        "July 28": {
+          "place": 15,
+          "time": "1:13:14.15",
+          "points": 58
+        },
+        "For time:": {
+          "place": 11,
+          "time": "CAP+16",
+          "points": 50
+        },
+        "4 rounds for time:": {
+          "place": 17,
+          "time": "CAP+1",
+          "points": 52
+        },
+        "21-15-9:": {
+          "place": 24,
+          "time": "04:40.56",
+          "points": 34
+        },
+        "11-min. AMRAP:": {
+          "place": 22,
+          "time": "23:18.23",
+          "points": 25
+        },
+        "1-rep-max snatch": {
+          "place": 17,
+          "time": "201 rep",
+          "points": 20
+        },
+        "4 rounds of:": {
+          "place": 6,
+          "time": "285.0 lb",
+          "points": 75
+        },
+        "6-10-14 reps of:": {
+          "place": 13,
+          "time": "07:56.15",
+          "points": 40
+        },
+        "Event 15": {
+          "place": 18,
+          "time": "08:08.68",
+          "points": 15
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Royce Dunne",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "CrossFit Torian",
+      "age": "Age 30",
+      "height_weight": "183 cm | 102 kg",
+      "total_points": 754,
+      "events": {
+        "July 28": {
+          "place": 36,
+          "time": "1:20:23.53",
+          "points": 10
+        },
+        "For time:": {
+          "place": 19,
+          "time": "CAP+33",
+          "points": 10
+        },
+        "4 rounds for time:": {
+          "place": 14,
+          "time": "CAP+1",
+          "points": 61
+        },
+        "21-15-9:": {
+          "place": 4,
+          "time": "02:39.72",
+          "points": 91
+        },
+        "11-min. AMRAP:": {
+          "place": 28,
+          "time": "24:55.22",
+          "points": 7
+        },
+        "1-rep-max snatch": {
+          "place": 12,
+          "time": "215 rep",
+          "points": 45
+        },
+        "4 rounds of:": {
+          "place": 2,
+          "time": "300.0 lb",
+          "points": 95
+        },
+        "6-10-14 reps of:": {
+          "place": 12,
+          "time": "07:53.03",
+          "points": 45
+        },
+        "Event 15": {
+          "place": 20,
+          "time": "08:46.34",
+          "points": 5
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Bayden Brown",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "CrossFit Townsville",
+      "age": "Age 26",
+      "height_weight": "177 cm | 90 kg",
+      "total_points": 729,
+      "events": {
+        "July 28": {
+          "place": 7,
+          "time": "1:11:35.12",
+          "points": 82
+        },
+        "For time:": {
+          "place": 12,
+          "time": "CAP+17",
+          "points": 45
+        },
+        "4 rounds for time:": {
+          "place": 2,
+          "time": "05:46.56",
+          "points": 97
+        },
+        "21-15-9:": {
+          "place": 22,
+          "time": "04:31.58",
+          "points": 38
+        },
+        "11-min. AMRAP:": {
+          "place": 2,
+          "time": "21:14.81",
+          "points": 96
+        },
+        "1-rep-max snatch": {
+          "place": 20,
+          "time": "161 rep",
+          "points": 5
+        },
+        "4 rounds of:": {
+          "place": 20,
+          "time": "225.0 lb",
+          "points": 5
+        },
+        "6-10-14 reps of:": {
+          "place": 15,
+          "time": "08:00.16",
+          "points": 30
+        },
+        "Event 15": {
+          "place": 13,
+          "time": "07:32.43",
+          "points": 40
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Henrik Haapalainen",
+      "country": "Finland",
+      "region": "Europe",
+      "affiliate": "CrossFit Basement",
+      "age": "Age 26",
+      "height_weight": "185 cm | 94 kg",
+      "total_points": 708,
+      "events": {
+        "July 28": {
+          "place": 9,
+          "time": "1:12:26.84",
+          "points": 76
+        },
+        "For time:": {
+          "place": 16,
+          "time": "CAP+30",
+          "points": 25
+        },
+        "4 rounds for time:": {
+          "place": 24,
+          "time": "CAP+2",
+          "points": 34
+        },
+        "21-15-9:": {
+          "place": 18,
+          "time": "04:05.08",
+          "points": 49
+        },
+        "11-min. AMRAP:": {
+          "place": 12,
+          "time": "21:54.53",
+          "points": 56
+        },
+        "1-rep-max snatch": {
+          "place": 19,
+          "time": "162 rep",
+          "points": 10
+        },
+        "4 rounds of:": {
+          "place": 19,
+          "time": "225.0 lb",
+          "points": 10
+        },
+        "6-10-14 reps of:": {
+          "place": 6,
+          "time": "04:53.39",
+          "points": 75
+        },
+        "Event 15": {
+          "place": 12,
+          "time": "07:32.03",
+          "points": 45
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Jayson Hopper",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Simpsonville",
+      "age": "Age 23",
+      "height_weight": "73 in | 220 lb",
+      "total_points": 701,
+      "events": {
+        "July 28": {
+          "place": 12,
+          "time": "1:12:56.12",
+          "points": 67
+        },
+        "For time:": {
+          "place": 17,
+          "time": "CAP+31",
+          "points": 20
+        },
+        "4 rounds for time:": {
+          "place": 11,
+          "time": "CAP+1",
+          "points": 70
+        },
+        "21-15-9:": {
+          "place": 30,
+          "time": "CAP+7",
+          "points": 22
+        },
+        "11-min. AMRAP:": {
+          "place": 7,
+          "time": "21:42.22",
+          "points": 76
+        },
+        "1-rep-max snatch": {
+          "place": 15,
+          "time": "207 rep",
+          "points": 30
+        },
+        "4 rounds of:": {
+          "place": 14,
+          "time": "270.0 lb",
+          "points": 35
+        },
+        "6-10-14 reps of:": {
+          "place": 10,
+          "time": "07:51.59",
+          "points": 55
+        },
+        "Event 15": {
+          "place": 17,
+          "time": "08:08.35",
+          "points": 20
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Will Moorad",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Trivium",
+      "age": "Age 32",
+      "height_weight": "69 in | 190 lb",
+      "total_points": 674,
+      "events": {
+        "July 28": {
+          "place": 30,
+          "time": "1:17:03.71",
+          "points": 22
+        },
+        "For time:": {
+          "place": 15,
+          "time": "CAP+29",
+          "points": 30
+        },
+        "4 rounds for time:": {
+          "place": 19,
+          "time": "CAP+1",
+          "points": 46
+        },
+        "21-15-9:": {
+          "place": 21,
+          "time": "04:19.30",
+          "points": 40
+        },
+        "11-min. AMRAP:": {
+          "place": 5,
+          "time": "21:31.84",
+          "points": 84
+        },
+        "1-rep-max snatch": {
+          "place": 15,
+          "time": "207 rep",
+          "points": 30
+        },
+        "4 rounds of:": {
+          "place": 8,
+          "time": "280.0 lb",
+          "points": 65
+        },
+        "6-10-14 reps of:": {
+          "place": 20,
+          "time": "CAP+7",
+          "points": 5
+        },
+        "Event 15": {
+          "place": 19,
+          "time": "08:27.18",
+          "points": 10
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Chandler Smith",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit New England",
+      "age": "Age 28",
+      "height_weight": "68 in | 195 lb",
+      "total_points": 513,
+      "events": {
+        "July 28": {
+          "place": 28,
+          "time": "1:16:52.44",
+          "points": 26
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 11,
+          "time": "CAP+1",
+          "points": 70
+        },
+        "21-15-9:": {
+          "place": 19,
+          "time": "04:06.47",
+          "points": 46
+        },
+        "11-min. AMRAP:": {
+          "place": 19,
+          "time": "23:00.38",
+          "points": 34
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Jay Crouch",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "Reebok CrossFit Frankston",
+      "age": "Age 22",
+      "height_weight": "175 cm | 85 kg",
+      "total_points": 494,
+      "events": {
+        "July 28": {
+          "place": 18,
+          "time": "1:13:37.00",
+          "points": 49
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 7,
+          "time": "CAP",
+          "points": 82
+        },
+        "21-15-9:": {
+          "place": 15,
+          "time": "03:53.81",
+          "points": 58
+        },
+        "11-min. AMRAP:": {
+          "place": 10,
+          "time": "21:49.25",
+          "points": 64
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Samuel Cournoyer",
+      "country": "Canada",
+      "region": "North America",
+      "affiliate": "CrossFit Mayhem",
+      "age": "Age 25",
+      "height_weight": "180 cm | 205 lb",
+      "total_points": 479,
+      "events": {
+        "July 28": {
+          "place": 14,
+          "time": "1:13:10.55",
+          "points": 61
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 35,
+          "time": "CAP+2",
+          "points": 12
+        },
+        "21-15-9:": {
+          "place": 3,
+          "time": "02:19.58",
+          "points": 94
+        },
+        "11-min. AMRAP:": {
+          "place": 16,
+          "time": "22:11.63",
+          "points": 43
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Alexandre Caron",
+      "country": "Canada",
+      "region": "North America",
+      "affiliate": "CrossFit Levis",
+      "age": "Age 25",
+      "height_weight": "71 in | 205 lb",
+      "total_points": 426,
+      "events": {
+        "July 28": {
+          "place": 26,
+          "time": "1:16:13.28",
+          "points": 30
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 14,
+          "time": "CAP+1",
+          "points": 61
+        },
+        "21-15-9:": {
+          "place": 32,
+          "time": "CAP+16",
+          "points": 18
+        },
+        "11-min. AMRAP:": {
+          "place": 23,
+          "time": "23:21.62",
+          "points": 22
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Uldis Upenieks",
+      "country": "Latvia",
+      "region": "Europe",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "174 cm | 85 kg",
+      "total_points": 422,
+      "events": {
+        "July 28": {
+          "place": 27,
+          "time": "1:16:39.98",
+          "points": 28
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 29,
+          "time": "CAP+2",
+          "points": 24
+        },
+        "21-15-9:": {
+          "place": 25,
+          "time": "04:59.39",
+          "points": 32
+        },
+        "11-min. AMRAP:": {
+          "place": 3,
+          "time": "21:22.73",
+          "points": 92
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Jason Smith",
+      "country": "South Africa",
+      "region": "Africa",
+      "affiliate": "CrossFit Sunninghill",
+      "age": "Age 37",
+      "height_weight": "185 cm | 195 lb",
+      "total_points": 419,
+      "events": {
+        "July 28": {
+          "place": 19,
+          "time": "1:13:37.05",
+          "points": 46
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 14,
+          "time": "CAP+1",
+          "points": 61
+        },
+        "21-15-9:": {
+          "place": 28,
+          "time": "CAP+7",
+          "points": 26
+        },
+        "11-min. AMRAP:": {
+          "place": 17,
+          "time": "22:15.05",
+          "points": 40
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Brandon Luckett",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit OKC",
+      "age": "Age 26",
+      "height_weight": "72 in | 200 lb",
+      "total_points": 383,
+      "events": {
+        "July 28": {
+          "place": 4,
+          "time": "1:10:35.29",
+          "points": 91
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 26,
+          "time": "CAP+2",
+          "points": 30
+        },
+        "21-15-9:": {
+          "place": 27,
+          "time": "CAP+2",
+          "points": 28
+        },
+        "11-min. AMRAP:": {
+          "place": 24,
+          "time": "23:24.27",
+          "points": 19
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Timothy Paulson",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Pallas",
+      "age": "Age 31",
+      "height_weight": "73 in | 215 lb",
+      "total_points": 326,
+      "events": {
+        "July 28": {
+          "place": 29,
+          "time": "1:16:56.27",
+          "points": 24
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 23,
+          "time": "CAP+1",
+          "points": 36
+        },
+        "21-15-9:": {
+          "place": 17,
+          "time": "04:02.91",
+          "points": 52
+        },
+        "11-min. AMRAP:": {
+          "place": 21,
+          "time": "23:13.99",
+          "points": 28
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Luka Đukić",
+      "country": "Serbia",
+      "region": "Europe",
+      "affiliate": "CrossFit NS",
+      "age": "Age 22",
+      "height_weight": "181 cm | 92 kg",
+      "total_points": 312,
+      "events": {
+        "July 28": {
+          "place": 32,
+          "time": "1:18:35.76",
+          "points": 18
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 34,
+          "time": "CAP+2",
+          "points": 14
+        },
+        "21-15-9:": {
+          "place": 33,
+          "time": "CAP+41",
+          "points": 16
+        },
+        "11-min. AMRAP:": {
+          "place": 20,
+          "time": "23:04.71",
+          "points": 31
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Zach Watts",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Conjugate",
+      "age": "Age 25",
+      "height_weight": "72 in | 205 lb",
+      "total_points": 280,
+      "events": {
+        "July 28": {
+          "place": 37,
+          "time": "1:23:12.94",
+          "points": 8
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 40
+        },
+        "21-15-9:": {
+          "place": 31,
+          "time": "CAP+8",
+          "points": 20
+        },
+        "11-min. AMRAP:": {
+          "place": 30,
+          "time": "26:06.93",
+          "points": 1
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Colten Mertens",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Kilo",
+      "age": "Age 23",
+      "height_weight": "64 in | 190 lb",
+      "total_points": 278,
+      "events": {
+        "July 28": {
+          "place": 34,
+          "time": "1:19:36.84",
+          "points": 14
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 28,
+          "time": "CAP+2",
+          "points": 26
+        },
+        "21-15-9:": {
+          "place": 23,
+          "time": "04:39.22",
+          "points": 36
+        },
+        "11-min. AMRAP:": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Agustin Richelme",
+      "country": "Argentina",
+      "region": "South America",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "173 cm | 85 kg",
+      "total_points": 262,
+      "events": {
+        "July 28": {
+          "place": 31,
+          "time": "1:17:18.34",
+          "points": 20
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 33,
+          "time": "CAP+2",
+          "points": 16
+        },
+        "21-15-9:": {
+          "place": 8,
+          "time": "03:00.34",
+          "points": 79
+        },
+        "11-min. AMRAP:": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Giorgos Karavis",
+      "country": "Greece",
+      "region": "Europe",
+      "affiliate": "CrossFit Kifissia",
+      "age": "Age 26",
+      "height_weight": "177 cm | 92 kg",
+      "total_points": 248,
+      "events": {
+        "July 28": {
+          "place": 38,
+          "time": "1:24:45.57",
+          "points": 6
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 27,
+          "time": "CAP+2",
+          "points": 28
+        },
+        "21-15-9:": {
+          "place": 34,
+          "time": "CAP+43",
+          "points": 14
+        },
+        "11-min. AMRAP:": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Rogelio Gamboa",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "GFA CrossFit",
+      "age": "Age 34",
+      "height_weight": "68 in | 195 lb",
+      "total_points": 242,
+      "events": {
+        "July 28": {
+          "place": 13,
+          "time": "1:12:57.14",
+          "points": 64
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 32,
+          "time": "CAP+2",
+          "points": 18
+        },
+        "21-15-9:": {
+          "place": 29,
+          "time": "CAP+7",
+          "points": 24
+        },
+        "11-min. AMRAP:": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Adrian Mundwiler",
+      "country": "Switzerland",
+      "region": "Europe",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "172 cm | 86 kg",
+      "total_points": 157,
+      "events": {
+        "July 28": {
+          "place": 25,
+          "time": "1:15:45.30",
+          "points": 32
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 30,
+          "time": "CAP+2",
+          "points": 22
+        },
+        "21-15-9:": {
+          "place": 35,
+          "time": "",
+          "points": 0
+        },
+        "11-min. AMRAP:": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Sean Sweeney",
+      "country": "United States",
+      "region": "North America",
+      "affiliate": "CrossFit Powerstroke",
+      "age": "Age 29",
+      "height_weight": "69 in | 192 lb",
+      "total_points": 146,
+      "events": {
+        "July 28": {
+          "place": 11,
+          "time": "1:12:40.76",
+          "points": 70
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 36,
+          "time": "",
+          "points": 0
+        },
+        "21-15-9:": {
+          "place": 35,
+          "time": "",
+          "points": 0
+        },
+        "11-min. AMRAP:": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Sam Stewart",
+      "country": "Ireland",
+      "region": "Europe",
+      "affiliate": "CrossFit C2F",
+      "age": "Age 24",
+      "height_weight": "69 in | 87 kg",
+      "total_points": 108,
+      "events": {
+        "July 28": {
+          "place": 33,
+          "time": "1:19:08.17",
+          "points": 16
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 36,
+          "time": "",
+          "points": 0
+        },
+        "21-15-9:": {
+          "place": 35,
+          "time": "",
+          "points": 0
+        },
+        "11-min. AMRAP:": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Aleksandar Ilin",
+      "country": "",
+      "region": "Asia",
+      "affiliate": "CrossFit FormA",
+      "age": "Age 31",
+      "height_weight": "175 cm | 87 kg",
+      "total_points": 54,
+      "events": {
+        "July 28": {
+          "place": 23,
+          "time": "1:15:17.47",
+          "points": 36
+        },
+        "For time:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 36,
+          "time": "",
+          "points": 0
+        },
+        "21-15-9:": {
+          "place": 35,
+          "time": "",
+          "points": 0
+        },
+        "11-min. AMRAP:": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 21,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "rank_label": "0",
+      "name": "Stas Solodov",
+      "country": "",
+      "region": "Asia",
+      "affiliate": "CrossFit Geraklion",
+      "age": "Age 36",
+      "height_weight": "175 cm | 85 kg",
+      "total_points": 0,
+      "events": {
+        "July 28": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "21-15-9:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "11-min. AMRAP:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "rank_label": "0",
+      "name": "Roman Khrennikov",
+      "country": "",
+      "region": "Asia",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "182 cm | 103 kg",
+      "total_points": 0,
+      "events": {
+        "July 28": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "For time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds for time:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "21-15-9:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "11-min. AMRAP:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "1-rep-max snatch": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "4 rounds of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "6-10-14 reps of:": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 15": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

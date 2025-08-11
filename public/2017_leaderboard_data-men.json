@@ -1,0 +1,7192 @@
+{
+  "year": 2017,
+  "gender": "men",
+  "events": [
+    "Run Swim Run",
+    "Event 2",
+    "Event 3",
+    "Event 4",
+    "Event 5",
+    "Event 6",
+    "Event 7",
+    "Event 8",
+    "Event 9",
+    "Event 10",
+    "Event 11",
+    "Event 12",
+    "Event 13"
+  ],
+  "event_point_map": {
+    "Run Swim Run": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2
+    },
+    "Event 2": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2
+    },
+    "Event 3": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2
+    },
+    "Event 4": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "39": 2
+    },
+    "Event 5": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "16": 48,
+      "17": 46,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2
+    },
+    "Event 6": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2
+    },
+    "Event 7": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2
+    },
+    "Event 8": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2
+    },
+    "Event 9": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2
+    },
+    "Event 10": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4
+    },
+    "Event 11": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4
+    },
+    "Event 12": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "15": 50,
+      "20": 40,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "26": 28,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "34": 12,
+      "35": 10,
+      "37": 6,
+      "38": 4
+    },
+    "Event 13": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "7": 72,
+      "9": 64,
+      "14": 52,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "38": 4
+    }
+  },
+  "event_field_size": {
+    "Run Swim Run": 39,
+    "Event 2": 39,
+    "Event 3": 39,
+    "Event 4": 39,
+    "Event 5": 39,
+    "Event 6": 39,
+    "Event 7": 39,
+    "Event 8": 39,
+    "Event 9": 39,
+    "Event 10": 38,
+    "Event 11": 38,
+    "Event 12": 38,
+    "Event 13": 38
+  },
+  "event_place_points": {
+    "Run Swim Run": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 2": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 3": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 4": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      0,
+      2
+    ],
+    "Event 5": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      0,
+      64,
+      60,
+      58,
+      56,
+      54,
+      0,
+      0,
+      48,
+      46,
+      0,
+      0,
+      40,
+      38,
+      36,
+      0,
+      0,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 6": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 7": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 8": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 9": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 10": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4
+    ],
+    "Event 11": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4
+    ],
+    "Event 12": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      0,
+      0,
+      50,
+      0,
+      0,
+      0,
+      0,
+      40,
+      0,
+      36,
+      34,
+      32,
+      0,
+      28,
+      0,
+      0,
+      22,
+      20,
+      18,
+      16,
+      0,
+      12,
+      10,
+      0,
+      6,
+      4
+    ],
+    "Event 13": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      0,
+      72,
+      0,
+      64,
+      0,
+      0,
+      0,
+      0,
+      52,
+      0,
+      0,
+      0,
+      0,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      0,
+      20,
+      18,
+      16,
+      0,
+      12,
+      10,
+      8,
+      0,
+      4
+    ]
+  },
+  "event_ordinals": {
+    "Run Swim Run": 1,
+    "Event 2": 2,
+    "Event 3": 3,
+    "Event 4": 4,
+    "Event 5": 5,
+    "Event 6": 6,
+    "Event 7": 7,
+    "Event 8": 8,
+    "Event 9": 9,
+    "Event 10": 10,
+    "Event 11": 11,
+    "Event 12": 12,
+    "Event 13": 13
+  },
+  "event_finish_order": {
+    "Run Swim Run": [
+      {
+        "name": "Brent Fikowski",
+        "place": 1,
+        "points": 100,
+        "time": "28:45.29"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 2,
+        "points": 94,
+        "time": "29:16.00"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 3,
+        "points": 88,
+        "time": "29:28.00"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 4,
+        "points": 84,
+        "time": "29:31.00"
+      },
+      {
+        "name": "James Newbury",
+        "place": 5,
+        "points": 80,
+        "time": "29:32.00"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 6,
+        "points": 76,
+        "time": "29:40.00"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 7,
+        "points": 72,
+        "time": "29:40.50"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 8,
+        "points": 68,
+        "time": "29:42.00"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 9,
+        "points": 64,
+        "time": "30:02.98"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 10,
+        "points": 60,
+        "time": "30:09.33"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 11,
+        "points": 58,
+        "time": "30:15.09"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 12,
+        "points": 56,
+        "time": "30:17.37"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 13,
+        "points": 54,
+        "time": "30:25.83"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 14,
+        "points": 52,
+        "time": "30:26.22"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 15,
+        "points": 50,
+        "time": "30:35.07"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 16,
+        "points": 48,
+        "time": "30:49.05"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 17,
+        "points": 46,
+        "time": "30:57.29"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 18,
+        "points": 44,
+        "time": "30:59.37"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 19,
+        "points": 42,
+        "time": "31:21.74"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 20,
+        "points": 40,
+        "time": "31:26.99"
+      },
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 21,
+        "points": 38,
+        "time": "31:34.85"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 22,
+        "points": 36,
+        "time": "31:38.82"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 23,
+        "points": 34,
+        "time": "31:56.76"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 24,
+        "points": 32,
+        "time": "32:18.95"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 25,
+        "points": 30,
+        "time": "32:20.20"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 26,
+        "points": 28,
+        "time": "32:31.59"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 27,
+        "points": 26,
+        "time": "32:38.40"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 28,
+        "points": 24,
+        "time": "33:02.10"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 29,
+        "points": 22,
+        "time": "33:09.34"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 30,
+        "points": 20,
+        "time": "33:17.92"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 31,
+        "points": 18,
+        "time": "33:34.73"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 32,
+        "points": 16,
+        "time": "33:43.30"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 33,
+        "points": 14,
+        "time": "34:03.58"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 34,
+        "points": 12,
+        "time": "34:28.71"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 35,
+        "points": 10,
+        "time": "34:52.76"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 36,
+        "points": 8,
+        "time": "35:15.98"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 37,
+        "points": 6,
+        "time": "35:53.41"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 38,
+        "points": 4,
+        "time": "42:13.14"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 39,
+        "points": 2,
+        "time": "44:30.45"
+      }
+    ],
+    "Event 2": [
+      {
+        "name": "Ricky Garard",
+        "place": 1,
+        "points": 100,
+        "time": "19:26.72"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 2,
+        "points": 94,
+        "time": "19:52.68"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 3,
+        "points": 88,
+        "time": "20:08.49"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 4,
+        "points": 84,
+        "time": "20:25.58"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 5,
+        "points": 80,
+        "time": "20:27.01"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 6,
+        "points": 76,
+        "time": "20:27.56"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 7,
+        "points": 72,
+        "time": "20:28.63"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 8,
+        "points": 68,
+        "time": "20:37.91"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 9,
+        "points": 64,
+        "time": "20:38.80"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 10,
+        "points": 60,
+        "time": "20:39.32"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 11,
+        "points": 58,
+        "time": "20:40.96"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 12,
+        "points": 56,
+        "time": "20:55.79"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 13,
+        "points": 54,
+        "time": "20:57.00"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 14,
+        "points": 52,
+        "time": "20:57.51"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 15,
+        "points": 50,
+        "time": "21:12.50"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 16,
+        "points": 48,
+        "time": "21:26.47"
+      },
+      {
+        "name": "James Newbury",
+        "place": 17,
+        "points": 46,
+        "time": "21:27.94"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 18,
+        "points": 44,
+        "time": "21:35.11"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 19,
+        "points": 42,
+        "time": "21:40.85"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 20,
+        "points": 40,
+        "time": "21:50.73"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 21,
+        "points": 38,
+        "time": "21:51.87"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 22,
+        "points": 36,
+        "time": "21:53.46"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 23,
+        "points": 34,
+        "time": "21:56.32"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 24,
+        "points": 32,
+        "time": "21:59.80"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 25,
+        "points": 30,
+        "time": "22:00.20"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 26,
+        "points": 28,
+        "time": "22:01.58"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 27,
+        "points": 26,
+        "time": "22:03.51"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 28,
+        "points": 24,
+        "time": "22:04.40"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 29,
+        "points": 22,
+        "time": "22:14.29"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 30,
+        "points": 20,
+        "time": "22:19.50"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 31,
+        "points": 18,
+        "time": "22:25.13"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 32,
+        "points": 16,
+        "time": "22:33.03"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 33,
+        "points": 14,
+        "time": "22:38.93"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 34,
+        "points": 12,
+        "time": "22:43.93"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 35,
+        "points": 10,
+        "time": "22:59.40"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 36,
+        "points": 8,
+        "time": "23:10.41"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 37,
+        "points": 6,
+        "time": "23:29.78"
+      },
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 38,
+        "points": 4,
+        "time": "24:14.59"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 39,
+        "points": 2,
+        "time": "24:23.16"
+      }
+    ],
+    "Event 3": [
+      {
+        "name": "Dakota Rager",
+        "place": 1,
+        "points": 100,
+        "time": "8:01.56"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 2,
+        "points": 94,
+        "time": "8:17.88"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 3,
+        "points": 88,
+        "time": "8:25.03"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 4,
+        "points": 84,
+        "time": "8:29.10"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 5,
+        "points": 80,
+        "time": "8:33.23"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 6,
+        "points": 76,
+        "time": "8:47.16"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 7,
+        "points": 72,
+        "time": "8:55.13"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 8,
+        "points": 68,
+        "time": "9:08.41"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 9,
+        "points": 64,
+        "time": "9:09.60"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 10,
+        "points": 60,
+        "time": "9:16.36"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 11,
+        "points": 58,
+        "time": "9:17.20"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 12,
+        "points": 56,
+        "time": "9:24.41"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 13,
+        "points": 54,
+        "time": "9:28.65"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 14,
+        "points": 52,
+        "time": "9:34.66"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 15,
+        "points": 50,
+        "time": "9:35.50"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 16,
+        "points": 48,
+        "time": "9:39.58"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 17,
+        "points": 46,
+        "time": "9:44.44"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 18,
+        "points": 44,
+        "time": "9:44.90"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 19,
+        "points": 42,
+        "time": "9:47.22"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 20,
+        "points": 40,
+        "time": "9:56.29"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 21,
+        "points": 38,
+        "time": "10:00.13"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 22,
+        "points": 36,
+        "time": "10:00.72"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 23,
+        "points": 34,
+        "time": "10:08.29"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 24,
+        "points": 32,
+        "time": "10:17.65"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 25,
+        "points": 30,
+        "time": "10:22.63"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 26,
+        "points": 28,
+        "time": "10:24.91"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 27,
+        "points": 26,
+        "time": "10:29.28"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 28,
+        "points": 24,
+        "time": "10:29.81"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 29,
+        "points": 22,
+        "time": "10:33.50"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 30,
+        "points": 20,
+        "time": "10:33.65"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 31,
+        "points": 18,
+        "time": "10:44.41"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 32,
+        "points": 16,
+        "time": "10:52.91"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 33,
+        "points": 14,
+        "time": "11:04.43"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 34,
+        "points": 12,
+        "time": "11:06.33"
+      },
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 35,
+        "points": 10,
+        "time": "11:08.00"
+      },
+      {
+        "name": "James Newbury",
+        "place": 36,
+        "points": 8,
+        "time": "11:14.41"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 37,
+        "points": 6,
+        "time": "11:33.76"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 38,
+        "points": 4,
+        "time": "11:42.28"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 39,
+        "points": 2,
+        "time": "12:12.77"
+      }
+    ],
+    "Event 4": [
+      {
+        "name": "Patrick Vellner",
+        "place": 1,
+        "points": 100,
+        "time": "1 pt"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 2,
+        "points": 94,
+        "time": "2 pt"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 3,
+        "points": 88,
+        "time": "3 pt"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 4,
+        "points": 84,
+        "time": "4 pt"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 5,
+        "points": 80,
+        "time": "5 pt"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 6,
+        "points": 76,
+        "time": "6 pt"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 7,
+        "points": 72,
+        "time": "7 pt"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 8,
+        "points": 68,
+        "time": "8 pt"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 9,
+        "points": 64,
+        "time": "9 pt"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 10,
+        "points": 60,
+        "time": "10 pt"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 11,
+        "points": 58,
+        "time": "11 pt"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 12,
+        "points": 56,
+        "time": "12 pt"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 13,
+        "points": 54,
+        "time": "13 pt"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 14,
+        "points": 52,
+        "time": "14 pt"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 15,
+        "points": 50,
+        "time": "15 pt"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 16,
+        "points": 48,
+        "time": "16 pt"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 17,
+        "points": 46,
+        "time": "17 pt"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 18,
+        "points": 44,
+        "time": "18 pt"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 19,
+        "points": 42,
+        "time": "19 pt"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 20,
+        "points": 40,
+        "time": "20 pt"
+      },
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 21,
+        "points": 38,
+        "time": "21 pt"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 22,
+        "points": 36,
+        "time": "22 pt"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 23,
+        "points": 34,
+        "time": "23 pt"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 24,
+        "points": 32,
+        "time": "24 pt"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 25,
+        "points": 30,
+        "time": "25 pt"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 26,
+        "points": 28,
+        "time": "26 pt"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 27,
+        "points": 26,
+        "time": "27 pt"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 28,
+        "points": 24,
+        "time": "28 pt"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 29,
+        "points": 22,
+        "time": "29 pt"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 30,
+        "points": 20,
+        "time": "30 pt"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 31,
+        "points": 18,
+        "time": "31 pt"
+      },
+      {
+        "name": "James Newbury",
+        "place": 32,
+        "points": 16,
+        "time": "32 pt"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 33,
+        "points": 14,
+        "time": "33 pt"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 34,
+        "points": 12,
+        "time": "34 pt"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 35,
+        "points": 10,
+        "time": "35 pt"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 36,
+        "points": 8,
+        "time": "36 pt"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 37,
+        "points": 6,
+        "time": "37 pt"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 37,
+        "points": 6,
+        "time": "37 pt"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 39,
+        "points": 2,
+        "time": "39 pt"
+      }
+    ],
+    "Event 5": [
+      {
+        "name": "Anonymous Anonymous",
+        "place": 1,
+        "points": 100,
+        "time": "305 lb"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 2,
+        "points": 94,
+        "time": "302 lb"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 3,
+        "points": 88,
+        "time": "300 lb"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 4,
+        "points": 84,
+        "time": "297 lb"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 5,
+        "points": 80,
+        "time": "291 lb"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 6,
+        "points": 76,
+        "time": "290 lb"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 7,
+        "points": 72,
+        "time": "287 lb"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 7,
+        "points": 72,
+        "time": "287 lb"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 9,
+        "points": 64,
+        "time": "286 lb"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 10,
+        "points": 60,
+        "time": "285 lb"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 11,
+        "points": 58,
+        "time": "280 lb"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 12,
+        "points": 56,
+        "time": "278 lb"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 13,
+        "points": 54,
+        "time": "277 lb"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 13,
+        "points": 54,
+        "time": "277 lb"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 13,
+        "points": 54,
+        "time": "277 lb"
+      },
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 16,
+        "points": 48,
+        "time": "276 lb"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 17,
+        "points": 46,
+        "time": "275 lb"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 17,
+        "points": 46,
+        "time": "275 lb"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 17,
+        "points": 46,
+        "time": "275 lb"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 20,
+        "points": 40,
+        "time": "273 lb"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 21,
+        "points": 38,
+        "time": "272 lb"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 22,
+        "points": 36,
+        "time": "270 lb"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 22,
+        "points": 36,
+        "time": "270 lb"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 22,
+        "points": 36,
+        "time": "270 lb"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 25,
+        "points": 30,
+        "time": "268 lb"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 26,
+        "points": 28,
+        "time": "267 lb"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 27,
+        "points": 26,
+        "time": "266 lb"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 28,
+        "points": 24,
+        "time": "265 lb"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 29,
+        "points": 22,
+        "time": "262 lb"
+      },
+      {
+        "name": "James Newbury",
+        "place": 30,
+        "points": 20,
+        "time": "260 lb"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 31,
+        "points": 18,
+        "time": "255 lb"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 32,
+        "points": 16,
+        "time": "250 lb"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 33,
+        "points": 14,
+        "time": "247 lb"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 34,
+        "points": 12,
+        "time": "246 lb"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 35,
+        "points": 10,
+        "time": "245 lb"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 36,
+        "points": 8,
+        "time": "242 lb"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 37,
+        "points": 6,
+        "time": "230 lb"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 38,
+        "points": 4,
+        "time": "227 lb"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 39,
+        "points": 2,
+        "time": "225 lb"
+      }
+    ],
+    "Event 6": [
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "10:46.46"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 2,
+        "points": 94,
+        "time": "11:05.64"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 3,
+        "points": 88,
+        "time": "11:13.08"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 4,
+        "points": 84,
+        "time": "11:22.10"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 5,
+        "points": 80,
+        "time": "11:27.99"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 6,
+        "points": 76,
+        "time": "11:28.16"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 7,
+        "points": 72,
+        "time": "11:44.07"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 8,
+        "points": 68,
+        "time": "11:57.85"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 9,
+        "points": 64,
+        "time": "12:00.26"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 10,
+        "points": 60,
+        "time": "12:06.29"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 11,
+        "points": 58,
+        "time": "12:18.36"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 12,
+        "points": 56,
+        "time": "12:19.24"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 13,
+        "points": 54,
+        "time": "12:19.82"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 14,
+        "points": 52,
+        "time": "12:24.25"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 15,
+        "points": 50,
+        "time": "12:34.21"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 16,
+        "points": 48,
+        "time": "12:43.72"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 17,
+        "points": 46,
+        "time": "12:46.61"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 18,
+        "points": 44,
+        "time": "12:47.49"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 19,
+        "points": 42,
+        "time": "12:51.75"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 20,
+        "points": 40,
+        "time": "12:51.85"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 21,
+        "points": 38,
+        "time": "12:54.15"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 22,
+        "points": 36,
+        "time": "12:55.01"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 23,
+        "points": 34,
+        "time": "12:55.80"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 24,
+        "points": 32,
+        "time": "12:56.88"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 25,
+        "points": 30,
+        "time": "12:57.38"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 26,
+        "points": 28,
+        "time": "13:02.05"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 27,
+        "points": 26,
+        "time": "13:03.23"
+      },
+      {
+        "name": "James Newbury",
+        "place": 28,
+        "points": 24,
+        "time": "13:10.63"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 29,
+        "points": 22,
+        "time": "13:17.38"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 30,
+        "points": 20,
+        "time": "13:19.93"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 31,
+        "points": 18,
+        "time": "13:20.05"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 32,
+        "points": 16,
+        "time": "13:32.40"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 33,
+        "points": 14,
+        "time": "13:35.52"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 34,
+        "points": 12,
+        "time": "13:43.15"
+      },
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 35,
+        "points": 10,
+        "time": "13:47.89"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 36,
+        "points": 8,
+        "time": "14:10.00"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 37,
+        "points": 6,
+        "time": "14:43.36"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 38,
+        "points": 4,
+        "time": "14:50.36"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 39,
+        "points": 2,
+        "time": "CAP+5"
+      }
+    ],
+    "Event 7": [
+      {
+        "name": "George Sanchez",
+        "place": 1,
+        "points": 100,
+        "time": "1:48.63"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 2,
+        "points": 94,
+        "time": "1:58.22"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 3,
+        "points": 88,
+        "time": "2:04.53"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 4,
+        "points": 84,
+        "time": "2:27.88"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 5,
+        "points": 80,
+        "time": "2:31.13"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 6,
+        "points": 76,
+        "time": "2:32.66"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 7,
+        "points": 72,
+        "time": "2:37.21"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 8,
+        "points": 68,
+        "time": "2:40.26"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 9,
+        "points": 64,
+        "time": "2:40.67"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 10,
+        "points": 60,
+        "time": "2:41.02"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 11,
+        "points": 58,
+        "time": "2:43.09"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 12,
+        "points": 56,
+        "time": "2:44.71"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 13,
+        "points": 54,
+        "time": "2:45.10"
+      },
+      {
+        "name": "James Newbury",
+        "place": 14,
+        "points": 52,
+        "time": "2:46.63"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 15,
+        "points": 50,
+        "time": "2:47.64"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 16,
+        "points": 48,
+        "time": "2:51.56"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 17,
+        "points": 46,
+        "time": "2:52.62"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 18,
+        "points": 44,
+        "time": "3:03.42"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 19,
+        "points": 42,
+        "time": "3:07.03"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 20,
+        "points": 40,
+        "time": "3:08.22"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 21,
+        "points": 38,
+        "time": "3:11.37"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 22,
+        "points": 36,
+        "time": "3:11.67"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 23,
+        "points": 34,
+        "time": "3:21.75"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 24,
+        "points": 32,
+        "time": "3:30.84"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 25,
+        "points": 30,
+        "time": "3:33.45"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 26,
+        "points": 28,
+        "time": "3:37.69"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 27,
+        "points": 26,
+        "time": "3:46.98"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 28,
+        "points": 24,
+        "time": "3:54.31"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 29,
+        "points": 22,
+        "time": "3:54.93"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 30,
+        "points": 20,
+        "time": "4:00.52"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 31,
+        "points": 18,
+        "time": "4:05.48"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 32,
+        "points": 16,
+        "time": "4:30.64"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 33,
+        "points": 14,
+        "time": "4:39.77"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 34,
+        "points": 12,
+        "time": "4:51.59"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 35,
+        "points": 10,
+        "time": "4:55.42"
+      },
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 36,
+        "points": 8,
+        "time": "5:04.16"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 37,
+        "points": 6,
+        "time": "5:08.93"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 38,
+        "points": 4,
+        "time": "5:34.02"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 39,
+        "points": 2,
+        "time": "CAP"
+      }
+    ],
+    "Event 8": [
+      {
+        "name": "Brent Fikowski",
+        "place": 1,
+        "points": 100,
+        "time": "4:13.22"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 2,
+        "points": 94,
+        "time": "4:13.31"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 3,
+        "points": 88,
+        "time": "4:21.91"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 4,
+        "points": 84,
+        "time": "4:21.93"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 5,
+        "points": 80,
+        "time": "4:37.11"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 6,
+        "points": 76,
+        "time": "4:38.58"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 7,
+        "points": 72,
+        "time": "4:55.85"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 8,
+        "points": 68,
+        "time": "4:59.27"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 9,
+        "points": 64,
+        "time": "5:05.81"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 10,
+        "points": 60,
+        "time": "5:09.42"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 11,
+        "points": 58,
+        "time": "5:09.95"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 12,
+        "points": 56,
+        "time": "5:11.42"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 13,
+        "points": 54,
+        "time": "5:18.38"
+      },
+      {
+        "name": "James Newbury",
+        "place": 14,
+        "points": 52,
+        "time": "5:20.65"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 15,
+        "points": 50,
+        "time": "5:24.24"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 16,
+        "points": 48,
+        "time": "5:38.20"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 17,
+        "points": 46,
+        "time": "5:38.67"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 18,
+        "points": 44,
+        "time": "5:38.79"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 19,
+        "points": 42,
+        "time": "5:45.41"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 20,
+        "points": 40,
+        "time": "5:51.67"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 21,
+        "points": 38,
+        "time": "5:54.44"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 22,
+        "points": 36,
+        "time": "6:08.38"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 23,
+        "points": 34,
+        "time": "6:19.17"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 24,
+        "points": 32,
+        "time": "6:20.20"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 25,
+        "points": 30,
+        "time": "6:21.38"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 26,
+        "points": 28,
+        "time": "6:34.79"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 27,
+        "points": 26,
+        "time": "6:55.78"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 28,
+        "points": 24,
+        "time": "7:16.56"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 29,
+        "points": 22,
+        "time": "7:19.55"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 30,
+        "points": 20,
+        "time": "7:21.56"
+      },
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 31,
+        "points": 18,
+        "time": "7:34.97"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 32,
+        "points": 16,
+        "time": "7:38.28"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 33,
+        "points": 14,
+        "time": "7:49.09"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 34,
+        "points": 12,
+        "time": "8:03.08"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 35,
+        "points": 10,
+        "time": "8:21.61"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 36,
+        "points": 8,
+        "time": "8:40.99"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 37,
+        "points": 6,
+        "time": "9:26.38"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 38,
+        "points": 4,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 39,
+        "points": 2,
+        "time": "CAP+2"
+      }
+    ],
+    "Event 9": [
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "7:40.56"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 2,
+        "points": 94,
+        "time": "7:58.77"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 3,
+        "points": 88,
+        "time": "8:05.60"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 4,
+        "points": 84,
+        "time": "8:09.15"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 5,
+        "points": 80,
+        "time": "8:24.78"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 6,
+        "points": 76,
+        "time": "8:46.96"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 7,
+        "points": 72,
+        "time": "8:47.99"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 8,
+        "points": 68,
+        "time": "9:14.65"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 9,
+        "points": 64,
+        "time": "9:29.74"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 10,
+        "points": 60,
+        "time": "9:29.81"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 11,
+        "points": 58,
+        "time": "9:37.20"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 12,
+        "points": 56,
+        "time": "9:45.56"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 13,
+        "points": 54,
+        "time": "9:52.07"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 14,
+        "points": 52,
+        "time": "9:59.38"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 15,
+        "points": 50,
+        "time": "10:04.23"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 16,
+        "points": 48,
+        "time": "10:13.87"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 17,
+        "points": 46,
+        "time": "10:15.81"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 18,
+        "points": 44,
+        "time": "10:20.49"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 19,
+        "points": 42,
+        "time": "10:37.58"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 20,
+        "points": 40,
+        "time": "CAP"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 21,
+        "points": 38,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 22,
+        "points": 36,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 24,
+        "points": 32,
+        "time": "CAP+1"
+      },
+      {
+        "name": "James Newbury",
+        "place": 25,
+        "points": 30,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 26,
+        "points": 28,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 27,
+        "points": 26,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 29,
+        "points": 22,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 30,
+        "points": 20,
+        "time": "CAP+8"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 31,
+        "points": 18,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 32,
+        "points": 16,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 33,
+        "points": 14,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 34,
+        "points": 12,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 35,
+        "points": 10,
+        "time": "CAP+13"
+      },
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 36,
+        "points": 8,
+        "time": "CAP+14"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 37,
+        "points": 6,
+        "time": "CAP+14"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 38,
+        "points": 4,
+        "time": "CAP+14"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 39,
+        "points": 2,
+        "time": "CAP+14"
+      }
+    ],
+    "Event 10": [
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "8:24.19"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 2,
+        "points": 94,
+        "time": "8:41.38"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 3,
+        "points": 88,
+        "time": "8:44.99"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 4,
+        "points": 84,
+        "time": "8:49.37"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 5,
+        "points": 80,
+        "time": "8:53.93"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 6,
+        "points": 76,
+        "time": "9:05.55"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 7,
+        "points": 72,
+        "time": "9:07.95"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 8,
+        "points": 68,
+        "time": "9:09.79"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 9,
+        "points": 64,
+        "time": "9:23.55"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 10,
+        "points": 60,
+        "time": "9:24.74"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 11,
+        "points": 58,
+        "time": "9:27.13"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 12,
+        "points": 56,
+        "time": "9:33.03"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 13,
+        "points": 54,
+        "time": "9:42.94"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 14,
+        "points": 52,
+        "time": "9:43.85"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 15,
+        "points": 50,
+        "time": "9:46.80"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 16,
+        "points": 48,
+        "time": "9:48.94"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 17,
+        "points": 46,
+        "time": "9:50.97"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 18,
+        "points": 44,
+        "time": "9:53.93"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 19,
+        "points": 42,
+        "time": "9:55.36"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 20,
+        "points": 40,
+        "time": "10:05.91"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 21,
+        "points": 38,
+        "time": "10:06.61"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 22,
+        "points": 36,
+        "time": "10:10.84"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 23,
+        "points": 34,
+        "time": "10:11.99"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 24,
+        "points": 32,
+        "time": "10:15.75"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 25,
+        "points": 30,
+        "time": "10:21.00"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 26,
+        "points": 28,
+        "time": "10:23.28"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 27,
+        "points": 26,
+        "time": "10:24.62"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 28,
+        "points": 24,
+        "time": "10:24.81"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 29,
+        "points": 22,
+        "time": "10:31.87"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 30,
+        "points": 20,
+        "time": "10:32.05"
+      },
+      {
+        "name": "James Newbury",
+        "place": 31,
+        "points": 18,
+        "time": "10:52.86"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 32,
+        "points": 16,
+        "time": "11:02.79"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 33,
+        "points": 14,
+        "time": "11:07.35"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 34,
+        "points": 12,
+        "time": "11:15.11"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 35,
+        "points": 10,
+        "time": "11:18.49"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 36,
+        "points": 8,
+        "time": "11:36.83"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 37,
+        "points": 6,
+        "time": "11:57.15"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 38,
+        "points": 4,
+        "time": "CAP+11"
+      }
+    ],
+    "Event 11": [
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 1,
+        "points": 100,
+        "time": "15:48.92"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 2,
+        "points": 94,
+        "time": "16:29.58"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 3,
+        "points": 88,
+        "time": "16:31.60"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 4,
+        "points": 84,
+        "time": "16:36.87"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 5,
+        "points": 80,
+        "time": "16:43.94"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 6,
+        "points": 76,
+        "time": "17:01.04"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 7,
+        "points": 72,
+        "time": "17:01.63"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 8,
+        "points": 68,
+        "time": "17:07.18"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 9,
+        "points": 64,
+        "time": "17:12.41"
+      },
+      {
+        "name": "James Newbury",
+        "place": 10,
+        "points": 60,
+        "time": "17:14.80"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 11,
+        "points": 58,
+        "time": "17:16.71"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 12,
+        "points": 56,
+        "time": "17:19.11"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 13,
+        "points": 54,
+        "time": "17:23.69"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 14,
+        "points": 52,
+        "time": "17:30.57"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 15,
+        "points": 50,
+        "time": "17:31.65"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 16,
+        "points": 48,
+        "time": "17:31.76"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 17,
+        "points": 46,
+        "time": "17:35.23"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 18,
+        "points": 44,
+        "time": "17:40.50"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 19,
+        "points": 42,
+        "time": "17:43.34"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 20,
+        "points": 40,
+        "time": "17:45.95"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 21,
+        "points": 38,
+        "time": "17:47.80"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 22,
+        "points": 36,
+        "time": "17:48.87"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 23,
+        "points": 34,
+        "time": "17:51.69"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 24,
+        "points": 32,
+        "time": "17:54.65"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 25,
+        "points": 30,
+        "time": "17:55.14"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 26,
+        "points": 28,
+        "time": "17:57.01"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 27,
+        "points": 26,
+        "time": "18:10.57"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 28,
+        "points": 24,
+        "time": "18:13.36"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 29,
+        "points": 22,
+        "time": "18:15.10"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 30,
+        "points": 20,
+        "time": "18:15.60"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 31,
+        "points": 18,
+        "time": "18:37.99"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 32,
+        "points": 16,
+        "time": "18:39.26"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 33,
+        "points": 14,
+        "time": "18:47.55"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 34,
+        "points": 12,
+        "time": "18:50.19"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 35,
+        "points": 10,
+        "time": "19:07.45"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 36,
+        "points": 8,
+        "time": "19:08.67"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 37,
+        "points": 6,
+        "time": "19:13.51"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 38,
+        "points": 4,
+        "time": "19:39.81"
+      }
+    ],
+    "Event 12": [
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "10:54.63"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 2,
+        "points": 94,
+        "time": "10:58.62"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 3,
+        "points": 88,
+        "time": "11:05.79"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 4,
+        "points": 84,
+        "time": "11:26.83"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 5,
+        "points": 80,
+        "time": "11:28.65"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 6,
+        "points": 76,
+        "time": "11:39.19"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 7,
+        "points": 72,
+        "time": "11:50.39"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 8,
+        "points": 68,
+        "time": "11:55.52"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 9,
+        "points": 64,
+        "time": "11:57.98"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 10,
+        "points": 60,
+        "time": "11:58.04"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 11,
+        "points": 58,
+        "time": "11:58.19"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 12,
+        "points": 56,
+        "time": "CAP"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 12,
+        "points": 56,
+        "time": "CAP"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 12,
+        "points": 56,
+        "time": "CAP"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 15,
+        "points": 50,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 15,
+        "points": 50,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 15,
+        "points": 50,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 15,
+        "points": 50,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 15,
+        "points": 50,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 20,
+        "points": 40,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 20,
+        "points": 40,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 22,
+        "points": 36,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 24,
+        "points": 32,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 24,
+        "points": 32,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 26,
+        "points": 28,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 26,
+        "points": 28,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 26,
+        "points": 28,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 29,
+        "points": 22,
+        "time": "CAP+12"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 30,
+        "points": 20,
+        "time": "CAP+15"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 31,
+        "points": 18,
+        "time": "CAP+16"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 32,
+        "points": 16,
+        "time": "CAP+18"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 32,
+        "points": 16,
+        "time": "CAP+18"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 34,
+        "points": 12,
+        "time": "CAP+19"
+      },
+      {
+        "name": "James Newbury",
+        "place": 35,
+        "points": 10,
+        "time": "CAP+22"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 35,
+        "points": 10,
+        "time": "CAP+22"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 37,
+        "points": 6,
+        "time": "CAP+26"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 38,
+        "points": 4,
+        "time": "CAP+31"
+      }
+    ],
+    "Event 13": [
+      {
+        "name": "Mitchell Sinnamon",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Logan Collins",
+        "place": 1,
+        "points": 100,
+        "time": "5:29.09"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 2,
+        "points": 94,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 3,
+        "points": 88,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Anonymous Anonymous",
+        "place": 4,
+        "points": 84,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 5,
+        "points": 80,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 5,
+        "points": 80,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 7,
+        "points": 72,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Jeff Patzer",
+        "place": 7,
+        "points": 72,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 9,
+        "points": 64,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 9,
+        "points": 64,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 9,
+        "points": 64,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Zak Carchedi",
+        "place": 9,
+        "points": 64,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Zeke Grove",
+        "place": 9,
+        "points": 64,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 14,
+        "points": 52,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Alex Anderson",
+        "place": 14,
+        "points": 52,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Cody Anderson",
+        "place": 14,
+        "points": 52,
+        "time": "CAP+11"
+      },
+      {
+        "name": "George Sanchez",
+        "place": 14,
+        "points": 52,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 14,
+        "points": 52,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Rob Forte",
+        "place": 19,
+        "points": 42,
+        "time": "CAP+14"
+      },
+      {
+        "name": "Josh Bridges",
+        "place": 20,
+        "points": 40,
+        "time": "CAP+15"
+      },
+      {
+        "name": "Cody Mooney",
+        "place": 21,
+        "points": 38,
+        "time": "CAP+16"
+      },
+      {
+        "name": "Streat Hoerner",
+        "place": 22,
+        "points": 36,
+        "time": "CAP+17"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+20"
+      },
+      {
+        "name": "Tommy Vinas",
+        "place": 24,
+        "points": 32,
+        "time": "CAP+21"
+      },
+      {
+        "name": "Paul Castillo",
+        "place": 25,
+        "points": 30,
+        "time": "CAP+22"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 26,
+        "points": 28,
+        "time": "CAP+24"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 27,
+        "points": 26,
+        "time": "CAP+25"
+      },
+      {
+        "name": "Travis Williams",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+26"
+      },
+      {
+        "name": "Alec Smith",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+26"
+      },
+      {
+        "name": "James Newbury",
+        "place": 30,
+        "points": 20,
+        "time": "CAP+32"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 31,
+        "points": 18,
+        "time": "CAP+33"
+      },
+      {
+        "name": "Dakota Rager",
+        "place": 32,
+        "points": 16,
+        "time": "CAP+34"
+      },
+      {
+        "name": "Michael Palomba",
+        "place": 32,
+        "points": 16,
+        "time": "CAP+34"
+      },
+      {
+        "name": "Tim Paulson",
+        "place": 34,
+        "points": 12,
+        "time": "CAP+35"
+      },
+      {
+        "name": "Frederik Aegidius",
+        "place": 35,
+        "points": 10,
+        "time": "CAP+36"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 36,
+        "points": 8,
+        "time": "CAP+37"
+      },
+      {
+        "name": "Elijah Muhammad",
+        "place": 36,
+        "points": 8,
+        "time": "CAP+37"
+      },
+      {
+        "name": "Wesley Rethwill",
+        "place": 38,
+        "points": 4,
+        "time": "CAP+43"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Mathew Fraser",
+      "country": "United States",
+      "region": "North East",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "67 in | 195 lb",
+      "total_points": 1132,
+      "events": {
+        "Run Swim Run": {
+          "place": 7,
+          "time": "29:40.50",
+          "points": 72
+        },
+        "Event 2": {
+          "place": 2,
+          "time": "19:52.68",
+          "points": 94
+        },
+        "Event 3": {
+          "place": 2,
+          "time": "8:17.88",
+          "points": 94
+        },
+        "Event 4": {
+          "place": 6,
+          "time": "6 pt",
+          "points": 76
+        },
+        "Event 5": {
+          "place": 5,
+          "time": "291 lb",
+          "points": 80
+        },
+        "Event 6": {
+          "place": 1,
+          "time": "10:46.46",
+          "points": 100
+        },
+        "Event 7": {
+          "place": 20,
+          "time": "3:08.22",
+          "points": 40
+        },
+        "Event 8": {
+          "place": 2,
+          "time": "4:13.31",
+          "points": 94
+        },
+        "Event 9": {
+          "place": 1,
+          "time": "7:40.56",
+          "points": 100
+        },
+        "Event 10": {
+          "place": 1,
+          "time": "8:24.19",
+          "points": 100
+        },
+        "Event 11": {
+          "place": 3,
+          "time": "16:31.60",
+          "points": 88
+        },
+        "Event 12": {
+          "place": 1,
+          "time": "10:54.63",
+          "points": 100
+        },
+        "Event 13": {
+          "place": 2,
+          "time": "CAP+2",
+          "points": 94
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Brent Fikowski",
+      "country": "Canada",
+      "region": "Canada West",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "74 in | 220 lb",
+      "total_points": 916,
+      "events": {
+        "Run Swim Run": {
+          "place": 1,
+          "time": "28:45.29",
+          "points": 100
+        },
+        "Event 2": {
+          "place": 12,
+          "time": "20:55.79",
+          "points": 56
+        },
+        "Event 3": {
+          "place": 15,
+          "time": "9:35.50",
+          "points": 50
+        },
+        "Event 4": {
+          "place": 8,
+          "time": "8 pt",
+          "points": 68
+        },
+        "Event 5": {
+          "place": 3,
+          "time": "300 lb",
+          "points": 88
+        },
+        "Event 6": {
+          "place": 31,
+          "time": "13:20.05",
+          "points": 18
+        },
+        "Event 7": {
+          "place": 4,
+          "time": "2:27.88",
+          "points": 84
+        },
+        "Event 8": {
+          "place": 1,
+          "time": "4:13.22",
+          "points": 100
+        },
+        "Event 9": {
+          "place": 22,
+          "time": "CAP+1",
+          "points": 36
+        },
+        "Event 10": {
+          "place": 12,
+          "time": "9:33.03",
+          "points": 56
+        },
+        "Event 11": {
+          "place": 4,
+          "time": "16:36.87",
+          "points": 84
+        },
+        "Event 12": {
+          "place": 3,
+          "time": "11:05.79",
+          "points": 88
+        },
+        "Event 13": {
+          "place": 3,
+          "time": "CAP+4",
+          "points": 88
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "rank_label": "DQ",
+      "name": "Ricky Garard",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "179 cm | 200 lb",
+      "total_points": 834,
+      "events": {
+        "Run Swim Run": {
+          "place": 12,
+          "time": "30:17.37",
+          "points": 56
+        },
+        "Event 2": {
+          "place": 1,
+          "time": "19:26.72",
+          "points": 100
+        },
+        "Event 3": {
+          "place": 5,
+          "time": "8:33.23",
+          "points": 80
+        },
+        "Event 4": {
+          "place": 26,
+          "time": "26 pt",
+          "points": 28
+        },
+        "Event 5": {
+          "place": 7,
+          "time": "287 lb",
+          "points": 72
+        },
+        "Event 6": {
+          "place": 5,
+          "time": "11:27.99",
+          "points": 80
+        },
+        "Event 7": {
+          "place": 7,
+          "time": "2:37.21",
+          "points": 72
+        },
+        "Event 8": {
+          "place": 8,
+          "time": "4:59.27",
+          "points": 68
+        },
+        "Event 9": {
+          "place": 10,
+          "time": "9:29.81",
+          "points": 60
+        },
+        "Event 10": {
+          "place": 32,
+          "time": "11:02.79",
+          "points": 16
+        },
+        "Event 11": {
+          "place": 1,
+          "time": "15:48.92",
+          "points": 100
+        },
+        "Event 12": {
+          "place": 15,
+          "time": "CAP+3",
+          "points": 50
+        },
+        "Event 13": {
+          "place": 14,
+          "time": "CAP+11",
+          "points": 52
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Patrick Vellner",
+      "country": "Canada",
+      "region": "Canada East",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 792,
+      "events": {
+        "Run Swim Run": {
+          "place": 36,
+          "time": "35:15.98",
+          "points": 8
+        },
+        "Event 2": {
+          "place": 13,
+          "time": "20:57.00",
+          "points": 54
+        },
+        "Event 3": {
+          "place": 7,
+          "time": "8:55.13",
+          "points": 72
+        },
+        "Event 4": {
+          "place": 1,
+          "time": "1 pt",
+          "points": 100
+        },
+        "Event 5": {
+          "place": 29,
+          "time": "262 lb",
+          "points": 22
+        },
+        "Event 6": {
+          "place": 3,
+          "time": "11:13.08",
+          "points": 88
+        },
+        "Event 7": {
+          "place": 9,
+          "time": "2:40.67",
+          "points": 64
+        },
+        "Event 8": {
+          "place": 5,
+          "time": "4:37.11",
+          "points": 80
+        },
+        "Event 9": {
+          "place": 11,
+          "time": "9:37.20",
+          "points": 58
+        },
+        "Event 10": {
+          "place": 21,
+          "time": "10:06.61",
+          "points": 38
+        },
+        "Event 11": {
+          "place": 2,
+          "time": "16:29.58",
+          "points": 94
+        },
+        "Event 12": {
+          "place": 15,
+          "time": "CAP+3",
+          "points": 50
+        },
+        "Event 13": {
+          "place": 9,
+          "time": "CAP+10",
+          "points": 64
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Noah Ohlsen",
+      "country": "United States",
+      "region": "South East",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "67 in | 190 lb",
+      "total_points": 788,
+      "events": {
+        "Run Swim Run": {
+          "place": 8,
+          "time": "29:42.00",
+          "points": 68
+        },
+        "Event 2": {
+          "place": 18,
+          "time": "21:35.11",
+          "points": 44
+        },
+        "Event 3": {
+          "place": 8,
+          "time": "9:08.41",
+          "points": 68
+        },
+        "Event 4": {
+          "place": 4,
+          "time": "4 pt",
+          "points": 84
+        },
+        "Event 5": {
+          "place": 20,
+          "time": "273 lb",
+          "points": 40
+        },
+        "Event 6": {
+          "place": 8,
+          "time": "11:57.85",
+          "points": 68
+        },
+        "Event 7": {
+          "place": 3,
+          "time": "2:04.53",
+          "points": 88
+        },
+        "Event 8": {
+          "place": 4,
+          "time": "4:21.93",
+          "points": 84
+        },
+        "Event 9": {
+          "place": 14,
+          "time": "9:59.38",
+          "points": 52
+        },
+        "Event 10": {
+          "place": 5,
+          "time": "8:53.93",
+          "points": 80
+        },
+        "Event 11": {
+          "place": 26,
+          "time": "17:57.01",
+          "points": 28
+        },
+        "Event 12": {
+          "place": 38,
+          "time": "CAP+31",
+          "points": 4
+        },
+        "Event 13": {
+          "place": 5,
+          "time": "CAP+7",
+          "points": 80
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Björgvin Karl Guðmundsson",
+      "country": "Iceland",
+      "region": "Europe",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "178 cm | 190 lb",
+      "total_points": 786,
+      "events": {
+        "Run Swim Run": {
+          "place": 4,
+          "time": "29:31.00",
+          "points": 84
+        },
+        "Event 2": {
+          "place": 5,
+          "time": "20:27.01",
+          "points": 80
+        },
+        "Event 3": {
+          "place": 11,
+          "time": "9:17.20",
+          "points": 58
+        },
+        "Event 4": {
+          "place": 10,
+          "time": "10 pt",
+          "points": 60
+        },
+        "Event 5": {
+          "place": 9,
+          "time": "286 lb",
+          "points": 64
+        },
+        "Event 6": {
+          "place": 22,
+          "time": "12:55.01",
+          "points": 36
+        },
+        "Event 7": {
+          "place": 12,
+          "time": "2:44.71",
+          "points": 56
+        },
+        "Event 8": {
+          "place": 12,
+          "time": "5:11.42",
+          "points": 56
+        },
+        "Event 9": {
+          "place": 9,
+          "time": "9:29.74",
+          "points": 64
+        },
+        "Event 10": {
+          "place": 27,
+          "time": "10:24.62",
+          "points": 26
+        },
+        "Event 11": {
+          "place": 5,
+          "time": "16:43.94",
+          "points": 80
+        },
+        "Event 12": {
+          "place": 15,
+          "time": "CAP+3",
+          "points": 50
+        },
+        "Event 13": {
+          "place": 7,
+          "time": "CAP+9",
+          "points": 72
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Scott Panchik",
+      "country": "United States",
+      "region": "Central East",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "69 in | 187 lb",
+      "total_points": 784,
+      "events": {
+        "Run Swim Run": {
+          "place": 20,
+          "time": "31:26.99",
+          "points": 40
+        },
+        "Event 2": {
+          "place": 31,
+          "time": "22:25.13",
+          "points": 18
+        },
+        "Event 3": {
+          "place": 6,
+          "time": "8:47.16",
+          "points": 76
+        },
+        "Event 4": {
+          "place": 20,
+          "time": "20 pt",
+          "points": 40
+        },
+        "Event 5": {
+          "place": 13,
+          "time": "277 lb",
+          "points": 54
+        },
+        "Event 6": {
+          "place": 4,
+          "time": "11:22.10",
+          "points": 84
+        },
+        "Event 7": {
+          "place": 16,
+          "time": "2:51.56",
+          "points": 48
+        },
+        "Event 8": {
+          "place": 3,
+          "time": "4:21.91",
+          "points": 88
+        },
+        "Event 9": {
+          "place": 3,
+          "time": "8:05.60",
+          "points": 88
+        },
+        "Event 10": {
+          "place": 6,
+          "time": "9:05.55",
+          "points": 76
+        },
+        "Event 11": {
+          "place": 30,
+          "time": "18:15.60",
+          "points": 20
+        },
+        "Event 12": {
+          "place": 7,
+          "time": "11:50.39",
+          "points": 72
+        },
+        "Event 13": {
+          "place": 5,
+          "time": "CAP+7",
+          "points": 80
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Ben Smith",
+      "country": "United States",
+      "region": "Mid Atlantic",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 730,
+      "events": {
+        "Run Swim Run": {
+          "place": 3,
+          "time": "29:28.00",
+          "points": 88
+        },
+        "Event 2": {
+          "place": 28,
+          "time": "22:04.40",
+          "points": 24
+        },
+        "Event 3": {
+          "place": 14,
+          "time": "9:34.66",
+          "points": 52
+        },
+        "Event 4": {
+          "place": 31,
+          "time": "31 pt",
+          "points": 18
+        },
+        "Event 5": {
+          "place": 6,
+          "time": "290 lb",
+          "points": 76
+        },
+        "Event 6": {
+          "place": 7,
+          "time": "11:44.07",
+          "points": 72
+        },
+        "Event 7": {
+          "place": 13,
+          "time": "2:45.10",
+          "points": 54
+        },
+        "Event 8": {
+          "place": 18,
+          "time": "5:38.79",
+          "points": 44
+        },
+        "Event 9": {
+          "place": 4,
+          "time": "8:09.15",
+          "points": 84
+        },
+        "Event 10": {
+          "place": 9,
+          "time": "9:23.55",
+          "points": 64
+        },
+        "Event 11": {
+          "place": 25,
+          "time": "17:55.14",
+          "points": 30
+        },
+        "Event 12": {
+          "place": 10,
+          "time": "11:58.04",
+          "points": 60
+        },
+        "Event 13": {
+          "place": 9,
+          "time": "CAP+10",
+          "points": 64
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Alex Anderson",
+      "country": "United States",
+      "region": "Central East",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "70 in | 205 lb",
+      "total_points": 702,
+      "events": {
+        "Run Swim Run": {
+          "place": 13,
+          "time": "30:25.83",
+          "points": 54
+        },
+        "Event 2": {
+          "place": 10,
+          "time": "20:39.32",
+          "points": 60
+        },
+        "Event 3": {
+          "place": 19,
+          "time": "9:47.22",
+          "points": 42
+        },
+        "Event 4": {
+          "place": 14,
+          "time": "14 pt",
+          "points": 52
+        },
+        "Event 5": {
+          "place": 13,
+          "time": "277 lb",
+          "points": 54
+        },
+        "Event 6": {
+          "place": 11,
+          "time": "12:18.36",
+          "points": 58
+        },
+        "Event 7": {
+          "place": 21,
+          "time": "3:11.37",
+          "points": 38
+        },
+        "Event 8": {
+          "place": 26,
+          "time": "6:34.79",
+          "points": 28
+        },
+        "Event 9": {
+          "place": 2,
+          "time": "7:58.77",
+          "points": 94
+        },
+        "Event 10": {
+          "place": 14,
+          "time": "9:43.85",
+          "points": 52
+        },
+        "Event 11": {
+          "place": 23,
+          "time": "17:51.69",
+          "points": 34
+        },
+        "Event 12": {
+          "place": 4,
+          "time": "11:26.83",
+          "points": 84
+        },
+        "Event 13": {
+          "place": 14,
+          "time": "CAP+11",
+          "points": 52
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Jonne Koski",
+      "country": "Finland",
+      "region": "Africa",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "171 cm | 190 lb",
+      "total_points": 696,
+      "events": {
+        "Run Swim Run": {
+          "place": 2,
+          "time": "29:16.00",
+          "points": 94
+        },
+        "Event 2": {
+          "place": 3,
+          "time": "20:08.49",
+          "points": 88
+        },
+        "Event 3": {
+          "place": 9,
+          "time": "9:09.60",
+          "points": 64
+        },
+        "Event 4": {
+          "place": 5,
+          "time": "5 pt",
+          "points": 80
+        },
+        "Event 5": {
+          "place": 33,
+          "time": "247 lb",
+          "points": 14
+        },
+        "Event 6": {
+          "place": 2,
+          "time": "11:05.64",
+          "points": 94
+        },
+        "Event 7": {
+          "place": 33,
+          "time": "4:39.77",
+          "points": 14
+        },
+        "Event 8": {
+          "place": 25,
+          "time": "6:21.38",
+          "points": 30
+        },
+        "Event 9": {
+          "place": 30,
+          "time": "CAP+8",
+          "points": 20
+        },
+        "Event 10": {
+          "place": 19,
+          "time": "9:55.36",
+          "points": 42
+        },
+        "Event 11": {
+          "place": 14,
+          "time": "17:30.57",
+          "points": 52
+        },
+        "Event 12": {
+          "place": 20,
+          "time": "CAP+4",
+          "points": 40
+        },
+        "Event 13": {
+          "place": 9,
+          "time": "CAP+10",
+          "points": 64
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Jason Smith",
+      "country": "South Africa",
+      "region": "Africa",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "185 cm | 195 lb",
+      "total_points": 688,
+      "events": {
+        "Run Swim Run": {
+          "place": 27,
+          "time": "32:38.40",
+          "points": 26
+        },
+        "Event 2": {
+          "place": 4,
+          "time": "20:25.58",
+          "points": 84
+        },
+        "Event 3": {
+          "place": 12,
+          "time": "9:24.41",
+          "points": 56
+        },
+        "Event 4": {
+          "place": 7,
+          "time": "7 pt",
+          "points": 72
+        },
+        "Event 5": {
+          "place": 7,
+          "time": "287 lb",
+          "points": 72
+        },
+        "Event 6": {
+          "place": 25,
+          "time": "12:57.38",
+          "points": 30
+        },
+        "Event 7": {
+          "place": 8,
+          "time": "2:40.26",
+          "points": 68
+        },
+        "Event 8": {
+          "place": 15,
+          "time": "5:24.24",
+          "points": 50
+        },
+        "Event 9": {
+          "place": 6,
+          "time": "8:46.96",
+          "points": 76
+        },
+        "Event 10": {
+          "place": 18,
+          "time": "9:53.93",
+          "points": 44
+        },
+        "Event 11": {
+          "place": 8,
+          "time": "17:07.18",
+          "points": 68
+        },
+        "Event 12": {
+          "place": 23,
+          "time": "CAP+7",
+          "points": 34
+        },
+        "Event 13": {
+          "place": 36,
+          "time": "CAP+37",
+          "points": 8
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Logan Collins",
+      "country": "United States",
+      "region": "South Central",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "67 in | 182 lb",
+      "total_points": 686,
+      "events": {
+        "Run Swim Run": {
+          "place": 18,
+          "time": "30:59.37",
+          "points": 44
+        },
+        "Event 2": {
+          "place": 26,
+          "time": "22:01.58",
+          "points": 28
+        },
+        "Event 3": {
+          "place": 3,
+          "time": "8:25.03",
+          "points": 88
+        },
+        "Event 4": {
+          "place": 9,
+          "time": "9 pt",
+          "points": 64
+        },
+        "Event 5": {
+          "place": 26,
+          "time": "267 lb",
+          "points": 28
+        },
+        "Event 6": {
+          "place": 6,
+          "time": "11:28.16",
+          "points": 76
+        },
+        "Event 7": {
+          "place": 24,
+          "time": "3:30.84",
+          "points": 32
+        },
+        "Event 8": {
+          "place": 28,
+          "time": "7:16.56",
+          "points": 24
+        },
+        "Event 9": {
+          "place": 15,
+          "time": "10:04.23",
+          "points": 50
+        },
+        "Event 10": {
+          "place": 11,
+          "time": "9:27.13",
+          "points": 58
+        },
+        "Event 11": {
+          "place": 11,
+          "time": "17:16.71",
+          "points": 58
+        },
+        "Event 12": {
+          "place": 22,
+          "time": "CAP+6",
+          "points": 36
+        },
+        "Event 13": {
+          "place": 1,
+          "time": "5:29.09",
+          "points": 100
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Travis Mayer",
+      "country": "United States",
+      "region": "South East",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "71 in | 204 lb",
+      "total_points": 674,
+      "events": {
+        "Run Swim Run": {
+          "place": 9,
+          "time": "30:02.98",
+          "points": 64
+        },
+        "Event 2": {
+          "place": 16,
+          "time": "21:26.47",
+          "points": 48
+        },
+        "Event 3": {
+          "place": 29,
+          "time": "10:33.50",
+          "points": 22
+        },
+        "Event 4": {
+          "place": 11,
+          "time": "11 pt",
+          "points": 58
+        },
+        "Event 5": {
+          "place": 22,
+          "time": "270 lb",
+          "points": 36
+        },
+        "Event 6": {
+          "place": 26,
+          "time": "13:02.05",
+          "points": 28
+        },
+        "Event 7": {
+          "place": 2,
+          "time": "1:58.22",
+          "points": 94
+        },
+        "Event 8": {
+          "place": 24,
+          "time": "6:20.20",
+          "points": 32
+        },
+        "Event 9": {
+          "place": 7,
+          "time": "8:47.99",
+          "points": 72
+        },
+        "Event 10": {
+          "place": 4,
+          "time": "8:49.37",
+          "points": 84
+        },
+        "Event 11": {
+          "place": 6,
+          "time": "17:01.04",
+          "points": 76
+        },
+        "Event 12": {
+          "place": 24,
+          "time": "CAP+10",
+          "points": 32
+        },
+        "Event 13": {
+          "place": 26,
+          "time": "CAP+24",
+          "points": 28
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Anonymous Anonymous",
+      "country": "United States",
+      "region": "Southern California",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "",
+      "total_points": 666,
+      "events": {
+        "Run Swim Run": {
+          "place": 10,
+          "time": "30:09.33",
+          "points": 60
+        },
+        "Event 2": {
+          "place": 36,
+          "time": "23:10.41",
+          "points": 8
+        },
+        "Event 3": {
+          "place": 25,
+          "time": "10:22.63",
+          "points": 30
+        },
+        "Event 4": {
+          "place": 39,
+          "time": "39 pt",
+          "points": 2
+        },
+        "Event 5": {
+          "place": 1,
+          "time": "305 lb",
+          "points": 100
+        },
+        "Event 6": {
+          "place": 39,
+          "time": "CAP+5",
+          "points": 2
+        },
+        "Event 7": {
+          "place": 5,
+          "time": "2:31.13",
+          "points": 80
+        },
+        "Event 8": {
+          "place": 10,
+          "time": "5:09.42",
+          "points": 60
+        },
+        "Event 9": {
+          "place": 5,
+          "time": "8:24.78",
+          "points": 80
+        },
+        "Event 10": {
+          "place": 16,
+          "time": "9:48.94",
+          "points": 48
+        },
+        "Event 11": {
+          "place": 12,
+          "time": "17:19.11",
+          "points": 56
+        },
+        "Event 12": {
+          "place": 12,
+          "time": "CAP",
+          "points": 56
+        },
+        "Event 13": {
+          "place": 4,
+          "time": "CAP+6",
+          "points": 84
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Streat Hoerner",
+      "country": "United States",
+      "region": "North Central",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "69 in | 195 lb",
+      "total_points": 586,
+      "events": {
+        "Run Swim Run": {
+          "place": 11,
+          "time": "30:15.09",
+          "points": 58
+        },
+        "Event 2": {
+          "place": 14,
+          "time": "20:57.51",
+          "points": 52
+        },
+        "Event 3": {
+          "place": 20,
+          "time": "9:56.29",
+          "points": 40
+        },
+        "Event 4": {
+          "place": 2,
+          "time": "2 pt",
+          "points": 94
+        },
+        "Event 5": {
+          "place": 22,
+          "time": "270 lb",
+          "points": 36
+        },
+        "Event 6": {
+          "place": 19,
+          "time": "12:51.75",
+          "points": 42
+        },
+        "Event 7": {
+          "place": 15,
+          "time": "2:47.64",
+          "points": 50
+        },
+        "Event 8": {
+          "place": 20,
+          "time": "5:51.67",
+          "points": 40
+        },
+        "Event 9": {
+          "place": 28,
+          "time": "CAP+7",
+          "points": 24
+        },
+        "Event 10": {
+          "place": 10,
+          "time": "9:24.74",
+          "points": 60
+        },
+        "Event 11": {
+          "place": 29,
+          "time": "18:15.10",
+          "points": 22
+        },
+        "Event 12": {
+          "place": 24,
+          "time": "CAP+10",
+          "points": 32
+        },
+        "Event 13": {
+          "place": 22,
+          "time": "CAP+17",
+          "points": 36
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Cody Anderson",
+      "country": "United States",
+      "region": "North West",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "67 in | 170 lb",
+      "total_points": 574,
+      "events": {
+        "Run Swim Run": {
+          "place": 29,
+          "time": "33:09.34",
+          "points": 22
+        },
+        "Event 2": {
+          "place": 35,
+          "time": "22:59.40",
+          "points": 10
+        },
+        "Event 3": {
+          "place": 4,
+          "time": "8:29.10",
+          "points": 84
+        },
+        "Event 4": {
+          "place": 3,
+          "time": "3 pt",
+          "points": 88
+        },
+        "Event 5": {
+          "place": 25,
+          "time": "268 lb",
+          "points": 30
+        },
+        "Event 6": {
+          "place": 12,
+          "time": "12:19.24",
+          "points": 56
+        },
+        "Event 7": {
+          "place": 35,
+          "time": "4:55.42",
+          "points": 10
+        },
+        "Event 8": {
+          "place": 29,
+          "time": "7:19.55",
+          "points": 22
+        },
+        "Event 9": {
+          "place": 19,
+          "time": "10:37.58",
+          "points": 42
+        },
+        "Event 10": {
+          "place": 13,
+          "time": "9:42.94",
+          "points": 54
+        },
+        "Event 11": {
+          "place": 16,
+          "time": "17:31.76",
+          "points": 48
+        },
+        "Event 12": {
+          "place": 12,
+          "time": "CAP",
+          "points": 56
+        },
+        "Event 13": {
+          "place": 14,
+          "time": "CAP+11",
+          "points": 52
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Cole Sager",
+      "country": "United States",
+      "region": "North West",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "71 in | 198 lb",
+      "total_points": 562,
+      "events": {
+        "Run Swim Run": {
+          "place": 19,
+          "time": "31:21.74",
+          "points": 42
+        },
+        "Event 2": {
+          "place": 24,
+          "time": "21:59.80",
+          "points": 32
+        },
+        "Event 3": {
+          "place": 26,
+          "time": "10:24.91",
+          "points": 28
+        },
+        "Event 4": {
+          "place": 12,
+          "time": "12 pt",
+          "points": 56
+        },
+        "Event 5": {
+          "place": 32,
+          "time": "250 lb",
+          "points": 16
+        },
+        "Event 6": {
+          "place": 17,
+          "time": "12:46.61",
+          "points": 46
+        },
+        "Event 7": {
+          "place": 6,
+          "time": "2:32.66",
+          "points": 76
+        },
+        "Event 8": {
+          "place": 19,
+          "time": "5:45.41",
+          "points": 42
+        },
+        "Event 9": {
+          "place": 27,
+          "time": "CAP+7",
+          "points": 26
+        },
+        "Event 10": {
+          "place": 7,
+          "time": "9:07.95",
+          "points": 72
+        },
+        "Event 11": {
+          "place": 34,
+          "time": "18:50.19",
+          "points": 12
+        },
+        "Event 12": {
+          "place": 5,
+          "time": "11:28.65",
+          "points": 80
+        },
+        "Event 13": {
+          "place": 23,
+          "time": "CAP+20",
+          "points": 34
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Cody Mooney",
+      "country": "United States",
+      "region": "North East",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "72 in | 210 lb",
+      "total_points": 550,
+      "events": {
+        "Run Swim Run": {
+          "place": 6,
+          "time": "29:40.00",
+          "points": 76
+        },
+        "Event 2": {
+          "place": 8,
+          "time": "20:37.91",
+          "points": 68
+        },
+        "Event 3": {
+          "place": 28,
+          "time": "10:29.81",
+          "points": 24
+        },
+        "Event 4": {
+          "place": 15,
+          "time": "15 pt",
+          "points": 50
+        },
+        "Event 5": {
+          "place": 17,
+          "time": "275 lb",
+          "points": 46
+        },
+        "Event 6": {
+          "place": 20,
+          "time": "12:51.85",
+          "points": 40
+        },
+        "Event 7": {
+          "place": 18,
+          "time": "3:03.42",
+          "points": 44
+        },
+        "Event 8": {
+          "place": 7,
+          "time": "4:55.85",
+          "points": 72
+        },
+        "Event 9": {
+          "place": 37,
+          "time": "CAP+14",
+          "points": 6
+        },
+        "Event 10": {
+          "place": 35,
+          "time": "11:18.49",
+          "points": 10
+        },
+        "Event 11": {
+          "place": 22,
+          "time": "17:48.87",
+          "points": 36
+        },
+        "Event 12": {
+          "place": 20,
+          "time": "CAP+4",
+          "points": 40
+        },
+        "Event 13": {
+          "place": 21,
+          "time": "CAP+16",
+          "points": 38
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Lukas Esslinger",
+      "country": "Switzerland",
+      "region": "Europe",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "181 cm | 200 lb",
+      "total_points": 530,
+      "events": {
+        "Run Swim Run": {
+          "place": 16,
+          "time": "30:49.05",
+          "points": 48
+        },
+        "Event 2": {
+          "place": 9,
+          "time": "20:38.80",
+          "points": 64
+        },
+        "Event 3": {
+          "place": 24,
+          "time": "10:17.65",
+          "points": 32
+        },
+        "Event 4": {
+          "place": 28,
+          "time": "28 pt",
+          "points": 24
+        },
+        "Event 5": {
+          "place": 12,
+          "time": "278 lb",
+          "points": 56
+        },
+        "Event 6": {
+          "place": 16,
+          "time": "12:43.72",
+          "points": 48
+        },
+        "Event 7": {
+          "place": 26,
+          "time": "3:37.69",
+          "points": 28
+        },
+        "Event 8": {
+          "place": 13,
+          "time": "5:18.38",
+          "points": 54
+        },
+        "Event 9": {
+          "place": 8,
+          "time": "9:14.65",
+          "points": 68
+        },
+        "Event 10": {
+          "place": 28,
+          "time": "10:24.81",
+          "points": 24
+        },
+        "Event 11": {
+          "place": 32,
+          "time": "18:39.26",
+          "points": 16
+        },
+        "Event 12": {
+          "place": 15,
+          "time": "CAP+3",
+          "points": 50
+        },
+        "Event 13": {
+          "place": 31,
+          "time": "CAP+33",
+          "points": 18
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Tim Paulson",
+      "country": "United States",
+      "region": "North East",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "73 in | 215 lb",
+      "total_points": 514,
+      "events": {
+        "Run Swim Run": {
+          "place": 37,
+          "time": "35:53.41",
+          "points": 6
+        },
+        "Event 2": {
+          "place": 25,
+          "time": "22:00.20",
+          "points": 30
+        },
+        "Event 3": {
+          "place": 23,
+          "time": "10:08.29",
+          "points": 34
+        },
+        "Event 4": {
+          "place": 36,
+          "time": "36 pt",
+          "points": 8
+        },
+        "Event 5": {
+          "place": 13,
+          "time": "277 lb",
+          "points": 54
+        },
+        "Event 6": {
+          "place": 14,
+          "time": "12:24.25",
+          "points": 52
+        },
+        "Event 7": {
+          "place": 27,
+          "time": "3:46.98",
+          "points": 26
+        },
+        "Event 8": {
+          "place": 6,
+          "time": "4:38.58",
+          "points": 76
+        },
+        "Event 9": {
+          "place": 20,
+          "time": "CAP",
+          "points": 40
+        },
+        "Event 10": {
+          "place": 8,
+          "time": "9:09.79",
+          "points": 68
+        },
+        "Event 11": {
+          "place": 18,
+          "time": "17:40.50",
+          "points": 44
+        },
+        "Event 12": {
+          "place": 9,
+          "time": "11:57.98",
+          "points": 64
+        },
+        "Event 13": {
+          "place": 34,
+          "time": "CAP+35",
+          "points": 12
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Samuel Kwant",
+      "country": "United States",
+      "region": "North West",
+      "affiliate": "",
+      "age": "Age 21",
+      "height_weight": "71 in | 206 lb",
+      "total_points": 500,
+      "events": {
+        "Run Swim Run": {
+          "place": 33,
+          "time": "34:03.58",
+          "points": 14
+        },
+        "Event 2": {
+          "place": 11,
+          "time": "20:40.96",
+          "points": 58
+        },
+        "Event 3": {
+          "place": 27,
+          "time": "10:29.28",
+          "points": 26
+        },
+        "Event 4": {
+          "place": 27,
+          "time": "27 pt",
+          "points": 26
+        },
+        "Event 5": {
+          "place": 10,
+          "time": "285 lb",
+          "points": 60
+        },
+        "Event 6": {
+          "place": 27,
+          "time": "13:03.23",
+          "points": 26
+        },
+        "Event 7": {
+          "place": 22,
+          "time": "3:11.67",
+          "points": 36
+        },
+        "Event 8": {
+          "place": 9,
+          "time": "5:05.81",
+          "points": 64
+        },
+        "Event 9": {
+          "place": 12,
+          "time": "9:45.56",
+          "points": 56
+        },
+        "Event 10": {
+          "place": 24,
+          "time": "10:15.75",
+          "points": 32
+        },
+        "Event 11": {
+          "place": 36,
+          "time": "19:08.67",
+          "points": 8
+        },
+        "Event 12": {
+          "place": 8,
+          "time": "11:55.52",
+          "points": 68
+        },
+        "Event 13": {
+          "place": 27,
+          "time": "CAP+25",
+          "points": 26
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "George Sanchez",
+      "country": "United States",
+      "region": "North West",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "73 in | 210 lb",
+      "total_points": 494,
+      "events": {
+        "Run Swim Run": {
+          "place": 26,
+          "time": "32:31.59",
+          "points": 28
+        },
+        "Event 2": {
+          "place": 15,
+          "time": "21:12.50",
+          "points": 50
+        },
+        "Event 3": {
+          "place": 32,
+          "time": "10:52.91",
+          "points": 16
+        },
+        "Event 4": {
+          "place": 17,
+          "time": "17 pt",
+          "points": 46
+        },
+        "Event 5": {
+          "place": 17,
+          "time": "275 lb",
+          "points": 46
+        },
+        "Event 6": {
+          "place": 18,
+          "time": "12:47.49",
+          "points": 44
+        },
+        "Event 7": {
+          "place": 1,
+          "time": "1:48.63",
+          "points": 100
+        },
+        "Event 8": {
+          "place": 16,
+          "time": "5:38.20",
+          "points": 48
+        },
+        "Event 9": {
+          "place": 31,
+          "time": "CAP+8",
+          "points": 18
+        },
+        "Event 10": {
+          "place": 37,
+          "time": "11:57.15",
+          "points": 6
+        },
+        "Event 11": {
+          "place": 28,
+          "time": "18:13.36",
+          "points": 24
+        },
+        "Event 12": {
+          "place": 32,
+          "time": "CAP+18",
+          "points": 16
+        },
+        "Event 13": {
+          "place": 14,
+          "time": "CAP+11",
+          "points": 52
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Dakota Rager",
+      "country": "United States",
+      "region": "South West",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "64 in | 169 lb",
+      "total_points": 492,
+      "events": {
+        "Run Swim Run": {
+          "place": 14,
+          "time": "30:26.22",
+          "points": 52
+        },
+        "Event 2": {
+          "place": 27,
+          "time": "22:03.51",
+          "points": 26
+        },
+        "Event 3": {
+          "place": 1,
+          "time": "8:01.56",
+          "points": 100
+        },
+        "Event 4": {
+          "place": 16,
+          "time": "16 pt",
+          "points": 48
+        },
+        "Event 5": {
+          "place": 37,
+          "time": "230 lb",
+          "points": 6
+        },
+        "Event 6": {
+          "place": 13,
+          "time": "12:19.82",
+          "points": 54
+        },
+        "Event 7": {
+          "place": 37,
+          "time": "5:08.93",
+          "points": 6
+        },
+        "Event 8": {
+          "place": 38,
+          "time": "CAP+1",
+          "points": 4
+        },
+        "Event 9": {
+          "place": 35,
+          "time": "CAP+13",
+          "points": 10
+        },
+        "Event 10": {
+          "place": 3,
+          "time": "8:44.99",
+          "points": 88
+        },
+        "Event 11": {
+          "place": 13,
+          "time": "17:23.69",
+          "points": 54
+        },
+        "Event 12": {
+          "place": 26,
+          "time": "CAP+11",
+          "points": 28
+        },
+        "Event 13": {
+          "place": 32,
+          "time": "CAP+34",
+          "points": 16
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Travis Williams",
+      "country": "United States",
+      "region": "South Central",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "69 in | 202 lb",
+      "total_points": 476,
+      "events": {
+        "Run Swim Run": {
+          "place": 30,
+          "time": "33:17.92",
+          "points": 20
+        },
+        "Event 2": {
+          "place": 34,
+          "time": "22:43.93",
+          "points": 12
+        },
+        "Event 3": {
+          "place": 30,
+          "time": "10:33.65",
+          "points": 20
+        },
+        "Event 4": {
+          "place": 35,
+          "time": "35 pt",
+          "points": 10
+        },
+        "Event 5": {
+          "place": 17,
+          "time": "275 lb",
+          "points": 46
+        },
+        "Event 6": {
+          "place": 9,
+          "time": "12:00.26",
+          "points": 64
+        },
+        "Event 7": {
+          "place": 11,
+          "time": "2:43.09",
+          "points": 58
+        },
+        "Event 8": {
+          "place": 22,
+          "time": "6:08.38",
+          "points": 36
+        },
+        "Event 9": {
+          "place": 23,
+          "time": "CAP+1",
+          "points": 34
+        },
+        "Event 10": {
+          "place": 20,
+          "time": "10:05.91",
+          "points": 40
+        },
+        "Event 11": {
+          "place": 31,
+          "time": "18:37.99",
+          "points": 18
+        },
+        "Event 12": {
+          "place": 2,
+          "time": "10:58.62",
+          "points": 94
+        },
+        "Event 13": {
+          "place": 28,
+          "time": "CAP+26",
+          "points": 24
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Frederik Aegidius",
+      "country": "Denmark",
+      "region": "Europe",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "174 cm | 84 kg",
+      "total_points": 462,
+      "events": {
+        "Run Swim Run": {
+          "place": 17,
+          "time": "30:57.29",
+          "points": 46
+        },
+        "Event 2": {
+          "place": 7,
+          "time": "20:28.63",
+          "points": 72
+        },
+        "Event 3": {
+          "place": 22,
+          "time": "10:00.72",
+          "points": 36
+        },
+        "Event 4": {
+          "place": 23,
+          "time": "23 pt",
+          "points": 34
+        },
+        "Event 5": {
+          "place": 21,
+          "time": "272 lb",
+          "points": 38
+        },
+        "Event 6": {
+          "place": 30,
+          "time": "13:19.93",
+          "points": 20
+        },
+        "Event 7": {
+          "place": 23,
+          "time": "3:21.75",
+          "points": 34
+        },
+        "Event 8": {
+          "place": 30,
+          "time": "7:21.56",
+          "points": 20
+        },
+        "Event 9": {
+          "place": 26,
+          "time": "CAP+2",
+          "points": 28
+        },
+        "Event 10": {
+          "place": 22,
+          "time": "10:10.84",
+          "points": 36
+        },
+        "Event 11": {
+          "place": 24,
+          "time": "17:54.65",
+          "points": 32
+        },
+        "Event 12": {
+          "place": 12,
+          "time": "CAP",
+          "points": 56
+        },
+        "Event 13": {
+          "place": 35,
+          "time": "CAP+36",
+          "points": 10
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Rob Forte",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "174 cm | 89 kg",
+      "total_points": 456,
+      "events": {
+        "Run Swim Run": {
+          "place": 25,
+          "time": "32:20.20",
+          "points": 30
+        },
+        "Event 2": {
+          "place": 21,
+          "time": "21:51.87",
+          "points": 38
+        },
+        "Event 3": {
+          "place": 16,
+          "time": "9:39.58",
+          "points": 48
+        },
+        "Event 4": {
+          "place": 30,
+          "time": "30 pt",
+          "points": 20
+        },
+        "Event 5": {
+          "place": 35,
+          "time": "245 lb",
+          "points": 10
+        },
+        "Event 6": {
+          "place": 36,
+          "time": "14:10.00",
+          "points": 8
+        },
+        "Event 7": {
+          "place": 10,
+          "time": "2:41.02",
+          "points": 60
+        },
+        "Event 8": {
+          "place": 11,
+          "time": "5:09.95",
+          "points": 58
+        },
+        "Event 9": {
+          "place": 32,
+          "time": "CAP+8",
+          "points": 16
+        },
+        "Event 10": {
+          "place": 25,
+          "time": "10:21.00",
+          "points": 30
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "17:47.80",
+          "points": 38
+        },
+        "Event 12": {
+          "place": 11,
+          "time": "11:58.19",
+          "points": 58
+        },
+        "Event 13": {
+          "place": 19,
+          "time": "CAP+14",
+          "points": 42
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "James Newbury",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "177 cm | 87 kg",
+      "total_points": 436,
+      "events": {
+        "Run Swim Run": {
+          "place": 5,
+          "time": "29:32.00",
+          "points": 80
+        },
+        "Event 2": {
+          "place": 17,
+          "time": "21:27.94",
+          "points": 46
+        },
+        "Event 3": {
+          "place": 36,
+          "time": "11:14.41",
+          "points": 8
+        },
+        "Event 4": {
+          "place": 32,
+          "time": "32 pt",
+          "points": 16
+        },
+        "Event 5": {
+          "place": 30,
+          "time": "260 lb",
+          "points": 20
+        },
+        "Event 6": {
+          "place": 28,
+          "time": "13:10.63",
+          "points": 24
+        },
+        "Event 7": {
+          "place": 14,
+          "time": "2:46.63",
+          "points": 52
+        },
+        "Event 8": {
+          "place": 14,
+          "time": "5:20.65",
+          "points": 52
+        },
+        "Event 9": {
+          "place": 25,
+          "time": "CAP+2",
+          "points": 30
+        },
+        "Event 10": {
+          "place": 31,
+          "time": "10:52.86",
+          "points": 18
+        },
+        "Event 11": {
+          "place": 10,
+          "time": "17:14.80",
+          "points": 60
+        },
+        "Event 12": {
+          "place": 35,
+          "time": "CAP+22",
+          "points": 10
+        },
+        "Event 13": {
+          "place": 30,
+          "time": "CAP+32",
+          "points": 20
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Paul Castillo",
+      "country": "United States",
+      "region": "Central East",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "71 in | 200 lb",
+      "total_points": 426,
+      "events": {
+        "Run Swim Run": {
+          "place": 23,
+          "time": "31:56.76",
+          "points": 34
+        },
+        "Event 2": {
+          "place": 19,
+          "time": "21:40.85",
+          "points": 42
+        },
+        "Event 3": {
+          "place": 10,
+          "time": "9:16.36",
+          "points": 60
+        },
+        "Event 4": {
+          "place": 37,
+          "time": "37 pt",
+          "points": 6
+        },
+        "Event 5": {
+          "place": 31,
+          "time": "255 lb",
+          "points": 18
+        },
+        "Event 6": {
+          "place": 10,
+          "time": "12:06.29",
+          "points": 60
+        },
+        "Event 7": {
+          "place": 17,
+          "time": "2:52.62",
+          "points": 46
+        },
+        "Event 8": {
+          "place": 33,
+          "time": "7:49.09",
+          "points": 14
+        },
+        "Event 9": {
+          "place": 33,
+          "time": "CAP+8",
+          "points": 14
+        },
+        "Event 10": {
+          "place": 26,
+          "time": "10:23.28",
+          "points": 28
+        },
+        "Event 11": {
+          "place": 9,
+          "time": "17:12.41",
+          "points": 64
+        },
+        "Event 12": {
+          "place": 35,
+          "time": "CAP+22",
+          "points": 10
+        },
+        "Event 13": {
+          "place": 25,
+          "time": "CAP+22",
+          "points": 30
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Jason Carroll",
+      "country": "United States",
+      "region": "Southern California",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "70 in | 180 lb",
+      "total_points": 414,
+      "events": {
+        "Run Swim Run": {
+          "place": 34,
+          "time": "34:28.71",
+          "points": 12
+        },
+        "Event 2": {
+          "place": 6,
+          "time": "20:27.56",
+          "points": 76
+        },
+        "Event 3": {
+          "place": 33,
+          "time": "11:04.43",
+          "points": 14
+        },
+        "Event 4": {
+          "place": 13,
+          "time": "13 pt",
+          "points": 54
+        },
+        "Event 5": {
+          "place": 38,
+          "time": "227 lb",
+          "points": 4
+        },
+        "Event 6": {
+          "place": 23,
+          "time": "12:55.80",
+          "points": 34
+        },
+        "Event 7": {
+          "place": 30,
+          "time": "4:00.52",
+          "points": 20
+        },
+        "Event 8": {
+          "place": 32,
+          "time": "7:38.28",
+          "points": 16
+        },
+        "Event 9": {
+          "place": 34,
+          "time": "CAP+8",
+          "points": 12
+        },
+        "Event 10": {
+          "place": 30,
+          "time": "10:32.05",
+          "points": 20
+        },
+        "Event 11": {
+          "place": 7,
+          "time": "17:01.63",
+          "points": 72
+        },
+        "Event 12": {
+          "place": 26,
+          "time": "CAP+11",
+          "points": 28
+        },
+        "Event 13": {
+          "place": 14,
+          "time": "CAP+11",
+          "points": 52
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Josh Bridges",
+      "country": "United States",
+      "region": "Southern California",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "65 in | 173 lb",
+      "total_points": 408,
+      "events": {
+        "Run Swim Run": {
+          "place": 32,
+          "time": "33:43.30",
+          "points": 16
+        },
+        "Event 2": {
+          "place": 37,
+          "time": "23:29.78",
+          "points": 6
+        },
+        "Event 3": {
+          "place": 18,
+          "time": "9:44.90",
+          "points": 44
+        },
+        "Event 4": {
+          "place": 19,
+          "time": "19 pt",
+          "points": 42
+        },
+        "Event 5": {
+          "place": 36,
+          "time": "242 lb",
+          "points": 8
+        },
+        "Event 6": {
+          "place": 15,
+          "time": "12:34.21",
+          "points": 50
+        },
+        "Event 7": {
+          "place": 38,
+          "time": "5:34.02",
+          "points": 4
+        },
+        "Event 8": {
+          "place": 36,
+          "time": "8:40.99",
+          "points": 8
+        },
+        "Event 9": {
+          "place": 38,
+          "time": "CAP+14",
+          "points": 4
+        },
+        "Event 10": {
+          "place": 2,
+          "time": "8:41.38",
+          "points": 94
+        },
+        "Event 11": {
+          "place": 19,
+          "time": "17:43.34",
+          "points": 42
+        },
+        "Event 12": {
+          "place": 15,
+          "time": "CAP+3",
+          "points": 50
+        },
+        "Event 13": {
+          "place": 20,
+          "time": "CAP+15",
+          "points": 40
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Zak Carchedi",
+      "country": "United States",
+      "region": "North Central",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "69 in | 184 lb",
+      "total_points": 400,
+      "events": {
+        "Run Swim Run": {
+          "place": 31,
+          "time": "33:34.73",
+          "points": 18
+        },
+        "Event 2": {
+          "place": 23,
+          "time": "21:56.32",
+          "points": 34
+        },
+        "Event 3": {
+          "place": 34,
+          "time": "11:06.33",
+          "points": 12
+        },
+        "Event 4": {
+          "place": 25,
+          "time": "25 pt",
+          "points": 30
+        },
+        "Event 5": {
+          "place": 22,
+          "time": "270 lb",
+          "points": 36
+        },
+        "Event 6": {
+          "place": 33,
+          "time": "13:35.52",
+          "points": 14
+        },
+        "Event 7": {
+          "place": 34,
+          "time": "4:51.59",
+          "points": 12
+        },
+        "Event 8": {
+          "place": 17,
+          "time": "5:38.67",
+          "points": 46
+        },
+        "Event 9": {
+          "place": 16,
+          "time": "10:13.87",
+          "points": 48
+        },
+        "Event 10": {
+          "place": 23,
+          "time": "10:11.99",
+          "points": 34
+        },
+        "Event 11": {
+          "place": 20,
+          "time": "17:45.95",
+          "points": 40
+        },
+        "Event 12": {
+          "place": 34,
+          "time": "CAP+19",
+          "points": 12
+        },
+        "Event 13": {
+          "place": 9,
+          "time": "CAP+10",
+          "points": 64
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Michael Palomba",
+      "country": "United States",
+      "region": "North East",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "69 in | 215 lb",
+      "total_points": 388,
+      "events": {
+        "Run Swim Run": {
+          "place": 39,
+          "time": "44:30.45",
+          "points": 2
+        },
+        "Event 2": {
+          "place": 32,
+          "time": "22:33.03",
+          "points": 16
+        },
+        "Event 3": {
+          "place": 21,
+          "time": "10:00.13",
+          "points": 38
+        },
+        "Event 4": {
+          "place": 33,
+          "time": "33 pt",
+          "points": 14
+        },
+        "Event 5": {
+          "place": 27,
+          "time": "266 lb",
+          "points": 26
+        },
+        "Event 6": {
+          "place": 21,
+          "time": "12:54.15",
+          "points": 38
+        },
+        "Event 7": {
+          "place": 19,
+          "time": "3:07.03",
+          "points": 42
+        },
+        "Event 8": {
+          "place": 27,
+          "time": "6:55.78",
+          "points": 26
+        },
+        "Event 9": {
+          "place": 17,
+          "time": "10:15.81",
+          "points": 46
+        },
+        "Event 10": {
+          "place": 17,
+          "time": "9:50.97",
+          "points": 46
+        },
+        "Event 11": {
+          "place": 15,
+          "time": "17:31.65",
+          "points": 50
+        },
+        "Event 12": {
+          "place": 26,
+          "time": "CAP+11",
+          "points": 28
+        },
+        "Event 13": {
+          "place": 32,
+          "time": "CAP+34",
+          "points": 16
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Tommy Vinas",
+      "country": "United States",
+      "region": "South West",
+      "affiliate": "",
+      "age": "Age 20",
+      "height_weight": "71 in | 215 lb",
+      "total_points": 378,
+      "events": {
+        "Run Swim Run": {
+          "place": 22,
+          "time": "31:38.82",
+          "points": 36
+        },
+        "Event 2": {
+          "place": 29,
+          "time": "22:14.29",
+          "points": 22
+        },
+        "Event 3": {
+          "place": 39,
+          "time": "12:12.77",
+          "points": 2
+        },
+        "Event 4": {
+          "place": 24,
+          "time": "24 pt",
+          "points": 32
+        },
+        "Event 5": {
+          "place": 2,
+          "time": "302 lb",
+          "points": 94
+        },
+        "Event 6": {
+          "place": 37,
+          "time": "14:43.36",
+          "points": 6
+        },
+        "Event 7": {
+          "place": 28,
+          "time": "3:54.31",
+          "points": 24
+        },
+        "Event 8": {
+          "place": 21,
+          "time": "5:54.44",
+          "points": 38
+        },
+        "Event 9": {
+          "place": 18,
+          "time": "10:20.49",
+          "points": 44
+        },
+        "Event 10": {
+          "place": 29,
+          "time": "10:31.87",
+          "points": 22
+        },
+        "Event 11": {
+          "place": 37,
+          "time": "19:13.51",
+          "points": 6
+        },
+        "Event 12": {
+          "place": 30,
+          "time": "CAP+15",
+          "points": 20
+        },
+        "Event 13": {
+          "place": 24,
+          "time": "CAP+21",
+          "points": 32
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Zeke Grove",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "169 cm | 182 lb",
+      "total_points": 330,
+      "events": {
+        "Run Swim Run": {
+          "place": 35,
+          "time": "34:52.76",
+          "points": 10
+        },
+        "Event 2": {
+          "place": 33,
+          "time": "22:38.93",
+          "points": 14
+        },
+        "Event 3": {
+          "place": 13,
+          "time": "9:28.65",
+          "points": 54
+        },
+        "Event 4": {
+          "place": 22,
+          "time": "22 pt",
+          "points": 36
+        },
+        "Event 5": {
+          "place": 28,
+          "time": "265 lb",
+          "points": 24
+        },
+        "Event 6": {
+          "place": 29,
+          "time": "13:17.38",
+          "points": 22
+        },
+        "Event 7": {
+          "place": 29,
+          "time": "3:54.93",
+          "points": 22
+        },
+        "Event 8": {
+          "place": 37,
+          "time": "9:26.38",
+          "points": 6
+        },
+        "Event 9": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 38
+        },
+        "Event 10": {
+          "place": 33,
+          "time": "11:07.35",
+          "points": 14
+        },
+        "Event 11": {
+          "place": 38,
+          "time": "19:39.81",
+          "points": 4
+        },
+        "Event 12": {
+          "place": 29,
+          "time": "CAP+12",
+          "points": 22
+        },
+        "Event 13": {
+          "place": 9,
+          "time": "CAP+10",
+          "points": 64
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Jeff Patzer",
+      "country": "United States",
+      "region": "Northern California",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "66 in | 175 lb",
+      "total_points": 326,
+      "events": {
+        "Run Swim Run": {
+          "place": 24,
+          "time": "32:18.95",
+          "points": 32
+        },
+        "Event 2": {
+          "place": 30,
+          "time": "22:19.50",
+          "points": 20
+        },
+        "Event 3": {
+          "place": 17,
+          "time": "9:44.44",
+          "points": 46
+        },
+        "Event 4": {
+          "place": 29,
+          "time": "29 pt",
+          "points": 22
+        },
+        "Event 5": {
+          "place": 39,
+          "time": "225 lb",
+          "points": 2
+        },
+        "Event 6": {
+          "place": 24,
+          "time": "12:56.88",
+          "points": 32
+        },
+        "Event 7": {
+          "place": 39,
+          "time": "CAP",
+          "points": 2
+        },
+        "Event 8": {
+          "place": 39,
+          "time": "CAP+2",
+          "points": 2
+        },
+        "Event 9": {
+          "place": 39,
+          "time": "CAP+14",
+          "points": 2
+        },
+        "Event 10": {
+          "place": 36,
+          "time": "11:36.83",
+          "points": 8
+        },
+        "Event 11": {
+          "place": 35,
+          "time": "19:07.45",
+          "points": 10
+        },
+        "Event 12": {
+          "place": 6,
+          "time": "11:39.19",
+          "points": 76
+        },
+        "Event 13": {
+          "place": 7,
+          "time": "CAP+9",
+          "points": 72
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Elijah Muhammad",
+      "country": "United States",
+      "region": "South West",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "72 in | 194 lb",
+      "total_points": 324,
+      "events": {
+        "Run Swim Run": {
+          "place": 38,
+          "time": "42:13.14",
+          "points": 4
+        },
+        "Event 2": {
+          "place": 20,
+          "time": "21:50.73",
+          "points": 40
+        },
+        "Event 3": {
+          "place": 38,
+          "time": "11:42.28",
+          "points": 4
+        },
+        "Event 4": {
+          "place": 18,
+          "time": "18 pt",
+          "points": 44
+        },
+        "Event 5": {
+          "place": 4,
+          "time": "297 lb",
+          "points": 84
+        },
+        "Event 6": {
+          "place": 38,
+          "time": "14:50.36",
+          "points": 4
+        },
+        "Event 7": {
+          "place": 32,
+          "time": "4:30.64",
+          "points": 16
+        },
+        "Event 8": {
+          "place": 23,
+          "time": "6:19.17",
+          "points": 34
+        },
+        "Event 9": {
+          "place": 24,
+          "time": "CAP+1",
+          "points": 32
+        },
+        "Event 10": {
+          "place": 34,
+          "time": "11:15.11",
+          "points": 12
+        },
+        "Event 11": {
+          "place": 27,
+          "time": "18:10.57",
+          "points": 26
+        },
+        "Event 12": {
+          "place": 32,
+          "time": "CAP+18",
+          "points": 16
+        },
+        "Event 13": {
+          "place": 36,
+          "time": "CAP+37",
+          "points": 8
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Alec Smith",
+      "country": "United States",
+      "region": "Mid Atlantic",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "71 in | 185 lb",
+      "total_points": 284,
+      "events": {
+        "Run Swim Run": {
+          "place": 15,
+          "time": "30:35.07",
+          "points": 50
+        },
+        "Event 2": {
+          "place": 39,
+          "time": "24:23.16",
+          "points": 2
+        },
+        "Event 3": {
+          "place": 31,
+          "time": "10:44.41",
+          "points": 18
+        },
+        "Event 4": {
+          "place": 34,
+          "time": "34 pt",
+          "points": 12
+        },
+        "Event 5": {
+          "place": 11,
+          "time": "280 lb",
+          "points": 58
+        },
+        "Event 6": {
+          "place": 34,
+          "time": "13:43.15",
+          "points": 12
+        },
+        "Event 7": {
+          "place": 31,
+          "time": "4:05.48",
+          "points": 18
+        },
+        "Event 8": {
+          "place": 34,
+          "time": "8:03.08",
+          "points": 12
+        },
+        "Event 9": {
+          "place": 13,
+          "time": "9:52.07",
+          "points": 54
+        },
+        "Event 10": {
+          "place": 38,
+          "time": "CAP+11",
+          "points": 4
+        },
+        "Event 11": {
+          "place": 33,
+          "time": "18:47.55",
+          "points": 14
+        },
+        "Event 12": {
+          "place": 37,
+          "time": "CAP+26",
+          "points": 6
+        },
+        "Event 13": {
+          "place": 28,
+          "time": "CAP+26",
+          "points": 24
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Wesley Rethwill",
+      "country": "United States",
+      "region": "Southern California",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "72 in | 200 lb",
+      "total_points": 280,
+      "events": {
+        "Run Swim Run": {
+          "place": 28,
+          "time": "33:02.10",
+          "points": 24
+        },
+        "Event 2": {
+          "place": 22,
+          "time": "21:53.46",
+          "points": 36
+        },
+        "Event 3": {
+          "place": 37,
+          "time": "11:33.76",
+          "points": 6
+        },
+        "Event 4": {
+          "place": 37,
+          "time": "37 pt",
+          "points": 6
+        },
+        "Event 5": {
+          "place": 34,
+          "time": "246 lb",
+          "points": 12
+        },
+        "Event 6": {
+          "place": 32,
+          "time": "13:32.40",
+          "points": 16
+        },
+        "Event 7": {
+          "place": 25,
+          "time": "3:33.45",
+          "points": 30
+        },
+        "Event 8": {
+          "place": 35,
+          "time": "8:21.61",
+          "points": 10
+        },
+        "Event 9": {
+          "place": 29,
+          "time": "CAP+7",
+          "points": 22
+        },
+        "Event 10": {
+          "place": 15,
+          "time": "9:46.80",
+          "points": 50
+        },
+        "Event 11": {
+          "place": 17,
+          "time": "17:35.23",
+          "points": 46
+        },
+        "Event 12": {
+          "place": 31,
+          "time": "CAP+16",
+          "points": 18
+        },
+        "Event 13": {
+          "place": 38,
+          "time": "CAP+43",
+          "points": 4
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Mitchell Sinnamon",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "172 cm | 90 kg",
+      "total_points": 182,
+      "events": {
+        "Run Swim Run": {
+          "place": 21,
+          "time": "31:34.85",
+          "points": 38
+        },
+        "Event 2": {
+          "place": 38,
+          "time": "24:14.59",
+          "points": 4
+        },
+        "Event 3": {
+          "place": 35,
+          "time": "11:08.00",
+          "points": 10
+        },
+        "Event 4": {
+          "place": 21,
+          "time": "21 pt",
+          "points": 38
+        },
+        "Event 5": {
+          "place": 16,
+          "time": "276 lb",
+          "points": 48
+        },
+        "Event 6": {
+          "place": 35,
+          "time": "13:47.89",
+          "points": 10
+        },
+        "Event 7": {
+          "place": 36,
+          "time": "5:04.16",
+          "points": 8
+        },
+        "Event 8": {
+          "place": 31,
+          "time": "7:34.97",
+          "points": 18
+        },
+        "Event 9": {
+          "place": 36,
+          "time": "CAP+14",
+          "points": 8
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

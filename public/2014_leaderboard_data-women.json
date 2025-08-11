@@ -1,0 +1,7801 @@
+{
+  "year": 2014,
+  "gender": "women",
+  "events": [
+    "The Beach",
+    "Event 2",
+    "Event 3",
+    "Event 4",
+    "Event 5",
+    "Event 6",
+    "Event 7",
+    "Event 8",
+    "Event 9",
+    "Event 10",
+    "Event 11",
+    "Event 12",
+    "Event 13"
+  ],
+  "event_point_map": {
+    "The Beach": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16,
+      "42": 15
+    },
+    "Event 2": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "18": 51,
+      "21": 45,
+      "24": 39,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16,
+      "42": 15
+    },
+    "Event 3": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16
+    },
+    "Event 4": {
+      "1": 50,
+      "2": 48,
+      "3": 46,
+      "4": 44,
+      "5": 42,
+      "6": 41,
+      "7": 40,
+      "8": 39,
+      "9": 38,
+      "10": 37,
+      "11": 36,
+      "12": 35,
+      "13": 34,
+      "15": 32,
+      "16": 31,
+      "17": 30,
+      "18": 29,
+      "19": 28,
+      "20": 27,
+      "21": 26,
+      "22": 25,
+      "23": 24,
+      "24": 23,
+      "25": 22,
+      "26": 21,
+      "27": 20,
+      "28": 19,
+      "29": 18,
+      "30": 17,
+      "31": 16,
+      "32": 15,
+      "33": 14,
+      "34": 13,
+      "35": 12,
+      "36": 11,
+      "37": 10,
+      "38": 9,
+      "39": 8,
+      "40": 7,
+      "41": 6
+    },
+    "Event 5": {
+      "1": 50,
+      "2": 48,
+      "3": 46,
+      "4": 44,
+      "5": 42,
+      "6": 41,
+      "7": 40,
+      "8": 39,
+      "9": 38,
+      "10": 37,
+      "11": 36,
+      "12": 35,
+      "13": 34,
+      "14": 33,
+      "16": 31,
+      "17": 30,
+      "18": 29,
+      "19": 28,
+      "20": 27,
+      "21": 26,
+      "22": 25,
+      "23": 24,
+      "24": 23,
+      "25": 22,
+      "26": 21,
+      "27": 20,
+      "28": 19,
+      "29": 18,
+      "30": 17,
+      "31": 16,
+      "32": 15,
+      "33": 14,
+      "34": 13,
+      "35": 12,
+      "36": 11,
+      "37": 10,
+      "38": 9,
+      "39": 8,
+      "40": 7
+    },
+    "Event 6": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "33": 24,
+      "35": 22,
+      "36": 21,
+      "38": 19,
+      "40": 17,
+      "41": 16
+    },
+    "Event 7": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "11": 65,
+      "13": 61,
+      "14": 59,
+      "17": 53,
+      "18": 51,
+      "20": 47,
+      "21": 45,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "28": 31,
+      "31": 26,
+      "36": 21,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16
+    },
+    "Event 8": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16
+    },
+    "Event 9": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16
+    },
+    "Event 10": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16
+    },
+    "Event 11": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "31": 26,
+      "34": 23,
+      "35": 22,
+      "37": 20,
+      "39": 18
+    },
+    "Event 12": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "21": 45,
+      "24": 39,
+      "28": 31
+    },
+    "Event 13": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "30": 27
+    }
+  },
+  "event_field_size": {
+    "The Beach": 42,
+    "Event 2": 42,
+    "Event 3": 41,
+    "Event 4": 41,
+    "Event 5": 40,
+    "Event 6": 41,
+    "Event 7": 41,
+    "Event 8": 41,
+    "Event 9": 41,
+    "Event 10": 41,
+    "Event 11": 39,
+    "Event 12": 28,
+    "Event 13": 30
+  },
+  "event_place_points": {
+    "The Beach": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15
+    ],
+    "Event 2": [
+      100,
+      95,
+      90,
+      0,
+      80,
+      75,
+      73,
+      71,
+      0,
+      0,
+      0,
+      63,
+      61,
+      59,
+      0,
+      0,
+      0,
+      51,
+      0,
+      0,
+      45,
+      0,
+      0,
+      39,
+      0,
+      35,
+      33,
+      31,
+      29,
+      0,
+      0,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15
+    ],
+    "Event 3": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16
+    ],
+    "Event 4": [
+      50,
+      48,
+      46,
+      44,
+      42,
+      41,
+      40,
+      39,
+      38,
+      37,
+      36,
+      35,
+      34,
+      0,
+      32,
+      31,
+      30,
+      29,
+      28,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9,
+      8,
+      7,
+      6
+    ],
+    "Event 5": [
+      50,
+      48,
+      46,
+      44,
+      42,
+      41,
+      40,
+      39,
+      38,
+      37,
+      36,
+      35,
+      34,
+      33,
+      0,
+      31,
+      30,
+      29,
+      28,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9,
+      8,
+      7
+    ],
+    "Event 6": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      0,
+      24,
+      0,
+      22,
+      21,
+      0,
+      19,
+      0,
+      17,
+      16
+    ],
+    "Event 7": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      0,
+      65,
+      0,
+      61,
+      59,
+      0,
+      0,
+      53,
+      51,
+      0,
+      47,
+      45,
+      0,
+      41,
+      39,
+      37,
+      35,
+      0,
+      31,
+      0,
+      0,
+      26,
+      0,
+      0,
+      0,
+      0,
+      21,
+      0,
+      19,
+      18,
+      17,
+      16
+    ],
+    "Event 8": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16
+    ],
+    "Event 9": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      0,
+      31,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16
+    ],
+    "Event 10": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      0,
+      20,
+      19,
+      18,
+      17,
+      16
+    ],
+    "Event 11": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      26,
+      0,
+      0,
+      23,
+      22,
+      0,
+      20,
+      0,
+      18
+    ],
+    "Event 12": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      0,
+      0,
+      0,
+      45,
+      0,
+      0,
+      39,
+      0,
+      0,
+      0,
+      31
+    ],
+    "Event 13": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      0,
+      27
+    ]
+  },
+  "event_ordinals": {
+    "The Beach": 1,
+    "Event 2": 2,
+    "Event 3": 3,
+    "Event 4": 4,
+    "Event 5": 5,
+    "Event 6": 6,
+    "Event 7": 7,
+    "Event 8": 8,
+    "Event 9": 9,
+    "Event 10": 10,
+    "Event 11": 11,
+    "Event 12": 12,
+    "Event 13": 13
+  },
+  "event_finish_order": {
+    "The Beach": [
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 1,
+        "points": 100,
+        "time": "31:43.95"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 2,
+        "points": 95,
+        "time": "32:07.06"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 3,
+        "points": 90,
+        "time": "32:28.59"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 4,
+        "points": 85,
+        "time": "32:49.96"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 5,
+        "points": 80,
+        "time": "35:27.07"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 6,
+        "points": 75,
+        "time": "35:58.54"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 7,
+        "points": 73,
+        "time": "36:07.02"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 8,
+        "points": 71,
+        "time": "36:15.95"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 9,
+        "points": 69,
+        "time": "36:22.40"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 10,
+        "points": 67,
+        "time": "37:10.50"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 11,
+        "points": 65,
+        "time": "37:35.87"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 12,
+        "points": 63,
+        "time": "38:27.83"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 13,
+        "points": 61,
+        "time": "38:47.11"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 14,
+        "points": 59,
+        "time": "39:05.39"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 15,
+        "points": 57,
+        "time": "39:21.21"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 16,
+        "points": 55,
+        "time": "39:29.03"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 17,
+        "points": 53,
+        "time": "39:34.14"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 18,
+        "points": 51,
+        "time": "39:51.55"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 19,
+        "points": 49,
+        "time": "39:59.58"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 20,
+        "points": 47,
+        "time": "40:14.32"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 21,
+        "points": 45,
+        "time": "40:23.65"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 22,
+        "points": 43,
+        "time": "40:30.37"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 23,
+        "points": 41,
+        "time": "40:49.55"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 24,
+        "points": 39,
+        "time": "40:52.42"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 25,
+        "points": 37,
+        "time": "42:09.85"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 26,
+        "points": 35,
+        "time": "42:17.24"
+      },
+      {
+        "name": "Emily Beers",
+        "place": 27,
+        "points": 33,
+        "time": "42:57.53"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 28,
+        "points": 31,
+        "time": "43:31.03"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 29,
+        "points": 29,
+        "time": "44:11.29"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 30,
+        "points": 27,
+        "time": "44:25.27"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 31,
+        "points": 26,
+        "time": "44:32.88"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 32,
+        "points": 25,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 33,
+        "points": 24,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 34,
+        "points": 23,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 35,
+        "points": 22,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 36,
+        "points": 21,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 37,
+        "points": 20,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 38,
+        "points": 19,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 39,
+        "points": 18,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Wanda Brenton",
+        "place": 40,
+        "points": 17,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 41,
+        "points": 16,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 42,
+        "points": 15,
+        "time": "CAP+26"
+      }
+    ],
+    "Event 2": [
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 1,
+        "points": 100,
+        "time": "250 lb"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 2,
+        "points": 95,
+        "time": "242 lb"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 3,
+        "points": 90,
+        "time": "241 lb"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 3,
+        "points": 90,
+        "time": "241 lb"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 5,
+        "points": 80,
+        "time": "240 lb"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 6,
+        "points": 75,
+        "time": "238 lb"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 7,
+        "points": 73,
+        "time": "237 lb"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 8,
+        "points": 71,
+        "time": "231 lb"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 8,
+        "points": 71,
+        "time": "231 lb"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 8,
+        "points": 71,
+        "time": "231 lb"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 8,
+        "points": 71,
+        "time": "231 lb"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 12,
+        "points": 63,
+        "time": "230 lb"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 13,
+        "points": 61,
+        "time": "227 lb"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 14,
+        "points": 59,
+        "time": "222 lb"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 14,
+        "points": 59,
+        "time": "222 lb"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 14,
+        "points": 59,
+        "time": "222 lb"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 14,
+        "points": 59,
+        "time": "222 lb"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 18,
+        "points": 51,
+        "time": "217 lb"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 18,
+        "points": 51,
+        "time": "217 lb"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 18,
+        "points": 51,
+        "time": "217 lb"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 21,
+        "points": 45,
+        "time": "216 lb"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 21,
+        "points": 45,
+        "time": "216 lb"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 21,
+        "points": 45,
+        "time": "216 lb"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 24,
+        "points": 39,
+        "time": "215 lb"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 24,
+        "points": 39,
+        "time": "215 lb"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 26,
+        "points": 35,
+        "time": "212 lb"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 27,
+        "points": 33,
+        "time": "211 lb"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 28,
+        "points": 31,
+        "time": "210 lb"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 29,
+        "points": 29,
+        "time": "206 lb"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 29,
+        "points": 29,
+        "time": "206 lb"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 29,
+        "points": 29,
+        "time": "206 lb"
+      },
+      {
+        "name": "Emily Beers",
+        "place": 32,
+        "points": 25,
+        "time": "205 lb"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 33,
+        "points": 24,
+        "time": "200 lb"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 34,
+        "points": 23,
+        "time": "198 lb"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 35,
+        "points": 22,
+        "time": "197 lb"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 36,
+        "points": 21,
+        "time": "195 lb"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 37,
+        "points": 20,
+        "time": "192 lb"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 38,
+        "points": 19,
+        "time": "185 lb"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 39,
+        "points": 18,
+        "time": "176 lb"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 40,
+        "points": 17,
+        "time": "175 lb"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 41,
+        "points": 16,
+        "time": "165 lb"
+      },
+      {
+        "name": "Wanda Brenton",
+        "place": 42,
+        "points": 15,
+        "time": "145 lb"
+      }
+    ],
+    "Event 3": [
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 1,
+        "points": 100,
+        "time": "36:07.79"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 2,
+        "points": 95,
+        "time": "36:14.43"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 3,
+        "points": 90,
+        "time": "37:06.68"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 4,
+        "points": 85,
+        "time": "37:08.43"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 5,
+        "points": 80,
+        "time": "37:39.25"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 6,
+        "points": 75,
+        "time": "37:46.46"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 7,
+        "points": 73,
+        "time": "38:10.63"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 8,
+        "points": 71,
+        "time": "38:14.93"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 9,
+        "points": 69,
+        "time": "38:21.47"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 10,
+        "points": 67,
+        "time": "38:38.41"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 11,
+        "points": 65,
+        "time": "38:42.86"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 12,
+        "points": 63,
+        "time": "38:47.74"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 13,
+        "points": 61,
+        "time": "39:13.59"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 14,
+        "points": 59,
+        "time": "39:15.33"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 15,
+        "points": 57,
+        "time": "39:18.59"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 16,
+        "points": 55,
+        "time": "39:43.79"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 17,
+        "points": 53,
+        "time": "39:52.75"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 18,
+        "points": 51,
+        "time": "40:01.94"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 19,
+        "points": 49,
+        "time": "40:07.30"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 20,
+        "points": 47,
+        "time": "40:10.15"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 21,
+        "points": 45,
+        "time": "40:12.58"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 22,
+        "points": 43,
+        "time": "40:23.55"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 23,
+        "points": 41,
+        "time": "40:28.41"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 24,
+        "points": 39,
+        "time": "40:34.50"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 25,
+        "points": 37,
+        "time": "41:21.56"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 26,
+        "points": 35,
+        "time": "41:22.33"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 27,
+        "points": 33,
+        "time": "42:15.51"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 28,
+        "points": 31,
+        "time": "42:26.68"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 29,
+        "points": 29,
+        "time": "42:26.80"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 30,
+        "points": 27,
+        "time": "42:41.41"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 31,
+        "points": 26,
+        "time": "42:44.35"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 32,
+        "points": 25,
+        "time": "42:57.57"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 33,
+        "points": 24,
+        "time": "43:07.24"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 34,
+        "points": 23,
+        "time": "43:13.38"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 35,
+        "points": 22,
+        "time": "43:25.98"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 36,
+        "points": 21,
+        "time": "43:28.23"
+      },
+      {
+        "name": "Emily Beers",
+        "place": 37,
+        "points": 20,
+        "time": "45:36.22"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 38,
+        "points": 19,
+        "time": "46:38.72"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 39,
+        "points": 18,
+        "time": "47:04.54"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 40,
+        "points": 17,
+        "time": "47:42.80"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 41,
+        "points": 16,
+        "time": "48:55.66"
+      }
+    ],
+    "Event 4": [
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 1,
+        "points": 50,
+        "time": ":25.50"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 2,
+        "points": 48,
+        "time": ":29.94"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 3,
+        "points": 46,
+        "time": ":31.01"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 4,
+        "points": 44,
+        "time": ":31.70"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 5,
+        "points": 42,
+        "time": ":33.80"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 6,
+        "points": 41,
+        "time": ":34.98"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 7,
+        "points": 40,
+        "time": ":36.20"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 8,
+        "points": 39,
+        "time": ":36.58"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 9,
+        "points": 38,
+        "time": ":37.10"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 10,
+        "points": 37,
+        "time": ":37.14"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 11,
+        "points": 36,
+        "time": ":38.02"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 12,
+        "points": 35,
+        "time": ":38.70"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 13,
+        "points": 34,
+        "time": "00:39.00 "
+      },
+      {
+        "name": "Emily Beers",
+        "place": 13,
+        "points": 34,
+        "time": "00:39.00 "
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 15,
+        "points": 32,
+        "time": ":39.01"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 16,
+        "points": 31,
+        "time": ":39.47"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 17,
+        "points": 30,
+        "time": ":40.00"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 18,
+        "points": 29,
+        "time": ":41.30"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 19,
+        "points": 28,
+        "time": ":41.50"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 20,
+        "points": 27,
+        "time": ":42.39"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 21,
+        "points": 26,
+        "time": ":42.50"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 22,
+        "points": 25,
+        "time": ":42.80"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 23,
+        "points": 24,
+        "time": ":44.13"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 24,
+        "points": 23,
+        "time": ":44.19"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 25,
+        "points": 22,
+        "time": ":44.34"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 26,
+        "points": 21,
+        "time": ":46.40"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 27,
+        "points": 20,
+        "time": ":48.30"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 28,
+        "points": 19,
+        "time": ":48.84"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 29,
+        "points": 18,
+        "time": ":49.42"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 30,
+        "points": 17,
+        "time": ":50.29"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 31,
+        "points": 16,
+        "time": ":50.56"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 32,
+        "points": 15,
+        "time": ":51.01"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 33,
+        "points": 14,
+        "time": ":52.98"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 34,
+        "points": 13,
+        "time": ":54.08"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 35,
+        "points": 12,
+        "time": ":54.68"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 36,
+        "points": 11,
+        "time": ":55.60"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 37,
+        "points": 10,
+        "time": ":56.30"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 38,
+        "points": 9,
+        "time": "1:00.48"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 39,
+        "points": 8,
+        "time": "1:00.60"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 40,
+        "points": 7,
+        "time": "1:09.43"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 41,
+        "points": 6,
+        "time": "1:45.51"
+      }
+    ],
+    "Event 5": [
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 1,
+        "points": 50,
+        "time": ":52.57"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 2,
+        "points": 48,
+        "time": ":58.10"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 3,
+        "points": 46,
+        "time": "1:00.00"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 4,
+        "points": 44,
+        "time": "1:06.00"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 5,
+        "points": 42,
+        "time": "1:21.00"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 6,
+        "points": 41,
+        "time": "1:23.27"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 7,
+        "points": 40,
+        "time": "1:26.00"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 8,
+        "points": 39,
+        "time": "1:27.30"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 9,
+        "points": 38,
+        "time": "1:28.35"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 10,
+        "points": 37,
+        "time": "1:28.65"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 11,
+        "points": 36,
+        "time": "1:29.00"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 12,
+        "points": 35,
+        "time": "1:34.10"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 13,
+        "points": 34,
+        "time": "1:34.61"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 14,
+        "points": 33,
+        "time": "01:35.00 "
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 14,
+        "points": 33,
+        "time": "01:35.00 "
+      },
+      {
+        "name": "Emily Beers",
+        "place": 16,
+        "points": 31,
+        "time": "1:38.00"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 17,
+        "points": 30,
+        "time": "1:39.80"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 18,
+        "points": 29,
+        "time": "1:40.00"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 19,
+        "points": 28,
+        "time": "1:41.00"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 20,
+        "points": 27,
+        "time": "1:45.00"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 21,
+        "points": 26,
+        "time": "1:45.07"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 22,
+        "points": 25,
+        "time": "1:51.75"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 23,
+        "points": 24,
+        "time": "1:52.45"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 24,
+        "points": 23,
+        "time": "1:55.55"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 25,
+        "points": 22,
+        "time": "1:56.00"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 26,
+        "points": 21,
+        "time": "2:03.00"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 27,
+        "points": 20,
+        "time": "2:06.00"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 28,
+        "points": 19,
+        "time": "2:08.53"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 29,
+        "points": 18,
+        "time": "2:09.00"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 30,
+        "points": 17,
+        "time": "2:17.68"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 31,
+        "points": 16,
+        "time": "2:24.00"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 32,
+        "points": 15,
+        "time": "2:27.98"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 33,
+        "points": 14,
+        "time": "2:29.89"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 34,
+        "points": 13,
+        "time": "2:31.66"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 35,
+        "points": 12,
+        "time": "2:34.00"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 36,
+        "points": 11,
+        "time": "2:51.68"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 37,
+        "points": 10,
+        "time": "2:53.24"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 38,
+        "points": 9,
+        "time": "2:55.44"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 39,
+        "points": 8,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 40,
+        "points": 7,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 40,
+        "points": 7,
+        "time": "CAP+2"
+      }
+    ],
+    "Event 6": [
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 1,
+        "points": 100,
+        "time": "4:50.49"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 2,
+        "points": 95,
+        "time": "5:10.49"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 3,
+        "points": 90,
+        "time": "5:10.72"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 4,
+        "points": 85,
+        "time": "5:13.57"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 5,
+        "points": 80,
+        "time": "5:14.06"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 6,
+        "points": 75,
+        "time": "5:24.65"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 7,
+        "points": 73,
+        "time": "5:26.76"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 8,
+        "points": 71,
+        "time": "5:27.42"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 9,
+        "points": 69,
+        "time": "5:28.95"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 10,
+        "points": 67,
+        "time": "5:37.42"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 11,
+        "points": 65,
+        "time": "5:54.30"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 12,
+        "points": 63,
+        "time": "5:55.06"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 13,
+        "points": 61,
+        "time": "5:56.16"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 14,
+        "points": 59,
+        "time": "6:11.57"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 15,
+        "points": 57,
+        "time": "6:15.97"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 16,
+        "points": 55,
+        "time": "6:20.24"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 17,
+        "points": 53,
+        "time": "6:21.45"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 18,
+        "points": 51,
+        "time": "6:26.17"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 19,
+        "points": 49,
+        "time": "6:30.64"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 20,
+        "points": 47,
+        "time": "6:30.98"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 21,
+        "points": 45,
+        "time": "6:33.32"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 22,
+        "points": 43,
+        "time": "6:34.58"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 23,
+        "points": 41,
+        "time": "6:35.31"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 24,
+        "points": 39,
+        "time": "6:40.24"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 25,
+        "points": 37,
+        "time": "6:41.28"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 26,
+        "points": 35,
+        "time": "6:45.00"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 27,
+        "points": 33,
+        "time": "6:51.58"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 28,
+        "points": 31,
+        "time": "6:58.37"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 29,
+        "points": 29,
+        "time": "6:58.56"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 30,
+        "points": 27,
+        "time": "CAP"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 33,
+        "points": 24,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 33,
+        "points": 24,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 35,
+        "points": 22,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 36,
+        "points": 21,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Emily Beers",
+        "place": 36,
+        "points": 21,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 38,
+        "points": 19,
+        "time": "CAP+14"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 38,
+        "points": 19,
+        "time": "CAP+14"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 40,
+        "points": 17,
+        "time": "CAP+16"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 41,
+        "points": 16,
+        "time": "CAP+21"
+      }
+    ],
+    "Event 7": [
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 1,
+        "points": 100,
+        "time": "15:08.27"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 2,
+        "points": 95,
+        "time": "16:09.26"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 3,
+        "points": 90,
+        "time": "16:42.72"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 4,
+        "points": 85,
+        "time": "16:58.75"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 5,
+        "points": 80,
+        "time": "17:28.89"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 6,
+        "points": 75,
+        "time": "17:33.92"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 7,
+        "points": 73,
+        "time": "17:40.22"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 8,
+        "points": 71,
+        "time": "17:53.70"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 9,
+        "points": 69,
+        "time": "CAP"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 9,
+        "points": 69,
+        "time": "CAP"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 11,
+        "points": 65,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 11,
+        "points": 65,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 13,
+        "points": 61,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 14,
+        "points": 59,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 14,
+        "points": 59,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 14,
+        "points": 59,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 17,
+        "points": 53,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 18,
+        "points": 51,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 18,
+        "points": 51,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 20,
+        "points": 47,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 23,
+        "points": 41,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 24,
+        "points": 39,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 25,
+        "points": 37,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 26,
+        "points": 35,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 26,
+        "points": 35,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 28,
+        "points": 31,
+        "time": "CAP+12"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 28,
+        "points": 31,
+        "time": "CAP+12"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 28,
+        "points": 31,
+        "time": "CAP+12"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+13"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+13"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+13"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+13"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+13"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 36,
+        "points": 21,
+        "time": "CAP+15"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 36,
+        "points": 21,
+        "time": "CAP+15"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 38,
+        "points": 19,
+        "time": "CAP+16"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 39,
+        "points": 18,
+        "time": "CAP+17"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 40,
+        "points": 17,
+        "time": "CAP+20"
+      },
+      {
+        "name": "Emily Beers",
+        "place": 41,
+        "points": 16,
+        "time": "CAP+29"
+      }
+    ],
+    "Event 8": [
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 1,
+        "points": 100,
+        "time": "2:47.75"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 2,
+        "points": 95,
+        "time": "2:50.22"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 3,
+        "points": 90,
+        "time": "2:52.33"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 4,
+        "points": 85,
+        "time": "2:53.13"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 5,
+        "points": 80,
+        "time": "2:54.92"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 6,
+        "points": 75,
+        "time": "2:56.27"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 7,
+        "points": 73,
+        "time": "2:57.53"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 8,
+        "points": 71,
+        "time": "2:58.24"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 9,
+        "points": 69,
+        "time": "2:59.75"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 10,
+        "points": 67,
+        "time": "3:00.96"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 11,
+        "points": 65,
+        "time": "3:01.35"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 12,
+        "points": 63,
+        "time": "3:02.09"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 13,
+        "points": 61,
+        "time": "3:04.60"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 14,
+        "points": 59,
+        "time": "3:06.24"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 15,
+        "points": 57,
+        "time": "3:08.21"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 16,
+        "points": 55,
+        "time": "3:08.22"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 17,
+        "points": 53,
+        "time": "3:08.58"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 18,
+        "points": 51,
+        "time": "3:08.68"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 19,
+        "points": 49,
+        "time": "3:09.99"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 20,
+        "points": 47,
+        "time": "3:10.35"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 21,
+        "points": 45,
+        "time": "3:10.62"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 22,
+        "points": 43,
+        "time": "3:11.20"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 23,
+        "points": 41,
+        "time": "3:11.32"
+      },
+      {
+        "name": "Emily Beers",
+        "place": 24,
+        "points": 39,
+        "time": "3:12.50"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 25,
+        "points": 37,
+        "time": "3:12.71"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 26,
+        "points": 35,
+        "time": "3:14.43"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 27,
+        "points": 33,
+        "time": "3:15.40"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 28,
+        "points": 31,
+        "time": "3:15.86"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 29,
+        "points": 29,
+        "time": "3:16.92"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 30,
+        "points": 27,
+        "time": "3:19.79"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 31,
+        "points": 26,
+        "time": "3:24.07"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 32,
+        "points": 25,
+        "time": "3:24.30"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 33,
+        "points": 24,
+        "time": "3:24.76"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 34,
+        "points": 23,
+        "time": "3:28.28"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 35,
+        "points": 22,
+        "time": "3:41.02"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 36,
+        "points": 21,
+        "time": "3:42.85"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 37,
+        "points": 20,
+        "time": "3:46.01"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 38,
+        "points": 19,
+        "time": "3:52.46"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 39,
+        "points": 18,
+        "time": "3:53.06"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 40,
+        "points": 17,
+        "time": "3:57.35"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 41,
+        "points": 16,
+        "time": "4:19.47"
+      }
+    ],
+    "Event 9": [
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 1,
+        "points": 100,
+        "time": "1 pt"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 2,
+        "points": 95,
+        "time": "2 pt"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 3,
+        "points": 90,
+        "time": "3 pt"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 4,
+        "points": 85,
+        "time": "4 pt"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 5,
+        "points": 80,
+        "time": "5 pt"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 6,
+        "points": 75,
+        "time": "6 pt"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 7,
+        "points": 73,
+        "time": "7 pt"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 8,
+        "points": 71,
+        "time": "8 pt"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 9,
+        "points": 69,
+        "time": "9 pt"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 10,
+        "points": 67,
+        "time": "10 pt"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 11,
+        "points": 65,
+        "time": "11 pt"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 12,
+        "points": 63,
+        "time": "12 pt"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 13,
+        "points": 61,
+        "time": "13 pt"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 14,
+        "points": 59,
+        "time": "14 pt"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 15,
+        "points": 57,
+        "time": "15 pt"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 16,
+        "points": 55,
+        "time": "16 pt"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 17,
+        "points": 53,
+        "time": "17 pt"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 18,
+        "points": 51,
+        "time": "18 pt"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 19,
+        "points": 49,
+        "time": "19 pt"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 20,
+        "points": 47,
+        "time": "20 pt"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 21,
+        "points": 45,
+        "time": "21 pt"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 22,
+        "points": 43,
+        "time": "22 pt"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 23,
+        "points": 41,
+        "time": "23 pt"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 24,
+        "points": 39,
+        "time": "24 pt"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 25,
+        "points": 37,
+        "time": "25 pt"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 26,
+        "points": 35,
+        "time": "26 pt"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 26,
+        "points": 35,
+        "time": "26 pt"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 28,
+        "points": 31,
+        "time": "28 pt"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 29,
+        "points": 29,
+        "time": "29 pt"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 30,
+        "points": 27,
+        "time": "30 pt"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 31,
+        "points": 26,
+        "time": "31 pt"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 32,
+        "points": 25,
+        "time": "32 pt"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 33,
+        "points": 24,
+        "time": "33 pt"
+      },
+      {
+        "name": "Emily Beers",
+        "place": 34,
+        "points": 23,
+        "time": "34 pt"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 35,
+        "points": 22,
+        "time": "35 pt"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 36,
+        "points": 21,
+        "time": "36 pt"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 37,
+        "points": 20,
+        "time": "37 pt"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 38,
+        "points": 19,
+        "time": "38 pt"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 39,
+        "points": 18,
+        "time": "39 pt"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 40,
+        "points": 17,
+        "time": "40 pt"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 41,
+        "points": 16,
+        "time": "41 pt"
+      }
+    ],
+    "Event 10": [
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 1,
+        "points": 100,
+        "time": "5:00.24"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 2,
+        "points": 95,
+        "time": "5:10.12"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 3,
+        "points": 90,
+        "time": "5:17.01"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 4,
+        "points": 85,
+        "time": "5:23.14"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 5,
+        "points": 80,
+        "time": "5:30.82"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 6,
+        "points": 75,
+        "time": "5:33.39"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 7,
+        "points": 73,
+        "time": "5:37.78"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 8,
+        "points": 71,
+        "time": "5:49.31"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 9,
+        "points": 69,
+        "time": "6:11.21"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 10,
+        "points": 67,
+        "time": "6:28.68"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 11,
+        "points": 65,
+        "time": "6:29.50"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 12,
+        "points": 63,
+        "time": "6:29.88"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 13,
+        "points": 61,
+        "time": "6:36.83"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 14,
+        "points": 59,
+        "time": "6:45.80"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 15,
+        "points": 57,
+        "time": "6:51.84"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 16,
+        "points": 55,
+        "time": "6:52.07"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 17,
+        "points": 53,
+        "time": "6:55.21"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 18,
+        "points": 51,
+        "time": "6:57.56"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 19,
+        "points": 49,
+        "time": "7:16.19"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 20,
+        "points": 47,
+        "time": "7:20.90"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 21,
+        "points": 45,
+        "time": "7:33.21"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 22,
+        "points": 43,
+        "time": "7:40.24"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 23,
+        "points": 41,
+        "time": "7:48.97"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 24,
+        "points": 39,
+        "time": "8:04.52"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 25,
+        "points": 37,
+        "time": "8:53.12"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 26,
+        "points": 35,
+        "time": "9:17.37"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 27,
+        "points": 33,
+        "time": "9:32.99"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 28,
+        "points": 31,
+        "time": "10:50.37"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 29,
+        "points": 29,
+        "time": "10:51.53"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 30,
+        "points": 27,
+        "time": "10:58.62"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 32,
+        "points": 25,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 33,
+        "points": 24,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Emily Beers",
+        "place": 34,
+        "points": 23,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 35,
+        "points": 22,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Pip Malone",
+        "place": 35,
+        "points": 22,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 37,
+        "points": 20,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 38,
+        "points": 19,
+        "time": "CAP+11"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 39,
+        "points": 18,
+        "time": "CAP+13"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 40,
+        "points": 17,
+        "time": "CAP+18"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 41,
+        "points": 16,
+        "time": "CAP+27"
+      }
+    ],
+    "Event 11": [
+      {
+        "name": "Pip Malone",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 1,
+        "points": 100,
+        "time": "6:34.1"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 2,
+        "points": 95,
+        "time": "6:51.8"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 3,
+        "points": 90,
+        "time": "6:54.9"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 4,
+        "points": 85,
+        "time": "7:06.6"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 5,
+        "points": 80,
+        "time": "7:35.7"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 6,
+        "points": 75,
+        "time": "7:38.0"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 7,
+        "points": 73,
+        "time": "7:38.7"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 8,
+        "points": 71,
+        "time": "7:44.6"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 9,
+        "points": 69,
+        "time": "7:51.4"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 10,
+        "points": 67,
+        "time": "7:51.5"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 11,
+        "points": 65,
+        "time": "7:56.5"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 12,
+        "points": 63,
+        "time": "8:32.4"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 13,
+        "points": 61,
+        "time": "8:53.7"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 14,
+        "points": 59,
+        "time": "9:03.5"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 15,
+        "points": 57,
+        "time": "9:08.0"
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 16,
+        "points": 55,
+        "time": "9:31.6"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 17,
+        "points": 53,
+        "time": "9:49.3"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 18,
+        "points": 51,
+        "time": "9:52.1"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 19,
+        "points": 49,
+        "time": "9:59.8"
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 20,
+        "points": 47,
+        "time": "CAP"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Emily Beers",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 31,
+        "points": 26,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 34,
+        "points": 23,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 35,
+        "points": 22,
+        "time": "CAP+28"
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 35,
+        "points": 22,
+        "time": "CAP+28"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 37,
+        "points": 20,
+        "time": "CAP+29"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 37,
+        "points": 20,
+        "time": "CAP+29"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 39,
+        "points": 18,
+        "time": "CAP+56"
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 39,
+        "points": 18,
+        "time": "CAP+56"
+      }
+    ],
+    "Event 12": [
+      {
+        "name": "Kara Saunders",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Emily Beers",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Pip Malone",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 1,
+        "points": 100,
+        "time": "3:01.9"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 2,
+        "points": 95,
+        "time": "3:03.0"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 3,
+        "points": 90,
+        "time": "3:08.5"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 4,
+        "points": 85,
+        "time": "3:11.7"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 5,
+        "points": 80,
+        "time": "3:15.6"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 6,
+        "points": 75,
+        "time": "3:19.0"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 7,
+        "points": 73,
+        "time": "3:22.5"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 8,
+        "points": 71,
+        "time": "3:25.6"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 9,
+        "points": 69,
+        "time": "3:28.8"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 10,
+        "points": 67,
+        "time": "3:30.4"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 11,
+        "points": 65,
+        "time": "3:48.8"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 12,
+        "points": 63,
+        "time": "3:49.9"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 13,
+        "points": 61,
+        "time": "3:50.5"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 14,
+        "points": 59,
+        "time": "3:56.5"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 15,
+        "points": 57,
+        "time": "CAP"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 16,
+        "points": 55,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 17,
+        "points": 53,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 17,
+        "points": 53,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 17,
+        "points": 53,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 17,
+        "points": 53,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 21,
+        "points": 45,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 24,
+        "points": 39,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 24,
+        "points": 39,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 24,
+        "points": 39,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 24,
+        "points": 39,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 28,
+        "points": 31,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 28,
+        "points": 31,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 28,
+        "points": 31,
+        "time": "CAP+5"
+      }
+    ],
+    "Event 13": [
+      {
+        "name": "Kara Saunders",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicole Holcomb",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Talayna Fortunato",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Emily Beers",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alexandra LaChance",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Celestie Engelbrecht",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Marlene Andersson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Pip Malone",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Wanda Brenton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rory Long-Zambard",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 1,
+        "points": 100,
+        "time": "5:17.4"
+      },
+      {
+        "name": "Valerie Voboril",
+        "place": 2,
+        "points": 95,
+        "time": "5:28.9"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 3,
+        "points": 90,
+        "time": "5:29.6"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 4,
+        "points": 85,
+        "time": "5:38.2"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 5,
+        "points": 80,
+        "time": "5:45.7"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 6,
+        "points": 75,
+        "time": "5:48.5"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 7,
+        "points": 73,
+        "time": "5:49.8"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 8,
+        "points": 71,
+        "time": "5:51.7"
+      },
+      {
+        "name": "Lauren Brooks",
+        "place": 9,
+        "points": 69,
+        "time": "6:01.1"
+      },
+      {
+        "name": "Emily Carothers",
+        "place": 10,
+        "points": 67,
+        "time": "6:07.4"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 11,
+        "points": 65,
+        "time": "6:14.9"
+      },
+      {
+        "name": "Jennifer Astle",
+        "place": 12,
+        "points": 63,
+        "time": "6:16.2"
+      },
+      {
+        "name": "Dani Horan",
+        "place": 13,
+        "points": 61,
+        "time": "6:16.7"
+      },
+      {
+        "name": "Tiffany Hendrickson",
+        "place": 14,
+        "points": 59,
+        "time": "6:19.4"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 15,
+        "points": 57,
+        "time": "6:23.5"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 16,
+        "points": 55,
+        "time": "6:25.8"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 17,
+        "points": 53,
+        "time": "6:26.1"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 18,
+        "points": 51,
+        "time": "6:30.8"
+      },
+      {
+        "name": "Mandi Janowitz",
+        "place": 19,
+        "points": 49,
+        "time": "6:33.4"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 20,
+        "points": 47,
+        "time": "6:33.7"
+      },
+      {
+        "name": "Denae Brown",
+        "place": 21,
+        "points": 45,
+        "time": "6:41.5"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 22,
+        "points": 43,
+        "time": "6:44.6"
+      },
+      {
+        "name": "Kelley Jackson",
+        "place": 23,
+        "points": 41,
+        "time": "6:51.1"
+      },
+      {
+        "name": "Amanda Goodman",
+        "place": 24,
+        "points": 39,
+        "time": "6:59.9"
+      },
+      {
+        "name": "Regan Huckaby",
+        "place": 25,
+        "points": 37,
+        "time": "7:00.0"
+      },
+      {
+        "name": "Cassidy Lance-Mcwherter",
+        "place": 26,
+        "points": 35,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Amanda Schwartz",
+        "place": 27,
+        "points": 33,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Bjork Odinsdottir",
+        "place": 28,
+        "points": 31,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Rachel Martinez",
+        "place": 28,
+        "points": 31,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 30,
+        "points": 27,
+        "time": "CAP+10"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Camille Leblanc-Bazinet",
+      "country": "",
+      "region": "Canada East",
+      "affiliate": "CrossFit Brossard",
+      "age": "Age 25",
+      "height_weight": "62 in | 130 lb",
+      "total_points": 918,
+      "events": {
+        "The Beach": {
+          "place": 6,
+          "time": "35:58.54",
+          "points": 75
+        },
+        "Event 2": {
+          "place": 2,
+          "time": "242 lb",
+          "points": 95
+        },
+        "Event 3": {
+          "place": 17,
+          "time": "39:52.75",
+          "points": 53
+        },
+        "Event 4": {
+          "place": 8,
+          "time": ":36.58",
+          "points": 39
+        },
+        "Event 5": {
+          "place": 11,
+          "time": "1:29.00",
+          "points": 36
+        },
+        "Event 6": {
+          "place": 1,
+          "time": "4:50.49",
+          "points": 100
+        },
+        "Event 7": {
+          "place": 2,
+          "time": "16:09.26",
+          "points": 95
+        },
+        "Event 8": {
+          "place": 25,
+          "time": "3:12.71",
+          "points": 37
+        },
+        "Event 9": {
+          "place": 5,
+          "time": "5 pt",
+          "points": 80
+        },
+        "Event 10": {
+          "place": 3,
+          "time": "5:17.01",
+          "points": 90
+        },
+        "Event 11": {
+          "place": 6,
+          "time": "7:38.0",
+          "points": 75
+        },
+        "Event 12": {
+          "place": 12,
+          "time": "3:49.9",
+          "points": 63
+        },
+        "Event 13": {
+          "place": 5,
+          "time": "5:45.7",
+          "points": 80
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Annie Thorisdottir",
+      "country": "",
+      "region": "Europe",
+      "affiliate": "CrossFit Reykjavík",
+      "age": "Age 24",
+      "height_weight": "170 cm | 152 lb",
+      "total_points": 878,
+      "events": {
+        "The Beach": {
+          "place": 15,
+          "time": "39:21.21",
+          "points": 57
+        },
+        "Event 2": {
+          "place": 14,
+          "time": "222 lb",
+          "points": 59
+        },
+        "Event 3": {
+          "place": 26,
+          "time": "41:22.33",
+          "points": 35
+        },
+        "Event 4": {
+          "place": 11,
+          "time": ":38.02",
+          "points": 36
+        },
+        "Event 5": {
+          "place": 6,
+          "time": "1:23.27",
+          "points": 41
+        },
+        "Event 6": {
+          "place": 3,
+          "time": "5:10.72",
+          "points": 90
+        },
+        "Event 7": {
+          "place": 20,
+          "time": "CAP+6",
+          "points": 47
+        },
+        "Event 8": {
+          "place": 5,
+          "time": "2:54.92",
+          "points": 80
+        },
+        "Event 9": {
+          "place": 12,
+          "time": "12 pt",
+          "points": 63
+        },
+        "Event 10": {
+          "place": 6,
+          "time": "5:33.39",
+          "points": 75
+        },
+        "Event 11": {
+          "place": 1,
+          "time": "6:34.1",
+          "points": 100
+        },
+        "Event 12": {
+          "place": 2,
+          "time": "3:03.0",
+          "points": 95
+        },
+        "Event 13": {
+          "place": 1,
+          "time": "5:17.4",
+          "points": 100
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Julie Foucher",
+      "country": "",
+      "region": "Central East",
+      "affiliate": "CrossFit Ann Arbor",
+      "age": "Age 25",
+      "height_weight": "64 in | 135 lb",
+      "total_points": 793,
+      "events": {
+        "The Beach": {
+          "place": 13,
+          "time": "38:47.11",
+          "points": 61
+        },
+        "Event 2": {
+          "place": 8,
+          "time": "231 lb",
+          "points": 71
+        },
+        "Event 3": {
+          "place": 6,
+          "time": "37:46.46",
+          "points": 75
+        },
+        "Event 4": {
+          "place": 17,
+          "time": ":40.00",
+          "points": 30
+        },
+        "Event 5": {
+          "place": 20,
+          "time": "1:45.00",
+          "points": 27
+        },
+        "Event 6": {
+          "place": 6,
+          "time": "5:24.65",
+          "points": 75
+        },
+        "Event 7": {
+          "place": 13,
+          "time": "CAP+2",
+          "points": 61
+        },
+        "Event 8": {
+          "place": 16,
+          "time": "3:08.22",
+          "points": 55
+        },
+        "Event 9": {
+          "place": 29,
+          "time": "29 pt",
+          "points": 29
+        },
+        "Event 10": {
+          "place": 8,
+          "time": "5:49.31",
+          "points": 71
+        },
+        "Event 11": {
+          "place": 5,
+          "time": "7:35.7",
+          "points": 80
+        },
+        "Event 12": {
+          "place": 7,
+          "time": "3:22.5",
+          "points": 73
+        },
+        "Event 13": {
+          "place": 4,
+          "time": "5:38.2",
+          "points": 85
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Michele Letendre",
+      "country": "",
+      "region": "Canada East",
+      "affiliate": "CrossFit Plateau",
+      "age": "Age 28",
+      "height_weight": "61 in | 130 lb",
+      "total_points": 787,
+      "events": {
+        "The Beach": {
+          "place": 4,
+          "time": "32:49.96",
+          "points": 85
+        },
+        "Event 2": {
+          "place": 8,
+          "time": "231 lb",
+          "points": 71
+        },
+        "Event 3": {
+          "place": 24,
+          "time": "40:34.50",
+          "points": 39
+        },
+        "Event 4": {
+          "place": 21,
+          "time": ":42.50",
+          "points": 26
+        },
+        "Event 5": {
+          "place": 26,
+          "time": "2:03.00",
+          "points": 21
+        },
+        "Event 6": {
+          "place": 8,
+          "time": "5:27.42",
+          "points": 71
+        },
+        "Event 7": {
+          "place": 7,
+          "time": "17:40.22",
+          "points": 73
+        },
+        "Event 8": {
+          "place": 30,
+          "time": "3:19.79",
+          "points": 27
+        },
+        "Event 9": {
+          "place": 9,
+          "time": "9 pt",
+          "points": 69
+        },
+        "Event 10": {
+          "place": 1,
+          "time": "5:00.24",
+          "points": 100
+        },
+        "Event 11": {
+          "place": 14,
+          "time": "9:03.5",
+          "points": 59
+        },
+        "Event 12": {
+          "place": 6,
+          "time": "3:19.0",
+          "points": 75
+        },
+        "Event 13": {
+          "place": 8,
+          "time": "5:51.7",
+          "points": 71
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Valerie Voboril",
+      "country": "",
+      "region": "Southern California",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "62 in | 135 lb",
+      "total_points": 780,
+      "events": {
+        "The Beach": {
+          "place": 8,
+          "time": "36:15.95",
+          "points": 71
+        },
+        "Event 2": {
+          "place": 38,
+          "time": "185 lb",
+          "points": 19
+        },
+        "Event 3": {
+          "place": 9,
+          "time": "38:21.47",
+          "points": 69
+        },
+        "Event 4": {
+          "place": 16,
+          "time": ":39.47",
+          "points": 31
+        },
+        "Event 5": {
+          "place": 9,
+          "time": "1:28.35",
+          "points": 38
+        },
+        "Event 6": {
+          "place": 2,
+          "time": "5:10.49",
+          "points": 95
+        },
+        "Event 7": {
+          "place": 11,
+          "time": "CAP+1",
+          "points": 65
+        },
+        "Event 8": {
+          "place": 20,
+          "time": "3:10.35",
+          "points": 47
+        },
+        "Event 9": {
+          "place": 13,
+          "time": "13 pt",
+          "points": 61
+        },
+        "Event 10": {
+          "place": 4,
+          "time": "5:23.14",
+          "points": 85
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 14,
+          "time": "3:56.5",
+          "points": 59
+        },
+        "Event 13": {
+          "place": 2,
+          "time": "5:28.9",
+          "points": 95
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Emily Bridgers",
+      "country": "",
+      "region": "South East",
+      "affiliate": "CrossFit Terminus",
+      "age": "Age 27",
+      "height_weight": "61 in | 135 lb",
+      "total_points": 705,
+      "events": {
+        "The Beach": {
+          "place": 14,
+          "time": "39:05.39",
+          "points": 59
+        },
+        "Event 2": {
+          "place": 14,
+          "time": "222 lb",
+          "points": 59
+        },
+        "Event 3": {
+          "place": 18,
+          "time": "40:01.94",
+          "points": 51
+        },
+        "Event 4": {
+          "place": 12,
+          "time": ":38.70",
+          "points": 35
+        },
+        "Event 5": {
+          "place": 18,
+          "time": "1:40.00",
+          "points": 29
+        },
+        "Event 6": {
+          "place": 11,
+          "time": "5:54.30",
+          "points": 65
+        },
+        "Event 7": {
+          "place": 18,
+          "time": "CAP+5",
+          "points": 51
+        },
+        "Event 8": {
+          "place": 29,
+          "time": "3:16.92",
+          "points": 29
+        },
+        "Event 9": {
+          "place": 23,
+          "time": "23 pt",
+          "points": 41
+        },
+        "Event 10": {
+          "place": 18,
+          "time": "6:57.56",
+          "points": 51
+        },
+        "Event 11": {
+          "place": 2,
+          "time": "6:51.8",
+          "points": 95
+        },
+        "Event 12": {
+          "place": 11,
+          "time": "3:48.8",
+          "points": 65
+        },
+        "Event 13": {
+          "place": 6,
+          "time": "5:48.5",
+          "points": 75
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Lauren Brooks",
+      "country": "",
+      "region": "South East",
+      "affiliate": "CrossFit Salvation",
+      "age": "Age 27",
+      "height_weight": "67 in | 160 lb",
+      "total_points": 695,
+      "events": {
+        "The Beach": {
+          "place": 25,
+          "time": "42:09.85",
+          "points": 37
+        },
+        "Event 2": {
+          "place": 24,
+          "time": "215 lb",
+          "points": 39
+        },
+        "Event 3": {
+          "place": 10,
+          "time": "38:38.41",
+          "points": 67
+        },
+        "Event 4": {
+          "place": 1,
+          "time": ":25.50",
+          "points": 50
+        },
+        "Event 5": {
+          "place": 2,
+          "time": ":58.10",
+          "points": 48
+        },
+        "Event 6": {
+          "place": 18,
+          "time": "6:26.17",
+          "points": 51
+        },
+        "Event 7": {
+          "place": 31,
+          "time": "CAP+13",
+          "points": 26
+        },
+        "Event 8": {
+          "place": 1,
+          "time": "2:47.75",
+          "points": 100
+        },
+        "Event 9": {
+          "place": 4,
+          "time": "4 pt",
+          "points": 85
+        },
+        "Event 10": {
+          "place": 29,
+          "time": "10:51.53",
+          "points": 29
+        },
+        "Event 11": {
+          "place": 19,
+          "time": "9:59.8",
+          "points": 49
+        },
+        "Event 12": {
+          "place": 21,
+          "time": "CAP+3",
+          "points": 45
+        },
+        "Event 13": {
+          "place": 9,
+          "time": "6:01.1",
+          "points": 69
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Cassidy Lance-Mcwherter",
+      "country": "",
+      "region": "South Central",
+      "affiliate": "CrossFit Bolt",
+      "age": "Age 26",
+      "height_weight": "63 in | 140 lb",
+      "total_points": 688,
+      "events": {
+        "The Beach": {
+          "place": 5,
+          "time": "35:27.07",
+          "points": 80
+        },
+        "Event 2": {
+          "place": 3,
+          "time": "241 lb",
+          "points": 90
+        },
+        "Event 3": {
+          "place": 27,
+          "time": "42:15.51",
+          "points": 33
+        },
+        "Event 4": {
+          "place": 26,
+          "time": ":46.40",
+          "points": 21
+        },
+        "Event 5": {
+          "place": 31,
+          "time": "2:24.00",
+          "points": 16
+        },
+        "Event 6": {
+          "place": 4,
+          "time": "5:13.57",
+          "points": 85
+        },
+        "Event 7": {
+          "place": 28,
+          "time": "CAP+12",
+          "points": 31
+        },
+        "Event 8": {
+          "place": 15,
+          "time": "3:08.21",
+          "points": 57
+        },
+        "Event 9": {
+          "place": 17,
+          "time": "17 pt",
+          "points": 53
+        },
+        "Event 10": {
+          "place": 17,
+          "time": "6:55.21",
+          "points": 53
+        },
+        "Event 11": {
+          "place": 11,
+          "time": "7:56.5",
+          "points": 65
+        },
+        "Event 12": {
+          "place": 9,
+          "time": "3:28.8",
+          "points": 69
+        },
+        "Event 13": {
+          "place": 26,
+          "time": "CAP+1",
+          "points": 35
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Lauren Fisher",
+      "country": "",
+      "region": "Southern California",
+      "affiliate": "CrossFit Invictus",
+      "age": "Age 20",
+      "height_weight": "65 in | 140 lb",
+      "total_points": 681,
+      "events": {
+        "The Beach": {
+          "place": 11,
+          "time": "37:35.87",
+          "points": 65
+        },
+        "Event 2": {
+          "place": 6,
+          "time": "238 lb",
+          "points": 75
+        },
+        "Event 3": {
+          "place": 22,
+          "time": "40:23.55",
+          "points": 43
+        },
+        "Event 4": {
+          "place": 37,
+          "time": ":56.30",
+          "points": 10
+        },
+        "Event 5": {
+          "place": 39,
+          "time": "CAP+1",
+          "points": 8
+        },
+        "Event 6": {
+          "place": 15,
+          "time": "6:15.97",
+          "points": 57
+        },
+        "Event 7": {
+          "place": 14,
+          "time": "CAP+3",
+          "points": 59
+        },
+        "Event 8": {
+          "place": 18,
+          "time": "3:08.68",
+          "points": 51
+        },
+        "Event 9": {
+          "place": 6,
+          "time": "6 pt",
+          "points": 75
+        },
+        "Event 10": {
+          "place": 16,
+          "time": "6:52.07",
+          "points": 55
+        },
+        "Event 11": {
+          "place": 9,
+          "time": "7:51.4",
+          "points": 69
+        },
+        "Event 12": {
+          "place": 8,
+          "time": "3:25.6",
+          "points": 71
+        },
+        "Event 13": {
+          "place": 22,
+          "time": "6:44.6",
+          "points": 43
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Jennifer Astle",
+      "country": "",
+      "region": "South Central",
+      "affiliate": "CrossFit EaDo",
+      "age": "Age 29",
+      "height_weight": "65 in | 140 lb",
+      "total_points": 680,
+      "events": {
+        "The Beach": {
+          "place": 31,
+          "time": "44:32.88",
+          "points": 26
+        },
+        "Event 2": {
+          "place": 12,
+          "time": "230 lb",
+          "points": 63
+        },
+        "Event 3": {
+          "place": 36,
+          "time": "43:28.23",
+          "points": 21
+        },
+        "Event 4": {
+          "place": 10,
+          "time": ":37.14",
+          "points": 37
+        },
+        "Event 5": {
+          "place": 21,
+          "time": "1:45.07",
+          "points": 26
+        },
+        "Event 6": {
+          "place": 13,
+          "time": "5:56.16",
+          "points": 61
+        },
+        "Event 7": {
+          "place": 28,
+          "time": "CAP+12",
+          "points": 31
+        },
+        "Event 8": {
+          "place": 17,
+          "time": "3:08.58",
+          "points": 53
+        },
+        "Event 9": {
+          "place": 14,
+          "time": "14 pt",
+          "points": 59
+        },
+        "Event 10": {
+          "place": 10,
+          "time": "6:28.68",
+          "points": 67
+        },
+        "Event 11": {
+          "place": 7,
+          "time": "7:38.7",
+          "points": 73
+        },
+        "Event 12": {
+          "place": 1,
+          "time": "3:01.9",
+          "points": 100
+        },
+        "Event 13": {
+          "place": 12,
+          "time": "6:16.2",
+          "points": 63
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Tiffany Hendrickson",
+      "country": "",
+      "region": "South West",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "63 in | 135 lb",
+      "total_points": 679,
+      "events": {
+        "The Beach": {
+          "place": 19,
+          "time": "39:59.58",
+          "points": 49
+        },
+        "Event 2": {
+          "place": 21,
+          "time": "216 lb",
+          "points": 45
+        },
+        "Event 3": {
+          "place": 12,
+          "time": "38:47.74",
+          "points": 63
+        },
+        "Event 4": {
+          "place": 24,
+          "time": ":44.19",
+          "points": 23
+        },
+        "Event 5": {
+          "place": 23,
+          "time": "1:52.45",
+          "points": 24
+        },
+        "Event 6": {
+          "place": 14,
+          "time": "6:11.57",
+          "points": 59
+        },
+        "Event 7": {
+          "place": 1,
+          "time": "15:08.27",
+          "points": 100
+        },
+        "Event 8": {
+          "place": 22,
+          "time": "3:11.20",
+          "points": 43
+        },
+        "Event 9": {
+          "place": 20,
+          "time": "20 pt",
+          "points": 47
+        },
+        "Event 10": {
+          "place": 13,
+          "time": "6:36.83",
+          "points": 61
+        },
+        "Event 11": {
+          "place": 10,
+          "time": "7:51.5",
+          "points": 67
+        },
+        "Event 12": {
+          "place": 24,
+          "time": "CAP+4",
+          "points": 39
+        },
+        "Event 13": {
+          "place": 14,
+          "time": "6:19.4",
+          "points": 59
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Michelle Kinney",
+      "country": "",
+      "region": "Central East",
+      "affiliate": "Scott Street CrossFit",
+      "age": "Age 30",
+      "height_weight": "64 in | 141 lb",
+      "total_points": 674,
+      "events": {
+        "The Beach": {
+          "place": 32,
+          "time": "CAP+1",
+          "points": 25
+        },
+        "Event 2": {
+          "place": 29,
+          "time": "206 lb",
+          "points": 29
+        },
+        "Event 3": {
+          "place": 5,
+          "time": "37:39.25",
+          "points": 80
+        },
+        "Event 4": {
+          "place": 7,
+          "time": ":36.20",
+          "points": 40
+        },
+        "Event 5": {
+          "place": 7,
+          "time": "1:26.00",
+          "points": 40
+        },
+        "Event 6": {
+          "place": 26,
+          "time": "6:45.00",
+          "points": 35
+        },
+        "Event 7": {
+          "place": 9,
+          "time": "CAP",
+          "points": 69
+        },
+        "Event 8": {
+          "place": 6,
+          "time": "2:56.27",
+          "points": 75
+        },
+        "Event 9": {
+          "place": 37,
+          "time": "37 pt",
+          "points": 20
+        },
+        "Event 10": {
+          "place": 7,
+          "time": "5:37.78",
+          "points": 73
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 17,
+          "time": "CAP+2",
+          "points": 53
+        },
+        "Event 13": {
+          "place": 3,
+          "time": "5:29.6",
+          "points": 90
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Emily Carothers",
+      "country": "",
+      "region": "North West",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "62 in | 128 lb",
+      "total_points": 664,
+      "events": {
+        "The Beach": {
+          "place": 30,
+          "time": "44:25.27",
+          "points": 27
+        },
+        "Event 2": {
+          "place": 21,
+          "time": "216 lb",
+          "points": 45
+        },
+        "Event 3": {
+          "place": 14,
+          "time": "39:15.33",
+          "points": 59
+        },
+        "Event 4": {
+          "place": 5,
+          "time": ":33.80",
+          "points": 42
+        },
+        "Event 5": {
+          "place": 14,
+          "time": "01:35.00 ",
+          "points": 33
+        },
+        "Event 6": {
+          "place": 9,
+          "time": "5:28.95",
+          "points": 69
+        },
+        "Event 7": {
+          "place": 17,
+          "time": "CAP+4",
+          "points": 53
+        },
+        "Event 8": {
+          "place": 28,
+          "time": "3:15.86",
+          "points": 31
+        },
+        "Event 9": {
+          "place": 39,
+          "time": "39 pt",
+          "points": 18
+        },
+        "Event 10": {
+          "place": 9,
+          "time": "6:11.21",
+          "points": 69
+        },
+        "Event 11": {
+          "place": 13,
+          "time": "8:53.7",
+          "points": 61
+        },
+        "Event 12": {
+          "place": 3,
+          "time": "3:08.5",
+          "points": 90
+        },
+        "Event 13": {
+          "place": 10,
+          "time": "6:07.4",
+          "points": 67
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Elisabeth Akinwale",
+      "country": "",
+      "region": "North Central",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "67 in | 158 lb",
+      "total_points": 658,
+      "events": {
+        "The Beach": {
+          "place": 41,
+          "time": "CAP+10",
+          "points": 16
+        },
+        "Event 2": {
+          "place": 5,
+          "time": "240 lb",
+          "points": 80
+        },
+        "Event 3": {
+          "place": 39,
+          "time": "47:04.54",
+          "points": 18
+        },
+        "Event 4": {
+          "place": 6,
+          "time": ":34.98",
+          "points": 41
+        },
+        "Event 5": {
+          "place": 8,
+          "time": "1:27.30",
+          "points": 39
+        },
+        "Event 6": {
+          "place": 21,
+          "time": "6:33.32",
+          "points": 45
+        },
+        "Event 7": {
+          "place": 28,
+          "time": "CAP+12",
+          "points": 31
+        },
+        "Event 8": {
+          "place": 19,
+          "time": "3:09.99",
+          "points": 49
+        },
+        "Event 9": {
+          "place": 1,
+          "time": "1 pt",
+          "points": 100
+        },
+        "Event 10": {
+          "place": 38,
+          "time": "CAP+11",
+          "points": 19
+        },
+        "Event 11": {
+          "place": 4,
+          "time": "7:06.6",
+          "points": 85
+        },
+        "Event 12": {
+          "place": 5,
+          "time": "3:15.6",
+          "points": 80
+        },
+        "Event 13": {
+          "place": 16,
+          "time": "6:25.8",
+          "points": 55
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Chyna Cho",
+      "country": "",
+      "region": "Northern California",
+      "affiliate": "CrossFit One World",
+      "age": "Age 27",
+      "height_weight": "68 in | 148 lb",
+      "total_points": 648,
+      "events": {
+        "The Beach": {
+          "place": 2,
+          "time": "32:07.06",
+          "points": 95
+        },
+        "Event 2": {
+          "place": 14,
+          "time": "222 lb",
+          "points": 59
+        },
+        "Event 3": {
+          "place": 15,
+          "time": "39:18.59",
+          "points": 57
+        },
+        "Event 4": {
+          "place": 36,
+          "time": ":55.60",
+          "points": 11
+        },
+        "Event 5": {
+          "place": 25,
+          "time": "1:56.00",
+          "points": 22
+        },
+        "Event 6": {
+          "place": 16,
+          "time": "6:20.24",
+          "points": 55
+        },
+        "Event 7": {
+          "place": 6,
+          "time": "17:33.92",
+          "points": 75
+        },
+        "Event 8": {
+          "place": 32,
+          "time": "3:24.30",
+          "points": 25
+        },
+        "Event 9": {
+          "place": 26,
+          "time": "26 pt",
+          "points": 35
+        },
+        "Event 10": {
+          "place": 27,
+          "time": "9:32.99",
+          "points": 33
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 4,
+          "time": "3:11.7",
+          "points": 85
+        },
+        "Event 13": {
+          "place": 18,
+          "time": "6:30.8",
+          "points": 51
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Kristin Holte",
+      "country": "",
+      "region": "Europe",
+      "affiliate": "CrossFit Oslo",
+      "age": "Age 28",
+      "height_weight": "162 cm | 59 kg",
+      "total_points": 644,
+      "events": {
+        "The Beach": {
+          "place": 7,
+          "time": "36:07.02",
+          "points": 73
+        },
+        "Event 2": {
+          "place": 29,
+          "time": "206 lb",
+          "points": 29
+        },
+        "Event 3": {
+          "place": 1,
+          "time": "36:07.79",
+          "points": 100
+        },
+        "Event 4": {
+          "place": 20,
+          "time": ":42.39",
+          "points": 27
+        },
+        "Event 5": {
+          "place": 14,
+          "time": "01:35.00 ",
+          "points": 33
+        },
+        "Event 6": {
+          "place": 22,
+          "time": "6:34.58",
+          "points": 43
+        },
+        "Event 7": {
+          "place": 26,
+          "time": "CAP+11",
+          "points": 35
+        },
+        "Event 8": {
+          "place": 4,
+          "time": "2:53.13",
+          "points": 85
+        },
+        "Event 9": {
+          "place": 28,
+          "time": "28 pt",
+          "points": 31
+        },
+        "Event 10": {
+          "place": 24,
+          "time": "8:04.52",
+          "points": 39
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 24,
+          "time": "CAP+4",
+          "points": 39
+        },
+        "Event 13": {
+          "place": 11,
+          "time": "6:14.9",
+          "points": 65
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Denae Brown",
+      "country": "",
+      "region": "Australia",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "165 cm | 127 lb",
+      "total_points": 629,
+      "events": {
+        "The Beach": {
+          "place": 9,
+          "time": "36:22.40",
+          "points": 69
+        },
+        "Event 2": {
+          "place": 14,
+          "time": "222 lb",
+          "points": 59
+        },
+        "Event 3": {
+          "place": 11,
+          "time": "38:42.86",
+          "points": 65
+        },
+        "Event 4": {
+          "place": 19,
+          "time": ":41.50",
+          "points": 28
+        },
+        "Event 5": {
+          "place": 5,
+          "time": "1:21.00",
+          "points": 42
+        },
+        "Event 6": {
+          "place": 27,
+          "time": "6:51.58",
+          "points": 33
+        },
+        "Event 7": {
+          "place": 5,
+          "time": "17:28.89",
+          "points": 80
+        },
+        "Event 8": {
+          "place": 41,
+          "time": "4:19.47",
+          "points": 16
+        },
+        "Event 9": {
+          "place": 18,
+          "time": "18 pt",
+          "points": 51
+        },
+        "Event 10": {
+          "place": 20,
+          "time": "7:20.90",
+          "points": 47
+        },
+        "Event 11": {
+          "place": 12,
+          "time": "8:32.4",
+          "points": 63
+        },
+        "Event 12": {
+          "place": 28,
+          "time": "CAP+5",
+          "points": 31
+        },
+        "Event 13": {
+          "place": 21,
+          "time": "6:41.5",
+          "points": 45
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Dani Horan",
+      "country": "",
+      "region": "North East",
+      "affiliate": "Champlain Valley CrossFit",
+      "age": "Age 26",
+      "height_weight": "66 in | 150 lb",
+      "total_points": 626,
+      "events": {
+        "The Beach": {
+          "place": 35,
+          "time": "CAP+4",
+          "points": 22
+        },
+        "Event 2": {
+          "place": 18,
+          "time": "217 lb",
+          "points": 51
+        },
+        "Event 3": {
+          "place": 40,
+          "time": "47:42.80",
+          "points": 17
+        },
+        "Event 4": {
+          "place": 3,
+          "time": ":31.01",
+          "points": 46
+        },
+        "Event 5": {
+          "place": 13,
+          "time": "1:34.61",
+          "points": 34
+        },
+        "Event 6": {
+          "place": 19,
+          "time": "6:30.64",
+          "points": 49
+        },
+        "Event 7": {
+          "place": 14,
+          "time": "CAP+3",
+          "points": 59
+        },
+        "Event 8": {
+          "place": 27,
+          "time": "3:15.40",
+          "points": 33
+        },
+        "Event 9": {
+          "place": 11,
+          "time": "11 pt",
+          "points": 65
+        },
+        "Event 10": {
+          "place": 11,
+          "time": "6:29.50",
+          "points": 65
+        },
+        "Event 11": {
+          "place": 15,
+          "time": "9:08.0",
+          "points": 57
+        },
+        "Event 12": {
+          "place": 10,
+          "time": "3:30.4",
+          "points": 67
+        },
+        "Event 13": {
+          "place": 13,
+          "time": "6:16.7",
+          "points": 61
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Bjork Odinsdottir",
+      "country": "",
+      "region": "Europe",
+      "affiliate": "CrossFit Nordic",
+      "age": "Age 26",
+      "height_weight": "160 cm | 63 kg",
+      "total_points": 616,
+      "events": {
+        "The Beach": {
+          "place": 12,
+          "time": "38:27.83",
+          "points": 63
+        },
+        "Event 2": {
+          "place": 8,
+          "time": "231 lb",
+          "points": 71
+        },
+        "Event 3": {
+          "place": 30,
+          "time": "42:41.41",
+          "points": 27
+        },
+        "Event 4": {
+          "place": 18,
+          "time": ":41.30",
+          "points": 29
+        },
+        "Event 5": {
+          "place": 29,
+          "time": "2:09.00",
+          "points": 18
+        },
+        "Event 6": {
+          "place": 7,
+          "time": "5:26.76",
+          "points": 73
+        },
+        "Event 7": {
+          "place": 24,
+          "time": "CAP+9",
+          "points": 39
+        },
+        "Event 8": {
+          "place": 7,
+          "time": "2:57.53",
+          "points": 73
+        },
+        "Event 9": {
+          "place": 7,
+          "time": "7 pt",
+          "points": 73
+        },
+        "Event 10": {
+          "place": 22,
+          "time": "7:40.24",
+          "points": 43
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 28,
+          "time": "CAP+5",
+          "points": 31
+        },
+        "Event 13": {
+          "place": 28,
+          "time": "CAP+5",
+          "points": 31
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Amanda Goodman",
+      "country": "",
+      "region": "South West",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "60 in | 143 lb",
+      "total_points": 598,
+      "events": {
+        "The Beach": {
+          "place": 39,
+          "time": "CAP+8",
+          "points": 18
+        },
+        "Event 2": {
+          "place": 3,
+          "time": "241 lb",
+          "points": 90
+        },
+        "Event 3": {
+          "place": 32,
+          "time": "42:57.57",
+          "points": 25
+        },
+        "Event 4": {
+          "place": 38,
+          "time": "1:00.48",
+          "points": 9
+        },
+        "Event 5": {
+          "place": 36,
+          "time": "2:51.68",
+          "points": 11
+        },
+        "Event 6": {
+          "place": 10,
+          "time": "5:37.42",
+          "points": 67
+        },
+        "Event 7": {
+          "place": 11,
+          "time": "CAP+1",
+          "points": 65
+        },
+        "Event 8": {
+          "place": 35,
+          "time": "3:41.02",
+          "points": 22
+        },
+        "Event 9": {
+          "place": 2,
+          "time": "2 pt",
+          "points": 95
+        },
+        "Event 10": {
+          "place": 21,
+          "time": "7:33.21",
+          "points": 45
+        },
+        "Event 11": {
+          "place": 18,
+          "time": "9:52.1",
+          "points": 51
+        },
+        "Event 12": {
+          "place": 13,
+          "time": "3:50.5",
+          "points": 61
+        },
+        "Event 13": {
+          "place": 24,
+          "time": "6:59.9",
+          "points": 39
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Christy Adkins",
+      "country": "",
+      "region": "Mid Atlantic",
+      "affiliate": "CrossFit MPH",
+      "age": "Age 29",
+      "height_weight": "64 in | 135 lb",
+      "total_points": 595,
+      "events": {
+        "The Beach": {
+          "place": 22,
+          "time": "40:30.37",
+          "points": 43
+        },
+        "Event 2": {
+          "place": 18,
+          "time": "217 lb",
+          "points": 51
+        },
+        "Event 3": {
+          "place": 7,
+          "time": "38:10.63",
+          "points": 73
+        },
+        "Event 4": {
+          "place": 39,
+          "time": "1:00.60",
+          "points": 8
+        },
+        "Event 5": {
+          "place": 35,
+          "time": "2:34.00",
+          "points": 12
+        },
+        "Event 6": {
+          "place": 31,
+          "time": "CAP+1",
+          "points": 26
+        },
+        "Event 7": {
+          "place": 14,
+          "time": "CAP+3",
+          "points": 59
+        },
+        "Event 8": {
+          "place": 2,
+          "time": "2:50.22",
+          "points": 95
+        },
+        "Event 9": {
+          "place": 15,
+          "time": "15 pt",
+          "points": 57
+        },
+        "Event 10": {
+          "place": 26,
+          "time": "9:17.37",
+          "points": 35
+        },
+        "Event 11": {
+          "place": 31,
+          "time": "CAP+2",
+          "points": 26
+        },
+        "Event 12": {
+          "place": 17,
+          "time": "CAP+2",
+          "points": 53
+        },
+        "Event 13": {
+          "place": 15,
+          "time": "6:23.5",
+          "points": 57
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Anna Tobias",
+      "country": "",
+      "region": "Mid Atlantic",
+      "affiliate": "CrossFit Mt. Lebanon",
+      "age": "Age 31",
+      "height_weight": "167 cm | 143 lb",
+      "total_points": 590,
+      "events": {
+        "The Beach": {
+          "place": 1,
+          "time": "31:43.95",
+          "points": 100
+        },
+        "Event 2": {
+          "place": 34,
+          "time": "198 lb",
+          "points": 23
+        },
+        "Event 3": {
+          "place": 2,
+          "time": "36:14.43",
+          "points": 95
+        },
+        "Event 4": {
+          "place": 13,
+          "time": "00:39.00 ",
+          "points": 34
+        },
+        "Event 5": {
+          "place": 17,
+          "time": "1:39.80",
+          "points": 30
+        },
+        "Event 6": {
+          "place": 17,
+          "time": "6:21.45",
+          "points": 53
+        },
+        "Event 7": {
+          "place": 39,
+          "time": "CAP+17",
+          "points": 18
+        },
+        "Event 8": {
+          "place": 37,
+          "time": "3:46.01",
+          "points": 20
+        },
+        "Event 9": {
+          "place": 36,
+          "time": "36 pt",
+          "points": 21
+        },
+        "Event 10": {
+          "place": 32,
+          "time": "CAP+2",
+          "points": 25
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 17,
+          "time": "CAP+2",
+          "points": 53
+        },
+        "Event 13": {
+          "place": 7,
+          "time": "5:49.8",
+          "points": 73
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Alessandra Pichelli",
+      "country": "",
+      "region": "Northern California",
+      "affiliate": "Diablo CrossFit",
+      "age": "Age 28",
+      "height_weight": "66 in | 155 lb",
+      "total_points": 582,
+      "events": {
+        "The Beach": {
+          "place": 16,
+          "time": "39:29.03",
+          "points": 55
+        },
+        "Event 2": {
+          "place": 18,
+          "time": "217 lb",
+          "points": 51
+        },
+        "Event 3": {
+          "place": 16,
+          "time": "39:43.79",
+          "points": 55
+        },
+        "Event 4": {
+          "place": 2,
+          "time": ":29.94",
+          "points": 48
+        },
+        "Event 5": {
+          "place": 10,
+          "time": "1:28.65",
+          "points": 37
+        },
+        "Event 6": {
+          "place": 36,
+          "time": "CAP+9",
+          "points": 21
+        },
+        "Event 7": {
+          "place": 36,
+          "time": "CAP+15",
+          "points": 21
+        },
+        "Event 8": {
+          "place": 14,
+          "time": "3:06.24",
+          "points": 59
+        },
+        "Event 9": {
+          "place": 10,
+          "time": "10 pt",
+          "points": 67
+        },
+        "Event 10": {
+          "place": 28,
+          "time": "10:50.37",
+          "points": 31
+        },
+        "Event 11": {
+          "place": 17,
+          "time": "9:49.3",
+          "points": 53
+        },
+        "Event 12": {
+          "place": 28,
+          "time": "CAP+5",
+          "points": 31
+        },
+        "Event 13": {
+          "place": 17,
+          "time": "6:26.1",
+          "points": 53
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Rebecca Voigt",
+      "country": "",
+      "region": "Southern California",
+      "affiliate": "CrossFit Training Yard",
+      "age": "Age 33",
+      "height_weight": "69 in | 152 lb",
+      "total_points": 579,
+      "events": {
+        "The Beach": {
+          "place": 20,
+          "time": "40:14.32",
+          "points": 47
+        },
+        "Event 2": {
+          "place": 26,
+          "time": "212 lb",
+          "points": 35
+        },
+        "Event 3": {
+          "place": 25,
+          "time": "41:21.56",
+          "points": 37
+        },
+        "Event 4": {
+          "place": 22,
+          "time": ":42.80",
+          "points": 25
+        },
+        "Event 5": {
+          "place": 12,
+          "time": "1:34.10",
+          "points": 35
+        },
+        "Event 6": {
+          "place": 30,
+          "time": "CAP",
+          "points": 27
+        },
+        "Event 7": {
+          "place": 31,
+          "time": "CAP+13",
+          "points": 26
+        },
+        "Event 8": {
+          "place": 8,
+          "time": "2:58.24",
+          "points": 71
+        },
+        "Event 9": {
+          "place": 25,
+          "time": "25 pt",
+          "points": 37
+        },
+        "Event 10": {
+          "place": 12,
+          "time": "6:29.88",
+          "points": 63
+        },
+        "Event 11": {
+          "place": 3,
+          "time": "6:54.9",
+          "points": 90
+        },
+        "Event 12": {
+          "place": 24,
+          "time": "CAP+4",
+          "points": 39
+        },
+        "Event 13": {
+          "place": 20,
+          "time": "6:33.7",
+          "points": 47
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Sheila Barden",
+      "country": "",
+      "region": "North East",
+      "affiliate": "CrossFit Passaic Valley",
+      "age": "Age 26",
+      "height_weight": "60 in | 130 lb",
+      "total_points": 554,
+      "events": {
+        "The Beach": {
+          "place": 37,
+          "time": "CAP+6",
+          "points": 20
+        },
+        "Event 2": {
+          "place": 21,
+          "time": "216 lb",
+          "points": 45
+        },
+        "Event 3": {
+          "place": 13,
+          "time": "39:13.59",
+          "points": 61
+        },
+        "Event 4": {
+          "place": 41,
+          "time": "1:45.51",
+          "points": 6
+        },
+        "Event 5": {
+          "place": 34,
+          "time": "2:31.66",
+          "points": 13
+        },
+        "Event 6": {
+          "place": 29,
+          "time": "6:58.56",
+          "points": 29
+        },
+        "Event 7": {
+          "place": 4,
+          "time": "16:58.75",
+          "points": 85
+        },
+        "Event 8": {
+          "place": 13,
+          "time": "3:04.60",
+          "points": 61
+        },
+        "Event 9": {
+          "place": 30,
+          "time": "30 pt",
+          "points": 27
+        },
+        "Event 10": {
+          "place": 5,
+          "time": "5:30.82",
+          "points": 80
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 16,
+          "time": "CAP+1",
+          "points": 55
+        },
+        "Event 13": {
+          "place": 30,
+          "time": "CAP+10",
+          "points": 27
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Mandi Janowitz",
+      "country": "",
+      "region": "South West",
+      "affiliate": "Ute CrossFit Sugarhouse",
+      "age": "Age 28",
+      "height_weight": "65 in | 145 lb",
+      "total_points": 553,
+      "events": {
+        "The Beach": {
+          "place": 23,
+          "time": "40:49.55",
+          "points": 41
+        },
+        "Event 2": {
+          "place": 36,
+          "time": "195 lb",
+          "points": 21
+        },
+        "Event 3": {
+          "place": 3,
+          "time": "37:06.68",
+          "points": 90
+        },
+        "Event 4": {
+          "place": 23,
+          "time": ":44.13",
+          "points": 24
+        },
+        "Event 5": {
+          "place": 33,
+          "time": "2:29.89",
+          "points": 14
+        },
+        "Event 6": {
+          "place": 31,
+          "time": "CAP+1",
+          "points": 26
+        },
+        "Event 7": {
+          "place": 3,
+          "time": "16:42.72",
+          "points": 90
+        },
+        "Event 8": {
+          "place": 3,
+          "time": "2:52.33",
+          "points": 90
+        },
+        "Event 9": {
+          "place": 40,
+          "time": "40 pt",
+          "points": 17
+        },
+        "Event 10": {
+          "place": 37,
+          "time": "CAP+10",
+          "points": 20
+        },
+        "Event 11": {
+          "place": 31,
+          "time": "CAP+2",
+          "points": 26
+        },
+        "Event 12": {
+          "place": 21,
+          "time": "CAP+3",
+          "points": 45
+        },
+        "Event 13": {
+          "place": 19,
+          "time": "6:33.4",
+          "points": 49
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Kelley Jackson",
+      "country": "",
+      "region": "North Central",
+      "affiliate": "CrossFit Gambit",
+      "age": "Age 30",
+      "height_weight": "62 in | 130 lb",
+      "total_points": 518,
+      "events": {
+        "The Beach": {
+          "place": 18,
+          "time": "39:51.55",
+          "points": 51
+        },
+        "Event 2": {
+          "place": 37,
+          "time": "192 lb",
+          "points": 20
+        },
+        "Event 3": {
+          "place": 4,
+          "time": "37:08.43",
+          "points": 85
+        },
+        "Event 4": {
+          "place": 34,
+          "time": ":54.08",
+          "points": 13
+        },
+        "Event 5": {
+          "place": 30,
+          "time": "2:17.68",
+          "points": 17
+        },
+        "Event 6": {
+          "place": 41,
+          "time": "CAP+21",
+          "points": 16
+        },
+        "Event 7": {
+          "place": 21,
+          "time": "CAP+7",
+          "points": 45
+        },
+        "Event 8": {
+          "place": 10,
+          "time": "3:00.96",
+          "points": 67
+        },
+        "Event 9": {
+          "place": 24,
+          "time": "24 pt",
+          "points": 39
+        },
+        "Event 10": {
+          "place": 15,
+          "time": "6:51.84",
+          "points": 57
+        },
+        "Event 11": {
+          "place": 35,
+          "time": "CAP+28",
+          "points": 22
+        },
+        "Event 12": {
+          "place": 21,
+          "time": "CAP+3",
+          "points": 45
+        },
+        "Event 13": {
+          "place": 23,
+          "time": "6:51.1",
+          "points": 41
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Rachel Martinez",
+      "country": "",
+      "region": "North East",
+      "affiliate": "CrossFit New England",
+      "age": "Age 30",
+      "height_weight": "61 in | 133 lb",
+      "total_points": 502,
+      "events": {
+        "The Beach": {
+          "place": 42,
+          "time": "CAP+26",
+          "points": 15
+        },
+        "Event 2": {
+          "place": 13,
+          "time": "227 lb",
+          "points": 61
+        },
+        "Event 3": {
+          "place": 31,
+          "time": "42:44.35",
+          "points": 26
+        },
+        "Event 4": {
+          "place": 29,
+          "time": ":49.42",
+          "points": 18
+        },
+        "Event 5": {
+          "place": 37,
+          "time": "2:53.24",
+          "points": 10
+        },
+        "Event 6": {
+          "place": 12,
+          "time": "5:55.06",
+          "points": 63
+        },
+        "Event 7": {
+          "place": 26,
+          "time": "CAP+11",
+          "points": 35
+        },
+        "Event 8": {
+          "place": 23,
+          "time": "3:11.32",
+          "points": 41
+        },
+        "Event 9": {
+          "place": 22,
+          "time": "22 pt",
+          "points": 43
+        },
+        "Event 10": {
+          "place": 19,
+          "time": "7:16.19",
+          "points": 49
+        },
+        "Event 11": {
+          "place": 8,
+          "time": "7:44.6",
+          "points": 71
+        },
+        "Event 12": {
+          "place": 24,
+          "time": "CAP+4",
+          "points": 39
+        },
+        "Event 13": {
+          "place": 28,
+          "time": "CAP+5",
+          "points": 31
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Amanda Schwartz",
+      "country": "",
+      "region": "South Central",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "66 in | 135 lb",
+      "total_points": 501,
+      "events": {
+        "The Beach": {
+          "place": 10,
+          "time": "37:10.50",
+          "points": 67
+        },
+        "Event 2": {
+          "place": 33,
+          "time": "200 lb",
+          "points": 24
+        },
+        "Event 3": {
+          "place": 20,
+          "time": "40:10.15",
+          "points": 47
+        },
+        "Event 4": {
+          "place": 28,
+          "time": ":48.84",
+          "points": 19
+        },
+        "Event 5": {
+          "place": 24,
+          "time": "1:55.55",
+          "points": 23
+        },
+        "Event 6": {
+          "place": 33,
+          "time": "CAP+2",
+          "points": 24
+        },
+        "Event 7": {
+          "place": 9,
+          "time": "CAP",
+          "points": 69
+        },
+        "Event 8": {
+          "place": 31,
+          "time": "3:24.07",
+          "points": 26
+        },
+        "Event 9": {
+          "place": 31,
+          "time": "31 pt",
+          "points": 26
+        },
+        "Event 10": {
+          "place": 23,
+          "time": "7:48.97",
+          "points": 41
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 15,
+          "time": "CAP",
+          "points": 57
+        },
+        "Event 13": {
+          "place": 27,
+          "time": "CAP+3",
+          "points": 33
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Regan Huckaby",
+      "country": "",
+      "region": "North West",
+      "affiliate": "CrossFit Hood River",
+      "age": "Age 27",
+      "height_weight": "65 in | 147 lb",
+      "total_points": 481,
+      "events": {
+        "The Beach": {
+          "place": 34,
+          "time": "CAP+3",
+          "points": 23
+        },
+        "Event 2": {
+          "place": 24,
+          "time": "215 lb",
+          "points": 39
+        },
+        "Event 3": {
+          "place": 33,
+          "time": "43:07.24",
+          "points": 24
+        },
+        "Event 4": {
+          "place": 9,
+          "time": ":37.10",
+          "points": 38
+        },
+        "Event 5": {
+          "place": 19,
+          "time": "1:41.00",
+          "points": 28
+        },
+        "Event 6": {
+          "place": 35,
+          "time": "CAP+3",
+          "points": 22
+        },
+        "Event 7": {
+          "place": 31,
+          "time": "CAP+13",
+          "points": 26
+        },
+        "Event 8": {
+          "place": 26,
+          "time": "3:14.43",
+          "points": 35
+        },
+        "Event 9": {
+          "place": 8,
+          "time": "8 pt",
+          "points": 71
+        },
+        "Event 10": {
+          "place": 14,
+          "time": "6:45.80",
+          "points": 59
+        },
+        "Event 11": {
+          "place": 31,
+          "time": "CAP+2",
+          "points": 26
+        },
+        "Event 12": {
+          "place": 17,
+          "time": "CAP+2",
+          "points": 53
+        },
+        "Event 13": {
+          "place": 25,
+          "time": "7:00.0",
+          "points": 37
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Kara Saunders",
+      "country": "",
+      "region": "Australia",
+      "affiliate": "CrossFit Roar",
+      "age": "Age 24",
+      "height_weight": "162 cm | 162 lb",
+      "total_points": 645,
+      "events": {
+        "The Beach": {
+          "place": 3,
+          "time": "32:28.59",
+          "points": 90
+        },
+        "Event 2": {
+          "place": 1,
+          "time": "250 lb",
+          "points": 100
+        },
+        "Event 3": {
+          "place": 21,
+          "time": "40:12.58",
+          "points": 45
+        },
+        "Event 4": {
+          "place": 4,
+          "time": ":31.70",
+          "points": 44
+        },
+        "Event 5": {
+          "place": 3,
+          "time": "1:00.00",
+          "points": 46
+        },
+        "Event 6": {
+          "place": 5,
+          "time": "5:14.06",
+          "points": 80
+        },
+        "Event 7": {
+          "place": 25,
+          "time": "CAP+10",
+          "points": 37
+        },
+        "Event 8": {
+          "place": 9,
+          "time": "2:59.75",
+          "points": 69
+        },
+        "Event 9": {
+          "place": 3,
+          "time": "3 pt",
+          "points": 90
+        },
+        "Event 10": {
+          "place": 33,
+          "time": "CAP+3",
+          "points": 24
+        },
+        "Event 11": {
+          "place": 37,
+          "time": "CAP+29",
+          "points": 20
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Nicole Holcomb",
+      "country": "",
+      "region": "Central East",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "67 in | 150 lb",
+      "total_points": 397,
+      "events": {
+        "The Beach": {
+          "place": 36,
+          "time": "CAP+5",
+          "points": 21
+        },
+        "Event 2": {
+          "place": 29,
+          "time": "206 lb",
+          "points": 29
+        },
+        "Event 3": {
+          "place": 35,
+          "time": "43:25.98",
+          "points": 22
+        },
+        "Event 4": {
+          "place": 31,
+          "time": ":50.56",
+          "points": 16
+        },
+        "Event 5": {
+          "place": 22,
+          "time": "1:51.75",
+          "points": 25
+        },
+        "Event 6": {
+          "place": 25,
+          "time": "6:41.28",
+          "points": 37
+        },
+        "Event 7": {
+          "place": 18,
+          "time": "CAP+5",
+          "points": 51
+        },
+        "Event 8": {
+          "place": 33,
+          "time": "3:24.76",
+          "points": 24
+        },
+        "Event 9": {
+          "place": 35,
+          "time": "35 pt",
+          "points": 22
+        },
+        "Event 10": {
+          "place": 2,
+          "time": "5:10.12",
+          "points": 95
+        },
+        "Event 11": {
+          "place": 16,
+          "time": "9:31.6",
+          "points": 55
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Talayna Fortunato",
+      "country": "",
+      "region": "South East",
+      "affiliate": "CrossFit Real Fitness",
+      "age": "Age 33",
+      "height_weight": "67 in | 69 kg",
+      "total_points": 380,
+      "events": {
+        "The Beach": {
+          "place": 26,
+          "time": "42:17.24",
+          "points": 35
+        },
+        "Event 2": {
+          "place": 39,
+          "time": "176 lb",
+          "points": 18
+        },
+        "Event 3": {
+          "place": 29,
+          "time": "42:26.80",
+          "points": 29
+        },
+        "Event 4": {
+          "place": 25,
+          "time": ":44.34",
+          "points": 22
+        },
+        "Event 5": {
+          "place": 4,
+          "time": "1:06.00",
+          "points": 44
+        },
+        "Event 6": {
+          "place": 23,
+          "time": "6:35.31",
+          "points": 41
+        },
+        "Event 7": {
+          "place": 8,
+          "time": "17:53.70",
+          "points": 71
+        },
+        "Event 8": {
+          "place": 21,
+          "time": "3:10.62",
+          "points": 45
+        },
+        "Event 9": {
+          "place": 41,
+          "time": "41 pt",
+          "points": 16
+        },
+        "Event 10": {
+          "place": 25,
+          "time": "8:53.12",
+          "points": 37
+        },
+        "Event 11": {
+          "place": 35,
+          "time": "CAP+28",
+          "points": 22
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Margaux Alvarez",
+      "country": "",
+      "region": "Northern California",
+      "affiliate": "CrossFit Solano",
+      "age": "Age 29",
+      "height_weight": "67 in | 152 lb",
+      "total_points": 377,
+      "events": {
+        "The Beach": {
+          "place": 24,
+          "time": "40:52.42",
+          "points": 39
+        },
+        "Event 2": {
+          "place": 35,
+          "time": "197 lb",
+          "points": 22
+        },
+        "Event 3": {
+          "place": 8,
+          "time": "38:14.93",
+          "points": 71
+        },
+        "Event 4": {
+          "place": 30,
+          "time": ":50.29",
+          "points": 17
+        },
+        "Event 5": {
+          "place": 38,
+          "time": "2:55.44",
+          "points": 9
+        },
+        "Event 6": {
+          "place": 33,
+          "time": "CAP+2",
+          "points": 24
+        },
+        "Event 7": {
+          "place": 23,
+          "time": "CAP+8",
+          "points": 41
+        },
+        "Event 8": {
+          "place": 12,
+          "time": "3:02.09",
+          "points": 63
+        },
+        "Event 9": {
+          "place": 16,
+          "time": "16 pt",
+          "points": 55
+        },
+        "Event 10": {
+          "place": 41,
+          "time": "CAP+27",
+          "points": 16
+        },
+        "Event 11": {
+          "place": 37,
+          "time": "CAP+29",
+          "points": 20
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Emily Abbott",
+      "country": "",
+      "region": "Canada West",
+      "affiliate": "CrossFit Currie Barracks",
+      "age": "Age 25",
+      "height_weight": "67 in | 157 lb",
+      "total_points": 372,
+      "events": {
+        "The Beach": {
+          "place": 21,
+          "time": "40:23.65",
+          "points": 45
+        },
+        "Event 2": {
+          "place": 28,
+          "time": "210 lb",
+          "points": 31
+        },
+        "Event 3": {
+          "place": 19,
+          "time": "40:07.30",
+          "points": 49
+        },
+        "Event 4": {
+          "place": 15,
+          "time": ":39.01",
+          "points": 32
+        },
+        "Event 5": {
+          "place": 1,
+          "time": ":52.57",
+          "points": 50
+        },
+        "Event 6": {
+          "place": 38,
+          "time": "CAP+14",
+          "points": 19
+        },
+        "Event 7": {
+          "place": 36,
+          "time": "CAP+15",
+          "points": 21
+        },
+        "Event 8": {
+          "place": 11,
+          "time": "3:01.35",
+          "points": 65
+        },
+        "Event 9": {
+          "place": 33,
+          "time": "33 pt",
+          "points": 24
+        },
+        "Event 10": {
+          "place": 39,
+          "time": "CAP+13",
+          "points": 18
+        },
+        "Event 11": {
+          "place": 39,
+          "time": "CAP+56",
+          "points": 18
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Gretchen Kittelberger",
+      "country": "",
+      "region": "Mid Atlantic",
+      "affiliate": "CrossFit Reston",
+      "age": "Age 28",
+      "height_weight": "62 in | 138 lb",
+      "total_points": 348,
+      "events": {
+        "The Beach": {
+          "place": 38,
+          "time": "CAP+7",
+          "points": 19
+        },
+        "Event 2": {
+          "place": 7,
+          "time": "237 lb",
+          "points": 73
+        },
+        "Event 3": {
+          "place": 41,
+          "time": "48:55.66",
+          "points": 16
+        },
+        "Event 4": {
+          "place": 33,
+          "time": ":52.98",
+          "points": 14
+        },
+        "Event 5": {
+          "place": 28,
+          "time": "2:08.53",
+          "points": 19
+        },
+        "Event 6": {
+          "place": 20,
+          "time": "6:30.98",
+          "points": 47
+        },
+        "Event 7": {
+          "place": 31,
+          "time": "CAP+13",
+          "points": 26
+        },
+        "Event 8": {
+          "place": 39,
+          "time": "3:53.06",
+          "points": 18
+        },
+        "Event 9": {
+          "place": 21,
+          "time": "21 pt",
+          "points": 45
+        },
+        "Event 10": {
+          "place": 31,
+          "time": "CAP+1",
+          "points": 26
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Emily Beers",
+      "country": "",
+      "region": "Canada West",
+      "affiliate": "CrossFit Vancouver",
+      "age": "Age 30",
+      "height_weight": "",
+      "total_points": 310,
+      "events": {
+        "The Beach": {
+          "place": 27,
+          "time": "42:57.53",
+          "points": 33
+        },
+        "Event 2": {
+          "place": 32,
+          "time": "205 lb",
+          "points": 25
+        },
+        "Event 3": {
+          "place": 37,
+          "time": "45:36.22",
+          "points": 20
+        },
+        "Event 4": {
+          "place": 13,
+          "time": "00:39.00 ",
+          "points": 34
+        },
+        "Event 5": {
+          "place": 16,
+          "time": "1:38.00",
+          "points": 31
+        },
+        "Event 6": {
+          "place": 36,
+          "time": "CAP+9",
+          "points": 21
+        },
+        "Event 7": {
+          "place": 41,
+          "time": "CAP+29",
+          "points": 16
+        },
+        "Event 8": {
+          "place": 24,
+          "time": "3:12.50",
+          "points": 39
+        },
+        "Event 9": {
+          "place": 34,
+          "time": "34 pt",
+          "points": 23
+        },
+        "Event 10": {
+          "place": 34,
+          "time": "CAP+5",
+          "points": 23
+        },
+        "Event 11": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 45
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Alexandra LaChance",
+      "country": "",
+      "region": "North Central",
+      "affiliate": "CrossFit Gambit",
+      "age": "Age 26",
+      "height_weight": "66 in | 155 lb",
+      "total_points": 287,
+      "events": {
+        "The Beach": {
+          "place": 29,
+          "time": "44:11.29",
+          "points": 29
+        },
+        "Event 2": {
+          "place": 27,
+          "time": "211 lb",
+          "points": 33
+        },
+        "Event 3": {
+          "place": 34,
+          "time": "43:13.38",
+          "points": 23
+        },
+        "Event 4": {
+          "place": 32,
+          "time": ":51.01",
+          "points": 15
+        },
+        "Event 5": {
+          "place": 32,
+          "time": "2:27.98",
+          "points": 15
+        },
+        "Event 6": {
+          "place": 24,
+          "time": "6:40.24",
+          "points": 39
+        },
+        "Event 7": {
+          "place": 40,
+          "time": "CAP+20",
+          "points": 17
+        },
+        "Event 8": {
+          "place": 40,
+          "time": "3:57.35",
+          "points": 17
+        },
+        "Event 9": {
+          "place": 26,
+          "time": "26 pt",
+          "points": 35
+        },
+        "Event 10": {
+          "place": 40,
+          "time": "CAP+18",
+          "points": 17
+        },
+        "Event 11": {
+          "place": 20,
+          "time": "CAP",
+          "points": 47
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "rank_label": "39",
+      "name": "Celestie Engelbrecht",
+      "country": "",
+      "region": "Africa",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "168 cm | 134 lb",
+      "total_points": 244,
+      "events": {
+        "The Beach": {
+          "place": 17,
+          "time": "39:34.14",
+          "points": 53
+        },
+        "Event 2": {
+          "place": 40,
+          "time": "175 lb",
+          "points": 17
+        },
+        "Event 3": {
+          "place": 38,
+          "time": "46:38.72",
+          "points": 19
+        },
+        "Event 4": {
+          "place": 35,
+          "time": ":54.68",
+          "points": 12
+        },
+        "Event 5": {
+          "place": 40,
+          "time": "CAP+2",
+          "points": 7
+        },
+        "Event 6": {
+          "place": 38,
+          "time": "CAP+14",
+          "points": 19
+        },
+        "Event 7": {
+          "place": 31,
+          "time": "CAP+13",
+          "points": 26
+        },
+        "Event 8": {
+          "place": 36,
+          "time": "3:42.85",
+          "points": 21
+        },
+        "Event 9": {
+          "place": 32,
+          "time": "32 pt",
+          "points": 25
+        },
+        "Event 10": {
+          "place": 35,
+          "time": "CAP+6",
+          "points": 22
+        },
+        "Event 11": {
+          "place": 34,
+          "time": "CAP+8",
+          "points": 23
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "rank_label": "40",
+      "name": "Marlene Andersson",
+      "country": "",
+      "region": "Asia",
+      "affiliate": "CrossFit 965",
+      "age": "Age 30",
+      "height_weight": "165 cm | 130 lb",
+      "total_points": 244,
+      "events": {
+        "The Beach": {
+          "place": 33,
+          "time": "CAP+2",
+          "points": 24
+        },
+        "Event 2": {
+          "place": 41,
+          "time": "165 lb",
+          "points": 16
+        },
+        "Event 3": {
+          "place": 23,
+          "time": "40:28.41",
+          "points": 41
+        },
+        "Event 4": {
+          "place": 40,
+          "time": "1:09.43",
+          "points": 7
+        },
+        "Event 5": {
+          "place": 40,
+          "time": "CAP+2",
+          "points": 7
+        },
+        "Event 6": {
+          "place": 40,
+          "time": "CAP+16",
+          "points": 17
+        },
+        "Event 7": {
+          "place": 21,
+          "time": "CAP+7",
+          "points": 45
+        },
+        "Event 8": {
+          "place": 34,
+          "time": "3:28.28",
+          "points": 23
+        },
+        "Event 9": {
+          "place": 38,
+          "time": "38 pt",
+          "points": 19
+        },
+        "Event 10": {
+          "place": 30,
+          "time": "10:58.62",
+          "points": 27
+        },
+        "Event 11": {
+          "place": 39,
+          "time": "CAP+56",
+          "points": 18
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 41,
+      "rank_label": "41",
+      "name": "Pip Malone",
+      "country": "",
+      "region": "Australia",
+      "affiliate": "CrossFit Newcastle",
+      "age": "Age 24",
+      "height_weight": "164 cm | 64 kg",
+      "total_points": 313,
+      "events": {
+        "The Beach": {
+          "place": 28,
+          "time": "43:31.03",
+          "points": 31
+        },
+        "Event 2": {
+          "place": 8,
+          "time": "231 lb",
+          "points": 71
+        },
+        "Event 3": {
+          "place": 28,
+          "time": "42:26.68",
+          "points": 31
+        },
+        "Event 4": {
+          "place": 27,
+          "time": ":48.30",
+          "points": 20
+        },
+        "Event 5": {
+          "place": 27,
+          "time": "2:06.00",
+          "points": 20
+        },
+        "Event 6": {
+          "place": 28,
+          "time": "6:58.37",
+          "points": 31
+        },
+        "Event 7": {
+          "place": 38,
+          "time": "CAP+16",
+          "points": 19
+        },
+        "Event 8": {
+          "place": 38,
+          "time": "3:52.46",
+          "points": 19
+        },
+        "Event 9": {
+          "place": 19,
+          "time": "19 pt",
+          "points": 49
+        },
+        "Event 10": {
+          "place": 35,
+          "time": "CAP+6",
+          "points": 22
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 42,
+      "rank_label": "42",
+      "name": "Wanda Brenton",
+      "country": "",
+      "region": "Latin America",
+      "affiliate": "CrossFit 7 Mile",
+      "age": "Age 39",
+      "height_weight": "65 in | 140 lb",
+      "total_points": 32,
+      "events": {
+        "The Beach": {
+          "place": 40,
+          "time": "CAP+9",
+          "points": 17
+        },
+        "Event 2": {
+          "place": 42,
+          "time": "145 lb",
+          "points": 15
+        },
+        "Event 3": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "rank_label": "0",
+      "name": "Rory Long-Zambard",
+      "country": "",
+      "region": "North West",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "70 in | 165 lb",
+      "total_points": 0,
+      "events": {
+        "The Beach": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 2": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 3": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 13": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
 
+/* Intentionally left blank: .combined-events block removed */
 * {
   margin: 0;
   padding: 0;
@@ -485,10 +486,43 @@ html {
   flex-shrink: 0;
 }
 
+/* Memorial banner for 2024 */
+.memorial-banner {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  color: #ffffff;
+  font-weight: 700;
+  width: fit-content;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.memorial-banner i {
+  color: #ff6b6b;
+}
+
+.memorial-banner strong {
+  color: #f7b500;
+}
+
+.memorial-banner:hover {
+  background: rgba(247, 181, 0, 0.08);
+  border-color: rgba(247, 181, 0, 0.25);
+}
+
 .leaderboard-title-section {
   display: flex;
   align-items: center;
   gap: 16px;
+}
+
+.leaderboard-title-section .year-select {
+  margin-right: 4px;
 }
 
 .leaderboard-title-section h2 {
@@ -501,6 +535,68 @@ html {
   border-radius: 25px;
   padding: 4px;
   gap: 2px;
+}
+
+/* Header controls (Gender + Year) */
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.year-select {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+
+.year-select label {
+  font-weight: 700;
+  color: #f7b500;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.year-select select {
+  padding: 10px 10px;
+  padding-right: 28px;
+  border: 2px solid #333333;
+  border-radius: 18px;
+  font-size: 0.85rem;
+  background: #1a1a1a;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  font-weight: 700;
+  color: #ffffff;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6,9 12,15 18,9'%3e%3c/polyline%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  background-size: 10px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  min-width: 90px;
+}
+
+.year-select select:focus {
+  outline: none;
+  border-color: #f7b500;
+  box-shadow: 0 0 0 3px rgba(247, 181, 0, 0.2);
+  transform: translateY(-1px);
+}
+
+.year-select select:hover {
+  border-color: #f7b500;
+  background: #222222;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6,9 12,15 18,9'%3e%3c/polyline%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  background-size: 14px;
 }
 
 .leaderboard-header h2 {
@@ -667,27 +763,27 @@ th {
   z-index: 60;
   background: #1a1a1a;
   border-right: 2px solid #333333;
-  min-width: 60px;
+  min-width: 72px;
 }
 
 .athlete-header {
   position: sticky !important;
-  left: 60px;
-  /* Width of rank column */
+  left: 72px;
+  /* match widened rank */
   z-index: 60;
   background: #1a1a1a;
   border-right: 2px solid #333333;
-  min-width: 200px;
+  min-width: 220px;
 }
 
 .points-header {
   position: sticky !important;
-  left: 260px;
-  /* 60px (rank) + 200px (athlete) */
+  left: 292px;
+  /* 72 rank + 220 athlete */
   z-index: 60;
   background: #1a1a1a;
   border-right: 2px solid #333333;
-  min-width: 80px;
+  min-width: 96px;
 }
 
 /* Sticky columns for performance gaps rows */
@@ -697,29 +793,29 @@ th {
   z-index: 60;
   background: #111111;
   border-right: 2px solid #333333;
-  min-width: 60px;
-  width: 60px;
+  min-width: 72px;
+  width: 72px;
 }
 
 .sticky-athlete {
   position: sticky !important;
-  left: 60px;
+  left: 72px;
   z-index: 60;
   background: #111111;
   border-right: 2px solid #333333;
-  min-width: 200px;
-  width: 200px;
+  min-width: 220px;
+  width: 220px;
 }
 
 .sticky-points {
   position: sticky !important;
-  left: 260px;
-  /* 60px (rank) + 200px (athlete) */
+  left: 292px;
+  /* 72 rank + 220 athlete */
   z-index: 60;
   background: #111111;
   border-right: 2px solid #333333;
-  min-width: 80px;
-  width: 80px;
+  min-width: 96px;
+  width: 96px;
 }
 
 /* Sortable Headers */
@@ -792,6 +888,104 @@ tbody tr:hover {
   background: #1a1a1a !important;
   border-left-color: #f7b500;
   transform: translateX(4px);
+}
+
+/* Special styling for Lazar (2024) */
+.athlete-column.lazar-row {
+  position: relative;
+  background: #f5f2eb !important;
+  /* bone white */
+  border-left: 3px solid #ff6b6b;
+  box-shadow: inset 0 0 0 1px #e6e1d8;
+}
+
+
+.athlete-column.lazar-row .athlete-name {
+  color: #1a1a1a;
+}
+
+.athlete-column.lazar-row .athlete-details {
+  color: #3b3b3b;
+}
+
+.athlete-column.lazar-row::after {
+  content: none;
+}
+
+/* Keep solid tribute background on hover as well */
+.athlete-row:hover .athlete-column.lazar-row {
+  background: #f5f2eb !important;
+}
+
+.athlete-column.lazar-row::before {
+  content: none;
+}
+
+.event-points.ribbon {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  color: #ffb3b3;
+  width: auto;
+  height: auto;
+  padding: 0;
+}
+
+/* Tribute row wraps entire tr for Lazar in 2024 */
+.athlete-row.lazar-tribute {
+  background: #f7f3e8 !important;
+  /* warmer bone across entire row */
+  position: relative;
+}
+
+.athlete-row.lazar-tribute::before {
+  content: none;
+}
+
+.athlete-row.lazar-tribute td {
+  border-bottom-color: #e6e1d8 !important;
+}
+
+.athlete-row.lazar-tribute .rank {
+  color: #8a2f2f;
+}
+
+/* Dark ribbons on tribute row */
+.athlete-row.lazar-tribute .event-points.ribbon,
+.athlete-row.lazar-tribute .event-result .fas.fa-ribbon,
+.athlete-row.lazar-tribute .rank .fas.fa-ribbon,
+.athlete-row.lazar-tribute .total-points .fas.fa-ribbon {
+  color: #623434 !important;
+}
+
+/* Lazar's event cell message styling */
+.lazar-event {
+  background: #f7f3e8 !important;
+  border: 1px solid #e6e1d8 !important;
+}
+
+.lazar-event-message {
+  width: 100%;
+  text-align: center;
+  color: #1a1a1a;
+  font-weight: 700;
+}
+
+/* Merged event cell for Lazar */
+.lazar-event-merged {
+  background: #f7f3e8 !important;
+  border: 1px solid #e6e1d8 !important;
+  text-align: center;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+/* Make rank and total points cells match the bone-white tribute row */
+.athlete-row.lazar-tribute .rank,
+.athlete-row.lazar-tribute .total-points {
+  background: #f7f3e8 !important;
+  color: #1a1a1a !important;
+  border-right-color: #e6e1d8 !important;
 }
 
 .athlete-row.expanded {
@@ -1003,8 +1197,8 @@ tbody tr:hover {
   font-size: 0.9rem;
   color: #f7b500;
   text-align: center;
-  min-width: 60px;
-  width: 60px;
+  min-width: 72px;
+  width: 72px;
   position: sticky !important;
   left: 0;
   background: #111111;
@@ -1038,11 +1232,11 @@ tbody tr:hover {
   font-size: 1rem;
   color: #ffffff;
   text-align: center;
-  min-width: 80px;
-  width: 80px;
+  min-width: 96px;
+  width: 96px;
   position: sticky !important;
-  left: 260px;
-  /* 60px (rank) + 200px (athlete) */
+  left: 292px;
+  /* 72px (rank) + 220px (athlete) */
   background: #111111;
   z-index: 60;
   border-right: 2px solid #333333;
@@ -1051,12 +1245,12 @@ tbody tr:hover {
 /* Athlete Column */
 .athlete-column {
   position: sticky !important;
-  left: 60px;
+  left: 72px;
   background: #111111;
   z-index: 60;
   border-right: 2px solid #333333;
-  min-width: 200px;
-  width: 200px;
+  min-width: 220px;
+  width: 220px;
   padding: 8px 10px;
   color: #ffffff;
   font-weight: 600;
@@ -1118,7 +1312,7 @@ tbody tr:hover {
 }
 
 .event-result.simulated {
-  /* Keep the cell background normal */
+  border-color: rgba(247, 181, 0, 0.2);
 }
 
 .event-result.simulated .event-place {
@@ -1130,7 +1324,7 @@ tbody tr:hover {
 }
 
 .event-result.simulated .event-time {
-  /* Keep the time text normal */
+  opacity: 1;
 }
 
 .event-result.simulated .event-points {
@@ -1302,6 +1496,72 @@ tbody tr:hover {
   padding: 16px;
 }
 
+/* Tribute modal */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+}
+
+.modal-content {
+  background: #111111;
+  border: 2px solid #333333;
+  border-radius: 8px;
+  width: min(560px, 92vw);
+  padding: 20px 20px 16px 20px;
+  color: #ffffff;
+  position: relative;
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.5);
+}
+
+.modal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 50%;
+  background: #333333;
+  color: #ffffff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.modal-close:hover {
+  background: #444444;
+  border: 1px solid #555555;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.modal-header i {
+  color: #ff6b6b;
+}
+
+.modal-header h3 {
+  margin: 0;
+  color: #f7b500;
+  font-size: 1.1rem;
+  font-weight: 900;
+}
+
+.modal-body {
+  color: #cccccc;
+  line-height: 1.6;
+}
+
 .tab-panel {
   height: 100%;
 }
@@ -1412,9 +1672,7 @@ tbody tr:hover {
   color: #ffffff;
 }
 
-.combined-events {
-  /* Removed yellow border */
-}
+
 
 .combined-indicator {
   background: #f7b500;

@@ -1,0 +1,5717 @@
+{
+  "year": 2024,
+  "gender": "women",
+  "events": [
+    "Lake Day",
+    "Midline Climb",
+    "Firestorm",
+    "Track and Field",
+    "Chad",
+    "Clean Ladder",
+    "Push Pull 2.0",
+    "Dickies Triplet",
+    "Final 2421",
+    "Final 1815"
+  ],
+  "event_point_map": {
+    "Lake Day": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2,
+      "40": 0
+    },
+    "Midline Climb": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 0
+    },
+    "Firestorm": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 0
+    },
+    "Track and Field": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 0
+    },
+    "Chad": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 0
+    },
+    "Clean Ladder": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "31": 18,
+      "32": 16,
+      "33": 0
+    },
+    "Push Pull 2.0": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 0
+    },
+    "Dickies Triplet": {
+      "1": 100,
+      "2": 96,
+      "3": 92,
+      "4": 88,
+      "5": 84,
+      "6": 80,
+      "7": 76,
+      "8": 72,
+      "9": 68,
+      "10": 64,
+      "11": 60,
+      "12": 56,
+      "13": 52,
+      "14": 48,
+      "15": 45,
+      "16": 42,
+      "17": 39,
+      "18": 36,
+      "19": 33,
+      "20": 30,
+      "21": 27,
+      "22": 24,
+      "23": 21,
+      "24": 18,
+      "25": 15,
+      "26": 12,
+      "27": 9,
+      "28": 6,
+      "29": 3,
+      "30": 0,
+      "31": 0
+    },
+    "Final 2421": {
+      "1": 100,
+      "2": 96,
+      "3": 92,
+      "4": 88,
+      "5": 84,
+      "6": 80,
+      "7": 76,
+      "8": 72,
+      "9": 68,
+      "10": 64,
+      "11": 60,
+      "12": 56,
+      "13": 52,
+      "14": 48,
+      "15": 45,
+      "16": 42,
+      "17": 39,
+      "18": 36,
+      "19": 33,
+      "20": 30,
+      "21": 27,
+      "22": 24,
+      "23": 21,
+      "24": 18,
+      "25": 15,
+      "26": 12,
+      "27": 9,
+      "28": 6,
+      "29": 3,
+      "30": 0,
+      "31": 0
+    },
+    "Final 1815": {
+      "1": 100,
+      "2": 96,
+      "3": 92,
+      "4": 88,
+      "5": 84,
+      "6": 80,
+      "7": 76,
+      "8": 72,
+      "9": 68,
+      "10": 64,
+      "11": 60,
+      "12": 56,
+      "13": 52,
+      "14": 48,
+      "15": 45,
+      "16": 42,
+      "17": 39,
+      "18": 36,
+      "19": 33,
+      "20": 30,
+      "21": 27,
+      "22": 24,
+      "23": 21,
+      "24": 18,
+      "25": 15,
+      "26": 12,
+      "27": 9,
+      "30": 0,
+      "31": 0
+    }
+  },
+  "event_field_size": {
+    "Lake Day": 40,
+    "Midline Climb": 39,
+    "Firestorm": 37,
+    "Track and Field": 36,
+    "Chad": 36,
+    "Clean Ladder": 33,
+    "Push Pull 2.0": 33,
+    "Dickies Triplet": 31,
+    "Final 2421": 31,
+    "Final 1815": 31
+  },
+  "event_place_points": {
+    "Lake Day": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2,
+      0
+    ],
+    "Midline Climb": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      0
+    ],
+    "Firestorm": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      0
+    ],
+    "Track and Field": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      0
+    ],
+    "Chad": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      0
+    ],
+    "Clean Ladder": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      0,
+      0,
+      0,
+      18,
+      16,
+      0
+    ],
+    "Push Pull 2.0": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      0
+    ],
+    "Dickies Triplet": [
+      100,
+      96,
+      92,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      56,
+      52,
+      48,
+      45,
+      42,
+      39,
+      36,
+      33,
+      30,
+      27,
+      24,
+      21,
+      18,
+      15,
+      12,
+      9,
+      6,
+      3,
+      0,
+      0
+    ],
+    "Final 2421": [
+      100,
+      96,
+      92,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      56,
+      52,
+      48,
+      45,
+      42,
+      39,
+      36,
+      33,
+      30,
+      27,
+      24,
+      21,
+      18,
+      15,
+      12,
+      9,
+      6,
+      3,
+      0,
+      0
+    ],
+    "Final 1815": [
+      100,
+      96,
+      92,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      56,
+      52,
+      48,
+      45,
+      42,
+      39,
+      36,
+      33,
+      30,
+      27,
+      24,
+      21,
+      18,
+      15,
+      12,
+      9,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "event_ordinals": {
+    "Lake Day": 1,
+    "Midline Climb": 2,
+    "Firestorm": 3,
+    "Track and Field": 4,
+    "Chad": 5,
+    "Clean Ladder": 6,
+    "Push Pull 2.0": 7,
+    "Dickies Triplet": 8,
+    "Final 2421": 9,
+    "Final 1815": 10
+  },
+  "event_finish_order": {
+    "Lake Day": [
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 1,
+        "points": 100,
+        "time": "38:06.88"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 2,
+        "points": 97,
+        "time": "39:36.72"
+      },
+      {
+        "name": "Emily Rolfe",
+        "place": 3,
+        "points": 94,
+        "time": "40:21.26"
+      },
+      {
+        "name": "Emma Tall",
+        "place": 4,
+        "points": 91,
+        "time": "40:35.46"
+      },
+      {
+        "name": "Grace Walton",
+        "place": 5,
+        "points": 88,
+        "time": "40:58.27"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 6,
+        "points": 85,
+        "time": "41:36.43"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 7,
+        "points": 82,
+        "time": "41:41.34"
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 8,
+        "points": 79,
+        "time": "41:52.54"
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 9,
+        "points": 76,
+        "time": "41:57.36"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 10,
+        "points": 73,
+        "time": "42:13.70"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 11,
+        "points": 70,
+        "time": "42:21.52"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 12,
+        "points": 67,
+        "time": "42:41.69"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 13,
+        "points": 64,
+        "time": "43:32.59"
+      },
+      {
+        "name": "Alexis Raptis",
+        "place": 14,
+        "points": 61,
+        "time": "43:53.50"
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 15,
+        "points": 58,
+        "time": "44:02.95"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 16,
+        "points": 55,
+        "time": "44:22.90"
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 17,
+        "points": 52,
+        "time": "44:29.94"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 18,
+        "points": 49,
+        "time": "44:30.69"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 19,
+        "points": 46,
+        "time": "44:58.56"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 20,
+        "points": 43,
+        "time": "45:18.54"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 21,
+        "points": 40,
+        "time": "45:43.32"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 22,
+        "points": 37,
+        "time": "45:58.65"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 23,
+        "points": 34,
+        "time": "46:04.27"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 24,
+        "points": 32,
+        "time": "46:51.39"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 25,
+        "points": 30,
+        "time": "46:55.98"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 26,
+        "points": 28,
+        "time": "47:00.41"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 27,
+        "points": 26,
+        "time": "47:21.16"
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 28,
+        "points": 24,
+        "time": "47:30.10"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 29,
+        "points": 22,
+        "time": "47:30.55"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 30,
+        "points": 20,
+        "time": "47:35.15"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 31,
+        "points": 18,
+        "time": "47:52.17"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 32,
+        "points": 16,
+        "time": "47:52.19"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 33,
+        "points": 14,
+        "time": "48:01.68"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 34,
+        "points": 12,
+        "time": "48:04.72"
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 35,
+        "points": 10,
+        "time": "48:07.07"
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 36,
+        "points": 8,
+        "time": "48:45.06"
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 37,
+        "points": 6,
+        "time": "48:50.86"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 38,
+        "points": 4,
+        "time": "49:14.84"
+      },
+      {
+        "name": "Lexi Neely",
+        "place": 39,
+        "points": 2,
+        "time": "51:03.95"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 40,
+        "points": 0,
+        "time": "57:18.76"
+      }
+    ],
+    "Midline Climb": [
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 1,
+        "points": 100,
+        "time": "13:15.95"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 2,
+        "points": 97,
+        "time": "13:43.21"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 3,
+        "points": 94,
+        "time": "13:56.77"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 4,
+        "points": 91,
+        "time": "13:58.38"
+      },
+      {
+        "name": "Emma Tall",
+        "place": 5,
+        "points": 88,
+        "time": "14:09.80"
+      },
+      {
+        "name": "Emily Rolfe",
+        "place": 6,
+        "points": 85,
+        "time": "15:05.50"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 7,
+        "points": 82,
+        "time": "15:12.86"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 8,
+        "points": 79,
+        "time": "15:13.71"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 9,
+        "points": 76,
+        "time": "15:20.47"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 10,
+        "points": 73,
+        "time": "15:26.26"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 11,
+        "points": 70,
+        "time": "15:32.95"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 12,
+        "points": 67,
+        "time": "15:50.80"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 13,
+        "points": 64,
+        "time": "15:56.78"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 14,
+        "points": 61,
+        "time": "16:06.70"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 15,
+        "points": 58,
+        "time": "16:09.18"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 16,
+        "points": 55,
+        "time": "16:12.77"
+      },
+      {
+        "name": "Grace Walton",
+        "place": 17,
+        "points": 52,
+        "time": "16:19.73"
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 18,
+        "points": 49,
+        "time": "16:19.90"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 19,
+        "points": 46,
+        "time": "16:22.81"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 20,
+        "points": 43,
+        "time": "16:24.13"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 21,
+        "points": 40,
+        "time": "16:30.94"
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 22,
+        "points": 37,
+        "time": "16:36.63"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 23,
+        "points": 34,
+        "time": "16:58.29"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 24,
+        "points": 32,
+        "time": "16:59.11"
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 25,
+        "points": 30,
+        "time": "17:06.06"
+      },
+      {
+        "name": "Alexis Raptis",
+        "place": 26,
+        "points": 28,
+        "time": "17:13.80"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 27,
+        "points": 26,
+        "time": "17:30.57"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 28,
+        "points": 24,
+        "time": "17:37.24"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 29,
+        "points": 22,
+        "time": "17:40.05"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 30,
+        "points": 20,
+        "time": "17:49.32"
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 31,
+        "points": 18,
+        "time": "17:50.08"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 32,
+        "points": 16,
+        "time": "17:51.05"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 33,
+        "points": 14,
+        "time": "17:52.08"
+      },
+      {
+        "name": "Lexi Neely",
+        "place": 34,
+        "points": 12,
+        "time": "18:04.52"
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 35,
+        "points": 10,
+        "time": "18:10.00"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 36,
+        "points": 8,
+        "time": "18:12.93"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 37,
+        "points": 6,
+        "time": "18:26.67"
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 38,
+        "points": 4,
+        "time": "19:18.97"
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 39,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 39,
+        "points": 0,
+        "time": "DNS"
+      }
+    ],
+    "Firestorm": [
+      {
+        "name": "Grace Walton",
+        "place": 1,
+        "points": 100,
+        "time": "03:03.59"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 2,
+        "points": 97,
+        "time": "03:09.07"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 3,
+        "points": 94,
+        "time": "03:11.20"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 4,
+        "points": 91,
+        "time": "03:13.68"
+      },
+      {
+        "name": "Emily Rolfe",
+        "place": 5,
+        "points": 88,
+        "time": "03:14.49"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 6,
+        "points": 85,
+        "time": "03:15.08"
+      },
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 7,
+        "points": 82,
+        "time": "03:15.66"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 8,
+        "points": 79,
+        "time": "03:16.76"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 9,
+        "points": 76,
+        "time": "03:17.06"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 10,
+        "points": 73,
+        "time": "03:20.28"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 11,
+        "points": 70,
+        "time": "03:21.87"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 12,
+        "points": 67,
+        "time": "03:25.14"
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 13,
+        "points": 64,
+        "time": "03:25.43"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 14,
+        "points": 61,
+        "time": "03:25.60"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 15,
+        "points": 58,
+        "time": "03:25.72"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 16,
+        "points": 55,
+        "time": "03:26.68"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 17,
+        "points": 52,
+        "time": "03:28.35"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 18,
+        "points": 49,
+        "time": "03:29.47"
+      },
+      {
+        "name": "Alexis Raptis",
+        "place": 19,
+        "points": 46,
+        "time": "03:30.16"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 20,
+        "points": 43,
+        "time": "03:30.26"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 21,
+        "points": 40,
+        "time": "03:30.42"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 22,
+        "points": 37,
+        "time": "03:31.32"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 23,
+        "points": 34,
+        "time": "03:31.69"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 24,
+        "points": 32,
+        "time": "03:32.44"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 25,
+        "points": 30,
+        "time": "03:35.10"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 26,
+        "points": 28,
+        "time": "03:37.69"
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 27,
+        "points": 26,
+        "time": "03:39.96"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 28,
+        "points": 24,
+        "time": "03:40.10"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 29,
+        "points": 22,
+        "time": "03:40.81"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 30,
+        "points": 20,
+        "time": "03:42.97"
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 31,
+        "points": 18,
+        "time": "03:47.27"
+      },
+      {
+        "name": "Lexi Neely",
+        "place": 32,
+        "points": 16,
+        "time": "03:47.30"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 33,
+        "points": 14,
+        "time": "03:47.51"
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 34,
+        "points": 12,
+        "time": "03:54.89"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 35,
+        "points": 10,
+        "time": "04:03.51"
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 36,
+        "points": 8,
+        "time": "04:27.17"
+      },
+      {
+        "name": "Emma Tall",
+        "place": 37,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 37,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 37,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 37,
+        "points": 0,
+        "time": "DNS"
+      }
+    ],
+    "Track and Field": [
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 1,
+        "points": 100,
+        "time": "1 pt"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 2,
+        "points": 97,
+        "time": "2 pt"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 3,
+        "points": 94,
+        "time": "3 pt"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 4,
+        "points": 91,
+        "time": "4 pt"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 5,
+        "points": 88,
+        "time": "5 pt"
+      },
+      {
+        "name": "Emily Rolfe",
+        "place": 6,
+        "points": 85,
+        "time": "6 pt"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 7,
+        "points": 82,
+        "time": "7 pt"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 8,
+        "points": 79,
+        "time": "8 pt"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 9,
+        "points": 76,
+        "time": "9 pt"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 10,
+        "points": 73,
+        "time": "10 pt"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 11,
+        "points": 70,
+        "time": "11 pt"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 12,
+        "points": 67,
+        "time": "12 pt"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 13,
+        "points": 64,
+        "time": "13 pt"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 14,
+        "points": 61,
+        "time": "14 pt"
+      },
+      {
+        "name": "Alexis Raptis",
+        "place": 15,
+        "points": 58,
+        "time": "15 pt"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 16,
+        "points": 55,
+        "time": "16 pt"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 17,
+        "points": 52,
+        "time": "17 pt"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 18,
+        "points": 49,
+        "time": "18 pt"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 19,
+        "points": 46,
+        "time": "19 pt"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 20,
+        "points": 43,
+        "time": "20 pt"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 21,
+        "points": 40,
+        "time": "21 pt"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 22,
+        "points": 37,
+        "time": "22 pt"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 23,
+        "points": 34,
+        "time": "23 pt"
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 24,
+        "points": 32,
+        "time": "24 pt"
+      },
+      {
+        "name": "Grace Walton",
+        "place": 25,
+        "points": 30,
+        "time": "25 pt"
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 26,
+        "points": 28,
+        "time": "26 pt"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 27,
+        "points": 26,
+        "time": "27 pt"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 28,
+        "points": 24,
+        "time": "28 pt"
+      },
+      {
+        "name": "Lexi Neely",
+        "place": 29,
+        "points": 22,
+        "time": "29 pt"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 30,
+        "points": 20,
+        "time": "30 pt"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 31,
+        "points": 18,
+        "time": "31 pt"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 32,
+        "points": 16,
+        "time": "32 pt"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 33,
+        "points": 14,
+        "time": "33 pt"
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 34,
+        "points": 12,
+        "time": "34 pt"
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 35,
+        "points": 10,
+        "time": "35 pt"
+      },
+      {
+        "name": "Emma Tall",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 36,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      }
+    ],
+    "Chad": [
+      {
+        "name": "Emily Rolfe",
+        "place": 1,
+        "points": 100,
+        "time": "47:01.00"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 2,
+        "points": 97,
+        "time": "47:15.00"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 3,
+        "points": 94,
+        "time": "47:46.00"
+      },
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 4,
+        "points": 91,
+        "time": "48:19.00"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 5,
+        "points": 88,
+        "time": "48:46.00"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 6,
+        "points": 85,
+        "time": "49:14.00"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 7,
+        "points": 82,
+        "time": "49:24.00"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 8,
+        "points": 79,
+        "time": "49:28.00"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 9,
+        "points": 76,
+        "time": "49:46.00"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 10,
+        "points": 73,
+        "time": "49:56.00"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 11,
+        "points": 70,
+        "time": "50:26.00"
+      },
+      {
+        "name": "Alexis Raptis",
+        "place": 12,
+        "points": 67,
+        "time": "50:56.00"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 13,
+        "points": 64,
+        "time": "50:57.00"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 14,
+        "points": 61,
+        "time": "51:44.00"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 15,
+        "points": 58,
+        "time": "52:26.00"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 16,
+        "points": 55,
+        "time": "52:37.00"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 17,
+        "points": 52,
+        "time": "53:03.00"
+      },
+      {
+        "name": "Grace Walton",
+        "place": 18,
+        "points": 49,
+        "time": "53:20.00"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 19,
+        "points": 46,
+        "time": "53:37.00"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 20,
+        "points": 43,
+        "time": "54:36.00"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 21,
+        "points": 40,
+        "time": "55:36.00"
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 22,
+        "points": 37,
+        "time": "56:37.00"
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 23,
+        "points": 34,
+        "time": "56:48.00"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 24,
+        "points": 32,
+        "time": "57:08.00"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 25,
+        "points": 30,
+        "time": "57:12.00"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 26,
+        "points": 28,
+        "time": "57:24.00"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 27,
+        "points": 26,
+        "time": "57:36.00"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 28,
+        "points": 24,
+        "time": "57:57.00"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 29,
+        "points": 22,
+        "time": "58:15.00"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 30,
+        "points": 20,
+        "time": "58:19.00"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 31,
+        "points": 18,
+        "time": "58:31.00"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 32,
+        "points": 16,
+        "time": "1:00:45.00"
+      },
+      {
+        "name": "Lexi Neely",
+        "place": 33,
+        "points": 14,
+        "time": "1:01:31.00"
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 34,
+        "points": 12,
+        "time": "1:01:36.00"
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 35,
+        "points": 10,
+        "time": "1:03:50.00"
+      },
+      {
+        "name": "Emma Tall",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 36,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      }
+    ],
+    "Clean Ladder": [
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 1,
+        "points": 100,
+        "time": "1 pt"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 2,
+        "points": 97,
+        "time": "2 pt"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 3,
+        "points": 94,
+        "time": "3 pt"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 4,
+        "points": 91,
+        "time": "4 pt"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 5,
+        "points": 88,
+        "time": "5 pt"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 6,
+        "points": 85,
+        "time": "6 pt"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 7,
+        "points": 82,
+        "time": "7 pt"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 8,
+        "points": 79,
+        "time": "8 pt"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 9,
+        "points": 76,
+        "time": "9 pt"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 10,
+        "points": 73,
+        "time": "10 pt"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 11,
+        "points": 70,
+        "time": "11 pt"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 12,
+        "points": 67,
+        "time": "12 pt"
+      },
+      {
+        "name": "Grace Walton",
+        "place": 13,
+        "points": 64,
+        "time": "13 pt"
+      },
+      {
+        "name": "Alexis Raptis",
+        "place": 14,
+        "points": 61,
+        "time": "14 pt"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 15,
+        "points": 58,
+        "time": "15 pt"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 16,
+        "points": 55,
+        "time": "16 pt"
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 17,
+        "points": 52,
+        "time": "17 pt"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 18,
+        "points": 49,
+        "time": "18 pt"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 19,
+        "points": 46,
+        "time": "18 pt"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 20,
+        "points": 43,
+        "time": "20 pt"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 21,
+        "points": 40,
+        "time": "21 pt"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 22,
+        "points": 37,
+        "time": "22 pt"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 23,
+        "points": 34,
+        "time": "23 pt"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 24,
+        "points": 32,
+        "time": "24 pt"
+      },
+      {
+        "name": "Lexi Neely",
+        "place": 25,
+        "points": 30,
+        "time": "25 pt"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 26,
+        "points": 28,
+        "time": "26 pt"
+      },
+      {
+        "name": "Emily Rolfe",
+        "place": 27,
+        "points": 26,
+        "time": "27 pt"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 27,
+        "points": 26,
+        "time": "27 pt"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 27,
+        "points": 26,
+        "time": "27 pt"
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 27,
+        "points": 26,
+        "time": "27 pt"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 31,
+        "points": 18,
+        "time": "31 pt"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 32,
+        "points": 16,
+        "time": "32 pt"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 33,
+        "points": 0,
+        "time": "WD"
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Emma Tall",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 33,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      }
+    ],
+    "Push Pull 2.0": [
+      {
+        "name": "Lexi Neely",
+        "place": 1,
+        "points": 100,
+        "time": "06:03.41"
+      },
+      {
+        "name": "Alexis Raptis",
+        "place": 2,
+        "points": 97,
+        "time": "06:31.62"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 3,
+        "points": 94,
+        "time": "06:47.44"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 4,
+        "points": 91,
+        "time": "06:49.86"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 5,
+        "points": 88,
+        "time": "06:51.80"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 6,
+        "points": 85,
+        "time": "07:16.22"
+      },
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 7,
+        "points": 82,
+        "time": "07:18.46"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 8,
+        "points": 79,
+        "time": "07:43.31"
+      },
+      {
+        "name": "Emily Rolfe",
+        "place": 9,
+        "points": 76,
+        "time": "07:49.20"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 10,
+        "points": 73,
+        "time": "08:02.46"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 11,
+        "points": 70,
+        "time": "08:28.43"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 12,
+        "points": 67,
+        "time": "08:29.08"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 13,
+        "points": 64,
+        "time": "08:29.45"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 14,
+        "points": 61,
+        "time": "08:31.18"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 15,
+        "points": 58,
+        "time": "08:50.81"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 16,
+        "points": 55,
+        "time": "08:51.01"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 17,
+        "points": 52,
+        "time": "08:58.00"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 18,
+        "points": 49,
+        "time": "09:00.82"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 19,
+        "points": 46,
+        "time": "09:17.53"
+      },
+      {
+        "name": "Grace Walton",
+        "place": 20,
+        "points": 43,
+        "time": "09:21.63"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 21,
+        "points": 40,
+        "time": "09:26.15"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 22,
+        "points": 37,
+        "time": "09:49.64"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 24,
+        "points": 32,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 25,
+        "points": 30,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 26,
+        "points": 28,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 27,
+        "points": 26,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 29,
+        "points": 22,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 30,
+        "points": 20,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 31,
+        "points": 18,
+        "time": "CAP+14"
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 32,
+        "points": 16,
+        "time": "CAP+15"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 33,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Emma Tall",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 33,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      }
+    ],
+    "Dickies Triplet": [
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 1,
+        "points": 100,
+        "time": "07:23.69"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 2,
+        "points": 96,
+        "time": "07:33.59"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 3,
+        "points": 92,
+        "time": "07:49.22"
+      },
+      {
+        "name": "Emily Rolfe",
+        "place": 4,
+        "points": 88,
+        "time": "07:54.29"
+      },
+      {
+        "name": "Alexis Raptis",
+        "place": 5,
+        "points": 84,
+        "time": "07:56.06"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 6,
+        "points": 80,
+        "time": "07:57.66"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 7,
+        "points": 76,
+        "time": "07:59.26"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 8,
+        "points": 72,
+        "time": "08:01.42"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 9,
+        "points": 68,
+        "time": "08:01.96"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 10,
+        "points": 64,
+        "time": "08:05.41"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 11,
+        "points": 60,
+        "time": "08:06.22"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 12,
+        "points": 56,
+        "time": "08:08.12"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 13,
+        "points": 52,
+        "time": "08:09.99"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 14,
+        "points": 48,
+        "time": "08:12.65"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 15,
+        "points": 45,
+        "time": "08:16.28"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 16,
+        "points": 42,
+        "time": "08:20.03"
+      },
+      {
+        "name": "Grace Walton",
+        "place": 17,
+        "points": 39,
+        "time": "08:20.59"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 18,
+        "points": 36,
+        "time": "08:24.88"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 19,
+        "points": 33,
+        "time": "08:27.21"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 20,
+        "points": 30,
+        "time": "08:28.62"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 21,
+        "points": 27,
+        "time": "08:31.28"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 22,
+        "points": 24,
+        "time": "08:32.56"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 23,
+        "points": 21,
+        "time": "08:40.56"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 24,
+        "points": 18,
+        "time": "08:50.74"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 25,
+        "points": 15,
+        "time": "08:55.88"
+      },
+      {
+        "name": "Lexi Neely",
+        "place": 26,
+        "points": 12,
+        "time": "09:01.00"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 27,
+        "points": 9,
+        "time": "09:29.75"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 28,
+        "points": 6,
+        "time": "09:43.51"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 29,
+        "points": 3,
+        "time": "09:52.67"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 30,
+        "points": 0,
+        "time": "09:53.06"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Emma Tall",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Final 2421": [
+      {
+        "name": "Alexis Raptis",
+        "place": 1,
+        "points": 100,
+        "time": "02:28.75"
+      },
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 2,
+        "points": 96,
+        "time": "02:31.13"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 3,
+        "points": 92,
+        "time": "02:33.77"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 4,
+        "points": 88,
+        "time": "02:34.12"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 5,
+        "points": 84,
+        "time": "02:37.68"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 6,
+        "points": 80,
+        "time": "02:39.39"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 7,
+        "points": 76,
+        "time": "02:40.23"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 8,
+        "points": 72,
+        "time": "02:40.67"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 9,
+        "points": 68,
+        "time": "02:43.76"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 10,
+        "points": 64,
+        "time": "02:46.89"
+      },
+      {
+        "name": "Emily Rolfe",
+        "place": 11,
+        "points": 60,
+        "time": "02:47.20"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 12,
+        "points": 56,
+        "time": "02:47.22"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 13,
+        "points": 52,
+        "time": "02:49.21"
+      },
+      {
+        "name": "Lexi Neely",
+        "place": 14,
+        "points": 48,
+        "time": "02:56.22"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 15,
+        "points": 45,
+        "time": "03:01.05"
+      },
+      {
+        "name": "Grace Walton",
+        "place": 16,
+        "points": 42,
+        "time": "03:02.00"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 17,
+        "points": 39,
+        "time": "03:04.23"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 18,
+        "points": 36,
+        "time": "03:04.99"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 19,
+        "points": 33,
+        "time": "03:07.21"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 20,
+        "points": 30,
+        "time": "03:07.23"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 21,
+        "points": 27,
+        "time": "03:10.91"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 22,
+        "points": 24,
+        "time": "03:12.33"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 23,
+        "points": 21,
+        "time": "03:15.56"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 24,
+        "points": 18,
+        "time": "03:17.90"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 25,
+        "points": 15,
+        "time": "03:18.15"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 26,
+        "points": 12,
+        "time": "03:18.66"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 27,
+        "points": 9,
+        "time": "03:35.74"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 28,
+        "points": 6,
+        "time": "03:41.92"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 29,
+        "points": 3,
+        "time": "03:50.17"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 30,
+        "points": 0,
+        "time": "CAP+26"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Emma Tall",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Final 1815": [
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 1,
+        "points": 100,
+        "time": "04:33.89"
+      },
+      {
+        "name": "Alexis Raptis",
+        "place": 2,
+        "points": 96,
+        "time": "05:05.61"
+      },
+      {
+        "name": "Claudia Gluck",
+        "place": 3,
+        "points": 92,
+        "time": "05:10.75"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 4,
+        "points": 88,
+        "time": "05:13.58"
+      },
+      {
+        "name": "Danielle Brandon",
+        "place": 5,
+        "points": 84,
+        "time": "05:22.85"
+      },
+      {
+        "name": "Alex Gazan",
+        "place": 6,
+        "points": 80,
+        "time": "05:29.83"
+      },
+      {
+        "name": "Bethany Flores",
+        "place": 7,
+        "points": 76,
+        "time": "05:33.40"
+      },
+      {
+        "name": "Haley Adams",
+        "place": 8,
+        "points": 72,
+        "time": "05:40.23"
+      },
+      {
+        "name": "Emily Rolfe",
+        "place": 9,
+        "points": 68,
+        "time": "05:43.03"
+      },
+      {
+        "name": "Chloe Gauvin-David",
+        "place": 10,
+        "points": 64,
+        "time": "05:45.50"
+      },
+      {
+        "name": "Lexi Neely",
+        "place": 11,
+        "points": 60,
+        "time": "05:47.70"
+      },
+      {
+        "name": "Shelby Neal",
+        "place": 12,
+        "points": 56,
+        "time": "06:00.02"
+      },
+      {
+        "name": "Paige Semenza",
+        "place": 13,
+        "points": 52,
+        "time": "06:05.54"
+      },
+      {
+        "name": "Kyra Milligan",
+        "place": 14,
+        "points": 48,
+        "time": "06:11.99"
+      },
+      {
+        "name": "Gabriela Migała",
+        "place": 15,
+        "points": 45,
+        "time": "06:18.33"
+      },
+      {
+        "name": "Emma Lawson",
+        "place": 16,
+        "points": 42,
+        "time": "06:27.09"
+      },
+      {
+        "name": "Abigail Domit",
+        "place": 17,
+        "points": 39,
+        "time": "06:28.25"
+      },
+      {
+        "name": "Linda Keesman",
+        "place": 18,
+        "points": 36,
+        "time": "06:32.52"
+      },
+      {
+        "name": "Hattie Kanyo",
+        "place": 19,
+        "points": 33,
+        "time": "06:33.95"
+      },
+      {
+        "name": "Andreia Pinheiro",
+        "place": 20,
+        "points": 30,
+        "time": "06:35.40"
+      },
+      {
+        "name": "Caroline Stanley",
+        "place": 21,
+        "points": 27,
+        "time": "06:35.60"
+      },
+      {
+        "name": "Emma McQuaid",
+        "place": 22,
+        "points": 24,
+        "time": "06:35.68"
+      },
+      {
+        "name": "Seher Kaya",
+        "place": 23,
+        "points": 21,
+        "time": "06:37.11"
+      },
+      {
+        "name": "Georgia Pryer",
+        "place": 24,
+        "points": 18,
+        "time": "06:48.92"
+      },
+      {
+        "name": "Seungyeon Choi",
+        "place": 25,
+        "points": 15,
+        "time": "06:49.46"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 26,
+        "points": 12,
+        "time": "06:57.20"
+      },
+      {
+        "name": "Aimee Cringle",
+        "place": 27,
+        "points": 9,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Daisy McDonald",
+        "place": 27,
+        "points": 9,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Julia Kato",
+        "place": 27,
+        "points": 9,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Grace Walton",
+        "place": 30,
+        "points": 0,
+        "time": "CAP+20"
+      },
+      {
+        "name": "Arielle Loewen",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jacqueline Dahlstrøm",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gemma Rader",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Emma Tall",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dawon Jung",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dani Speegle",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Karin Freyová",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Laura Horvath",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elisa Fuliano",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victoria Campos",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Tia-Clair Toomey",
+      "country": "Australia",
+      "region": "North America East",
+      "affiliate": "CrossFit PRVN",
+      "age": "Age 30",
+      "height_weight": "163 cm | 58 kg",
+      "total_points": 951,
+      "events": {
+        "Lake Day": {
+          "place": 1,
+          "time": "38:06.88",
+          "points": 100
+        },
+        "Midline Climb": {
+          "place": 1,
+          "time": "13:15.95",
+          "points": 100
+        },
+        "Firestorm": {
+          "place": 7,
+          "time": "03:15.66",
+          "points": 82
+        },
+        "Track and Field": {
+          "place": 1,
+          "time": "1 pt",
+          "points": 100
+        },
+        "Chad": {
+          "place": 4,
+          "time": "48:19.00",
+          "points": 91
+        },
+        "Clean Ladder": {
+          "place": 1,
+          "time": "1 pt",
+          "points": 100
+        },
+        "Push Pull 2.0": {
+          "place": 7,
+          "time": "07:18.46",
+          "points": 82
+        },
+        "Dickies Triplet": {
+          "place": 1,
+          "time": "07:23.69",
+          "points": 100
+        },
+        "Final 2421": {
+          "place": 2,
+          "time": "02:31.13",
+          "points": 96
+        },
+        "Final 1815": {
+          "place": 1,
+          "time": "04:33.89",
+          "points": 100
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Gabriela Migała",
+      "country": "Poland",
+      "region": "Europe",
+      "affiliate": "CrossFit Glasshouse",
+      "age": "Age 25",
+      "height_weight": "170 cm | 75 kg",
+      "total_points": 800,
+      "events": {
+        "Lake Day": {
+          "place": 12,
+          "time": "42:41.69",
+          "points": 67
+        },
+        "Midline Climb": {
+          "place": 4,
+          "time": "13:58.38",
+          "points": 91
+        },
+        "Firestorm": {
+          "place": 6,
+          "time": "03:15.08",
+          "points": 85
+        },
+        "Track and Field": {
+          "place": 4,
+          "time": "4 pt",
+          "points": 91
+        },
+        "Chad": {
+          "place": 2,
+          "time": "47:15.00",
+          "points": 97
+        },
+        "Clean Ladder": {
+          "place": 4,
+          "time": "4 pt",
+          "points": 91
+        },
+        "Push Pull 2.0": {
+          "place": 10,
+          "time": "08:02.46",
+          "points": 73
+        },
+        "Dickies Triplet": {
+          "place": 2,
+          "time": "07:33.59",
+          "points": 96
+        },
+        "Final 2421": {
+          "place": 10,
+          "time": "02:46.89",
+          "points": 64
+        },
+        "Final 1815": {
+          "place": 15,
+          "time": "06:18.33",
+          "points": 45
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Emily Rolfe",
+      "country": "Canada",
+      "region": "North America West",
+      "affiliate": "CrossFit Sea Level",
+      "age": "Age 34",
+      "height_weight": "170 cm | 152 lb",
+      "total_points": 770,
+      "events": {
+        "Lake Day": {
+          "place": 3,
+          "time": "40:21.26",
+          "points": 94
+        },
+        "Midline Climb": {
+          "place": 6,
+          "time": "15:05.50",
+          "points": 85
+        },
+        "Firestorm": {
+          "place": 5,
+          "time": "03:14.49",
+          "points": 88
+        },
+        "Track and Field": {
+          "place": 6,
+          "time": "6 pt",
+          "points": 85
+        },
+        "Chad": {
+          "place": 1,
+          "time": "47:01.00",
+          "points": 100
+        },
+        "Clean Ladder": {
+          "place": 27,
+          "time": "27 pt",
+          "points": 26
+        },
+        "Push Pull 2.0": {
+          "place": 9,
+          "time": "07:49.20",
+          "points": 76
+        },
+        "Dickies Triplet": {
+          "place": 4,
+          "time": "07:54.29",
+          "points": 88
+        },
+        "Final 2421": {
+          "place": 11,
+          "time": "02:47.20",
+          "points": 60
+        },
+        "Final 1815": {
+          "place": 9,
+          "time": "05:43.03",
+          "points": 68
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Bethany Flores",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "CrossFit P.A.C.",
+      "age": "Age 30",
+      "height_weight": "64 in | 144 lb",
+      "total_points": 736,
+      "events": {
+        "Lake Day": {
+          "place": 2,
+          "time": "39:36.72",
+          "points": 97
+        },
+        "Midline Climb": {
+          "place": 11,
+          "time": "15:32.95",
+          "points": 70
+        },
+        "Firestorm": {
+          "place": 2,
+          "time": "03:09.07",
+          "points": 97
+        },
+        "Track and Field": {
+          "place": 9,
+          "time": "9 pt",
+          "points": 76
+        },
+        "Chad": {
+          "place": 6,
+          "time": "49:14.00",
+          "points": 85
+        },
+        "Clean Ladder": {
+          "place": 32,
+          "time": "32 pt",
+          "points": 16
+        },
+        "Push Pull 2.0": {
+          "place": 8,
+          "time": "07:43.31",
+          "points": 79
+        },
+        "Dickies Triplet": {
+          "place": 8,
+          "time": "08:01.42",
+          "points": 72
+        },
+        "Final 2421": {
+          "place": 9,
+          "time": "02:43.76",
+          "points": 68
+        },
+        "Final 1815": {
+          "place": 7,
+          "time": "05:33.40",
+          "points": 76
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Haley Adams",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit 460",
+      "age": "Age 23",
+      "height_weight": "67 in | 140 lb",
+      "total_points": 736,
+      "events": {
+        "Lake Day": {
+          "place": 7,
+          "time": "41:41.34",
+          "points": 82
+        },
+        "Midline Climb": {
+          "place": 3,
+          "time": "13:56.77",
+          "points": 94
+        },
+        "Firestorm": {
+          "place": 8,
+          "time": "03:16.76",
+          "points": 79
+        },
+        "Track and Field": {
+          "place": 2,
+          "time": "2 pt",
+          "points": 97
+        },
+        "Chad": {
+          "place": 3,
+          "time": "47:46.00",
+          "points": 94
+        },
+        "Clean Ladder": {
+          "place": 31,
+          "time": "31 pt",
+          "points": 18
+        },
+        "Push Pull 2.0": {
+          "place": 17,
+          "time": "08:58.00",
+          "points": 52
+        },
+        "Dickies Triplet": {
+          "place": 3,
+          "time": "07:49.22",
+          "points": 92
+        },
+        "Final 2421": {
+          "place": 12,
+          "time": "02:47.22",
+          "points": 56
+        },
+        "Final 1815": {
+          "place": 8,
+          "time": "05:40.23",
+          "points": 72
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Alexis Raptis",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "TTT CrossFit",
+      "age": "Age 25",
+      "height_weight": "65 in | 155 lb",
+      "total_points": 698,
+      "events": {
+        "Lake Day": {
+          "place": 14,
+          "time": "43:53.50",
+          "points": 61
+        },
+        "Midline Climb": {
+          "place": 26,
+          "time": "17:13.80",
+          "points": 28
+        },
+        "Firestorm": {
+          "place": 19,
+          "time": "03:30.16",
+          "points": 46
+        },
+        "Track and Field": {
+          "place": 15,
+          "time": "15 pt",
+          "points": 58
+        },
+        "Chad": {
+          "place": 12,
+          "time": "50:56.00",
+          "points": 67
+        },
+        "Clean Ladder": {
+          "place": 14,
+          "time": "14 pt",
+          "points": 61
+        },
+        "Push Pull 2.0": {
+          "place": 2,
+          "time": "06:31.62",
+          "points": 97
+        },
+        "Dickies Triplet": {
+          "place": 5,
+          "time": "07:56.06",
+          "points": 84
+        },
+        "Final 2421": {
+          "place": 1,
+          "time": "02:28.75",
+          "points": 100
+        },
+        "Final 1815": {
+          "place": 2,
+          "time": "05:05.61",
+          "points": 96
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Danielle Brandon",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "170 cm | 150 lb",
+      "total_points": 639,
+      "events": {
+        "Lake Day": {
+          "place": 10,
+          "time": "42:13.70",
+          "points": 73
+        },
+        "Midline Climb": {
+          "place": 37,
+          "time": "18:26.67",
+          "points": 6
+        },
+        "Firestorm": {
+          "place": 4,
+          "time": "03:13.68",
+          "points": 91
+        },
+        "Track and Field": {
+          "place": 7,
+          "time": "7 pt",
+          "points": 82
+        },
+        "Chad": {
+          "place": 25,
+          "time": "57:12.00",
+          "points": 30
+        },
+        "Clean Ladder": {
+          "place": 22,
+          "time": "22 pt",
+          "points": 37
+        },
+        "Push Pull 2.0": {
+          "place": 5,
+          "time": "06:51.80",
+          "points": 88
+        },
+        "Dickies Triplet": {
+          "place": 7,
+          "time": "07:59.26",
+          "points": 76
+        },
+        "Final 2421": {
+          "place": 8,
+          "time": "02:40.67",
+          "points": 72
+        },
+        "Final 1815": {
+          "place": 5,
+          "time": "05:22.85",
+          "points": 84
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Madeline Sturt",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "159 cm | 64 kg",
+      "total_points": 638,
+      "events": {
+        "Lake Day": {
+          "place": 13,
+          "time": "43:32.59",
+          "points": 64
+        },
+        "Midline Climb": {
+          "place": 2,
+          "time": "13:43.21",
+          "points": 97
+        },
+        "Firestorm": {
+          "place": 22,
+          "time": "03:31.32",
+          "points": 37
+        },
+        "Track and Field": {
+          "place": 11,
+          "time": "11 pt",
+          "points": 70
+        },
+        "Chad": {
+          "place": 19,
+          "time": "53:37.00",
+          "points": 46
+        },
+        "Clean Ladder": {
+          "place": 10,
+          "time": "10 pt",
+          "points": 73
+        },
+        "Push Pull 2.0": {
+          "place": 23,
+          "time": "CAP+3",
+          "points": 34
+        },
+        "Dickies Triplet": {
+          "place": 15,
+          "time": "08:16.28",
+          "points": 45
+        },
+        "Final 2421": {
+          "place": 5,
+          "time": "02:37.68",
+          "points": 84
+        },
+        "Final 1815": {
+          "place": 4,
+          "time": "05:13.58",
+          "points": 88
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Paige Semenza",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit Vertex",
+      "age": "Age 32",
+      "height_weight": "63 in | 147 lb",
+      "total_points": 612,
+      "events": {
+        "Lake Day": {
+          "place": 11,
+          "time": "42:21.52",
+          "points": 70
+        },
+        "Midline Climb": {
+          "place": 13,
+          "time": "15:56.78",
+          "points": 64
+        },
+        "Firestorm": {
+          "place": 18,
+          "time": "03:29.47",
+          "points": 49
+        },
+        "Track and Field": {
+          "place": 5,
+          "time": "5 pt",
+          "points": 88
+        },
+        "Chad": {
+          "place": 9,
+          "time": "49:46.00",
+          "points": 76
+        },
+        "Clean Ladder": {
+          "place": 12,
+          "time": "12 pt",
+          "points": 67
+        },
+        "Push Pull 2.0": {
+          "place": 28,
+          "time": "CAP+9",
+          "points": 24
+        },
+        "Dickies Triplet": {
+          "place": 16,
+          "time": "08:20.03",
+          "points": 42
+        },
+        "Final 2421": {
+          "place": 6,
+          "time": "02:39.39",
+          "points": 80
+        },
+        "Final 1815": {
+          "place": 13,
+          "time": "06:05.54",
+          "points": 52
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Alex Gazan",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "Rhino CrossFit",
+      "age": "Age 22",
+      "height_weight": "66 in | 150 lb",
+      "total_points": 599,
+      "events": {
+        "Lake Day": {
+          "place": 38,
+          "time": "49:14.84",
+          "points": 4
+        },
+        "Midline Climb": {
+          "place": 9,
+          "time": "15:20.47",
+          "points": 76
+        },
+        "Firestorm": {
+          "place": 3,
+          "time": "03:11.20",
+          "points": 94
+        },
+        "Track and Field": {
+          "place": 20,
+          "time": "20 pt",
+          "points": 43
+        },
+        "Chad": {
+          "place": 15,
+          "time": "52:26.00",
+          "points": 58
+        },
+        "Clean Ladder": {
+          "place": 3,
+          "time": "3 pt",
+          "points": 94
+        },
+        "Push Pull 2.0": {
+          "place": 25,
+          "time": "CAP+6",
+          "points": 30
+        },
+        "Dickies Triplet": {
+          "place": 9,
+          "time": "08:01.96",
+          "points": 68
+        },
+        "Final 2421": {
+          "place": 13,
+          "time": "02:49.21",
+          "points": 52
+        },
+        "Final 1815": {
+          "place": 6,
+          "time": "05:29.83",
+          "points": 80
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Brooke Wells",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit Trivium",
+      "age": "Age 29",
+      "height_weight": "66 in | 150 lb",
+      "total_points": 591,
+      "events": {
+        "Lake Day": {
+          "place": 25,
+          "time": "46:55.98",
+          "points": 30
+        },
+        "Midline Climb": {
+          "place": 16,
+          "time": "16:12.77",
+          "points": 55
+        },
+        "Firestorm": {
+          "place": 26,
+          "time": "03:37.69",
+          "points": 28
+        },
+        "Track and Field": {
+          "place": 10,
+          "time": "10 pt",
+          "points": 73
+        },
+        "Chad": {
+          "place": 14,
+          "time": "51:44.00",
+          "points": 61
+        },
+        "Clean Ladder": {
+          "place": 7,
+          "time": "7 pt",
+          "points": 82
+        },
+        "Push Pull 2.0": {
+          "place": 3,
+          "time": "06:47.44",
+          "points": 94
+        },
+        "Dickies Triplet": {
+          "place": 6,
+          "time": "07:57.66",
+          "points": 80
+        },
+        "Final 2421": {
+          "place": 7,
+          "time": "02:40.23",
+          "points": 76
+        },
+        "Final 1815": {
+          "place": 26,
+          "time": "06:57.20",
+          "points": 12
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Claudia Gluck",
+      "country": "France",
+      "region": "Europe",
+      "affiliate": "CrossFit Grillen",
+      "age": "Age 25",
+      "height_weight": "160 cm | 60 kg",
+      "total_points": 563,
+      "events": {
+        "Lake Day": {
+          "place": 33,
+          "time": "48:01.68",
+          "points": 14
+        },
+        "Midline Climb": {
+          "place": 7,
+          "time": "15:12.86",
+          "points": 82
+        },
+        "Firestorm": {
+          "place": 11,
+          "time": "03:21.87",
+          "points": 70
+        },
+        "Track and Field": {
+          "place": 14,
+          "time": "14 pt",
+          "points": 61
+        },
+        "Chad": {
+          "place": 32,
+          "time": "1:00:45.00",
+          "points": 16
+        },
+        "Clean Ladder": {
+          "place": 21,
+          "time": "21 pt",
+          "points": 40
+        },
+        "Push Pull 2.0": {
+          "place": 6,
+          "time": "07:16.22",
+          "points": 85
+        },
+        "Dickies Triplet": {
+          "place": 25,
+          "time": "08:55.88",
+          "points": 15
+        },
+        "Final 2421": {
+          "place": 4,
+          "time": "02:34.12",
+          "points": 88
+        },
+        "Final 1815": {
+          "place": 3,
+          "time": "05:10.75",
+          "points": 92
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Aimee Cringle",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "affiliate": "Blueprint CrossFit",
+      "age": "Age 25",
+      "height_weight": "167 cm | 71 kg",
+      "total_points": 538,
+      "events": {
+        "Lake Day": {
+          "place": 21,
+          "time": "45:43.32",
+          "points": 40
+        },
+        "Midline Climb": {
+          "place": 10,
+          "time": "15:26.26",
+          "points": 73
+        },
+        "Firestorm": {
+          "place": 10,
+          "time": "03:20.28",
+          "points": 73
+        },
+        "Track and Field": {
+          "place": 3,
+          "time": "3 pt",
+          "points": 94
+        },
+        "Chad": {
+          "place": 5,
+          "time": "48:46.00",
+          "points": 88
+        },
+        "Clean Ladder": {
+          "place": 19,
+          "time": "18 pt",
+          "points": 46
+        },
+        "Push Pull 2.0": {
+          "place": 21,
+          "time": "09:26.15",
+          "points": 40
+        },
+        "Dickies Triplet": {
+          "place": 11,
+          "time": "08:06.22",
+          "points": 60
+        },
+        "Final 2421": {
+          "place": 25,
+          "time": "03:18.15",
+          "points": 15
+        },
+        "Final 1815": {
+          "place": 27,
+          "time": "CAP+6",
+          "points": 9
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Grace Walton",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "164 cm | 70 kg",
+      "total_points": 507,
+      "events": {
+        "Lake Day": {
+          "place": 5,
+          "time": "40:58.27",
+          "points": 88
+        },
+        "Midline Climb": {
+          "place": 17,
+          "time": "16:19.73",
+          "points": 52
+        },
+        "Firestorm": {
+          "place": 1,
+          "time": "03:03.59",
+          "points": 100
+        },
+        "Track and Field": {
+          "place": 25,
+          "time": "25 pt",
+          "points": 30
+        },
+        "Chad": {
+          "place": 18,
+          "time": "53:20.00",
+          "points": 49
+        },
+        "Clean Ladder": {
+          "place": 13,
+          "time": "13 pt",
+          "points": 64
+        },
+        "Push Pull 2.0": {
+          "place": 20,
+          "time": "09:21.63",
+          "points": 43
+        },
+        "Dickies Triplet": {
+          "place": 17,
+          "time": "08:20.59",
+          "points": 39
+        },
+        "Final 2421": {
+          "place": 16,
+          "time": "03:02.00",
+          "points": 42
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "CAP+20",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Abigail Domit",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "Lone Star CrossFit",
+      "age": "Age 26",
+      "height_weight": "67 in | 147 lb",
+      "total_points": 494,
+      "events": {
+        "Lake Day": {
+          "place": 31,
+          "time": "47:52.17",
+          "points": 18
+        },
+        "Midline Climb": {
+          "place": 20,
+          "time": "16:24.13",
+          "points": 43
+        },
+        "Firestorm": {
+          "place": 14,
+          "time": "03:25.60",
+          "points": 61
+        },
+        "Track and Field": {
+          "place": 18,
+          "time": "18 pt",
+          "points": 49
+        },
+        "Chad": {
+          "place": 11,
+          "time": "50:26.00",
+          "points": 70
+        },
+        "Clean Ladder": {
+          "place": 9,
+          "time": "9 pt",
+          "points": 76
+        },
+        "Push Pull 2.0": {
+          "place": 11,
+          "time": "08:28.43",
+          "points": 70
+        },
+        "Dickies Triplet": {
+          "place": 12,
+          "time": "08:08.12",
+          "points": 56
+        },
+        "Final 2421": {
+          "place": 26,
+          "time": "03:18.66",
+          "points": 12
+        },
+        "Final 1815": {
+          "place": 17,
+          "time": "06:28.25",
+          "points": 39
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Emma Lawson",
+      "country": "Canada",
+      "region": "North America East",
+      "affiliate": "CrossFit PSC",
+      "age": "Age 19",
+      "height_weight": "65 in | 140 lb",
+      "total_points": 493,
+      "events": {
+        "Lake Day": {
+          "place": 23,
+          "time": "46:04.27",
+          "points": 34
+        },
+        "Midline Climb": {
+          "place": 21,
+          "time": "16:30.94",
+          "points": 40
+        },
+        "Firestorm": {
+          "place": 9,
+          "time": "03:17.06",
+          "points": 76
+        },
+        "Track and Field": {
+          "place": 13,
+          "time": "13 pt",
+          "points": 64
+        },
+        "Chad": {
+          "place": 26,
+          "time": "57:24.00",
+          "points": 28
+        },
+        "Clean Ladder": {
+          "place": 5,
+          "time": "5 pt",
+          "points": 88
+        },
+        "Push Pull 2.0": {
+          "place": 16,
+          "time": "08:51.01",
+          "points": 55
+        },
+        "Dickies Triplet": {
+          "place": 14,
+          "time": "08:12.65",
+          "points": 48
+        },
+        "Final 2421": {
+          "place": 24,
+          "time": "03:17.90",
+          "points": 18
+        },
+        "Final 1815": {
+          "place": 16,
+          "time": "06:27.09",
+          "points": 42
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Caroline Stanley",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit 927 Echo",
+      "age": "Age 24",
+      "height_weight": "63 in | 145 lb",
+      "total_points": 487,
+      "events": {
+        "Lake Day": {
+          "place": 27,
+          "time": "47:21.16",
+          "points": 26
+        },
+        "Midline Climb": {
+          "place": 15,
+          "time": "16:09.18",
+          "points": 58
+        },
+        "Firestorm": {
+          "place": 17,
+          "time": "03:28.35",
+          "points": 52
+        },
+        "Track and Field": {
+          "place": 22,
+          "time": "22 pt",
+          "points": 37
+        },
+        "Chad": {
+          "place": 10,
+          "time": "49:56.00",
+          "points": 73
+        },
+        "Clean Ladder": {
+          "place": 8,
+          "time": "8 pt",
+          "points": 79
+        },
+        "Push Pull 2.0": {
+          "place": 24,
+          "time": "CAP+4",
+          "points": 32
+        },
+        "Dickies Triplet": {
+          "place": 10,
+          "time": "08:05.41",
+          "points": 64
+        },
+        "Final 2421": {
+          "place": 17,
+          "time": "03:04.23",
+          "points": 39
+        },
+        "Final 1815": {
+          "place": 21,
+          "time": "06:35.60",
+          "points": 27
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Hattie Kanyo",
+      "country": "Canada",
+      "region": "North America West",
+      "affiliate": "CrossFit Framework",
+      "age": "Age 32",
+      "height_weight": "64 in | 145 lb",
+      "total_points": 459,
+      "events": {
+        "Lake Day": {
+          "place": 18,
+          "time": "44:30.69",
+          "points": 49
+        },
+        "Midline Climb": {
+          "place": 24,
+          "time": "16:59.11",
+          "points": 32
+        },
+        "Firestorm": {
+          "place": 12,
+          "time": "03:25.14",
+          "points": 67
+        },
+        "Track and Field": {
+          "place": 8,
+          "time": "8 pt",
+          "points": 79
+        },
+        "Chad": {
+          "place": 30,
+          "time": "58:19.00",
+          "points": 20
+        },
+        "Clean Ladder": {
+          "place": 18,
+          "time": "18 pt",
+          "points": 49
+        },
+        "Push Pull 2.0": {
+          "place": 12,
+          "time": "08:29.08",
+          "points": 67
+        },
+        "Dickies Triplet": {
+          "place": 18,
+          "time": "08:24.88",
+          "points": 36
+        },
+        "Final 2421": {
+          "place": 21,
+          "time": "03:10.91",
+          "points": 27
+        },
+        "Final 1815": {
+          "place": 19,
+          "time": "06:33.95",
+          "points": 33
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Linda Keesman",
+      "country": "Netherlands",
+      "region": "Europe",
+      "affiliate": "CrossFit Vondelgym South",
+      "age": "Age 30",
+      "height_weight": "174 cm | 73 kg",
+      "total_points": 447,
+      "events": {
+        "Lake Day": {
+          "place": 19,
+          "time": "44:58.56",
+          "points": 46
+        },
+        "Midline Climb": {
+          "place": 14,
+          "time": "16:06.70",
+          "points": 61
+        },
+        "Firestorm": {
+          "place": 25,
+          "time": "03:35.10",
+          "points": 30
+        },
+        "Track and Field": {
+          "place": 21,
+          "time": "21 pt",
+          "points": 40
+        },
+        "Chad": {
+          "place": 13,
+          "time": "50:57.00",
+          "points": 64
+        },
+        "Clean Ladder": {
+          "place": 11,
+          "time": "11 pt",
+          "points": 70
+        },
+        "Push Pull 2.0": {
+          "place": 18,
+          "time": "09:00.82",
+          "points": 49
+        },
+        "Dickies Triplet": {
+          "place": 23,
+          "time": "08:40.56",
+          "points": 21
+        },
+        "Final 2421": {
+          "place": 20,
+          "time": "03:07.23",
+          "points": 30
+        },
+        "Final 1815": {
+          "place": 18,
+          "time": "06:32.52",
+          "points": 36
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Chloe Gauvin-David",
+      "country": "Canada",
+      "region": "North America East",
+      "affiliate": "CrossFit Pro1",
+      "age": "Age 32",
+      "height_weight": "67 in | 146 lb",
+      "total_points": 425,
+      "events": {
+        "Lake Day": {
+          "place": 24,
+          "time": "46:51.39",
+          "points": 32
+        },
+        "Midline Climb": {
+          "place": 27,
+          "time": "17:30.57",
+          "points": 26
+        },
+        "Firestorm": {
+          "place": 35,
+          "time": "04:03.51",
+          "points": 10
+        },
+        "Track and Field": {
+          "place": 17,
+          "time": "17 pt",
+          "points": 52
+        },
+        "Chad": {
+          "place": 8,
+          "time": "49:28.00",
+          "points": 79
+        },
+        "Clean Ladder": {
+          "place": 24,
+          "time": "24 pt",
+          "points": 32
+        },
+        "Push Pull 2.0": {
+          "place": 4,
+          "time": "06:49.86",
+          "points": 91
+        },
+        "Dickies Triplet": {
+          "place": 19,
+          "time": "08:27.21",
+          "points": 33
+        },
+        "Final 2421": {
+          "place": 28,
+          "time": "03:41.92",
+          "points": 6
+        },
+        "Final 1815": {
+          "place": 10,
+          "time": "05:45.50",
+          "points": 64
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Seher Kaya",
+      "country": "Turkey",
+      "region": "Asia",
+      "affiliate": "CrossFit Oslo",
+      "age": "Age 26",
+      "height_weight": "161 cm | 64 kg",
+      "total_points": 424,
+      "events": {
+        "Lake Day": {
+          "place": 22,
+          "time": "45:58.65",
+          "points": 37
+        },
+        "Midline Climb": {
+          "place": 12,
+          "time": "15:50.80",
+          "points": 67
+        },
+        "Firestorm": {
+          "place": 28,
+          "time": "03:40.10",
+          "points": 24
+        },
+        "Track and Field": {
+          "place": 16,
+          "time": "16 pt",
+          "points": 55
+        },
+        "Chad": {
+          "place": 16,
+          "time": "52:37.00",
+          "points": 55
+        },
+        "Clean Ladder": {
+          "place": 23,
+          "time": "23 pt",
+          "points": 34
+        },
+        "Push Pull 2.0": {
+          "place": 15,
+          "time": "08:50.81",
+          "points": 58
+        },
+        "Dickies Triplet": {
+          "place": 13,
+          "time": "08:09.99",
+          "points": 52
+        },
+        "Final 2421": {
+          "place": 23,
+          "time": "03:15.56",
+          "points": 21
+        },
+        "Final 1815": {
+          "place": 23,
+          "time": "06:37.11",
+          "points": 21
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Kyra Milligan",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "Rhino CrossFit",
+      "age": "Age 27",
+      "height_weight": "62 in | 143 lb",
+      "total_points": 412,
+      "events": {
+        "Lake Day": {
+          "place": 40,
+          "time": "57:18.76",
+          "points": 0
+        },
+        "Midline Climb": {
+          "place": 29,
+          "time": "17:40.05",
+          "points": 22
+        },
+        "Firestorm": {
+          "place": 33,
+          "time": "03:47.51",
+          "points": 14
+        },
+        "Track and Field": {
+          "place": 32,
+          "time": "32 pt",
+          "points": 16
+        },
+        "Chad": {
+          "place": 24,
+          "time": "57:08.00",
+          "points": 32
+        },
+        "Clean Ladder": {
+          "place": 2,
+          "time": "2 pt",
+          "points": 97
+        },
+        "Push Pull 2.0": {
+          "place": 13,
+          "time": "08:29.45",
+          "points": 64
+        },
+        "Dickies Triplet": {
+          "place": 21,
+          "time": "08:31.28",
+          "points": 27
+        },
+        "Final 2421": {
+          "place": 3,
+          "time": "02:33.77",
+          "points": 92
+        },
+        "Final 1815": {
+          "place": 14,
+          "time": "06:11.99",
+          "points": 48
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Shelby Neal",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "12th State CrossFit",
+      "age": "Age 24",
+      "height_weight": "62 in | 150 lb",
+      "total_points": 410,
+      "events": {
+        "Lake Day": {
+          "place": 26,
+          "time": "47:00.41",
+          "points": 28
+        },
+        "Midline Climb": {
+          "place": 28,
+          "time": "17:37.24",
+          "points": 24
+        },
+        "Firestorm": {
+          "place": 16,
+          "time": "03:26.68",
+          "points": 55
+        },
+        "Track and Field": {
+          "place": 27,
+          "time": "27 pt",
+          "points": 26
+        },
+        "Chad": {
+          "place": 31,
+          "time": "58:31.00",
+          "points": 18
+        },
+        "Clean Ladder": {
+          "place": 6,
+          "time": "6 pt",
+          "points": 85
+        },
+        "Push Pull 2.0": {
+          "place": 14,
+          "time": "08:31.18",
+          "points": 61
+        },
+        "Dickies Triplet": {
+          "place": 22,
+          "time": "08:32.56",
+          "points": 24
+        },
+        "Final 2421": {
+          "place": 19,
+          "time": "03:07.21",
+          "points": 33
+        },
+        "Final 1815": {
+          "place": 12,
+          "time": "06:00.02",
+          "points": 56
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Seungyeon Choi",
+      "country": "Korea, Republic of",
+      "region": "Asia",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "168 cm | 155 lb",
+      "total_points": 331,
+      "events": {
+        "Lake Day": {
+          "place": 32,
+          "time": "47:52.19",
+          "points": 16
+        },
+        "Midline Climb": {
+          "place": 23,
+          "time": "16:58.29",
+          "points": 34
+        },
+        "Firestorm": {
+          "place": 15,
+          "time": "03:25.72",
+          "points": 58
+        },
+        "Track and Field": {
+          "place": 31,
+          "time": "31 pt",
+          "points": 18
+        },
+        "Chad": {
+          "place": 20,
+          "time": "54:36.00",
+          "points": 43
+        },
+        "Clean Ladder": {
+          "place": 15,
+          "time": "15 pt",
+          "points": 58
+        },
+        "Push Pull 2.0": {
+          "place": 27,
+          "time": "CAP+8",
+          "points": 26
+        },
+        "Dickies Triplet": {
+          "place": 24,
+          "time": "08:50.74",
+          "points": 18
+        },
+        "Final 2421": {
+          "place": 15,
+          "time": "03:01.05",
+          "points": 45
+        },
+        "Final 1815": {
+          "place": 25,
+          "time": "06:49.46",
+          "points": 15
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Emma McQuaid",
+      "country": "Ireland",
+      "region": "Europe",
+      "affiliate": "CrossFit Daily Grind",
+      "age": "Age 34",
+      "height_weight": "165 cm | 67 kg",
+      "total_points": 322,
+      "events": {
+        "Lake Day": {
+          "place": 34,
+          "time": "48:04.72",
+          "points": 12
+        },
+        "Midline Climb": {
+          "place": 19,
+          "time": "16:22.81",
+          "points": 46
+        },
+        "Firestorm": {
+          "place": 29,
+          "time": "03:40.81",
+          "points": 22
+        },
+        "Track and Field": {
+          "place": 30,
+          "time": "30 pt",
+          "points": 20
+        },
+        "Chad": {
+          "place": 21,
+          "time": "55:36.00",
+          "points": 40
+        },
+        "Clean Ladder": {
+          "place": 16,
+          "time": "16 pt",
+          "points": 55
+        },
+        "Push Pull 2.0": {
+          "place": 22,
+          "time": "09:49.64",
+          "points": 37
+        },
+        "Dickies Triplet": {
+          "place": 20,
+          "time": "08:28.62",
+          "points": 30
+        },
+        "Final 2421": {
+          "place": 18,
+          "time": "03:04.99",
+          "points": 36
+        },
+        "Final 1815": {
+          "place": 22,
+          "time": "06:35.68",
+          "points": 24
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Lexi Neely",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "BD CrossFit",
+      "age": "Age 21",
+      "height_weight": "62 in | 140 lb",
+      "total_points": 316,
+      "events": {
+        "Lake Day": {
+          "place": 39,
+          "time": "51:03.95",
+          "points": 2
+        },
+        "Midline Climb": {
+          "place": 34,
+          "time": "18:04.52",
+          "points": 12
+        },
+        "Firestorm": {
+          "place": 32,
+          "time": "03:47.30",
+          "points": 16
+        },
+        "Track and Field": {
+          "place": 29,
+          "time": "29 pt",
+          "points": 22
+        },
+        "Chad": {
+          "place": 33,
+          "time": "1:01:31.00",
+          "points": 14
+        },
+        "Clean Ladder": {
+          "place": 25,
+          "time": "25 pt",
+          "points": 30
+        },
+        "Push Pull 2.0": {
+          "place": 1,
+          "time": "06:03.41",
+          "points": 100
+        },
+        "Dickies Triplet": {
+          "place": 26,
+          "time": "09:01.00",
+          "points": 12
+        },
+        "Final 2421": {
+          "place": 14,
+          "time": "02:56.22",
+          "points": 48
+        },
+        "Final 1815": {
+          "place": 11,
+          "time": "05:47.70",
+          "points": 60
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Daisy McDonald",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "Wolfe Den CrossFit",
+      "age": "Age 22",
+      "height_weight": "170 cm | 70 kg",
+      "total_points": 295,
+      "events": {
+        "Lake Day": {
+          "place": 6,
+          "time": "41:36.43",
+          "points": 85
+        },
+        "Midline Climb": {
+          "place": 33,
+          "time": "17:52.08",
+          "points": 14
+        },
+        "Firestorm": {
+          "place": 21,
+          "time": "03:30.42",
+          "points": 40
+        },
+        "Track and Field": {
+          "place": 19,
+          "time": "19 pt",
+          "points": 46
+        },
+        "Chad": {
+          "place": 17,
+          "time": "53:03.00",
+          "points": 52
+        },
+        "Clean Ladder": {
+          "place": 27,
+          "time": "27 pt",
+          "points": 26
+        },
+        "Push Pull 2.0": {
+          "place": 30,
+          "time": "CAP+9",
+          "points": 20
+        },
+        "Dickies Triplet": {
+          "place": 30,
+          "time": "09:53.06",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 29,
+          "time": "03:50.17",
+          "points": 3
+        },
+        "Final 1815": {
+          "place": 27,
+          "time": "CAP+6",
+          "points": 9
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Andreia Pinheiro",
+      "country": "Brazil",
+      "region": "South America",
+      "affiliate": "CrossFit Lago Sul",
+      "age": "Age 41",
+      "height_weight": "170 cm | 72 kg",
+      "total_points": 278,
+      "events": {
+        "Lake Day": {
+          "place": 29,
+          "time": "47:30.55",
+          "points": 22
+        },
+        "Midline Climb": {
+          "place": 32,
+          "time": "17:51.05",
+          "points": 16
+        },
+        "Firestorm": {
+          "place": 23,
+          "time": "03:31.69",
+          "points": 34
+        },
+        "Track and Field": {
+          "place": 28,
+          "time": "28 pt",
+          "points": 24
+        },
+        "Chad": {
+          "place": 7,
+          "time": "49:24.00",
+          "points": 82
+        },
+        "Clean Ladder": {
+          "place": 20,
+          "time": "20 pt",
+          "points": 43
+        },
+        "Push Pull 2.0": {
+          "place": 31,
+          "time": "CAP+14",
+          "points": 18
+        },
+        "Dickies Triplet": {
+          "place": 27,
+          "time": "09:29.75",
+          "points": 9
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "CAP+26",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 20,
+          "time": "06:35.40",
+          "points": 30
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Georgia Pryer",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "Snake CrossFit",
+      "age": "Age 24",
+      "height_weight": "167 cm | 63 kg",
+      "total_points": 269,
+      "events": {
+        "Lake Day": {
+          "place": 30,
+          "time": "47:35.15",
+          "points": 20
+        },
+        "Midline Climb": {
+          "place": 30,
+          "time": "17:49.32",
+          "points": 20
+        },
+        "Firestorm": {
+          "place": 30,
+          "time": "03:42.97",
+          "points": 20
+        },
+        "Track and Field": {
+          "place": 12,
+          "time": "12 pt",
+          "points": 67
+        },
+        "Chad": {
+          "place": 29,
+          "time": "58:15.00",
+          "points": 22
+        },
+        "Clean Ladder": {
+          "place": 27,
+          "time": "27 pt",
+          "points": 26
+        },
+        "Push Pull 2.0": {
+          "place": 19,
+          "time": "09:17.53",
+          "points": 46
+        },
+        "Dickies Triplet": {
+          "place": 28,
+          "time": "09:43.51",
+          "points": 6
+        },
+        "Final 2421": {
+          "place": 22,
+          "time": "03:12.33",
+          "points": 24
+        },
+        "Final 1815": {
+          "place": 24,
+          "time": "06:48.92",
+          "points": 18
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Julia Kato",
+      "country": "Brazil",
+      "region": "South America",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "159 cm | 65 kg",
+      "total_points": 223,
+      "events": {
+        "Lake Day": {
+          "place": 16,
+          "time": "44:22.90",
+          "points": 55
+        },
+        "Midline Climb": {
+          "place": 36,
+          "time": "18:12.93",
+          "points": 8
+        },
+        "Firestorm": {
+          "place": 20,
+          "time": "03:30.26",
+          "points": 43
+        },
+        "Track and Field": {
+          "place": 33,
+          "time": "33 pt",
+          "points": 14
+        },
+        "Chad": {
+          "place": 27,
+          "time": "57:36.00",
+          "points": 26
+        },
+        "Clean Ladder": {
+          "place": 26,
+          "time": "26 pt",
+          "points": 28
+        },
+        "Push Pull 2.0": {
+          "place": 26,
+          "time": "CAP+8",
+          "points": 28
+        },
+        "Dickies Triplet": {
+          "place": 29,
+          "time": "09:52.67",
+          "points": 3
+        },
+        "Final 2421": {
+          "place": 27,
+          "time": "03:35.74",
+          "points": 9
+        },
+        "Final 1815": {
+          "place": 27,
+          "time": "CAP+6",
+          "points": 9
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Arielle Loewen",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "63 in | 150 lb",
+      "total_points": 212,
+      "events": {
+        "Lake Day": {
+          "place": 20,
+          "time": "45:18.54",
+          "points": 43
+        },
+        "Midline Climb": {
+          "place": 8,
+          "time": "15:13.71",
+          "points": 79
+        },
+        "Firestorm": {
+          "place": 24,
+          "time": "03:32.44",
+          "points": 32
+        },
+        "Track and Field": {
+          "place": 23,
+          "time": "23 pt",
+          "points": 34
+        },
+        "Chad": {
+          "place": 28,
+          "time": "57:57.00",
+          "points": 24
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "WD",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 33,
+          "time": "",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Jacqueline Dahlstrøm",
+      "country": "Norway",
+      "region": "Europe",
+      "affiliate": "C23 CrossFit",
+      "age": "Age 32",
+      "height_weight": "167 cm | 67 kg",
+      "total_points": 187,
+      "events": {
+        "Lake Day": {
+          "place": 15,
+          "time": "44:02.95",
+          "points": 58
+        },
+        "Midline Climb": {
+          "place": 22,
+          "time": "16:36.63",
+          "points": 37
+        },
+        "Firestorm": {
+          "place": 27,
+          "time": "03:39.96",
+          "points": 26
+        },
+        "Track and Field": {
+          "place": 24,
+          "time": "24 pt",
+          "points": 32
+        },
+        "Chad": {
+          "place": 23,
+          "time": "56:48.00",
+          "points": 34
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Gemma Rader",
+      "country": "South Africa",
+      "region": "Africa",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "160 cm | 68 kg",
+      "total_points": 182,
+      "events": {
+        "Lake Day": {
+          "place": 17,
+          "time": "44:29.94",
+          "points": 52
+        },
+        "Midline Climb": {
+          "place": 25,
+          "time": "17:06.06",
+          "points": 30
+        },
+        "Firestorm": {
+          "place": 34,
+          "time": "03:54.89",
+          "points": 12
+        },
+        "Track and Field": {
+          "place": 26,
+          "time": "26 pt",
+          "points": 28
+        },
+        "Chad": {
+          "place": 34,
+          "time": "1:01:36.00",
+          "points": 12
+        },
+        "Clean Ladder": {
+          "place": 27,
+          "time": "27 pt",
+          "points": 26
+        },
+        "Push Pull 2.0": {
+          "place": 29,
+          "time": "CAP+9",
+          "points": 22
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Emma Tall",
+      "country": "Sweden",
+      "region": "Europe",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "168 cm | 68 kg",
+      "total_points": 179,
+      "events": {
+        "Lake Day": {
+          "place": 4,
+          "time": "40:35.46",
+          "points": 91
+        },
+        "Midline Climb": {
+          "place": 5,
+          "time": "14:09.80",
+          "points": 88
+        },
+        "Firestorm": {
+          "place": 37,
+          "time": "DNS",
+          "points": 0
+        },
+        "Track and Field": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Chad": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Dawon Jung",
+      "country": "Korea, Republic of",
+      "region": "Asia",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "170 cm | 65 kg",
+      "total_points": 159,
+      "events": {
+        "Lake Day": {
+          "place": 36,
+          "time": "48:45.06",
+          "points": 8
+        },
+        "Midline Climb": {
+          "place": 31,
+          "time": "17:50.08",
+          "points": 18
+        },
+        "Firestorm": {
+          "place": 31,
+          "time": "03:47.27",
+          "points": 18
+        },
+        "Track and Field": {
+          "place": 35,
+          "time": "35 pt",
+          "points": 10
+        },
+        "Chad": {
+          "place": 22,
+          "time": "56:37.00",
+          "points": 37
+        },
+        "Clean Ladder": {
+          "place": 17,
+          "time": "17 pt",
+          "points": 52
+        },
+        "Push Pull 2.0": {
+          "place": 32,
+          "time": "CAP+15",
+          "points": 16
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Dani Speegle",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "CrossFit Invictus",
+      "age": "Age 30",
+      "height_weight": "66 in | 170 lb",
+      "total_points": 141,
+      "events": {
+        "Lake Day": {
+          "place": 37,
+          "time": "48:50.86",
+          "points": 6
+        },
+        "Midline Climb": {
+          "place": 18,
+          "time": "16:19.90",
+          "points": 49
+        },
+        "Firestorm": {
+          "place": 13,
+          "time": "03:25.43",
+          "points": 64
+        },
+        "Track and Field": {
+          "place": 34,
+          "time": "34 pt",
+          "points": 12
+        },
+        "Chad": {
+          "place": 35,
+          "time": "1:03:50.00",
+          "points": 10
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Karin Freyová",
+      "country": "Slovakia",
+      "region": "Europe",
+      "affiliate": "Alpha Prime CrossFit",
+      "age": "Age 29",
+      "height_weight": "170 cm | 72 kg",
+      "total_points": 79,
+      "events": {
+        "Lake Day": {
+          "place": 8,
+          "time": "41:52.54",
+          "points": 79
+        },
+        "Midline Climb": {
+          "place": 39,
+          "time": "DNS",
+          "points": 0
+        },
+        "Firestorm": {
+          "place": 37,
+          "time": "DNS",
+          "points": 0
+        },
+        "Track and Field": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Chad": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Laura Horvath",
+      "country": "Hungary",
+      "region": "Europe",
+      "affiliate": "CrossFit Glasshouse",
+      "age": "Age 27",
+      "height_weight": "170 cm | 70 kg",
+      "total_points": 76,
+      "events": {
+        "Lake Day": {
+          "place": 9,
+          "time": "41:57.36",
+          "points": 76
+        },
+        "Midline Climb": {
+          "place": 39,
+          "time": "DNS",
+          "points": 0
+        },
+        "Firestorm": {
+          "place": 37,
+          "time": "DNS",
+          "points": 0
+        },
+        "Track and Field": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Chad": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "rank_label": "39",
+      "name": "Elisa Fuliano",
+      "country": "Italy",
+      "region": "Europe",
+      "affiliate": "CrossFit Altessano",
+      "age": "Age 28",
+      "height_weight": "157 cm | 61 kg",
+      "total_points": 42,
+      "events": {
+        "Lake Day": {
+          "place": 28,
+          "time": "47:30.10",
+          "points": 24
+        },
+        "Midline Climb": {
+          "place": 35,
+          "time": "18:10.00",
+          "points": 10
+        },
+        "Firestorm": {
+          "place": 36,
+          "time": "04:27.17",
+          "points": 8
+        },
+        "Track and Field": {
+          "place": 36,
+          "time": "",
+          "points": 0
+        },
+        "Chad": {
+          "place": 36,
+          "time": "",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 33,
+          "time": "",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "rank_label": "40",
+      "name": "Victoria Campos",
+      "country": "Brazil",
+      "region": "South America",
+      "affiliate": "CrossFit Mayhem",
+      "age": "Age 31",
+      "height_weight": "161 cm | 140 lb",
+      "total_points": 14,
+      "events": {
+        "Lake Day": {
+          "place": 35,
+          "time": "48:07.07",
+          "points": 10
+        },
+        "Midline Climb": {
+          "place": 38,
+          "time": "19:18.97",
+          "points": 4
+        },
+        "Firestorm": {
+          "place": 37,
+          "time": "DNS",
+          "points": 0
+        },
+        "Track and Field": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Chad": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

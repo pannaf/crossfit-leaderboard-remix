@@ -1,0 +1,2636 @@
+{
+  "year": 2016,
+  "gender": "women",
+  "events": [
+    "Points available: 100 points",
+    "Points available: 100 points",
+    "Points available: 100 points",
+    "Points available: 100 points",
+    "Points available: 100 points",
+    "Points available: 100 points",
+    "Points available: 100 points",
+    "Points available: 100 points",
+    "Points available: 100 points (or 50)",
+    "For time:",
+    "Points available: 50 points",
+    "Points available: 50 points",
+    "Points available: 50 points",
+    "Points available: 100 points",
+    "Points available: 100 points"
+  ],
+  "event_point_map": {
+    "Points available: 100 points": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "17": 46,
+      "18": 44,
+      "23": 34,
+      "28": 24,
+      "34": 12,
+      "38": 4
+    },
+    "Points available: 100 points (or 50)": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 13,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2,
+      "40": 0
+    },
+    "For time:": {
+      "1": 100,
+      "2": 94,
+      "3": 88,
+      "4": 84,
+      "5": 80,
+      "6": 76,
+      "7": 72,
+      "8": 68,
+      "9": 64,
+      "10": 60,
+      "11": 58,
+      "12": 56,
+      "13": 54,
+      "14": 52,
+      "15": 50,
+      "16": 48,
+      "17": 46,
+      "18": 44,
+      "19": 42,
+      "20": 40,
+      "21": 38,
+      "22": 36,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2,
+      "40": 0
+    },
+    "Points available: 50 points": {
+      "1": 50,
+      "2": 47,
+      "3": 44,
+      "4": 42,
+      "5": 40,
+      "6": 38,
+      "7": 36,
+      "8": 34,
+      "9": 32,
+      "10": 30,
+      "11": 29,
+      "12": 28,
+      "13": 27,
+      "14": 26,
+      "15": 25,
+      "16": 24,
+      "17": 23,
+      "18": 22,
+      "19": 21,
+      "20": 20,
+      "21": 19,
+      "22": 18,
+      "23": 17,
+      "24": 16,
+      "25": 15,
+      "26": 14,
+      "27": 13,
+      "28": 12,
+      "29": 11,
+      "30": 10,
+      "31": 9,
+      "32": 8,
+      "33": 7,
+      "34": 6,
+      "35": 5,
+      "37": 3,
+      "39": 1
+    }
+  },
+  "event_field_size": {
+    "Points available: 100 points": 38,
+    "Points available: 100 points (or 50)": 40,
+    "For time:": 40,
+    "Points available: 50 points": 39
+  },
+  "event_place_points": {
+    "Points available: 100 points": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      0,
+      0,
+      0,
+      0,
+      46,
+      44,
+      0,
+      0,
+      0,
+      0,
+      34,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      0,
+      0,
+      0,
+      4
+    ],
+    "Points available: 100 points (or 50)": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      13,
+      10,
+      8,
+      6,
+      4,
+      2,
+      0
+    ],
+    "For time:": [
+      100,
+      94,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      0,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2,
+      0
+    ],
+    "Points available: 50 points": [
+      50,
+      47,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      29,
+      28,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9,
+      8,
+      7,
+      6,
+      5,
+      0,
+      3,
+      0,
+      1
+    ]
+  },
+  "event_ordinals": {
+    "Points available: 100 points": 15,
+    "Points available: 100 points (or 50)": 9,
+    "For time:": 10,
+    "Points available: 50 points": 13
+  },
+  "event_finish_order": {
+    "Points available: 100 points": [
+      {
+        "name": "Alethea Boon",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alexis Johnson",
+        "place": 1,
+        "points": 100,
+        "time": "7:31.34"
+      },
+      {
+        "name": "Carleen Mathews",
+        "place": 2,
+        "points": 94,
+        "time": "8:18.65"
+      },
+      {
+        "name": "Kari Pearce",
+        "place": 3,
+        "points": 88,
+        "time": "8:25.01"
+      },
+      {
+        "name": "Kristi Eramo",
+        "place": 4,
+        "points": 84,
+        "time": "8:25.76"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 5,
+        "points": 80,
+        "time": "8:43.28"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 6,
+        "points": 76,
+        "time": "8:44.96"
+      },
+      {
+        "name": "Alea Helmick",
+        "place": 7,
+        "points": 72,
+        "time": "9:09.01"
+      },
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 8,
+        "points": 68,
+        "time": "9:15.51"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 9,
+        "points": 64,
+        "time": "9:29.99"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 10,
+        "points": 60,
+        "time": "9:48.19"
+      },
+      {
+        "name": "Candice Savage-Wagner",
+        "place": 11,
+        "points": 58,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Katrin Tanja Davidsdottir",
+        "place": 12,
+        "points": 56,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 12,
+        "points": 56,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 12,
+        "points": 56,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Jamie Hagiya",
+        "place": 12,
+        "points": 56,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 12,
+        "points": 56,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 17,
+        "points": 46,
+        "time": "CAP+22"
+      },
+      {
+        "name": "Ragnheiður Sara Sigmundsdottir",
+        "place": 18,
+        "points": 44,
+        "time": "CAP+26"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 18,
+        "points": 44,
+        "time": "CAP+26"
+      },
+      {
+        "name": "Carol-Ann Reason-Thibault",
+        "place": 18,
+        "points": 44,
+        "time": "CAP+26"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 18,
+        "points": 44,
+        "time": "CAP+26"
+      },
+      {
+        "name": "Whitney Elks",
+        "place": 18,
+        "points": 44,
+        "time": "CAP+26"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+27"
+      },
+      {
+        "name": "Tasia Percevecz",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+27"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+27"
+      },
+      {
+        "name": "Jennifer Smith",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+27"
+      },
+      {
+        "name": "Carly Fuhrer",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+27"
+      },
+      {
+        "name": "Tennil Beuerlein",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+49"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+49"
+      },
+      {
+        "name": "Thuridur Erla Helgadottir",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+49"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+49"
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+49"
+      },
+      {
+        "name": "Meg Reardon",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+49"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 34,
+        "points": 12,
+        "time": "CAP+50"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 34,
+        "points": 12,
+        "time": "CAP+50"
+      },
+      {
+        "name": "Christina Seeley",
+        "place": 34,
+        "points": 12,
+        "time": "CAP+50"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 34,
+        "points": 12,
+        "time": "CAP+50"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 38,
+        "points": 4,
+        "time": "CAP+51"
+      },
+      {
+        "name": "Justine Beath",
+        "place": 38,
+        "points": 4,
+        "time": "CAP+51"
+      }
+    ],
+    "Points available: 100 points (or 50)": [
+      {
+        "name": "Kari Pearce",
+        "place": 1,
+        "points": 100,
+        "time": "13:13.74"
+      },
+      {
+        "name": "Katrin Tanja Davidsdottir",
+        "place": 2,
+        "points": 94,
+        "time": "13:17.29"
+      },
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 3,
+        "points": 88,
+        "time": "13:21.66"
+      },
+      {
+        "name": "Tasia Percevecz",
+        "place": 4,
+        "points": 84,
+        "time": "13:22.27"
+      },
+      {
+        "name": "Ragnheiður Sara Sigmundsdottir",
+        "place": 5,
+        "points": 80,
+        "time": "13:37.17"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 6,
+        "points": 76,
+        "time": "13:55.60"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 7,
+        "points": 72,
+        "time": "14:13.90"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 8,
+        "points": 68,
+        "time": "14:28.70"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 9,
+        "points": 64,
+        "time": "14:57.44"
+      },
+      {
+        "name": "Tennil Beuerlein",
+        "place": 10,
+        "points": 60,
+        "time": "14:57.99"
+      },
+      {
+        "name": "Kristi Eramo",
+        "place": 11,
+        "points": 58,
+        "time": "14:58.03"
+      },
+      {
+        "name": "Carol-Ann Reason-Thibault",
+        "place": 12,
+        "points": 56,
+        "time": "15:10.71"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 13,
+        "points": 54,
+        "time": "15:30.98"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 14,
+        "points": 52,
+        "time": "15:32.95"
+      },
+      {
+        "name": "Alea Helmick",
+        "place": 15,
+        "points": 50,
+        "time": "15:41.51"
+      },
+      {
+        "name": "Alexis Johnson",
+        "place": 16,
+        "points": 48,
+        "time": "15:54.00"
+      },
+      {
+        "name": "Alethea Boon",
+        "place": 17,
+        "points": 46,
+        "time": "15:56.30"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 18,
+        "points": 44,
+        "time": "CAP"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 19,
+        "points": 42,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Christina Seeley",
+        "place": 20,
+        "points": 40,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Jamie Hagiya",
+        "place": 21,
+        "points": 38,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Jennifer Smith",
+        "place": 22,
+        "points": 36,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Thuridur Erla Helgadottir",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 24,
+        "points": 32,
+        "time": "CAP+12"
+      },
+      {
+        "name": "Justine Beath",
+        "place": 25,
+        "points": 30,
+        "time": "CAP+12"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 26,
+        "points": 28,
+        "time": "CAP+19"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 27,
+        "points": 26,
+        "time": "CAP+22"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+28"
+      },
+      {
+        "name": "Candice Savage-Wagner",
+        "place": 29,
+        "points": 22,
+        "time": "CAP+33"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 30,
+        "points": 20,
+        "time": "CAP+39"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 31,
+        "points": 18,
+        "time": "CAP+40"
+      },
+      {
+        "name": "Whitney Elks",
+        "place": 32,
+        "points": 16,
+        "time": "CAP+41"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 33,
+        "points": 14,
+        "time": "CAP+46"
+      },
+      {
+        "name": "Carly Fuhrer",
+        "place": 34,
+        "points": 13,
+        "time": "CAP+47"
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 35,
+        "points": 10,
+        "time": "CAP+47"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 36,
+        "points": 8,
+        "time": "CAP+54"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 37,
+        "points": 6,
+        "time": "CAP+75"
+      },
+      {
+        "name": "Carleen Mathews",
+        "place": 38,
+        "points": 4,
+        "time": "CAP+86"
+      },
+      {
+        "name": "Meg Reardon",
+        "place": 39,
+        "points": 2,
+        "time": "CAP+90"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 40,
+        "points": 0,
+        "time": "CAP+91"
+      }
+    ],
+    "For time:": [
+      {
+        "name": "Alessandra Pichelli",
+        "place": 1,
+        "points": 100,
+        "time": "2:24.00"
+      },
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 2,
+        "points": 94,
+        "time": "2:28.96"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 3,
+        "points": 88,
+        "time": "2:31.39"
+      },
+      {
+        "name": "Alea Helmick",
+        "place": 4,
+        "points": 84,
+        "time": "2:32.40"
+      },
+      {
+        "name": "Ragnheiður Sara Sigmundsdottir",
+        "place": 5,
+        "points": 80,
+        "time": "2:32.87"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 6,
+        "points": 76,
+        "time": "2:33.68"
+      },
+      {
+        "name": "Katrin Tanja Davidsdottir",
+        "place": 7,
+        "points": 72,
+        "time": "2:33.96"
+      },
+      {
+        "name": "Tasia Percevecz",
+        "place": 8,
+        "points": 68,
+        "time": "2:34.61"
+      },
+      {
+        "name": "Kari Pearce",
+        "place": 9,
+        "points": 64,
+        "time": "2:34.69"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 10,
+        "points": 60,
+        "time": "2:39.00"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 11,
+        "points": 58,
+        "time": "2:40.52"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 12,
+        "points": 56,
+        "time": "2:43.88"
+      },
+      {
+        "name": "Meg Reardon",
+        "place": 13,
+        "points": 54,
+        "time": "2:46.14"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 14,
+        "points": 52,
+        "time": "2:48.86"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 15,
+        "points": 50,
+        "time": "2:50.00"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 16,
+        "points": 48,
+        "time": "2:50.16"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 17,
+        "points": 46,
+        "time": "2:52.23"
+      },
+      {
+        "name": "Jamie Hagiya",
+        "place": 18,
+        "points": 44,
+        "time": "2:52.58"
+      },
+      {
+        "name": "Carol-Ann Reason-Thibault",
+        "place": 19,
+        "points": 42,
+        "time": "2:54.46"
+      },
+      {
+        "name": "Kristi Eramo",
+        "place": 20,
+        "points": 40,
+        "time": "2:55.31"
+      },
+      {
+        "name": "Carly Fuhrer",
+        "place": 21,
+        "points": 38,
+        "time": "2:56.88"
+      },
+      {
+        "name": "Carleen Mathews",
+        "place": 22,
+        "points": 36,
+        "time": "02:57.37 "
+      },
+      {
+        "name": "Whitney Elks",
+        "place": 22,
+        "points": 36,
+        "time": "02:57.37 "
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 24,
+        "points": 32,
+        "time": "2:57.52"
+      },
+      {
+        "name": "Candice Savage-Wagner",
+        "place": 25,
+        "points": 30,
+        "time": "2:57.98"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 26,
+        "points": 28,
+        "time": "3:01.41"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 27,
+        "points": 26,
+        "time": "3:01.96"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 28,
+        "points": 24,
+        "time": "3:07.24"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 29,
+        "points": 22,
+        "time": "3:13.54"
+      },
+      {
+        "name": "Tennil Beuerlein",
+        "place": 30,
+        "points": 20,
+        "time": "3:15.20"
+      },
+      {
+        "name": "Thuridur Erla Helgadottir",
+        "place": 31,
+        "points": 18,
+        "time": "3:17.04"
+      },
+      {
+        "name": "Alexis Johnson",
+        "place": 32,
+        "points": 16,
+        "time": "3:22.82"
+      },
+      {
+        "name": "Christina Seeley",
+        "place": 33,
+        "points": 14,
+        "time": "3:22.83"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 34,
+        "points": 12,
+        "time": "3:23.00"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 35,
+        "points": 10,
+        "time": "3:23.28"
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 36,
+        "points": 8,
+        "time": "3:36.53"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 37,
+        "points": 6,
+        "time": "3:59.56"
+      },
+      {
+        "name": "Justine Beath",
+        "place": 38,
+        "points": 4,
+        "time": "3:59.79"
+      },
+      {
+        "name": "Jennifer Smith",
+        "place": 39,
+        "points": 2,
+        "time": "4:11.05"
+      },
+      {
+        "name": "Alethea Boon",
+        "place": 40,
+        "points": 0,
+        "time": "CAP+47"
+      }
+    ],
+    "Points available: 50 points": [
+      {
+        "name": "Alethea Boon",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Katrin Tanja Davidsdottir",
+        "place": 1,
+        "points": 50,
+        "time": "1:38.48"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 2,
+        "points": 47,
+        "time": "1:39.17"
+      },
+      {
+        "name": "Ragnheiður Sara Sigmundsdottir",
+        "place": 3,
+        "points": 44,
+        "time": "1:44.46"
+      },
+      {
+        "name": "Lauren Fisher",
+        "place": 4,
+        "points": 42,
+        "time": "1:48.69"
+      },
+      {
+        "name": "Anna Tobias",
+        "place": 5,
+        "points": 40,
+        "time": "1:51.26"
+      },
+      {
+        "name": "Tia-Clair Toomey",
+        "place": 6,
+        "points": 38,
+        "time": "1:54.59"
+      },
+      {
+        "name": "Emily Abbott",
+        "place": 7,
+        "points": 36,
+        "time": "1:55.44"
+      },
+      {
+        "name": "Kara Saunders",
+        "place": 8,
+        "points": 34,
+        "time": "1:58.00"
+      },
+      {
+        "name": "Brooke Wells",
+        "place": 9,
+        "points": 32,
+        "time": "1:59.00"
+      },
+      {
+        "name": "Carly Fuhrer",
+        "place": 10,
+        "points": 30,
+        "time": "2:01.48"
+      },
+      {
+        "name": "Chyna Cho",
+        "place": 11,
+        "points": 29,
+        "time": "2:06.40"
+      },
+      {
+        "name": "Tasia Percevecz",
+        "place": 12,
+        "points": 28,
+        "time": "2:07.17"
+      },
+      {
+        "name": "Kari Pearce",
+        "place": 13,
+        "points": 27,
+        "time": "2:08.49"
+      },
+      {
+        "name": "Margaux Alvarez",
+        "place": 14,
+        "points": 26,
+        "time": "2:09.64"
+      },
+      {
+        "name": "Thuridur Erla Helgadottir",
+        "place": 15,
+        "points": 25,
+        "time": "2:10.97"
+      },
+      {
+        "name": "Christy Adkins",
+        "place": 16,
+        "points": 24,
+        "time": "2:12.32"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 17,
+        "points": 23,
+        "time": "2:12.68"
+      },
+      {
+        "name": "Jamie Hagiya",
+        "place": 18,
+        "points": 22,
+        "time": "2:17.38"
+      },
+      {
+        "name": "Camille Leblanc-Bazinet",
+        "place": 19,
+        "points": 21,
+        "time": "2:19.27"
+      },
+      {
+        "name": "Alexis Johnson",
+        "place": 20,
+        "points": 20,
+        "time": "2:19.41"
+      },
+      {
+        "name": "Carol-Ann Reason-Thibault",
+        "place": 21,
+        "points": 19,
+        "time": "2:20.74"
+      },
+      {
+        "name": "Rebecca Voigt",
+        "place": 22,
+        "points": 18,
+        "time": "2:29.49"
+      },
+      {
+        "name": "Jennifer Smith",
+        "place": 23,
+        "points": 17,
+        "time": "2:36.81"
+      },
+      {
+        "name": "Whitney Elks",
+        "place": 24,
+        "points": 16,
+        "time": "2:40.28"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 25,
+        "points": 15,
+        "time": "2:42.51"
+      },
+      {
+        "name": "Tennil Beuerlein",
+        "place": 26,
+        "points": 14,
+        "time": "2:43.32"
+      },
+      {
+        "name": "Carleen Mathews",
+        "place": 27,
+        "points": 13,
+        "time": "2:43.70"
+      },
+      {
+        "name": "Meg Reardon",
+        "place": 28,
+        "points": 12,
+        "time": "2:45.44"
+      },
+      {
+        "name": "Madeline Sturt",
+        "place": 29,
+        "points": 11,
+        "time": "2:48.02"
+      },
+      {
+        "name": "Sheila Barden",
+        "place": 30,
+        "points": 10,
+        "time": "2:48.45"
+      },
+      {
+        "name": "Christina Seeley",
+        "place": 31,
+        "points": 9,
+        "time": "2:54.04"
+      },
+      {
+        "name": "Alessandra Pichelli",
+        "place": 32,
+        "points": 8,
+        "time": "2:54.57"
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 33,
+        "points": 7,
+        "time": "2:59.41"
+      },
+      {
+        "name": "Kristin Holte",
+        "place": 34,
+        "points": 6,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Kristi Eramo",
+        "place": 35,
+        "points": 5,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Justine Beath",
+        "place": 35,
+        "points": 5,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Candice Savage-Wagner",
+        "place": 37,
+        "points": 3,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Emily Bridgers",
+        "place": 37,
+        "points": 3,
+        "time": "CAP+3"
+      },
+      {
+        "name": "Alea Helmick",
+        "place": 39,
+        "points": 1,
+        "time": "CAP+4"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Katrin Tanja Davidsdottir",
+      "country": "United States",
+      "region": "North East",
+      "affiliate": "CrossFit New England",
+      "age": "Age 23",
+      "height_weight": "169 cm | 152 lb",
+      "total_points": 984,
+      "events": {
+        "Points available: 100 points": {
+          "place": 12,
+          "time": "CAP+10",
+          "points": 56
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 2,
+          "time": "13:17.29",
+          "points": 94
+        },
+        "For time:": {
+          "place": 7,
+          "time": "2:33.96",
+          "points": 72
+        },
+        "Points available: 50 points": {
+          "place": 1,
+          "time": "1:38.48",
+          "points": 50
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Tia-Clair Toomey",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "CrossFit Gladstone",
+      "age": "Age 22",
+      "height_weight": "163 cm | 58 kg",
+      "total_points": 973,
+      "events": {
+        "Points available: 100 points": {
+          "place": 8,
+          "time": "9:15.51",
+          "points": 68
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 3,
+          "time": "13:21.66",
+          "points": 88
+        },
+        "For time:": {
+          "place": 2,
+          "time": "2:28.96",
+          "points": 94
+        },
+        "Points available: 50 points": {
+          "place": 6,
+          "time": "1:54.59",
+          "points": 38
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Ragnheiður Sara Sigmundsdottir",
+      "country": "Iceland",
+      "region": "Europe",
+      "affiliate": "CrossFit Sudurnes",
+      "age": "Age 23",
+      "height_weight": "173 cm | 69 kg",
+      "total_points": 919,
+      "events": {
+        "Points available: 100 points": {
+          "place": 18,
+          "time": "CAP+26",
+          "points": 44
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 5,
+          "time": "13:37.17",
+          "points": 80
+        },
+        "For time:": {
+          "place": 5,
+          "time": "2:32.87",
+          "points": 80
+        },
+        "Points available: 50 points": {
+          "place": 3,
+          "time": "1:44.46",
+          "points": 44
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Samantha Briggs",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "affiliate": "CrossFit Black Five",
+      "age": "Age 34",
+      "height_weight": "170 cm | 135 lb",
+      "total_points": 874,
+      "events": {
+        "Points available: 100 points": {
+          "place": 18,
+          "time": "CAP+26",
+          "points": 44
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 19,
+          "time": "CAP+1",
+          "points": 42
+        },
+        "For time:": {
+          "place": 15,
+          "time": "2:50.00",
+          "points": 50
+        },
+        "Points available: 50 points": {
+          "place": 2,
+          "time": "1:39.17",
+          "points": 47
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Kari Pearce",
+      "country": "United States",
+      "region": "North East",
+      "affiliate": "CrossFit Spot",
+      "age": "Age 27",
+      "height_weight": "63 in | 139 lb",
+      "total_points": 804,
+      "events": {
+        "Points available: 100 points": {
+          "place": 3,
+          "time": "8:25.01",
+          "points": 88
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 1,
+          "time": "13:13.74",
+          "points": 100
+        },
+        "For time:": {
+          "place": 9,
+          "time": "2:34.69",
+          "points": 64
+        },
+        "Points available: 50 points": {
+          "place": 13,
+          "time": "2:08.49",
+          "points": 27
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Brooke Wells",
+      "country": "United States",
+      "region": "North Central",
+      "affiliate": "CrossFit Fringe",
+      "age": "Age 21",
+      "height_weight": "66 in | 150 lb",
+      "total_points": 796,
+      "events": {
+        "Points available: 100 points": {
+          "place": 38,
+          "time": "CAP+51",
+          "points": 4
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 6,
+          "time": "13:55.60",
+          "points": 76
+        },
+        "For time:": {
+          "place": 3,
+          "time": "2:31.39",
+          "points": 88
+        },
+        "Points available: 50 points": {
+          "place": 9,
+          "time": "1:59.00",
+          "points": 32
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Kara Saunders",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "CrossFit Roar",
+      "age": "Age 26",
+      "height_weight": "162 cm | 162 lb",
+      "total_points": 794,
+      "events": {
+        "Points available: 100 points": {
+          "place": 12,
+          "time": "CAP+10",
+          "points": 56
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 30,
+          "time": "CAP+39",
+          "points": 20
+        },
+        "For time:": {
+          "place": 11,
+          "time": "2:40.52",
+          "points": 58
+        },
+        "Points available: 50 points": {
+          "place": 8,
+          "time": "1:58.00",
+          "points": 34
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Kristi Eramo",
+      "country": "United States",
+      "region": "Central East",
+      "affiliate": "Four Barrel CrossFit East",
+      "age": "Age 27",
+      "height_weight": "62 in | 132 lb",
+      "total_points": 767,
+      "events": {
+        "Points available: 100 points": {
+          "place": 4,
+          "time": "8:25.76",
+          "points": 84
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 11,
+          "time": "14:58.03",
+          "points": 58
+        },
+        "For time:": {
+          "place": 20,
+          "time": "2:55.31",
+          "points": 40
+        },
+        "Points available: 50 points": {
+          "place": 35,
+          "time": "CAP+2",
+          "points": 5
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Alessandra Pichelli",
+      "country": "United States",
+      "region": "Northern California",
+      "affiliate": "Diablo CrossFit",
+      "age": "Age 30",
+      "height_weight": "66 in | 155 lb",
+      "total_points": 745,
+      "events": {
+        "Points available: 100 points": {
+          "place": 12,
+          "time": "CAP+10",
+          "points": 56
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 13,
+          "time": "15:30.98",
+          "points": 54
+        },
+        "For time:": {
+          "place": 1,
+          "time": "2:24.00",
+          "points": 100
+        },
+        "Points available: 50 points": {
+          "place": 32,
+          "time": "2:54.57",
+          "points": 8
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Anna Tobias",
+      "country": "United States",
+      "region": "Mid Atlantic",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "167 cm | 143 lb",
+      "total_points": 738,
+      "events": {
+        "Points available: 100 points": {
+          "place": 17,
+          "time": "CAP+22",
+          "points": 46
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 7,
+          "time": "14:13.90",
+          "points": 72
+        },
+        "For time:": {
+          "place": 12,
+          "time": "2:43.88",
+          "points": 56
+        },
+        "Points available: 50 points": {
+          "place": 5,
+          "time": "1:51.26",
+          "points": 40
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Tennil Beuerlein",
+      "country": "United States",
+      "region": "South West",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "66 in | 158 lb",
+      "total_points": 707,
+      "events": {
+        "Points available: 100 points": {
+          "place": 28,
+          "time": "CAP+49",
+          "points": 24
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 10,
+          "time": "14:57.99",
+          "points": 60
+        },
+        "For time:": {
+          "place": 30,
+          "time": "3:15.20",
+          "points": 20
+        },
+        "Points available: 50 points": {
+          "place": 26,
+          "time": "2:43.32",
+          "points": 14
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Kristin Holte",
+      "country": "Norway",
+      "region": "Europe",
+      "affiliate": "CrossFit Oslo",
+      "age": "Age 30",
+      "height_weight": "162 cm | 59 kg",
+      "total_points": 696,
+      "events": {
+        "Points available: 100 points": {
+          "place": 34,
+          "time": "CAP+50",
+          "points": 12
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 14,
+          "time": "15:32.95",
+          "points": 52
+        },
+        "For time:": {
+          "place": 6,
+          "time": "2:33.68",
+          "points": 76
+        },
+        "Points available: 50 points": {
+          "place": 34,
+          "time": "CAP+1",
+          "points": 6
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Annie Thorisdottir",
+      "country": "Iceland",
+      "region": "Europe",
+      "affiliate": "CrossFit Reykjavík",
+      "age": "Age 26",
+      "height_weight": "170 cm | 152 lb",
+      "total_points": 682,
+      "events": {
+        "Points available: 100 points": {
+          "place": 23,
+          "time": "CAP+27",
+          "points": 34
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 18,
+          "time": "CAP",
+          "points": 44
+        },
+        "For time:": {
+          "place": 10,
+          "time": "2:39.00",
+          "points": 60
+        },
+        "Points available: 50 points": {
+          "place": 17,
+          "time": "2:12.68",
+          "points": 23
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Carol-Ann Reason-Thibault",
+      "country": "Canada",
+      "region": "Canada East",
+      "affiliate": "CrossFit Quebec City",
+      "age": "Age 28",
+      "height_weight": "164 cm | 142 lb",
+      "total_points": 659,
+      "events": {
+        "Points available: 100 points": {
+          "place": 18,
+          "time": "CAP+26",
+          "points": 44
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 12,
+          "time": "15:10.71",
+          "points": 56
+        },
+        "For time:": {
+          "place": 19,
+          "time": "2:54.46",
+          "points": 42
+        },
+        "Points available: 50 points": {
+          "place": 21,
+          "time": "2:20.74",
+          "points": 19
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Tasia Percevecz",
+      "country": "United States",
+      "region": "North East",
+      "affiliate": "CrossFit Free",
+      "age": "Age 25",
+      "height_weight": "65 in | 160 lb",
+      "total_points": 638,
+      "events": {
+        "Points available: 100 points": {
+          "place": 23,
+          "time": "CAP+27",
+          "points": 34
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 4,
+          "time": "13:22.27",
+          "points": 84
+        },
+        "For time:": {
+          "place": 8,
+          "time": "2:34.61",
+          "points": 68
+        },
+        "Points available: 50 points": {
+          "place": 12,
+          "time": "2:07.17",
+          "points": 28
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Michele Letendre",
+      "country": "Canada",
+      "region": "Canada East",
+      "affiliate": "Deka CrossFit",
+      "age": "Age 30",
+      "height_weight": "61 in | 130 lb",
+      "total_points": 613,
+      "events": {
+        "Points available: 100 points": {
+          "place": 10,
+          "time": "9:48.19",
+          "points": 60
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 9,
+          "time": "14:57.44",
+          "points": 64
+        },
+        "For time:": {
+          "place": 14,
+          "time": "2:48.86",
+          "points": 52
+        },
+        "Points available: 50 points": {
+          "place": 25,
+          "time": "2:42.51",
+          "points": 15
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Chyna Cho",
+      "country": "United States",
+      "region": "Northern California",
+      "affiliate": "CrossFit of Fremont",
+      "age": "Age 29",
+      "height_weight": "68 in | 148 lb",
+      "total_points": 612,
+      "events": {
+        "Points available: 100 points": {
+          "place": 28,
+          "time": "CAP+49",
+          "points": 24
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 36,
+          "time": "CAP+54",
+          "points": 8
+        },
+        "For time:": {
+          "place": 17,
+          "time": "2:52.23",
+          "points": 46
+        },
+        "Points available: 50 points": {
+          "place": 11,
+          "time": "2:06.40",
+          "points": 29
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Jamie Hagiya",
+      "country": "United States",
+      "region": "Southern California",
+      "affiliate": "Torrance CrossFit",
+      "age": "Age 31",
+      "height_weight": "63 in | 150 lb",
+      "total_points": 574,
+      "events": {
+        "Points available: 100 points": {
+          "place": 12,
+          "time": "CAP+10",
+          "points": 56
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 21,
+          "time": "CAP+2",
+          "points": 38
+        },
+        "For time:": {
+          "place": 18,
+          "time": "2:52.58",
+          "points": 44
+        },
+        "Points available: 50 points": {
+          "place": 18,
+          "time": "2:17.38",
+          "points": 22
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Thuridur Erla Helgadottir",
+      "country": "Iceland",
+      "region": "Europe",
+      "affiliate": "CrossFit Sport",
+      "age": "Age 24",
+      "height_weight": "164 cm | 59 kg",
+      "total_points": 563,
+      "events": {
+        "Points available: 100 points": {
+          "place": 28,
+          "time": "CAP+49",
+          "points": 24
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 23,
+          "time": "CAP+8",
+          "points": 34
+        },
+        "For time:": {
+          "place": 31,
+          "time": "3:17.04",
+          "points": 18
+        },
+        "Points available: 50 points": {
+          "place": 15,
+          "time": "2:10.97",
+          "points": 25
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Emily Abbott",
+      "country": "Canada",
+      "region": "Canada West",
+      "affiliate": "CrossFit Currie Barracks",
+      "age": "Age 27",
+      "height_weight": "67 in | 157 lb",
+      "total_points": 562,
+      "events": {
+        "Points available: 100 points": {
+          "place": 18,
+          "time": "CAP+26",
+          "points": 44
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 37,
+          "time": "CAP+75",
+          "points": 6
+        },
+        "For time:": {
+          "place": 16,
+          "time": "2:50.16",
+          "points": 48
+        },
+        "Points available: 50 points": {
+          "place": 7,
+          "time": "1:55.44",
+          "points": 36
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Camille Leblanc-Bazinet",
+      "country": "United States",
+      "region": "South West",
+      "affiliate": "CrossFit Roots",
+      "age": "Age 27",
+      "height_weight": "62 in | 130 lb",
+      "total_points": 561,
+      "events": {
+        "Points available: 100 points": {
+          "place": 9,
+          "time": "9:29.99",
+          "points": 64
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 8,
+          "time": "14:28.70",
+          "points": 68
+        },
+        "For time:": {
+          "place": 28,
+          "time": "3:07.24",
+          "points": 24
+        },
+        "Points available: 50 points": {
+          "place": 19,
+          "time": "2:19.27",
+          "points": 21
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Margaux Alvarez",
+      "country": "United States",
+      "region": "North West",
+      "affiliate": "ZooTown CrossFit",
+      "age": "Age 31",
+      "height_weight": "67 in | 152 lb",
+      "total_points": 542,
+      "events": {
+        "Points available: 100 points": {
+          "place": 28,
+          "time": "CAP+49",
+          "points": 24
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 31,
+          "time": "CAP+40",
+          "points": 18
+        },
+        "For time:": {
+          "place": 26,
+          "time": "3:01.41",
+          "points": 28
+        },
+        "Points available: 50 points": {
+          "place": 14,
+          "time": "2:09.64",
+          "points": 26
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Carleen Mathews",
+      "country": "United States",
+      "region": "North West",
+      "affiliate": "CrossFit Saint Helens",
+      "age": "Age 32",
+      "height_weight": "62 in | 140 lb",
+      "total_points": 532,
+      "events": {
+        "Points available: 100 points": {
+          "place": 2,
+          "time": "8:18.65",
+          "points": 94
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 38,
+          "time": "CAP+86",
+          "points": 4
+        },
+        "For time:": {
+          "place": 22,
+          "time": "02:57.37 ",
+          "points": 36
+        },
+        "Points available: 50 points": {
+          "place": 27,
+          "time": "2:43.70",
+          "points": 13
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Christy Adkins",
+      "country": "United States",
+      "region": "Mid Atlantic",
+      "affiliate": "CrossFit Reston",
+      "age": "Age 31",
+      "height_weight": "64 in | 135 lb",
+      "total_points": 519,
+      "events": {
+        "Points available: 100 points": {
+          "place": 5,
+          "time": "8:43.28",
+          "points": 80
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 28,
+          "time": "CAP+28",
+          "points": 24
+        },
+        "For time:": {
+          "place": 24,
+          "time": "2:57.52",
+          "points": 32
+        },
+        "Points available: 50 points": {
+          "place": 16,
+          "time": "2:12.32",
+          "points": 24
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Lauren Fisher",
+      "country": "United States",
+      "region": "Southern California",
+      "affiliate": "CrossFit Invictus",
+      "age": "Age 22",
+      "height_weight": "65 in | 140 lb",
+      "total_points": 495,
+      "events": {
+        "Points available: 100 points": {
+          "place": 34,
+          "time": "CAP+50",
+          "points": 12
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 27,
+          "time": "CAP+22",
+          "points": 26
+        },
+        "For time:": {
+          "place": 27,
+          "time": "3:01.96",
+          "points": 26
+        },
+        "Points available: 50 points": {
+          "place": 4,
+          "time": "1:48.69",
+          "points": 42
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Alea Helmick",
+      "country": "United States",
+      "region": "Mid Atlantic",
+      "affiliate": "CrossFit Revamped",
+      "age": "Age 29",
+      "height_weight": "68 in | 148 lb",
+      "total_points": 486,
+      "events": {
+        "Points available: 100 points": {
+          "place": 7,
+          "time": "9:09.01",
+          "points": 72
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 15,
+          "time": "15:41.51",
+          "points": 50
+        },
+        "For time:": {
+          "place": 4,
+          "time": "2:32.40",
+          "points": 84
+        },
+        "Points available: 50 points": {
+          "place": 39,
+          "time": "CAP+4",
+          "points": 1
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Candice Savage-Wagner",
+      "country": "United States",
+      "region": "South Central",
+      "affiliate": "CrossFit Iron Horse",
+      "age": "Age 31",
+      "height_weight": "63 in | 133 lb",
+      "total_points": 471,
+      "events": {
+        "Points available: 100 points": {
+          "place": 11,
+          "time": "CAP+4",
+          "points": 58
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 29,
+          "time": "CAP+33",
+          "points": 22
+        },
+        "For time:": {
+          "place": 25,
+          "time": "2:57.98",
+          "points": 30
+        },
+        "Points available: 50 points": {
+          "place": 37,
+          "time": "CAP+3",
+          "points": 3
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Stacie Tovar",
+      "country": "United States",
+      "region": "North Central",
+      "affiliate": "CrossFit Omaha",
+      "age": "Age 31",
+      "height_weight": "65 in | 143 lb",
+      "total_points": 454,
+      "events": {
+        "Points available: 100 points": {
+          "place": 28,
+          "time": "CAP+49",
+          "points": 24
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 35,
+          "time": "CAP+47",
+          "points": 10
+        },
+        "For time:": {
+          "place": 36,
+          "time": "3:36.53",
+          "points": 8
+        },
+        "Points available: 50 points": {
+          "place": 33,
+          "time": "2:59.41",
+          "points": 7
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Emily Bridgers",
+      "country": "United States",
+      "region": "South East",
+      "affiliate": "CrossFit Terminus",
+      "age": "Age 29",
+      "height_weight": "61 in | 135 lb",
+      "total_points": 433,
+      "events": {
+        "Points available: 100 points": {
+          "place": 6,
+          "time": "8:44.96",
+          "points": 76
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 24,
+          "time": "CAP+12",
+          "points": 32
+        },
+        "For time:": {
+          "place": 34,
+          "time": "3:23.00",
+          "points": 12
+        },
+        "Points available: 50 points": {
+          "place": 37,
+          "time": "CAP+3",
+          "points": 3
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Whitney Elks",
+      "country": "United States",
+      "region": "South West",
+      "affiliate": "CrossFit Albuquerque",
+      "age": "Age 28",
+      "height_weight": "68 in | 155 lb",
+      "total_points": 416,
+      "events": {
+        "Points available: 100 points": {
+          "place": 18,
+          "time": "CAP+26",
+          "points": 44
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 32,
+          "time": "CAP+41",
+          "points": 16
+        },
+        "For time:": {
+          "place": 22,
+          "time": "02:57.37 ",
+          "points": 36
+        },
+        "Points available: 50 points": {
+          "place": 24,
+          "time": "2:40.28",
+          "points": 16
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Alexis Johnson",
+      "country": "United States",
+      "region": "South Central",
+      "affiliate": "AllSport CrossFit",
+      "age": "Age 25",
+      "height_weight": "62 in | 140 lb",
+      "total_points": 413,
+      "events": {
+        "Points available: 100 points": {
+          "place": 1,
+          "time": "7:31.34",
+          "points": 100
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 16,
+          "time": "15:54.00",
+          "points": 48
+        },
+        "For time:": {
+          "place": 32,
+          "time": "3:22.82",
+          "points": 16
+        },
+        "Points available: 50 points": {
+          "place": 20,
+          "time": "2:19.41",
+          "points": 20
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Christina Seeley",
+      "country": "Canada",
+      "region": "Canada West",
+      "affiliate": "CrossFit Calgary",
+      "age": "Age 26",
+      "height_weight": "164 cm | 150 lb",
+      "total_points": 377,
+      "events": {
+        "Points available: 100 points": {
+          "place": 34,
+          "time": "CAP+50",
+          "points": 12
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 20,
+          "time": "CAP+2",
+          "points": 40
+        },
+        "For time:": {
+          "place": 33,
+          "time": "3:22.83",
+          "points": 14
+        },
+        "Points available: 50 points": {
+          "place": 31,
+          "time": "2:54.04",
+          "points": 9
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Meg Reardon",
+      "country": "United States",
+      "region": "Mid Atlantic",
+      "affiliate": "12th State CrossFit",
+      "age": "Age 24",
+      "height_weight": "66 in | 150 lb",
+      "total_points": 364,
+      "events": {
+        "Points available: 100 points": {
+          "place": 28,
+          "time": "CAP+49",
+          "points": 24
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 39,
+          "time": "CAP+90",
+          "points": 2
+        },
+        "For time:": {
+          "place": 13,
+          "time": "2:46.14",
+          "points": 54
+        },
+        "Points available: 50 points": {
+          "place": 28,
+          "time": "2:45.44",
+          "points": 12
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Sheila Barden",
+      "country": "United States",
+      "region": "North Central",
+      "affiliate": "CrossFit Kinesis",
+      "age": "Age 28",
+      "height_weight": "60 in | 130 lb",
+      "total_points": 363,
+      "events": {
+        "Points available: 100 points": {
+          "place": 12,
+          "time": "CAP+10",
+          "points": 56
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 26,
+          "time": "CAP+19",
+          "points": 28
+        },
+        "For time:": {
+          "place": 35,
+          "time": "3:23.28",
+          "points": 10
+        },
+        "Points available: 50 points": {
+          "place": 30,
+          "time": "2:48.45",
+          "points": 10
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Rebecca Voigt",
+      "country": "United States",
+      "region": "Southern California",
+      "affiliate": "CrossFit Training Yard",
+      "age": "Age 35",
+      "height_weight": "69 in | 152 lb",
+      "total_points": 350,
+      "events": {
+        "Points available: 100 points": {
+          "place": 23,
+          "time": "CAP+27",
+          "points": 34
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 33,
+          "time": "CAP+46",
+          "points": 14
+        },
+        "For time:": {
+          "place": 29,
+          "time": "3:13.54",
+          "points": 22
+        },
+        "Points available: 50 points": {
+          "place": 22,
+          "time": "2:29.49",
+          "points": 18
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Jennifer Smith",
+      "country": "United States",
+      "region": "Central East",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "66 in | 137 lb",
+      "total_points": 288,
+      "events": {
+        "Points available: 100 points": {
+          "place": 23,
+          "time": "CAP+27",
+          "points": 34
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 22,
+          "time": "CAP+8",
+          "points": 36
+        },
+        "For time:": {
+          "place": 39,
+          "time": "4:11.05",
+          "points": 2
+        },
+        "Points available: 50 points": {
+          "place": 23,
+          "time": "2:36.81",
+          "points": 17
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Carly Fuhrer",
+      "country": "United States",
+      "region": "North West",
+      "affiliate": "Oregon CrossFit",
+      "age": "Age 25",
+      "height_weight": "63 in | 135 lb",
+      "total_points": 237,
+      "events": {
+        "Points available: 100 points": {
+          "place": 23,
+          "time": "CAP+27",
+          "points": 34
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 34,
+          "time": "CAP+47",
+          "points": 13
+        },
+        "For time:": {
+          "place": 21,
+          "time": "2:56.88",
+          "points": 38
+        },
+        "Points available: 50 points": {
+          "place": 10,
+          "time": "2:01.48",
+          "points": 30
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Justine Beath",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "CrossFit Lower Mountains",
+      "age": "Age 26",
+      "height_weight": "163 cm | 140 lb",
+      "total_points": 224,
+      "events": {
+        "Points available: 100 points": {
+          "place": 38,
+          "time": "CAP+51",
+          "points": 4
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 25,
+          "time": "CAP+12",
+          "points": 30
+        },
+        "For time:": {
+          "place": 38,
+          "time": "3:59.79",
+          "points": 4
+        },
+        "Points available: 50 points": {
+          "place": 35,
+          "time": "CAP+2",
+          "points": 5
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "rank_label": "39",
+      "name": "Madeline Sturt",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "CrossFit Newcastle",
+      "age": "Age 19",
+      "height_weight": "159 cm | 63 kg",
+      "total_points": 147,
+      "events": {
+        "Points available: 100 points": {
+          "place": 34,
+          "time": "CAP+50",
+          "points": 12
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 40,
+          "time": "CAP+91",
+          "points": 0
+        },
+        "For time:": {
+          "place": 37,
+          "time": "3:59.56",
+          "points": 6
+        },
+        "Points available: 50 points": {
+          "place": 29,
+          "time": "2:48.02",
+          "points": 11
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "rank_label": "40",
+      "name": "Alethea Boon",
+      "country": "Australia",
+      "region": "Australia",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "160 cm | 130 lb",
+      "total_points": 260,
+      "events": {
+        "Points available: 100 points": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Points available: 100 points (or 50)": {
+          "place": 17,
+          "time": "15:56.30",
+          "points": 46
+        },
+        "For time:": {
+          "place": 40,
+          "time": "CAP+47",
+          "points": 0
+        },
+        "Points available: 50 points": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

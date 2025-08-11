@@ -1,0 +1,5568 @@
+{
+  "year": 2024,
+  "gender": "men",
+  "events": [
+    "Lake Day",
+    "Midline Climb",
+    "Firestorm",
+    "Track and Field",
+    "Chad",
+    "Clean Ladder",
+    "Push Pull 2.0",
+    "Dickies Triplet",
+    "Final 2421",
+    "Final 1815"
+  ],
+  "event_point_map": {
+    "Lake Day": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 0
+    },
+    "Midline Climb": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 0
+    },
+    "Firestorm": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 0
+    },
+    "Track and Field": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 0
+    },
+    "Chad": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 0
+    },
+    "Clean Ladder": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 0
+    },
+    "Push Pull 2.0": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 0
+    },
+    "Dickies Triplet": {
+      "1": 100,
+      "2": 96,
+      "3": 92,
+      "4": 88,
+      "5": 84,
+      "6": 80,
+      "7": 76,
+      "8": 72,
+      "9": 68,
+      "10": 64,
+      "11": 60,
+      "12": 56,
+      "13": 52,
+      "14": 48,
+      "15": 45,
+      "16": 42,
+      "17": 39,
+      "18": 36,
+      "19": 33,
+      "20": 30,
+      "21": 27,
+      "22": 24,
+      "23": 21,
+      "24": 18,
+      "25": 15,
+      "26": 12,
+      "27": 9,
+      "28": 6,
+      "29": 3,
+      "30": 0,
+      "31": 0
+    },
+    "Final 2421": {
+      "1": 100,
+      "2": 96,
+      "3": 92,
+      "4": 88,
+      "5": 84,
+      "6": 80,
+      "7": 76,
+      "8": 72,
+      "9": 68,
+      "10": 64,
+      "11": 60,
+      "12": 56,
+      "13": 52,
+      "14": 48,
+      "15": 45,
+      "16": 42,
+      "17": 39,
+      "18": 36,
+      "19": 33,
+      "20": 30,
+      "21": 27,
+      "22": 24,
+      "24": 18,
+      "25": 15,
+      "26": 12,
+      "27": 9,
+      "28": 6,
+      "29": 3,
+      "30": 0
+    },
+    "Final 1815": {
+      "1": 100,
+      "2": 96,
+      "3": 92,
+      "4": 88,
+      "5": 84,
+      "6": 80,
+      "7": 76,
+      "8": 72,
+      "9": 68,
+      "10": 64,
+      "11": 60,
+      "12": 56,
+      "13": 52,
+      "14": 48,
+      "15": 45,
+      "16": 42,
+      "17": 39,
+      "18": 36,
+      "19": 33,
+      "20": 30,
+      "21": 27,
+      "22": 24,
+      "23": 21,
+      "24": 18,
+      "25": 15,
+      "26": 12,
+      "27": 9,
+      "28": 6,
+      "29": 3,
+      "30": 0
+    }
+  },
+  "event_field_size": {
+    "Lake Day": 38,
+    "Midline Climb": 36,
+    "Firestorm": 35,
+    "Track and Field": 34,
+    "Chad": 33,
+    "Clean Ladder": 33,
+    "Push Pull 2.0": 32,
+    "Dickies Triplet": 31,
+    "Final 2421": 30,
+    "Final 1815": 30
+  },
+  "event_place_points": {
+    "Lake Day": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      0
+    ],
+    "Midline Climb": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      0
+    ],
+    "Firestorm": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      0
+    ],
+    "Track and Field": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      0
+    ],
+    "Chad": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      0
+    ],
+    "Clean Ladder": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      0
+    ],
+    "Push Pull 2.0": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      0
+    ],
+    "Dickies Triplet": [
+      100,
+      96,
+      92,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      56,
+      52,
+      48,
+      45,
+      42,
+      39,
+      36,
+      33,
+      30,
+      27,
+      24,
+      21,
+      18,
+      15,
+      12,
+      9,
+      6,
+      3,
+      0,
+      0
+    ],
+    "Final 2421": [
+      100,
+      96,
+      92,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      56,
+      52,
+      48,
+      45,
+      42,
+      39,
+      36,
+      33,
+      30,
+      27,
+      24,
+      0,
+      18,
+      15,
+      12,
+      9,
+      6,
+      3,
+      0
+    ],
+    "Final 1815": [
+      100,
+      96,
+      92,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      56,
+      52,
+      48,
+      45,
+      42,
+      39,
+      36,
+      33,
+      30,
+      27,
+      24,
+      21,
+      18,
+      15,
+      12,
+      9,
+      6,
+      3,
+      0
+    ]
+  },
+  "event_ordinals": {
+    "Lake Day": 1,
+    "Midline Climb": 2,
+    "Firestorm": 3,
+    "Track and Field": 4,
+    "Chad": 5,
+    "Clean Ladder": 6,
+    "Push Pull 2.0": 7,
+    "Dickies Triplet": 8,
+    "Final 2421": 9,
+    "Final 1815": 10
+  },
+  "event_finish_order": {
+    "Lake Day": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 1,
+        "points": 100,
+        "time": "36:50.87"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 2,
+        "points": 97,
+        "time": "37:55.41"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 3,
+        "points": 94,
+        "time": "38:10.72"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 4,
+        "points": 91,
+        "time": "38:32.60"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 5,
+        "points": 88,
+        "time": "38:42.20"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 6,
+        "points": 85,
+        "time": "38:50.81"
+      },
+      {
+        "name": "James Sprague",
+        "place": 7,
+        "points": 82,
+        "time": "39:26.02"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 8,
+        "points": 79,
+        "time": "39:29.86"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 9,
+        "points": 76,
+        "time": "39:32.16"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 10,
+        "points": 73,
+        "time": "39:51.09"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 11,
+        "points": 70,
+        "time": "40:00.00"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 12,
+        "points": 67,
+        "time": "40:04.91"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 13,
+        "points": 64,
+        "time": "40:18.96"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 14,
+        "points": 61,
+        "time": "40:19.00"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 15,
+        "points": 58,
+        "time": "40:44.36"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 16,
+        "points": 55,
+        "time": "40:47.88"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 17,
+        "points": 52,
+        "time": "40:56.06"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 18,
+        "points": 49,
+        "time": "41:14.69"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 19,
+        "points": 46,
+        "time": "41:38.45"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 20,
+        "points": 43,
+        "time": "41:42.40"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 21,
+        "points": 40,
+        "time": "41:48.65"
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 22,
+        "points": 37,
+        "time": "42:00.44"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 23,
+        "points": 34,
+        "time": "42:27.66"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 24,
+        "points": 32,
+        "time": "42:32.75"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 25,
+        "points": 30,
+        "time": "42:35.20"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 26,
+        "points": 28,
+        "time": "42:35.95"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 27,
+        "points": 26,
+        "time": "42:53.62"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 28,
+        "points": 24,
+        "time": "42:57.40"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 29,
+        "points": 22,
+        "time": "43:00.80"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 30,
+        "points": 20,
+        "time": "43:21.09"
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 31,
+        "points": 18,
+        "time": "44:01.15"
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 32,
+        "points": 16,
+        "time": "44:51.83"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 33,
+        "points": 14,
+        "time": "46:38.84"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 34,
+        "points": 12,
+        "time": "47:27.42"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 35,
+        "points": 10,
+        "time": "48:22.29"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 36,
+        "points": 8,
+        "time": "51:04.60"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 37,
+        "points": 6,
+        "time": "52:54.55"
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 38,
+        "points": 0,
+        "time": "WD"
+      }
+    ],
+    "Midline Climb": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 1,
+        "points": 100,
+        "time": "14:14.05"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 2,
+        "points": 97,
+        "time": "14:16.68"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 3,
+        "points": 94,
+        "time": "14:26.50"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 4,
+        "points": 91,
+        "time": "14:27.76"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 5,
+        "points": 88,
+        "time": "14:48.68"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 6,
+        "points": 85,
+        "time": "15:03.60"
+      },
+      {
+        "name": "James Sprague",
+        "place": 7,
+        "points": 82,
+        "time": "15:05.66"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 8,
+        "points": 79,
+        "time": "15:08.02"
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 9,
+        "points": 76,
+        "time": "15:31.14"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 10,
+        "points": 73,
+        "time": "15:49.98"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 11,
+        "points": 70,
+        "time": "15:53.84"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 12,
+        "points": 67,
+        "time": "15:58.72"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 13,
+        "points": 64,
+        "time": "16:14.25"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 14,
+        "points": 61,
+        "time": "16:31.97"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 15,
+        "points": 58,
+        "time": "16:34.95"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 16,
+        "points": 55,
+        "time": "16:35.47"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 17,
+        "points": 52,
+        "time": "16:53.39"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 18,
+        "points": 49,
+        "time": "16:55.96"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 19,
+        "points": 46,
+        "time": "16:59.55"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 20,
+        "points": 43,
+        "time": "17:07.43"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 21,
+        "points": 40,
+        "time": "17:19.18"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 22,
+        "points": 37,
+        "time": "17:24.01"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 23,
+        "points": 34,
+        "time": "17:24.83"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 24,
+        "points": 32,
+        "time": "17:29.21"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 25,
+        "points": 30,
+        "time": "17:32.08"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 26,
+        "points": 28,
+        "time": "17:45.96"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 27,
+        "points": 26,
+        "time": "17:56.00"
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 28,
+        "points": 24,
+        "time": "18:05.00"
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 29,
+        "points": 22,
+        "time": "18:27.36"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 30,
+        "points": 20,
+        "time": "18:50.28"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 31,
+        "points": 18,
+        "time": "19:08.68"
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 32,
+        "points": 16,
+        "time": "19:10.62"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 33,
+        "points": 14,
+        "time": "19:45.11"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 34,
+        "points": 12,
+        "time": "19:52.02"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 35,
+        "points": 10,
+        "time": "19:58.37"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 36,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 36,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Firestorm": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 1,
+        "points": 100,
+        "time": "02:32.48"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 2,
+        "points": 97,
+        "time": "02:37.48"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 3,
+        "points": 94,
+        "time": "02:41.54"
+      },
+      {
+        "name": "James Sprague",
+        "place": 4,
+        "points": 91,
+        "time": "02:42.10"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 5,
+        "points": 88,
+        "time": "02:45.07"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 6,
+        "points": 85,
+        "time": "02:49.25"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 7,
+        "points": 82,
+        "time": "02:49.91"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 8,
+        "points": 79,
+        "time": "02:50.82"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 9,
+        "points": 76,
+        "time": "02:50.97"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 10,
+        "points": 73,
+        "time": "02:52.80"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 11,
+        "points": 70,
+        "time": "02:52.95"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 12,
+        "points": 67,
+        "time": "02:53.42"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 13,
+        "points": 64,
+        "time": "02:54.03"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 14,
+        "points": 61,
+        "time": "02:54.04"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 15,
+        "points": 58,
+        "time": "02:55.41"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 16,
+        "points": 55,
+        "time": "02:57.36"
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 17,
+        "points": 52,
+        "time": "02:57.91"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 18,
+        "points": 49,
+        "time": "02:59.03"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 19,
+        "points": 46,
+        "time": "03:02.54"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 20,
+        "points": 43,
+        "time": "03:02.78"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 21,
+        "points": 40,
+        "time": "03:03.42"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 22,
+        "points": 37,
+        "time": "03:03.57"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 23,
+        "points": 34,
+        "time": "03:06.50"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 24,
+        "points": 32,
+        "time": "03:07.27"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 25,
+        "points": 30,
+        "time": "03:07.66"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 26,
+        "points": 28,
+        "time": "03:12.93"
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 27,
+        "points": 26,
+        "time": "03:13.31"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 28,
+        "points": 24,
+        "time": "03:14.20"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 29,
+        "points": 22,
+        "time": "03:14.37"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 30,
+        "points": 20,
+        "time": "03:14.70"
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 31,
+        "points": 18,
+        "time": "03:17.23"
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 32,
+        "points": 16,
+        "time": "03:20.63"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 33,
+        "points": 14,
+        "time": "03:30.94"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 34,
+        "points": 12,
+        "time": "03:43.19"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 35,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 35,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 35,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 35,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Track and Field": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 1,
+        "points": 100,
+        "time": "1 pt"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 2,
+        "points": 97,
+        "time": "2 pt"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 3,
+        "points": 94,
+        "time": "3 pt"
+      },
+      {
+        "name": "James Sprague",
+        "place": 4,
+        "points": 91,
+        "time": "4 pt"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 5,
+        "points": 88,
+        "time": "5 pt"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 6,
+        "points": 85,
+        "time": "6 pt"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 7,
+        "points": 82,
+        "time": "7 pt"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 8,
+        "points": 79,
+        "time": "8 pt"
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 9,
+        "points": 76,
+        "time": "9 pt"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 10,
+        "points": 73,
+        "time": "10 pt"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 11,
+        "points": 70,
+        "time": "11 pt"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 12,
+        "points": 67,
+        "time": "12 pt"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 13,
+        "points": 64,
+        "time": "13 pt"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 14,
+        "points": 61,
+        "time": "14 pt"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 15,
+        "points": 58,
+        "time": "15 pt"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 16,
+        "points": 55,
+        "time": "16 pt"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 17,
+        "points": 52,
+        "time": "17 pt"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 18,
+        "points": 49,
+        "time": "18 pt"
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 19,
+        "points": 46,
+        "time": "19 pt"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 20,
+        "points": 43,
+        "time": "20 pt"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 21,
+        "points": 40,
+        "time": "21 pt"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 22,
+        "points": 37,
+        "time": "22 pt"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 23,
+        "points": 34,
+        "time": "23 pt"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 24,
+        "points": 32,
+        "time": "24 pt"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 25,
+        "points": 30,
+        "time": "25 pt"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 26,
+        "points": 28,
+        "time": "26 pt"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 27,
+        "points": 26,
+        "time": "27 pt"
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 28,
+        "points": 24,
+        "time": "28 pt"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 29,
+        "points": 22,
+        "time": "29 pt"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 30,
+        "points": 20,
+        "time": "30 pt"
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 31,
+        "points": 18,
+        "time": "31 pt"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 32,
+        "points": 16,
+        "time": "32 pt"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 33,
+        "points": 14,
+        "time": "33 pt"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 34,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 34,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 34,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 34,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 34,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Chad": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "James Sprague",
+        "place": 1,
+        "points": 100,
+        "time": "43:58.00"
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 2,
+        "points": 97,
+        "time": "44:09.00"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 3,
+        "points": 94,
+        "time": "46:33.00"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 4,
+        "points": 91,
+        "time": "46:36.00"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 5,
+        "points": 88,
+        "time": "47:16.00"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 6,
+        "points": 85,
+        "time": "47:36.00"
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 7,
+        "points": 82,
+        "time": "48:32.00"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 8,
+        "points": 79,
+        "time": "48:40.00"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 9,
+        "points": 76,
+        "time": "49:04.00"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 10,
+        "points": 73,
+        "time": "49:44.00"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 11,
+        "points": 70,
+        "time": "49:45.00"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 12,
+        "points": 67,
+        "time": "49:46.00"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 13,
+        "points": 64,
+        "time": "49:51.00"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 14,
+        "points": 61,
+        "time": "50:26.00"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 15,
+        "points": 58,
+        "time": "51:14.00"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 16,
+        "points": 55,
+        "time": "51:21.00"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 17,
+        "points": 52,
+        "time": "51:25.00"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 18,
+        "points": 49,
+        "time": "51:33.00"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 19,
+        "points": 46,
+        "time": "51:40.00"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 20,
+        "points": 43,
+        "time": "51:54.00"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 21,
+        "points": 40,
+        "time": "52:42.00"
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 22,
+        "points": 37,
+        "time": "52:43.00"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 23,
+        "points": 34,
+        "time": "53:09.00"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 24,
+        "points": 32,
+        "time": "53:27.00"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 25,
+        "points": 30,
+        "time": "54:00.00"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 26,
+        "points": 28,
+        "time": "54:26.00"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 27,
+        "points": 26,
+        "time": "55:13.00"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 28,
+        "points": 24,
+        "time": "55:29.00"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 29,
+        "points": 22,
+        "time": "55:56.00"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 30,
+        "points": 20,
+        "time": "56:27.00"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 31,
+        "points": 18,
+        "time": "57:53.00"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 32,
+        "points": 16,
+        "time": "CAP+14"
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 33,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 33,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 33,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Clean Ladder": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 1,
+        "points": 100,
+        "time": "1 pt"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 2,
+        "points": 97,
+        "time": "2 pt"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 3,
+        "points": 94,
+        "time": "3 pt"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 4,
+        "points": 91,
+        "time": "4 pt"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 5,
+        "points": 88,
+        "time": "5 pt"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 6,
+        "points": 85,
+        "time": "6 pt"
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 7,
+        "points": 82,
+        "time": "7 pt"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 8,
+        "points": 79,
+        "time": "8 pt"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 9,
+        "points": 76,
+        "time": "9 pt"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 10,
+        "points": 73,
+        "time": "10 pt"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 11,
+        "points": 70,
+        "time": "11 pt"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 12,
+        "points": 67,
+        "time": "12 pt"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 13,
+        "points": 64,
+        "time": "13 pt"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 14,
+        "points": 61,
+        "time": "14 pt"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 15,
+        "points": 58,
+        "time": "15 pt"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 16,
+        "points": 55,
+        "time": "16 pt"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 17,
+        "points": 52,
+        "time": "17 pt"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 18,
+        "points": 49,
+        "time": "18 pt"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 19,
+        "points": 46,
+        "time": "19 pt"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 20,
+        "points": 43,
+        "time": "20 pt"
+      },
+      {
+        "name": "James Sprague",
+        "place": 21,
+        "points": 40,
+        "time": "21 pt"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 22,
+        "points": 37,
+        "time": "22 pt"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 23,
+        "points": 34,
+        "time": "23 pt"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 24,
+        "points": 32,
+        "time": "24 pt"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 25,
+        "points": 30,
+        "time": "25 pt"
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 26,
+        "points": 28,
+        "time": "26 pt"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 27,
+        "points": 26,
+        "time": "27 pt"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 28,
+        "points": 24,
+        "time": "28 pt"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 29,
+        "points": 22,
+        "time": "29 pt"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 30,
+        "points": 20,
+        "time": "30 pt"
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 31,
+        "points": 18,
+        "time": "31 pt"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 32,
+        "points": 16,
+        "time": "32 pt"
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 33,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 33,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 33,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 33,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Push Pull 2.0": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 1,
+        "points": 100,
+        "time": "06:20.80"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 2,
+        "points": 97,
+        "time": "07:08.36"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 3,
+        "points": 94,
+        "time": "07:24.83"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 4,
+        "points": 91,
+        "time": "07:35.94"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 5,
+        "points": 88,
+        "time": "07:56.36"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 6,
+        "points": 85,
+        "time": "08:05.76"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 7,
+        "points": 82,
+        "time": "08:06.75"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 8,
+        "points": 79,
+        "time": "08:15.51"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 9,
+        "points": 76,
+        "time": "08:29.66"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 10,
+        "points": 73,
+        "time": "08:37.48"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 11,
+        "points": 70,
+        "time": "08:37.85"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 12,
+        "points": 67,
+        "time": "08:44.28"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 13,
+        "points": 64,
+        "time": "08:48.22"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 14,
+        "points": 61,
+        "time": "08:52.66"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 15,
+        "points": 58,
+        "time": "08:54.49"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 16,
+        "points": 55,
+        "time": "08:56.32"
+      },
+      {
+        "name": "James Sprague",
+        "place": 17,
+        "points": 52,
+        "time": "09:40.03"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 18,
+        "points": 49,
+        "time": "09:42.34"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 19,
+        "points": 46,
+        "time": "09:51.48"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 20,
+        "points": 43,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 21,
+        "points": 40,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 22,
+        "points": 37,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 23,
+        "points": 34,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 24,
+        "points": 32,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 25,
+        "points": 30,
+        "time": "CAP+5"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 26,
+        "points": 28,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 27,
+        "points": 26,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 28,
+        "points": 24,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 29,
+        "points": 22,
+        "time": "CAP+9"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 30,
+        "points": 20,
+        "time": "CAP+10"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 31,
+        "points": 18,
+        "time": "CAP+12"
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 32,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 32,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 32,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 32,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 32,
+        "points": 0,
+        "time": "DNS"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 32,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 32,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Dickies Triplet": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 1,
+        "points": 100,
+        "time": "07:04.19"
+      },
+      {
+        "name": "James Sprague",
+        "place": 2,
+        "points": 96,
+        "time": "07:07.98"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 3,
+        "points": 92,
+        "time": "07:14.24"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 4,
+        "points": 88,
+        "time": "07:17.10"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 5,
+        "points": 84,
+        "time": "07:17.25"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 6,
+        "points": 80,
+        "time": "07:25.25"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 7,
+        "points": 76,
+        "time": "07:25.93"
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 8,
+        "points": 72,
+        "time": "07:28.63"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 9,
+        "points": 68,
+        "time": "07:33.23"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 10,
+        "points": 64,
+        "time": "07:34.06"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 11,
+        "points": 60,
+        "time": "07:34.37"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 12,
+        "points": 56,
+        "time": "07:36.40"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 13,
+        "points": 52,
+        "time": "07:39.46"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 14,
+        "points": 48,
+        "time": "07:43.92"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 15,
+        "points": 45,
+        "time": "07:44.30"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 16,
+        "points": 42,
+        "time": "07:46.16"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 17,
+        "points": 39,
+        "time": "07:47.25"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 18,
+        "points": 36,
+        "time": "07:49.95"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 19,
+        "points": 33,
+        "time": "07:51.35"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 20,
+        "points": 30,
+        "time": "07:51.88"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 21,
+        "points": 27,
+        "time": "07:53.37"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 22,
+        "points": 24,
+        "time": "07:59.25"
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 23,
+        "points": 21,
+        "time": "07:59.73"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 24,
+        "points": 18,
+        "time": "08:01.22"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 25,
+        "points": 15,
+        "time": "08:03.11"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 26,
+        "points": 12,
+        "time": "08:04.67"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 27,
+        "points": 9,
+        "time": "08:09.47"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 28,
+        "points": 6,
+        "time": "08:24.91"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 29,
+        "points": 3,
+        "time": "08:29.56"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 30,
+        "points": 0,
+        "time": "09:46.18"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 31,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Final 2421": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 1,
+        "points": 100,
+        "time": "02:25.94"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 2,
+        "points": 96,
+        "time": "02:31.58"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 3,
+        "points": 92,
+        "time": "02:31.79"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 4,
+        "points": 88,
+        "time": "02:32.98"
+      },
+      {
+        "name": "James Sprague",
+        "place": 5,
+        "points": 84,
+        "time": "02:34.85"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 6,
+        "points": 80,
+        "time": "02:35.57"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 7,
+        "points": 76,
+        "time": "02:35.91"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 8,
+        "points": 72,
+        "time": "02:36.46"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 9,
+        "points": 68,
+        "time": "02:37.26"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 10,
+        "points": 64,
+        "time": "02:37.91"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 11,
+        "points": 60,
+        "time": "02:38.75"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 12,
+        "points": 56,
+        "time": "02:39.80"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 13,
+        "points": 52,
+        "time": "02:40.01"
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 14,
+        "points": 48,
+        "time": "02:40.58"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 15,
+        "points": 45,
+        "time": "02:40.73"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 16,
+        "points": 42,
+        "time": "02:41.17"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 17,
+        "points": 39,
+        "time": "02:41.30"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 18,
+        "points": 36,
+        "time": "02:44.33"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 19,
+        "points": 33,
+        "time": "02:46.59"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 20,
+        "points": 30,
+        "time": "02:47.38"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 21,
+        "points": 27,
+        "time": "02:51.38"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 22,
+        "points": 24,
+        "time": "02:51.71"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 22,
+        "points": 24,
+        "time": "02:51.71"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 24,
+        "points": 18,
+        "time": "02:55.25"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 25,
+        "points": 15,
+        "time": "02:56.73"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 26,
+        "points": 12,
+        "time": "02:58.49"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 27,
+        "points": 9,
+        "time": "03:00.04"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 28,
+        "points": 6,
+        "time": "03:03.77"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 29,
+        "points": 3,
+        "time": "03:07.74"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 30,
+        "points": 0,
+        "time": "WD"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      }
+    ],
+    "Final 1815": [
+      {
+        "name": "Lazar Đukić",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Austin Hatfield",
+        "place": 1,
+        "points": 100,
+        "time": "04:40.12"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 2,
+        "points": 96,
+        "time": "05:07.78"
+      },
+      {
+        "name": "Ricky Garard",
+        "place": 3,
+        "points": 92,
+        "time": "05:18.73"
+      },
+      {
+        "name": "James Sprague",
+        "place": 4,
+        "points": 88,
+        "time": "05:22.54"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 5,
+        "points": 84,
+        "time": "05:23.93"
+      },
+      {
+        "name": "Cole Greashaber",
+        "place": 6,
+        "points": 80,
+        "time": "05:26.05"
+      },
+      {
+        "name": "Dallin Pepper",
+        "place": 7,
+        "points": 76,
+        "time": "05:26.30"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 8,
+        "points": 72,
+        "time": "05:26.59"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 9,
+        "points": 68,
+        "time": "05:35.34"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 10,
+        "points": 64,
+        "time": "05:36.99"
+      },
+      {
+        "name": "Aniol Ekai",
+        "place": 11,
+        "points": 60,
+        "time": "05:41.26"
+      },
+      {
+        "name": "Justin Medeiros",
+        "place": 12,
+        "points": 56,
+        "time": "05:43.93"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 13,
+        "points": 52,
+        "time": "05:44.04"
+      },
+      {
+        "name": "Chris Ibarra",
+        "place": 14,
+        "points": 48,
+        "time": "05:50.87"
+      },
+      {
+        "name": "Calum Clements",
+        "place": 15,
+        "points": 45,
+        "time": "05:54.07"
+      },
+      {
+        "name": "Harry Lightfoot",
+        "place": 16,
+        "points": 42,
+        "time": "05:54.38"
+      },
+      {
+        "name": "Alexandre Caron",
+        "place": 17,
+        "points": 39,
+        "time": "05:56.17"
+      },
+      {
+        "name": "Jayson Hopper",
+        "place": 18,
+        "points": 36,
+        "time": "05:57.79"
+      },
+      {
+        "name": "Roman Khrennikov",
+        "place": 19,
+        "points": 33,
+        "time": "06:01.64"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 20,
+        "points": 30,
+        "time": "06:07.47"
+      },
+      {
+        "name": "Jack Rozema",
+        "place": 21,
+        "points": 27,
+        "time": "06:08.09"
+      },
+      {
+        "name": "Bruno Marins",
+        "place": 22,
+        "points": 24,
+        "time": "06:22.47"
+      },
+      {
+        "name": "Jelle Hoste",
+        "place": 23,
+        "points": 21,
+        "time": "06:24.12"
+      },
+      {
+        "name": "Henrik Haapalainen",
+        "place": 24,
+        "points": 18,
+        "time": "06:39.39"
+      },
+      {
+        "name": "Brandon Luckett",
+        "place": 25,
+        "points": 15,
+        "time": "06:42.41"
+      },
+      {
+        "name": "Kalyan Souza",
+        "place": 26,
+        "points": 12,
+        "time": "06:54.86"
+      },
+      {
+        "name": "Luke Parker",
+        "place": 27,
+        "points": 9,
+        "time": "06:59.30"
+      },
+      {
+        "name": "Ruan Potgieter",
+        "place": 28,
+        "points": 6,
+        "time": "CAP+1"
+      },
+      {
+        "name": "Bayley Martin",
+        "place": 29,
+        "points": 3,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Jay Crouch",
+        "place": 30,
+        "points": 0,
+        "time": "WD"
+      },
+      {
+        "name": "Peter Ellis",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arthur Semenov",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Moritz Fiebig",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Luka Đukić",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Victor Hoffer",
+        "place": 30,
+        "points": 0,
+        "time": ""
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "James Sprague",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "CrossFit Spokane Valley",
+      "age": "Age 22",
+      "height_weight": "74 in | 210 lb",
+      "total_points": 806,
+      "events": {
+        "Lake Day": {
+          "place": 7,
+          "time": "39:26.02",
+          "points": 82
+        },
+        "Midline Climb": {
+          "place": 7,
+          "time": "15:05.66",
+          "points": 82
+        },
+        "Firestorm": {
+          "place": 4,
+          "time": "02:42.10",
+          "points": 91
+        },
+        "Track and Field": {
+          "place": 4,
+          "time": "4 pt",
+          "points": 91
+        },
+        "Chad": {
+          "place": 1,
+          "time": "43:58.00",
+          "points": 100
+        },
+        "Clean Ladder": {
+          "place": 21,
+          "time": "21 pt",
+          "points": 40
+        },
+        "Push Pull 2.0": {
+          "place": 17,
+          "time": "09:40.03",
+          "points": 52
+        },
+        "Dickies Triplet": {
+          "place": 2,
+          "time": "07:07.98",
+          "points": 96
+        },
+        "Final 2421": {
+          "place": 5,
+          "time": "02:34.85",
+          "points": 84
+        },
+        "Final 1815": {
+          "place": 4,
+          "time": "05:22.54",
+          "points": 88
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Dallin Pepper",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit Tailwinds",
+      "age": "Age 22",
+      "height_weight": "72 in | 215 lb",
+      "total_points": 785,
+      "events": {
+        "Lake Day": {
+          "place": 15,
+          "time": "40:44.36",
+          "points": 58
+        },
+        "Midline Climb": {
+          "place": 3,
+          "time": "14:26.50",
+          "points": 94
+        },
+        "Firestorm": {
+          "place": 2,
+          "time": "02:37.48",
+          "points": 97
+        },
+        "Track and Field": {
+          "place": 22,
+          "time": "22 pt",
+          "points": 37
+        },
+        "Chad": {
+          "place": 5,
+          "time": "47:16.00",
+          "points": 88
+        },
+        "Clean Ladder": {
+          "place": 6,
+          "time": "6 pt",
+          "points": 85
+        },
+        "Push Pull 2.0": {
+          "place": 11,
+          "time": "08:37.85",
+          "points": 70
+        },
+        "Dickies Triplet": {
+          "place": 5,
+          "time": "07:17.25",
+          "points": 84
+        },
+        "Final 2421": {
+          "place": 2,
+          "time": "02:31.58",
+          "points": 96
+        },
+        "Final 1815": {
+          "place": 7,
+          "time": "05:26.30",
+          "points": 76
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Brent Fikowski",
+      "country": "Canada",
+      "region": "North America West",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "74 in | 220 lb",
+      "total_points": 765,
+      "events": {
+        "Lake Day": {
+          "place": 2,
+          "time": "37:55.41",
+          "points": 97
+        },
+        "Midline Climb": {
+          "place": 12,
+          "time": "15:58.72",
+          "points": 67
+        },
+        "Firestorm": {
+          "place": 9,
+          "time": "02:50.97",
+          "points": 76
+        },
+        "Track and Field": {
+          "place": 7,
+          "time": "7 pt",
+          "points": 82
+        },
+        "Chad": {
+          "place": 6,
+          "time": "47:36.00",
+          "points": 85
+        },
+        "Clean Ladder": {
+          "place": 8,
+          "time": "8 pt",
+          "points": 79
+        },
+        "Push Pull 2.0": {
+          "place": 2,
+          "time": "07:08.36",
+          "points": 97
+        },
+        "Dickies Triplet": {
+          "place": 3,
+          "time": "07:14.24",
+          "points": 92
+        },
+        "Final 2421": {
+          "place": 11,
+          "time": "02:38.75",
+          "points": 60
+        },
+        "Final 1815": {
+          "place": 20,
+          "time": "06:07.47",
+          "points": 30
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Jayson Hopper",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit Crash",
+      "age": "Age 26",
+      "height_weight": "73 in | 220 lb",
+      "total_points": 742,
+      "events": {
+        "Lake Day": {
+          "place": 19,
+          "time": "41:38.45",
+          "points": 46
+        },
+        "Midline Climb": {
+          "place": 2,
+          "time": "14:16.68",
+          "points": 97
+        },
+        "Firestorm": {
+          "place": 1,
+          "time": "02:32.48",
+          "points": 100
+        },
+        "Track and Field": {
+          "place": 12,
+          "time": "12 pt",
+          "points": 67
+        },
+        "Chad": {
+          "place": 9,
+          "time": "49:04.00",
+          "points": 76
+        },
+        "Clean Ladder": {
+          "place": 12,
+          "time": "12 pt",
+          "points": 67
+        },
+        "Push Pull 2.0": {
+          "place": 10,
+          "time": "08:37.48",
+          "points": 73
+        },
+        "Dickies Triplet": {
+          "place": 1,
+          "time": "07:04.19",
+          "points": 100
+        },
+        "Final 2421": {
+          "place": 6,
+          "time": "02:35.57",
+          "points": 80
+        },
+        "Final 1815": {
+          "place": 18,
+          "time": "05:57.79",
+          "points": 36
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Patrick Vellner",
+      "country": "Canada",
+      "region": "North America West",
+      "affiliate": "CrossFit Nanaimo",
+      "age": "Age 34",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 742,
+      "events": {
+        "Lake Day": {
+          "place": 33,
+          "time": "46:38.84",
+          "points": 14
+        },
+        "Midline Climb": {
+          "place": 1,
+          "time": "14:14.05",
+          "points": 100
+        },
+        "Firestorm": {
+          "place": 3,
+          "time": "02:41.54",
+          "points": 94
+        },
+        "Track and Field": {
+          "place": 5,
+          "time": "5 pt",
+          "points": 88
+        },
+        "Chad": {
+          "place": 4,
+          "time": "46:36.00",
+          "points": 91
+        },
+        "Clean Ladder": {
+          "place": 10,
+          "time": "10 pt",
+          "points": 73
+        },
+        "Push Pull 2.0": {
+          "place": 15,
+          "time": "08:54.49",
+          "points": 58
+        },
+        "Dickies Triplet": {
+          "place": 4,
+          "time": "07:17.10",
+          "points": 88
+        },
+        "Final 2421": {
+          "place": 9,
+          "time": "02:37.26",
+          "points": 68
+        },
+        "Final 1815": {
+          "place": 9,
+          "time": "05:35.34",
+          "points": 68
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Samuel Kwant",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "CrossFit Skagit",
+      "age": "Age 28",
+      "height_weight": "71 in | 206 lb",
+      "total_points": 663,
+      "events": {
+        "Lake Day": {
+          "place": 25,
+          "time": "42:35.20",
+          "points": 30
+        },
+        "Midline Climb": {
+          "place": 6,
+          "time": "15:03.60",
+          "points": 85
+        },
+        "Firestorm": {
+          "place": 5,
+          "time": "02:45.07",
+          "points": 88
+        },
+        "Track and Field": {
+          "place": 8,
+          "time": "8 pt",
+          "points": 79
+        },
+        "Chad": {
+          "place": 13,
+          "time": "49:51.00",
+          "points": 64
+        },
+        "Clean Ladder": {
+          "place": 20,
+          "time": "20 pt",
+          "points": 43
+        },
+        "Push Pull 2.0": {
+          "place": 19,
+          "time": "09:51.48",
+          "points": 46
+        },
+        "Dickies Triplet": {
+          "place": 13,
+          "time": "07:39.46",
+          "points": 52
+        },
+        "Final 2421": {
+          "place": 3,
+          "time": "02:31.79",
+          "points": 92
+        },
+        "Final 1815": {
+          "place": 5,
+          "time": "05:23.93",
+          "points": 84
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Ricky Garard",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "179 cm | 205 lb",
+      "total_points": 639,
+      "events": {
+        "Lake Day": {
+          "place": 4,
+          "time": "38:32.60",
+          "points": 91
+        },
+        "Midline Climb": {
+          "place": 18,
+          "time": "16:55.96",
+          "points": 49
+        },
+        "Firestorm": {
+          "place": 14,
+          "time": "02:54.04",
+          "points": 61
+        },
+        "Track and Field": {
+          "place": 1,
+          "time": "1 pt",
+          "points": 100
+        },
+        "Chad": {
+          "place": 17,
+          "time": "51:25.00",
+          "points": 52
+        },
+        "Clean Ladder": {
+          "place": 5,
+          "time": "5 pt",
+          "points": 88
+        },
+        "Push Pull 2.0": {
+          "place": 13,
+          "time": "08:48.22",
+          "points": 64
+        },
+        "Dickies Triplet": {
+          "place": 22,
+          "time": "07:59.25",
+          "points": 24
+        },
+        "Final 2421": {
+          "place": 24,
+          "time": "02:55.25",
+          "points": 18
+        },
+        "Final 1815": {
+          "place": 3,
+          "time": "05:18.73",
+          "points": 92
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Justin Medeiros",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "CrossFit Fort Vancouver",
+      "age": "Age 25",
+      "height_weight": "69 in | 195 lb",
+      "total_points": 639,
+      "events": {
+        "Lake Day": {
+          "place": 11,
+          "time": "40:00.00",
+          "points": 70
+        },
+        "Midline Climb": {
+          "place": 4,
+          "time": "14:27.76",
+          "points": 91
+        },
+        "Firestorm": {
+          "place": 26,
+          "time": "03:12.93",
+          "points": 28
+        },
+        "Track and Field": {
+          "place": 25,
+          "time": "25 pt",
+          "points": 30
+        },
+        "Chad": {
+          "place": 12,
+          "time": "49:46.00",
+          "points": 67
+        },
+        "Clean Ladder": {
+          "place": 1,
+          "time": "1 pt",
+          "points": 100
+        },
+        "Push Pull 2.0": {
+          "place": 5,
+          "time": "07:56.36",
+          "points": 88
+        },
+        "Dickies Triplet": {
+          "place": 10,
+          "time": "07:34.06",
+          "points": 64
+        },
+        "Final 2421": {
+          "place": 15,
+          "time": "02:40.73",
+          "points": 45
+        },
+        "Final 1815": {
+          "place": 12,
+          "time": "05:43.93",
+          "points": 56
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Roman Khrennikov",
+      "country": "",
+      "region": "North America East",
+      "affiliate": "CrossFit Mayhem",
+      "age": "Age 29",
+      "height_weight": "182 cm | 103 kg",
+      "total_points": 601,
+      "events": {
+        "Lake Day": {
+          "place": 3,
+          "time": "38:10.72",
+          "points": 94
+        },
+        "Midline Climb": {
+          "place": 11,
+          "time": "15:53.84",
+          "points": 70
+        },
+        "Firestorm": {
+          "place": 8,
+          "time": "02:50.82",
+          "points": 79
+        },
+        "Track and Field": {
+          "place": 3,
+          "time": "3 pt",
+          "points": 94
+        },
+        "Chad": {
+          "place": 3,
+          "time": "46:33.00",
+          "points": 94
+        },
+        "Clean Ladder": {
+          "place": 22,
+          "time": "22 pt",
+          "points": 37
+        },
+        "Push Pull 2.0": {
+          "place": 12,
+          "time": "08:44.28",
+          "points": 67
+        },
+        "Dickies Triplet": {
+          "place": 27,
+          "time": "08:09.47",
+          "points": 9
+        },
+        "Final 2421": {
+          "place": 22,
+          "time": "02:51.71",
+          "points": 24
+        },
+        "Final 1815": {
+          "place": 19,
+          "time": "06:01.64",
+          "points": 33
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Austin Hatfield",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "67 in | 195 lb",
+      "total_points": 594,
+      "events": {
+        "Lake Day": {
+          "place": 31,
+          "time": "44:01.15",
+          "points": 18
+        },
+        "Midline Climb": {
+          "place": 32,
+          "time": "19:10.62",
+          "points": 16
+        },
+        "Firestorm": {
+          "place": 27,
+          "time": "03:13.31",
+          "points": 26
+        },
+        "Track and Field": {
+          "place": 19,
+          "time": "19 pt",
+          "points": 46
+        },
+        "Chad": {
+          "place": 2,
+          "time": "44:09.00",
+          "points": 97
+        },
+        "Clean Ladder": {
+          "place": 7,
+          "time": "7 pt",
+          "points": 82
+        },
+        "Push Pull 2.0": {
+          "place": 22,
+          "time": "CAP+4",
+          "points": 37
+        },
+        "Dickies Triplet": {
+          "place": 8,
+          "time": "07:28.63",
+          "points": 72
+        },
+        "Final 2421": {
+          "place": 1,
+          "time": "02:25.94",
+          "points": 100
+        },
+        "Final 1815": {
+          "place": 1,
+          "time": "04:40.12",
+          "points": 100
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Saxon Panchik",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit Nolensville",
+      "age": "Age 28",
+      "height_weight": "69 in | 185 lb",
+      "total_points": 592,
+      "events": {
+        "Lake Day": {
+          "place": 6,
+          "time": "38:50.81",
+          "points": 85
+        },
+        "Midline Climb": {
+          "place": 14,
+          "time": "16:31.97",
+          "points": 61
+        },
+        "Firestorm": {
+          "place": 28,
+          "time": "03:14.20",
+          "points": 24
+        },
+        "Track and Field": {
+          "place": 13,
+          "time": "13 pt",
+          "points": 64
+        },
+        "Chad": {
+          "place": 23,
+          "time": "53:09.00",
+          "points": 34
+        },
+        "Clean Ladder": {
+          "place": 30,
+          "time": "30 pt",
+          "points": 20
+        },
+        "Push Pull 2.0": {
+          "place": 1,
+          "time": "06:20.80",
+          "points": 100
+        },
+        "Dickies Triplet": {
+          "place": 7,
+          "time": "07:25.93",
+          "points": 76
+        },
+        "Final 2421": {
+          "place": 10,
+          "time": "02:37.91",
+          "points": 64
+        },
+        "Final 1815": {
+          "place": 10,
+          "time": "05:36.99",
+          "points": 64
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Jay Crouch",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "175 cm | 88 kg",
+      "total_points": 550,
+      "events": {
+        "Lake Day": {
+          "place": 13,
+          "time": "40:18.96",
+          "points": 64
+        },
+        "Midline Climb": {
+          "place": 10,
+          "time": "15:49.98",
+          "points": 73
+        },
+        "Firestorm": {
+          "place": 12,
+          "time": "02:53.42",
+          "points": 67
+        },
+        "Track and Field": {
+          "place": 6,
+          "time": "6 pt",
+          "points": 85
+        },
+        "Chad": {
+          "place": 8,
+          "time": "48:40.00",
+          "points": 79
+        },
+        "Clean Ladder": {
+          "place": 16,
+          "time": "16 pt",
+          "points": 55
+        },
+        "Push Pull 2.0": {
+          "place": 3,
+          "time": "07:24.83",
+          "points": 94
+        },
+        "Dickies Triplet": {
+          "place": 19,
+          "time": "07:51.35",
+          "points": 33
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "WD",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "WD",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Travis Mayer",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit UNTD",
+      "age": "Age 33",
+      "height_weight": "71 in | 204 lb",
+      "total_points": 545,
+      "events": {
+        "Lake Day": {
+          "place": 16,
+          "time": "40:47.88",
+          "points": 55
+        },
+        "Midline Climb": {
+          "place": 23,
+          "time": "17:24.83",
+          "points": 34
+        },
+        "Firestorm": {
+          "place": 15,
+          "time": "02:55.41",
+          "points": 58
+        },
+        "Track and Field": {
+          "place": 10,
+          "time": "10 pt",
+          "points": 73
+        },
+        "Chad": {
+          "place": 28,
+          "time": "55:29.00",
+          "points": 24
+        },
+        "Clean Ladder": {
+          "place": 3,
+          "time": "3 pt",
+          "points": 94
+        },
+        "Push Pull 2.0": {
+          "place": 9,
+          "time": "08:29.66",
+          "points": 76
+        },
+        "Dickies Triplet": {
+          "place": 12,
+          "time": "07:36.40",
+          "points": 56
+        },
+        "Final 2421": {
+          "place": 29,
+          "time": "03:07.74",
+          "points": 3
+        },
+        "Final 1815": {
+          "place": 8,
+          "time": "05:26.59",
+          "points": 72
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Henrik Haapalainen",
+      "country": "Finland",
+      "region": "Europe",
+      "affiliate": "CrossFit Basement",
+      "age": "Age 29",
+      "height_weight": "185 cm | 94 kg",
+      "total_points": 541,
+      "events": {
+        "Lake Day": {
+          "place": 20,
+          "time": "41:42.40",
+          "points": 43
+        },
+        "Midline Climb": {
+          "place": 13,
+          "time": "16:14.25",
+          "points": 64
+        },
+        "Firestorm": {
+          "place": 10,
+          "time": "02:52.80",
+          "points": 73
+        },
+        "Track and Field": {
+          "place": 16,
+          "time": "16 pt",
+          "points": 55
+        },
+        "Chad": {
+          "place": 32,
+          "time": "CAP+14",
+          "points": 16
+        },
+        "Clean Ladder": {
+          "place": 9,
+          "time": "9 pt",
+          "points": 76
+        },
+        "Push Pull 2.0": {
+          "place": 26,
+          "time": "CAP+6",
+          "points": 28
+        },
+        "Dickies Triplet": {
+          "place": 6,
+          "time": "07:25.25",
+          "points": 80
+        },
+        "Final 2421": {
+          "place": 4,
+          "time": "02:32.98",
+          "points": 88
+        },
+        "Final 1815": {
+          "place": 24,
+          "time": "06:39.39",
+          "points": 18
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Jelle Hoste",
+      "country": "Belgium",
+      "region": "Europe",
+      "affiliate": "CrossFit Kortrijk",
+      "age": "Age 29",
+      "height_weight": "190 cm | 100 kg",
+      "total_points": 530,
+      "events": {
+        "Lake Day": {
+          "place": 1,
+          "time": "36:50.87",
+          "points": 100
+        },
+        "Midline Climb": {
+          "place": 9,
+          "time": "15:31.14",
+          "points": 76
+        },
+        "Firestorm": {
+          "place": 17,
+          "time": "02:57.91",
+          "points": 52
+        },
+        "Track and Field": {
+          "place": 9,
+          "time": "9 pt",
+          "points": 76
+        },
+        "Chad": {
+          "place": 7,
+          "time": "48:32.00",
+          "points": 82
+        },
+        "Clean Ladder": {
+          "place": 26,
+          "time": "26 pt",
+          "points": 28
+        },
+        "Push Pull 2.0": {
+          "place": 27,
+          "time": "CAP+7",
+          "points": 26
+        },
+        "Dickies Triplet": {
+          "place": 23,
+          "time": "07:59.73",
+          "points": 21
+        },
+        "Final 2421": {
+          "place": 14,
+          "time": "02:40.58",
+          "points": 48
+        },
+        "Final 1815": {
+          "place": 23,
+          "time": "06:24.12",
+          "points": 21
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Björgvin Karl Guðmundsson",
+      "country": "Iceland",
+      "region": "Europe",
+      "affiliate": "CrossFit Reykjavík",
+      "age": "Age 31",
+      "height_weight": "178 cm | 190 lb",
+      "total_points": 524,
+      "events": {
+        "Lake Day": {
+          "place": 8,
+          "time": "39:29.86",
+          "points": 79
+        },
+        "Midline Climb": {
+          "place": 17,
+          "time": "16:53.39",
+          "points": 52
+        },
+        "Firestorm": {
+          "place": 30,
+          "time": "03:14.70",
+          "points": 20
+        },
+        "Track and Field": {
+          "place": 21,
+          "time": "21 pt",
+          "points": 40
+        },
+        "Chad": {
+          "place": 19,
+          "time": "51:40.00",
+          "points": 46
+        },
+        "Clean Ladder": {
+          "place": 15,
+          "time": "15 pt",
+          "points": 58
+        },
+        "Push Pull 2.0": {
+          "place": 16,
+          "time": "08:56.32",
+          "points": 55
+        },
+        "Dickies Triplet": {
+          "place": 14,
+          "time": "07:43.92",
+          "points": 48
+        },
+        "Final 2421": {
+          "place": 20,
+          "time": "02:47.38",
+          "points": 30
+        },
+        "Final 1815": {
+          "place": 2,
+          "time": "05:07.78",
+          "points": 96
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Cole Greashaber",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "CrossFit O'Fallon",
+      "age": "Age 24",
+      "height_weight": "72 in | 212 lb",
+      "total_points": 523,
+      "events": {
+        "Lake Day": {
+          "place": 30,
+          "time": "43:21.09",
+          "points": 20
+        },
+        "Midline Climb": {
+          "place": 8,
+          "time": "15:08.02",
+          "points": 79
+        },
+        "Firestorm": {
+          "place": 11,
+          "time": "02:52.95",
+          "points": 70
+        },
+        "Track and Field": {
+          "place": 32,
+          "time": "32 pt",
+          "points": 16
+        },
+        "Chad": {
+          "place": 14,
+          "time": "50:26.00",
+          "points": 61
+        },
+        "Clean Ladder": {
+          "place": 14,
+          "time": "14 pt",
+          "points": 61
+        },
+        "Push Pull 2.0": {
+          "place": 7,
+          "time": "08:06.75",
+          "points": 82
+        },
+        "Dickies Triplet": {
+          "place": 25,
+          "time": "08:03.11",
+          "points": 15
+        },
+        "Final 2421": {
+          "place": 17,
+          "time": "02:41.30",
+          "points": 39
+        },
+        "Final 1815": {
+          "place": 6,
+          "time": "05:26.05",
+          "points": 80
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Aniol Ekai",
+      "country": "Spain",
+      "region": "Europe",
+      "affiliate": "CrossFit Zarautz",
+      "age": "Age 27",
+      "height_weight": "187 cm | 96 kg",
+      "total_points": 523,
+      "events": {
+        "Lake Day": {
+          "place": 28,
+          "time": "42:57.40",
+          "points": 24
+        },
+        "Midline Climb": {
+          "place": 16,
+          "time": "16:35.47",
+          "points": 55
+        },
+        "Firestorm": {
+          "place": 18,
+          "time": "02:59.03",
+          "points": 49
+        },
+        "Track and Field": {
+          "place": 15,
+          "time": "15 pt",
+          "points": 58
+        },
+        "Chad": {
+          "place": 20,
+          "time": "51:54.00",
+          "points": 43
+        },
+        "Clean Ladder": {
+          "place": 13,
+          "time": "13 pt",
+          "points": 64
+        },
+        "Push Pull 2.0": {
+          "place": 23,
+          "time": "CAP+5",
+          "points": 34
+        },
+        "Dickies Triplet": {
+          "place": 11,
+          "time": "07:34.37",
+          "points": 60
+        },
+        "Final 2421": {
+          "place": 7,
+          "time": "02:35.91",
+          "points": 76
+        },
+        "Final 1815": {
+          "place": 11,
+          "time": "05:41.26",
+          "points": 60
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Chris Ibarra",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "Solution 1 CrossFit",
+      "age": "Age 24",
+      "height_weight": "68 in | 198 lb",
+      "total_points": 516,
+      "events": {
+        "Lake Day": {
+          "place": 9,
+          "time": "39:32.16",
+          "points": 76
+        },
+        "Midline Climb": {
+          "place": 15,
+          "time": "16:34.95",
+          "points": 58
+        },
+        "Firestorm": {
+          "place": 23,
+          "time": "03:06.50",
+          "points": 34
+        },
+        "Track and Field": {
+          "place": 14,
+          "time": "14 pt",
+          "points": 61
+        },
+        "Chad": {
+          "place": 15,
+          "time": "51:14.00",
+          "points": 58
+        },
+        "Clean Ladder": {
+          "place": 24,
+          "time": "24 pt",
+          "points": 32
+        },
+        "Push Pull 2.0": {
+          "place": 14,
+          "time": "08:52.66",
+          "points": 61
+        },
+        "Dickies Triplet": {
+          "place": 18,
+          "time": "07:49.95",
+          "points": 36
+        },
+        "Final 2421": {
+          "place": 13,
+          "time": "02:40.01",
+          "points": 52
+        },
+        "Final 1815": {
+          "place": 14,
+          "time": "05:50.87",
+          "points": 48
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Calum Clements",
+      "country": "Spain",
+      "region": "Europe",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "185 cm | 95 kg",
+      "total_points": 487,
+      "events": {
+        "Lake Day": {
+          "place": 29,
+          "time": "43:00.80",
+          "points": 22
+        },
+        "Midline Climb": {
+          "place": 22,
+          "time": "17:24.01",
+          "points": 37
+        },
+        "Firestorm": {
+          "place": 19,
+          "time": "03:02.54",
+          "points": 46
+        },
+        "Track and Field": {
+          "place": 18,
+          "time": "18 pt",
+          "points": 49
+        },
+        "Chad": {
+          "place": 11,
+          "time": "49:45.00",
+          "points": 70
+        },
+        "Clean Ladder": {
+          "place": 17,
+          "time": "17 pt",
+          "points": 52
+        },
+        "Push Pull 2.0": {
+          "place": 6,
+          "time": "08:05.76",
+          "points": 85
+        },
+        "Dickies Triplet": {
+          "place": 15,
+          "time": "07:44.30",
+          "points": 45
+        },
+        "Final 2421": {
+          "place": 18,
+          "time": "02:44.33",
+          "points": 36
+        },
+        "Final 1815": {
+          "place": 15,
+          "time": "05:54.07",
+          "points": 45
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Harry Lightfoot",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "affiliate": "Blueprint CrossFit",
+      "age": "Age 25",
+      "height_weight": "173 cm | 90 kg",
+      "total_points": 477,
+      "events": {
+        "Lake Day": {
+          "place": 24,
+          "time": "42:32.75",
+          "points": 32
+        },
+        "Midline Climb": {
+          "place": 20,
+          "time": "17:07.43",
+          "points": 43
+        },
+        "Firestorm": {
+          "place": 7,
+          "time": "02:49.91",
+          "points": 82
+        },
+        "Track and Field": {
+          "place": 27,
+          "time": "27 pt",
+          "points": 26
+        },
+        "Chad": {
+          "place": 10,
+          "time": "49:44.00",
+          "points": 73
+        },
+        "Clean Ladder": {
+          "place": 18,
+          "time": "18 pt",
+          "points": 49
+        },
+        "Push Pull 2.0": {
+          "place": 18,
+          "time": "09:42.34",
+          "points": 49
+        },
+        "Dickies Triplet": {
+          "place": 17,
+          "time": "07:47.25",
+          "points": 39
+        },
+        "Final 2421": {
+          "place": 16,
+          "time": "02:41.17",
+          "points": 42
+        },
+        "Final 1815": {
+          "place": 16,
+          "time": "05:54.38",
+          "points": 42
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Alexandre Caron",
+      "country": "Canada",
+      "region": "North America East",
+      "affiliate": "CrossFit Levis",
+      "age": "Age 28",
+      "height_weight": "71 in | 205 lb",
+      "total_points": 445,
+      "events": {
+        "Lake Day": {
+          "place": 35,
+          "time": "48:22.29",
+          "points": 10
+        },
+        "Midline Climb": {
+          "place": 19,
+          "time": "16:59.55",
+          "points": 46
+        },
+        "Firestorm": {
+          "place": 13,
+          "time": "02:54.03",
+          "points": 64
+        },
+        "Track and Field": {
+          "place": 17,
+          "time": "17 pt",
+          "points": 52
+        },
+        "Chad": {
+          "place": 21,
+          "time": "52:42.00",
+          "points": 40
+        },
+        "Clean Ladder": {
+          "place": 11,
+          "time": "11 pt",
+          "points": 70
+        },
+        "Push Pull 2.0": {
+          "place": 24,
+          "time": "CAP+5",
+          "points": 32
+        },
+        "Dickies Triplet": {
+          "place": 9,
+          "time": "07:33.23",
+          "points": 68
+        },
+        "Final 2421": {
+          "place": 22,
+          "time": "02:51.71",
+          "points": 24
+        },
+        "Final 1815": {
+          "place": 17,
+          "time": "05:56.17",
+          "points": 39
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Kalyan Souza",
+      "country": "Brazil",
+      "region": "South America",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "184 cm | 97 kg",
+      "total_points": 422,
+      "events": {
+        "Lake Day": {
+          "place": 23,
+          "time": "42:27.66",
+          "points": 34
+        },
+        "Midline Climb": {
+          "place": 5,
+          "time": "14:48.68",
+          "points": 88
+        },
+        "Firestorm": {
+          "place": 16,
+          "time": "02:57.36",
+          "points": 55
+        },
+        "Track and Field": {
+          "place": 11,
+          "time": "11 pt",
+          "points": 70
+        },
+        "Chad": {
+          "place": 18,
+          "time": "51:33.00",
+          "points": 49
+        },
+        "Clean Ladder": {
+          "place": 25,
+          "time": "25 pt",
+          "points": 30
+        },
+        "Push Pull 2.0": {
+          "place": 25,
+          "time": "CAP+5",
+          "points": 30
+        },
+        "Dickies Triplet": {
+          "place": 16,
+          "time": "07:46.16",
+          "points": 42
+        },
+        "Final 2421": {
+          "place": 26,
+          "time": "02:58.49",
+          "points": 12
+        },
+        "Final 1815": {
+          "place": 26,
+          "time": "06:54.86",
+          "points": 12
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Cole Sager",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "CrossFit Spokane Valley",
+      "age": "Age 33",
+      "height_weight": "71 in | 200 lb",
+      "total_points": 401,
+      "events": {
+        "Lake Day": {
+          "place": 12,
+          "time": "40:04.91",
+          "points": 67
+        },
+        "Midline Climb": {
+          "place": 21,
+          "time": "17:19.18",
+          "points": 40
+        },
+        "Firestorm": {
+          "place": 21,
+          "time": "03:03.42",
+          "points": 40
+        },
+        "Track and Field": {
+          "place": 29,
+          "time": "29 pt",
+          "points": 22
+        },
+        "Chad": {
+          "place": 26,
+          "time": "54:26.00",
+          "points": 28
+        },
+        "Clean Ladder": {
+          "place": 29,
+          "time": "29 pt",
+          "points": 22
+        },
+        "Push Pull 2.0": {
+          "place": 8,
+          "time": "08:15.51",
+          "points": 79
+        },
+        "Dickies Triplet": {
+          "place": 24,
+          "time": "08:01.22",
+          "points": 18
+        },
+        "Final 2421": {
+          "place": 19,
+          "time": "02:46.59",
+          "points": 33
+        },
+        "Final 1815": {
+          "place": 13,
+          "time": "05:44.04",
+          "points": 52
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Jack Rozema",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit Hard Knox",
+      "age": "Age 28",
+      "height_weight": "69 in | 205 lb",
+      "total_points": 376,
+      "events": {
+        "Lake Day": {
+          "place": 37,
+          "time": "52:54.55",
+          "points": 6
+        },
+        "Midline Climb": {
+          "place": 24,
+          "time": "17:29.21",
+          "points": 32
+        },
+        "Firestorm": {
+          "place": 25,
+          "time": "03:07.66",
+          "points": 30
+        },
+        "Track and Field": {
+          "place": 24,
+          "time": "24 pt",
+          "points": 32
+        },
+        "Chad": {
+          "place": 16,
+          "time": "51:21.00",
+          "points": 55
+        },
+        "Clean Ladder": {
+          "place": 4,
+          "time": "4 pt",
+          "points": 91
+        },
+        "Push Pull 2.0": {
+          "place": 30,
+          "time": "CAP+10",
+          "points": 20
+        },
+        "Dickies Triplet": {
+          "place": 21,
+          "time": "07:53.37",
+          "points": 27
+        },
+        "Final 2421": {
+          "place": 12,
+          "time": "02:39.80",
+          "points": 56
+        },
+        "Final 1815": {
+          "place": 21,
+          "time": "06:08.09",
+          "points": 27
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Bruno Marins",
+      "country": "Brazil",
+      "region": "South America",
+      "affiliate": "Newin CrossFit",
+      "age": "Age 27",
+      "height_weight": "187 cm | 96 kg",
+      "total_points": 341,
+      "events": {
+        "Lake Day": {
+          "place": 17,
+          "time": "40:56.06",
+          "points": 52
+        },
+        "Midline Climb": {
+          "place": 31,
+          "time": "19:08.68",
+          "points": 18
+        },
+        "Firestorm": {
+          "place": 20,
+          "time": "03:02.78",
+          "points": 43
+        },
+        "Track and Field": {
+          "place": 33,
+          "time": "33 pt",
+          "points": 14
+        },
+        "Chad": {
+          "place": 24,
+          "time": "53:27.00",
+          "points": 32
+        },
+        "Clean Ladder": {
+          "place": 2,
+          "time": "2 pt",
+          "points": 97
+        },
+        "Push Pull 2.0": {
+          "place": 20,
+          "time": "CAP+1",
+          "points": 43
+        },
+        "Dickies Triplet": {
+          "place": 29,
+          "time": "08:29.56",
+          "points": 3
+        },
+        "Final 2421": {
+          "place": 25,
+          "time": "02:56.73",
+          "points": 15
+        },
+        "Final 1815": {
+          "place": 22,
+          "time": "06:22.47",
+          "points": 24
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Luke Parker",
+      "country": "United States",
+      "region": "North America East",
+      "affiliate": "CrossFit Mayhem",
+      "age": "Age 30",
+      "height_weight": "71 in | 205 lb",
+      "total_points": 330,
+      "events": {
+        "Lake Day": {
+          "place": 14,
+          "time": "40:19.00",
+          "points": 61
+        },
+        "Midline Climb": {
+          "place": 27,
+          "time": "17:56.00",
+          "points": 26
+        },
+        "Firestorm": {
+          "place": 22,
+          "time": "03:03.57",
+          "points": 37
+        },
+        "Track and Field": {
+          "place": 2,
+          "time": "2 pt",
+          "points": 97
+        },
+        "Chad": {
+          "place": 25,
+          "time": "54:00.00",
+          "points": 30
+        },
+        "Clean Ladder": {
+          "place": 23,
+          "time": "23 pt",
+          "points": 34
+        },
+        "Push Pull 2.0": {
+          "place": 31,
+          "time": "CAP+12",
+          "points": 18
+        },
+        "Dickies Triplet": {
+          "place": 26,
+          "time": "08:04.67",
+          "points": 12
+        },
+        "Final 2421": {
+          "place": 28,
+          "time": "03:03.77",
+          "points": 6
+        },
+        "Final 1815": {
+          "place": 27,
+          "time": "06:59.30",
+          "points": 9
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Bayley Martin",
+      "country": "New Zealand",
+      "region": "Oceania",
+      "affiliate": "CrossFit Torian",
+      "age": "Age 24",
+      "height_weight": "174 cm | 82 kg",
+      "total_points": 308,
+      "events": {
+        "Lake Day": {
+          "place": 36,
+          "time": "51:04.60",
+          "points": 8
+        },
+        "Midline Climb": {
+          "place": 26,
+          "time": "17:45.96",
+          "points": 28
+        },
+        "Firestorm": {
+          "place": 24,
+          "time": "03:07.27",
+          "points": 32
+        },
+        "Track and Field": {
+          "place": 20,
+          "time": "20 pt",
+          "points": 43
+        },
+        "Chad": {
+          "place": 29,
+          "time": "55:56.00",
+          "points": 22
+        },
+        "Clean Ladder": {
+          "place": 19,
+          "time": "19 pt",
+          "points": 46
+        },
+        "Push Pull 2.0": {
+          "place": 28,
+          "time": "CAP+8",
+          "points": 24
+        },
+        "Dickies Triplet": {
+          "place": 20,
+          "time": "07:51.88",
+          "points": 30
+        },
+        "Final 2421": {
+          "place": 8,
+          "time": "02:36.46",
+          "points": 72
+        },
+        "Final 1815": {
+          "place": 29,
+          "time": "CAP+7",
+          "points": 3
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Ruan Potgieter",
+      "country": "South Africa",
+      "region": "Africa",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "182 cm | 82 kg",
+      "total_points": 296,
+      "events": {
+        "Lake Day": {
+          "place": 5,
+          "time": "38:42.20",
+          "points": 88
+        },
+        "Midline Climb": {
+          "place": 35,
+          "time": "19:58.37",
+          "points": 10
+        },
+        "Firestorm": {
+          "place": 34,
+          "time": "03:43.19",
+          "points": 12
+        },
+        "Track and Field": {
+          "place": 26,
+          "time": "26 pt",
+          "points": 28
+        },
+        "Chad": {
+          "place": 31,
+          "time": "57:53.00",
+          "points": 18
+        },
+        "Clean Ladder": {
+          "place": 32,
+          "time": "32 pt",
+          "points": 16
+        },
+        "Push Pull 2.0": {
+          "place": 4,
+          "time": "07:35.94",
+          "points": 91
+        },
+        "Dickies Triplet": {
+          "place": 30,
+          "time": "09:46.18",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 21,
+          "time": "02:51.38",
+          "points": 27
+        },
+        "Final 1815": {
+          "place": 28,
+          "time": "CAP+1",
+          "points": 6
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Brandon Luckett",
+      "country": "United States",
+      "region": "North America West",
+      "affiliate": "CrossFit Franco's",
+      "age": "Age 29",
+      "height_weight": "72 in | 200 lb",
+      "total_points": 294,
+      "events": {
+        "Lake Day": {
+          "place": 10,
+          "time": "39:51.09",
+          "points": 73
+        },
+        "Midline Climb": {
+          "place": 33,
+          "time": "19:45.11",
+          "points": 14
+        },
+        "Firestorm": {
+          "place": 6,
+          "time": "02:49.25",
+          "points": 85
+        },
+        "Track and Field": {
+          "place": 30,
+          "time": "30 pt",
+          "points": 20
+        },
+        "Chad": {
+          "place": 27,
+          "time": "55:13.00",
+          "points": 26
+        },
+        "Clean Ladder": {
+          "place": 28,
+          "time": "28 pt",
+          "points": 24
+        },
+        "Push Pull 2.0": {
+          "place": 29,
+          "time": "CAP+9",
+          "points": 22
+        },
+        "Dickies Triplet": {
+          "place": 28,
+          "time": "08:24.91",
+          "points": 6
+        },
+        "Final 2421": {
+          "place": 27,
+          "time": "03:00.04",
+          "points": 9
+        },
+        "Final 1815": {
+          "place": 25,
+          "time": "06:42.41",
+          "points": 15
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Peter Ellis",
+      "country": "Australia",
+      "region": "Oceania",
+      "affiliate": "CrossFit Generate",
+      "age": "Age 22",
+      "height_weight": "175 cm | 83 kg",
+      "total_points": 200,
+      "events": {
+        "Lake Day": {
+          "place": 26,
+          "time": "42:35.95",
+          "points": 28
+        },
+        "Midline Climb": {
+          "place": 25,
+          "time": "17:32.08",
+          "points": 30
+        },
+        "Firestorm": {
+          "place": 29,
+          "time": "03:14.37",
+          "points": 22
+        },
+        "Track and Field": {
+          "place": 23,
+          "time": "23 pt",
+          "points": 34
+        },
+        "Chad": {
+          "place": 30,
+          "time": "56:27.00",
+          "points": 20
+        },
+        "Clean Ladder": {
+          "place": 27,
+          "time": "27 pt",
+          "points": 26
+        },
+        "Push Pull 2.0": {
+          "place": 21,
+          "time": "CAP+1",
+          "points": 40
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Arthur Semenov",
+      "country": "",
+      "region": "Asia",
+      "affiliate": "Red Tower CrossFit",
+      "age": "Age 31",
+      "height_weight": "75 in | 222 lb",
+      "total_points": 133,
+      "events": {
+        "Lake Day": {
+          "place": 32,
+          "time": "44:51.83",
+          "points": 16
+        },
+        "Midline Climb": {
+          "place": 29,
+          "time": "18:27.36",
+          "points": 22
+        },
+        "Firestorm": {
+          "place": 32,
+          "time": "03:20.63",
+          "points": 16
+        },
+        "Track and Field": {
+          "place": 28,
+          "time": "28 pt",
+          "points": 24
+        },
+        "Chad": {
+          "place": 22,
+          "time": "52:43.00",
+          "points": 37
+        },
+        "Clean Ladder": {
+          "place": 31,
+          "time": "31 pt",
+          "points": 18
+        },
+        "Push Pull 2.0": {
+          "place": 32,
+          "time": "",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Moritz Fiebig",
+      "country": "Germany",
+      "region": "Europe",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "179 cm | 95 kg",
+      "total_points": 97,
+      "events": {
+        "Lake Day": {
+          "place": 22,
+          "time": "42:00.44",
+          "points": 37
+        },
+        "Midline Climb": {
+          "place": 28,
+          "time": "18:05.00",
+          "points": 24
+        },
+        "Firestorm": {
+          "place": 31,
+          "time": "03:17.23",
+          "points": 18
+        },
+        "Track and Field": {
+          "place": 31,
+          "time": "31 pt",
+          "points": 18
+        },
+        "Chad": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 32,
+          "time": "DNS",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Luka Đukić",
+      "country": "Serbia",
+      "region": "Europe",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "181 cm | 92 kg",
+      "total_points": 49,
+      "events": {
+        "Lake Day": {
+          "place": 18,
+          "time": "41:14.69",
+          "points": 49
+        },
+        "Midline Climb": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Firestorm": {
+          "place": 35,
+          "time": "DNS",
+          "points": 0
+        },
+        "Track and Field": {
+          "place": 34,
+          "time": "DNS",
+          "points": 0
+        },
+        "Chad": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 32,
+          "time": "DNS",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Guilherme Malheiros",
+      "country": "Brazil",
+      "region": "South America",
+      "affiliate": "CrossFit Mayhem",
+      "age": "Age 24",
+      "height_weight": "177 cm | 88 kg",
+      "total_points": 46,
+      "events": {
+        "Lake Day": {
+          "place": 34,
+          "time": "47:27.42",
+          "points": 12
+        },
+        "Midline Climb": {
+          "place": 30,
+          "time": "18:50.28",
+          "points": 20
+        },
+        "Firestorm": {
+          "place": 33,
+          "time": "03:30.94",
+          "points": 14
+        },
+        "Track and Field": {
+          "place": 34,
+          "time": "DNS",
+          "points": 0
+        },
+        "Chad": {
+          "place": 33,
+          "time": "",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 32,
+          "time": "",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Jeffrey Adler",
+      "country": "Canada",
+      "region": "North America East",
+      "affiliate": "CrossFit Wonderland",
+      "age": "Age 30",
+      "height_weight": "69 in | 197 lb",
+      "total_points": 40,
+      "events": {
+        "Lake Day": {
+          "place": 21,
+          "time": "41:48.65",
+          "points": 40
+        },
+        "Midline Climb": {
+          "place": 36,
+          "time": "DNS",
+          "points": 0
+        },
+        "Firestorm": {
+          "place": 35,
+          "time": "DNS",
+          "points": 0
+        },
+        "Track and Field": {
+          "place": 34,
+          "time": "DNS",
+          "points": 0
+        },
+        "Chad": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "DNS",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 32,
+          "time": "DNS",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Samuel Cournoyer",
+      "country": "Canada",
+      "region": "North America East",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "180 cm | 205 lb",
+      "total_points": 38,
+      "events": {
+        "Lake Day": {
+          "place": 27,
+          "time": "42:53.62",
+          "points": 26
+        },
+        "Midline Climb": {
+          "place": 34,
+          "time": "19:52.02",
+          "points": 12
+        },
+        "Firestorm": {
+          "place": 35,
+          "time": "",
+          "points": 0
+        },
+        "Track and Field": {
+          "place": 34,
+          "time": "",
+          "points": 0
+        },
+        "Chad": {
+          "place": 33,
+          "time": "",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 32,
+          "time": "",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Victor Hoffer",
+      "country": "France",
+      "region": "Europe",
+      "affiliate": "CrossFit Grillen",
+      "age": "Age 21",
+      "height_weight": "180 cm | 87 kg",
+      "total_points": 0,
+      "events": {
+        "Lake Day": {
+          "place": 38,
+          "time": "WD",
+          "points": 0
+        },
+        "Midline Climb": {
+          "place": 36,
+          "time": "",
+          "points": 0
+        },
+        "Firestorm": {
+          "place": 35,
+          "time": "",
+          "points": 0
+        },
+        "Track and Field": {
+          "place": 34,
+          "time": "",
+          "points": 0
+        },
+        "Chad": {
+          "place": 33,
+          "time": "",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 33,
+          "time": "",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 32,
+          "time": "",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 31,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 30,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": -1,
+      "rank_label": "",
+      "name": "Lazar Đukić",
+      "country": "Serbia",
+      "region": "Europe",
+      "affiliate": "Nero CrossFit",
+      "age": "Age 28",
+      "height_weight": "182 cm | 93 kg",
+      "total_points": 0,
+      "events": {
+        "Lake Day": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Midline Climb": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Firestorm": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Track and Field": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Chad": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Clean Ladder": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Push Pull 2.0": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Dickies Triplet": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Final 2421": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Final 1815": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

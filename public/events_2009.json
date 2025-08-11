@@ -1,0 +1,87 @@
+{
+  "year": 2009,
+  "events": [
+    {
+      "name": "7-k Hill Run",
+      "details": [],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "Men - Deadlift 1 rep every 30 seconds, moving from 315 lb. to 505 lb. in 10-lb. increments.",
+      "details": [
+        "Women - Deadlift 1 rep every 30 seconds, moving from 185 lb. to 375 lb. in 10-lb. increments."
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "170-meter Hill Sprint with 35-lb. sandbags",
+      "details": [
+        "(2 sandbags for men, 1 for women)."
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "Row 500 meters",
+      "details": [
+        "Pound a stake into the ground",
+        "Row 500 meters",
+        "(4-foot stake for men, 3-foot stake for women)"
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "3 rounds for time of:",
+      "details": [
+        "30 Wall-ball Shots (20/14 lb.)",
+        "30 Squat Snatches (75/45 lb.)"
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "Barbell snatch, 1 rep max",
+      "details": [],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "8-min. AMRAP of:",
+      "details": [
+        "4 Handstand Push-ups",
+        "8 Kettlebell Swings (32/24 kg)",
+        "12 GHD Sit-ups"
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "For time:",
+      "details": [
+        "15 Cleans (155/100 lb.)",
+        "30 Toes-to-Bars",
+        "30 Box Jumps (24/20 in.)",
+        "15 Muscle-ups",
+        "30 Dumbbell Push Presses (40/25 lb.)",
+        "30 Double-unders",
+        "15 Thrusters (135/95 lb.)",
+        "30 Pull-ups",
+        "30 Burpees",
+        "300-foot Overhead Walking Lunges (45/25 lb.)"
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    }
+  ]
+}

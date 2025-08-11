@@ -1,0 +1,134 @@
+{
+  "year": 2025,
+  "events": [
+    {
+      "name": "Run Row Run",
+      "description": "For time:",
+      "details": [
+        "4-mile run",
+        "3,000-meter row",
+        "2-mile run"
+      ],
+      "timeCap": "",
+      "notes": []
+    },
+    {
+      "name": "All Crossed Up",
+      "description": "For time:",
+      "details": [
+        "20 wall walks",
+        "10 DB shoulder-to-overheads",
+        "20 double-under crossovers",
+        "30 toes-to-bars",
+        "20 double-under crossovers",
+        "10 DB shoulder-to-overheads",
+        "20 double-under crossovers",
+        "30 toes-to-bars",
+        "20 double-under crossovers",
+        "10 DB shoulder-to-overheads",
+        "Women: 70-lb dumbbell",
+        "Men: 100-lb dumbbell"
+      ],
+      "timeCap": "Time cap: 10 min",
+      "notes": []
+    },
+    {
+      "name": "Climbing Couplet",
+      "description": "4-3-2-1 reps for time of:",
+      "details": [
+        "Pegboard",
+        "Squat clean + front squat",
+        "Women: 145, 165, 185, 205 lb",
+        "Men: 235, 265, 285, 305 lb"
+      ],
+      "timeCap": "Time cap: 15 min (women), 10 min (men)",
+      "notes": []
+    },
+    {
+      "name": "Albany Grip Trip",
+      "description": "5 rounds for time of:",
+      "details": [
+        "400-meter run",
+        "12 deadlifts",
+        "100-foot handstand walk",
+        "*150-foot handstand walk on final round",
+        "Women: 220-lb deadlift",
+        "Men: 350-lb deadlift"
+      ],
+      "timeCap": "Time cap: 25 min (women), 22 min (men)",
+      "notes": []
+    },
+    {
+      "name": "1RM Back Squat",
+      "description": "1-rep-max back squat",
+      "details": [],
+      "timeCap": "",
+      "notes": []
+    },
+    {
+      "name": "Throttle Up",
+      "description": "For time:",
+      "details": [
+        "35-calorie ski erg",
+        "28 chest-to-bar pull-ups",
+        "24 burpee box jump-overs",
+        "Women: 16-lb vest, 20-inch box",
+        "Men: 22-lb vest, 24-inch box"
+      ],
+      "timeCap": "Time cap: 6 min",
+      "notes": []
+    },
+    {
+      "name": "Hammer Down",
+      "description": "Starting 7 minutes after IE6:",
+      "details": [
+        "35-calorie C2 bike",
+        "28 bar muscle-ups",
+        "24 burpee box jump-overs",
+        "Women: 20-inch box",
+        "Men: 24-inch box"
+      ],
+      "timeCap": "Time cap: 8 min",
+      "notes": []
+    },
+    {
+      "name": "Going Dark",
+      "description": "For time:",
+      "details": [
+        "50/40 calories on the Echo bike",
+        "100-foot yoke carry",
+        "30 deficit handstand push-ups",
+        "100-foot yoke carry",
+        "50/40 calories on the Echo bike"
+      ],
+      "timeCap": "Time cap: 15 min",
+      "notes": []
+    },
+    {
+      "name": "Running Isabel",
+      "description": "5 rounds for time of:",
+      "details": [
+        "200-foot run",
+        "6 snatches",
+        "Women: 105 lb",
+        "Men: 155 lb"
+      ],
+      "timeCap": "",
+      "notes": []
+    },
+    {
+      "name": "Atlas",
+      "description": "For time:",
+      "details": [
+        "9/15/21 thrusters",
+        "3/5/7 rope climbs",
+        "Then,",
+        "100-foot overhead walking lunge",
+        "Women: 95 lb",
+        "Men: 135 lb"
+      ],
+      "timeCap": "Time cap: 15 min (women), 10 min (men)",
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "year": 2008,
+  "events": [
+    {
+      "name": "Sunday's Workout",
+      "details": [
+        "30 Squat Clean and Jerks, (155/100 lb.)",
+        "Competitors will be assigned a starting time for Sunday’s workout. The top 40 men and top 40 women will compete in the early afternoon. All others will compete in the morning. It is your responsibility to be present, warmed up, and ready to go at the starting time. No accommodation will be made for missing your starting time.",
+        "The final heat (top 20 competitors) for each division will have a staggered starting protocol. The athlete with the lowest combined time from the three Saturday events will start first. The next 19 athletes will start at the precise time difference by which they follow the front-runner. Their time for the event will be their finish time minus their start time, but the staggered start allows for the overall winner of the Games to be determined instantly.",
+        "For example, let’s assume the top three competitors and combined times from Saturday are Bob (13:00 total time), John (13:05 total time), and Ted (13:20 total time). Bob would start Sunday’s workout at time 0:00. John would start at 0:05, and Ted would start at 0:20.",
+        "Whoever finishes first is Top CrossFitter because their combined time across all four events would be least. The final placements for all competitors will be based on the exact times of completion, but this staggered start allows for better competition and spectating"
+      ],
+      "notes": [],
+      "description": "For time:",
+      "timeCap": ""
+    },
+    {
+      "name": "The Hill Run",
+      "details": [
+        "The hill run is a steep, off-trail run approximately 750 meters in length over rough terrain.",
+        "Competitors will be assigned a starting time for the hill run. It is your responsibility to be present, warmed up, and ready to go at the starting time. No accommodation will be made for missing your starting time.",
+        "There will be a 20-minute time limit on the hill run."
+      ],
+      "notes": [],
+      "description": "",
+      "timeCap": ""
+    },
+    {
+      "name": "Workout A",
+      "details": [
+        "Thrusters (95/65 lb.)",
+        "Pull-ups",
+        "Each rep of the thruster will only count when full range of motion is achieved. The bottom limit is when your hip travels clearly below the top of your knee, while the barbell is below the height of your chin. The top limit is when your hips and legs are fully extended with your arms fully locked out overhead. The barbell will be considered overhead when some portion of hte ear is visible in front of the arm (when viewed from the side).",
+        "Each rep of the pull-up will count only when full range of motion is achieved. The bottom limit is your arms fully extended. The top limit will be when any part of your chest (from the clavicle down) physically touches the bar. Again, the rep will be considered complete only when your chest contacts the bar.",
+        "Competitors will be assigned a starting time for Workout A. It is your responsibility to be present, warmed up, and read to go at the starting time. No accommodation will be made for missing your starting time, or for scaling the weight if you did not pre-identify scaling requirements via email.",
+        "There will be a 12-minute time limit on the workout."
+      ],
+      "notes": [],
+      "description": "21-15-9 reps for time of:",
+      "timeCap": ""
+    },
+    {
+      "name": "Workout B",
+      "details": [
+        "5 Deadlifts (275/185 lb.)",
+        "10 Burpees",
+        "Each rep of the deadlift will only count when full range of motion is achieved. The bottom limit is when the barbell touches the ground with your hands in contact with the bar. The rep will not count if the barbell is dropped from any height. The top limit is when your hips and legs are fully extended with the front of your shoulder behind the barbell.",
+        "Each rep of the burpee will only count when full range of motion is achieved. The bottom limit is when your chest and thighs touch the ground. The top limit is when your hands clap overhead with your feet off the ground and your hips and legs fully extended. There is no height requirement on the jump, but the clap must occur while airborne. The clap is considered overhead when the arm crosses the plane of the ear (when viewed from the side). If the timing is missed, you may repeat the jump to complete the rep.",
+        "Competitors will be assigned a starting time for Workout B. If is your responsibility to be present, warmed up, and ready to go at the starting time. No accommodation will be made for missing your starting time, or for scaling the weight if you did not pre-identify scaling requirements via email.",
+        "There will be a 12-minute time limit on the workout."
+      ],
+      "notes": [],
+      "description": "5 rounds for time of:",
+      "timeCap": ""
+    }
+  ]
+}

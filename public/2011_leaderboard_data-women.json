@@ -1,0 +1,6491 @@
+{
+  "year": 2011,
+  "gender": "women",
+  "events": [
+    "Beach (100 Points)",
+    "Dog-Sled (100 Points)",
+    "Killer Kage (100 Points)",
+    "Rope-Clean (100 Points)",
+    "Skills 1 (100 Points)",
+    "Skills 2 (100 Points)",
+    "The End 1 (100 Points)",
+    "The End 2 (100 Points)",
+    "The End 3 (100 Points)",
+    "Triplet Sprint (100 Points)"
+  ],
+  "event_point_map": {
+    "Beach (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16,
+      "42": 15,
+      "43": 14,
+      "44": 13,
+      "45": 12
+    },
+    "Dog-Sled (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 0,
+      "15": 57,
+      "17": 53,
+      "18": 51,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16,
+      "42": 15,
+      "43": 14,
+      "44": 13,
+      "45": 12
+    },
+    "Killer Kage (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "32": 25,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "40": 17,
+      "41": 16,
+      "42": 15,
+      "43": 14,
+      "44": 13,
+      "45": 12
+    },
+    "Rope-Clean (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "32": 25,
+      "33": 24,
+      "35": 22,
+      "36": 21,
+      "37": 20,
+      "39": 18,
+      "41": 16,
+      "42": 15,
+      "43": 14,
+      "44": 13,
+      "45": 12
+    },
+    "Skills 1 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "17": 53,
+      "21": 45,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "29": 29,
+      "30": 27,
+      "33": 24,
+      "34": 23,
+      "36": 21,
+      "37": 20,
+      "38": 19,
+      "39": 18,
+      "41": 16,
+      "43": 14,
+      "44": 13,
+      "45": 12
+    },
+    "Skills 2 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39,
+      "25": 37,
+      "26": 35,
+      "27": 33,
+      "28": 31,
+      "29": 29,
+      "30": 27,
+      "31": 26,
+      "32": 25,
+      "33": 24,
+      "34": 23,
+      "35": 22
+    },
+    "The End 1 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63,
+      "13": 61,
+      "14": 59,
+      "15": 57,
+      "16": 55,
+      "17": 53,
+      "18": 51,
+      "19": 49,
+      "20": 47,
+      "21": 45,
+      "22": 43,
+      "23": 41,
+      "24": 39
+    },
+    "The End 2 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63
+    },
+    "The End 3 (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63
+    },
+    "Triplet Sprint (100 Points)": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 73,
+      "8": 71,
+      "9": 69,
+      "10": 67,
+      "11": 65,
+      "12": 63
+    }
+  },
+  "event_field_size": {
+    "Beach (100 Points)": 45,
+    "Dog-Sled (100 Points)": 45,
+    "Killer Kage (100 Points)": 45,
+    "Rope-Clean (100 Points)": 45,
+    "Skills 1 (100 Points)": 45,
+    "Skills 2 (100 Points)": 35,
+    "The End 1 (100 Points)": 24,
+    "The End 2 (100 Points)": 12,
+    "The End 3 (100 Points)": 12,
+    "Triplet Sprint (100 Points)": 12
+  },
+  "event_place_points": {
+    "Beach (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12
+    ],
+    "Dog-Sled (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      0,
+      75,
+      73,
+      71,
+      0,
+      67,
+      65,
+      63,
+      61,
+      0,
+      57,
+      0,
+      53,
+      51,
+      0,
+      0,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      0,
+      26,
+      25,
+      24,
+      0,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12
+    ],
+    "Killer Kage (100 Points)": [
+      100,
+      95,
+      0,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      0,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      0,
+      0,
+      25,
+      0,
+      0,
+      0,
+      0,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12
+    ],
+    "Rope-Clean (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      0,
+      53,
+      51,
+      49,
+      47,
+      45,
+      0,
+      41,
+      39,
+      37,
+      35,
+      0,
+      31,
+      29,
+      27,
+      0,
+      25,
+      24,
+      0,
+      22,
+      21,
+      20,
+      0,
+      18,
+      0,
+      16,
+      15,
+      14,
+      13,
+      12
+    ],
+    "Skills 1 (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      0,
+      53,
+      0,
+      0,
+      0,
+      45,
+      0,
+      0,
+      39,
+      37,
+      35,
+      33,
+      0,
+      29,
+      27,
+      0,
+      0,
+      24,
+      23,
+      0,
+      21,
+      20,
+      19,
+      18,
+      0,
+      16,
+      0,
+      14,
+      13,
+      12
+    ],
+    "Skills 2 (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      0,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22
+    ],
+    "The End 1 (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      0,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63,
+      61,
+      59,
+      57,
+      55,
+      53,
+      51,
+      49,
+      47,
+      45,
+      43,
+      41,
+      39
+    ],
+    "The End 2 (100 Points)": [
+      100,
+      95,
+      90,
+      0,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63
+    ],
+    "The End 3 (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      0,
+      71,
+      69,
+      67,
+      65,
+      63
+    ],
+    "Triplet Sprint (100 Points)": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      73,
+      71,
+      69,
+      67,
+      65,
+      63
+    ]
+  },
+  "event_ordinals": {
+    "Beach (100 Points)": 1,
+    "Dog-Sled (100 Points)": 2,
+    "Killer Kage (100 Points)": 3,
+    "Rope-Clean (100 Points)": 4,
+    "Skills 1 (100 Points)": 5,
+    "Skills 2 (100 Points)": 6,
+    "The End 1 (100 Points)": 7,
+    "The End 2 (100 Points)": 8,
+    "The End 3 (100 Points)": 9,
+    "Triplet Sprint (100 Points)": 10
+  },
+  "event_finish_order": {
+    "Beach (100 Points)": [
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 1,
+        "points": 100,
+        "time": "39:04.0"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 2,
+        "points": 95,
+        "time": "39:14.0"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 3,
+        "points": 90,
+        "time": "41:23.0"
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 4,
+        "points": 85,
+        "time": "42:16.0"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 5,
+        "points": 80,
+        "time": "43:12.0"
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 6,
+        "points": 75,
+        "time": "43:35.0"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 7,
+        "points": 73,
+        "time": "43:54.0"
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 8,
+        "points": 71,
+        "time": "43:55.0"
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 9,
+        "points": 69,
+        "time": "44:16.0"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 10,
+        "points": 67,
+        "time": "45:26.0"
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 11,
+        "points": 65,
+        "time": "45:35.0"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 12,
+        "points": 63,
+        "time": "46:06.0"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 13,
+        "points": 61,
+        "time": "46:50.0"
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 14,
+        "points": 59,
+        "time": "47:03.0"
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 15,
+        "points": 57,
+        "time": "47:11.0"
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 16,
+        "points": 55,
+        "time": "47:23.0"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 17,
+        "points": 53,
+        "time": "47:25.0"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 18,
+        "points": 51,
+        "time": "47:33.0"
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 19,
+        "points": 49,
+        "time": "47:37.0"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 20,
+        "points": 47,
+        "time": "47:53.0"
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 21,
+        "points": 45,
+        "time": "47:56.0"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 22,
+        "points": 43,
+        "time": "48:04.0"
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 23,
+        "points": 41,
+        "time": "48:06.0"
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 24,
+        "points": 39,
+        "time": "49:13.0"
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 25,
+        "points": 37,
+        "time": "49:21.0"
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 26,
+        "points": 35,
+        "time": "49:30.0"
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 27,
+        "points": 33,
+        "time": "49:52.0"
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 28,
+        "points": 31,
+        "time": "49:58.0"
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 29,
+        "points": 29,
+        "time": "50:29.0"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 30,
+        "points": 27,
+        "time": "51:22.0"
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 31,
+        "points": 26,
+        "time": "51:39.0"
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 32,
+        "points": 25,
+        "time": "52:02.0"
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 33,
+        "points": 24,
+        "time": "52:04.0"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 34,
+        "points": 23,
+        "time": "52:47.0"
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 35,
+        "points": 22,
+        "time": "52:52.0"
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 36,
+        "points": 21,
+        "time": "53:21.0"
+      },
+      {
+        "name": "Shana Alverson",
+        "place": 37,
+        "points": 20,
+        "time": "54:04.0"
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 38,
+        "points": 19,
+        "time": "54:40.0"
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 39,
+        "points": 18,
+        "time": "55:04.0"
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 40,
+        "points": 17,
+        "time": "55:14.0"
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 41,
+        "points": 16,
+        "time": "55:59.0"
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 42,
+        "points": 15,
+        "time": "56:25.0"
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 43,
+        "points": 14,
+        "time": "56:57.0"
+      },
+      {
+        "name": "Candice Howe",
+        "place": 44,
+        "points": 13,
+        "time": "68:20.0"
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 45,
+        "points": 12,
+        "time": "69:10.0"
+      }
+    ],
+    "Dog-Sled (100 Points)": [
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 1,
+        "points": 100,
+        "time": "100 pt"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 2,
+        "points": 95,
+        "time": "95 pt"
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 3,
+        "points": 90,
+        "time": "90 pt"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 4,
+        "points": 85,
+        "time": "85 pt"
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 4,
+        "points": 85,
+        "time": "85 pt"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 6,
+        "points": 75,
+        "time": "75 pt"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 7,
+        "points": 73,
+        "time": "73 pt"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 8,
+        "points": 71,
+        "time": "71 pt"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 8,
+        "points": 71,
+        "time": "71 pt"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 10,
+        "points": 67,
+        "time": "67 pt"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 11,
+        "points": 65,
+        "time": "65 pt"
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 12,
+        "points": 63,
+        "time": "63 pt"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 13,
+        "points": 61,
+        "time": "61 pt"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 14,
+        "points": 0,
+        "time": "T pt"
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 15,
+        "points": 57,
+        "time": "57 pt"
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 15,
+        "points": 57,
+        "time": "57 pt"
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 17,
+        "points": 53,
+        "time": "53 pt"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 18,
+        "points": 51,
+        "time": "51 pt"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 18,
+        "points": 51,
+        "time": "51 pt"
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 18,
+        "points": 51,
+        "time": "51 pt"
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 21,
+        "points": 45,
+        "time": "45 pt"
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 22,
+        "points": 43,
+        "time": "43 pt"
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 23,
+        "points": 41,
+        "time": "41 pt"
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 24,
+        "points": 39,
+        "time": "39 pt"
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 25,
+        "points": 37,
+        "time": "37 pt"
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 26,
+        "points": 35,
+        "time": "35 pt"
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 27,
+        "points": 33,
+        "time": "33 pt"
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 28,
+        "points": 31,
+        "time": "31 pt"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 29,
+        "points": 29,
+        "time": "29 pt"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 29,
+        "points": 29,
+        "time": "29 pt"
+      },
+      {
+        "name": "Candice Howe",
+        "place": 31,
+        "points": 26,
+        "time": "26 pt"
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 32,
+        "points": 25,
+        "time": "25 pt"
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 33,
+        "points": 24,
+        "time": "24 pt"
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 33,
+        "points": 24,
+        "time": "24 pt"
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 35,
+        "points": 22,
+        "time": "22 pt"
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 36,
+        "points": 21,
+        "time": "21 pt"
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 37,
+        "points": 20,
+        "time": "20 pt"
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 38,
+        "points": 19,
+        "time": "19 pt"
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 39,
+        "points": 18,
+        "time": "18 pt"
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 40,
+        "points": 17,
+        "time": "17 pt"
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 41,
+        "points": 16,
+        "time": "16 pt"
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 42,
+        "points": 15,
+        "time": "15 pt"
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 43,
+        "points": 14,
+        "time": "14 pt"
+      },
+      {
+        "name": "Shana Alverson",
+        "place": 44,
+        "points": 13,
+        "time": "13 pt"
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 45,
+        "points": 12,
+        "time": "12 pt"
+      }
+    ],
+    "Killer Kage (100 Points)": [
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 1,
+        "points": 100,
+        "time": "6:54.0"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 2,
+        "points": 95,
+        "time": "7:19.0"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 2,
+        "points": 95,
+        "time": "7:19.0"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 4,
+        "points": 85,
+        "time": "8:01.0"
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 5,
+        "points": 80,
+        "time": "8:09.0"
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 6,
+        "points": 75,
+        "time": "8:18.0"
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 7,
+        "points": 73,
+        "time": "8:23.0"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 8,
+        "points": 71,
+        "time": "8:34.0"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 9,
+        "points": 69,
+        "time": "8:36.0"
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 10,
+        "points": 67,
+        "time": "8:40.0"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 11,
+        "points": 65,
+        "time": "8:50.0"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 11,
+        "points": 65,
+        "time": "8:50.0"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 13,
+        "points": 61,
+        "time": "8:53.0"
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 14,
+        "points": 59,
+        "time": "9:08.0"
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 15,
+        "points": 57,
+        "time": "9:11.0"
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 16,
+        "points": 55,
+        "time": "9:21.0"
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 17,
+        "points": 53,
+        "time": "9:34.0"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 18,
+        "points": 51,
+        "time": "9:57.0"
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 19,
+        "points": 49,
+        "time": "9:59.0"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 20,
+        "points": 47,
+        "time": "10:10.0"
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 21,
+        "points": 45,
+        "time": "10:26.0"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 22,
+        "points": 43,
+        "time": "10:44.0"
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 23,
+        "points": 41,
+        "time": "10:52.0"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 24,
+        "points": 39,
+        "time": "11:02.0"
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 25,
+        "points": 37,
+        "time": "11:03.0"
+      },
+      {
+        "name": "Shana Alverson",
+        "place": 26,
+        "points": 35,
+        "time": "11:06.0"
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 27,
+        "points": 33,
+        "time": "11:14.0"
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 28,
+        "points": 31,
+        "time": "11:23.0"
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 29,
+        "points": 29,
+        "time": "12:00.0"
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 29,
+        "points": 29,
+        "time": "12:00.0"
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 29,
+        "points": 29,
+        "time": "12:00.0"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 32,
+        "points": 25,
+        "time": "12:01.0"
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 32,
+        "points": 25,
+        "time": "12:01.0"
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 32,
+        "points": 25,
+        "time": "12:01.0"
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 32,
+        "points": 25,
+        "time": "12:01.0"
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 32,
+        "points": 25,
+        "time": "12:01.0"
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 37,
+        "points": 20,
+        "time": "12:02.0"
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 38,
+        "points": 19,
+        "time": "12:03.0"
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 39,
+        "points": 18,
+        "time": "12:05.0"
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 40,
+        "points": 17,
+        "time": "12:06.0"
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 41,
+        "points": 16,
+        "time": "12:07.0"
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 42,
+        "points": 15,
+        "time": "12:10.0"
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 43,
+        "points": 14,
+        "time": "12:11.0"
+      },
+      {
+        "name": "Candice Howe",
+        "place": 44,
+        "points": 13,
+        "time": "12:17.0"
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 45,
+        "points": 12,
+        "time": "12:26.0"
+      }
+    ],
+    "Rope-Clean (100 Points)": [
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 1,
+        "points": 100,
+        "time": "8:14.0"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 2,
+        "points": 95,
+        "time": "8:43.0"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 3,
+        "points": 90,
+        "time": "8:49.0"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 4,
+        "points": 85,
+        "time": "8:52.0"
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 5,
+        "points": 80,
+        "time": "8:54.0"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 6,
+        "points": 75,
+        "time": "9:13.0"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 7,
+        "points": 73,
+        "time": "9:34.0"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 8,
+        "points": 71,
+        "time": "9:38.0"
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 9,
+        "points": 69,
+        "time": "9:42.0"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 10,
+        "points": 67,
+        "time": "10:03.0"
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 11,
+        "points": 65,
+        "time": "10:08.0"
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 12,
+        "points": 63,
+        "time": "10:21.0"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 13,
+        "points": 61,
+        "time": "10:22.0"
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 14,
+        "points": 59,
+        "time": "10:34.0"
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 15,
+        "points": 57,
+        "time": "10:50.0"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 15,
+        "points": 57,
+        "time": "10:50.0"
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 17,
+        "points": 53,
+        "time": "10:55.0"
+      },
+      {
+        "name": "Shana Alverson",
+        "place": 18,
+        "points": 51,
+        "time": "10:57.0"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 19,
+        "points": 49,
+        "time": "11:04.0"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 20,
+        "points": 47,
+        "time": "11:16.0"
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 21,
+        "points": 45,
+        "time": "11:17.0"
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 21,
+        "points": 45,
+        "time": "11:17.0"
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 23,
+        "points": 41,
+        "time": "11:24.0"
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 24,
+        "points": 39,
+        "time": "11:25.0"
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 25,
+        "points": 37,
+        "time": "11:32.0"
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 26,
+        "points": 35,
+        "time": "11:37.0"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 26,
+        "points": 35,
+        "time": "11:37.0"
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 28,
+        "points": 31,
+        "time": "11:51.0"
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 29,
+        "points": 29,
+        "time": "12:25.0"
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 30,
+        "points": 27,
+        "time": "13:40.0"
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 30,
+        "points": 27,
+        "time": "13:40.0"
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 32,
+        "points": 25,
+        "time": "14:30.0"
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 33,
+        "points": 24,
+        "time": "15:20.0"
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 33,
+        "points": 24,
+        "time": "15:20.0"
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 35,
+        "points": 22,
+        "time": "15:35.0"
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 36,
+        "points": 21,
+        "time": "15:46.0"
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 37,
+        "points": 20,
+        "time": "15:47.0"
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 37,
+        "points": 20,
+        "time": "15:47.0"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 39,
+        "points": 18,
+        "time": "15:48.0"
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 39,
+        "points": 18,
+        "time": "15:48.0"
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 41,
+        "points": 16,
+        "time": "15:49.0"
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 42,
+        "points": 15,
+        "time": "15:50.0"
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 43,
+        "points": 14,
+        "time": "18:46.0"
+      },
+      {
+        "name": "Candice Howe",
+        "place": 44,
+        "points": 13,
+        "time": "20:58.0"
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 45,
+        "points": 12,
+        "time": "20:59.0"
+      }
+    ],
+    "Skills 1 (100 Points)": [
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 1,
+        "points": 100,
+        "time": "100 pt"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 2,
+        "points": 95,
+        "time": "95 pt"
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 3,
+        "points": 90,
+        "time": "90 pt"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 4,
+        "points": 85,
+        "time": "85 pt"
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 5,
+        "points": 80,
+        "time": "80 pt"
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 6,
+        "points": 75,
+        "time": "75 pt"
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 7,
+        "points": 73,
+        "time": "73 pt"
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 8,
+        "points": 71,
+        "time": "71 pt"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 9,
+        "points": 69,
+        "time": "69 pt"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 10,
+        "points": 67,
+        "time": "67 pt"
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 11,
+        "points": 65,
+        "time": "65 pt"
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 12,
+        "points": 63,
+        "time": "63 pt"
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 13,
+        "points": 61,
+        "time": "61 pt"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 14,
+        "points": 59,
+        "time": "59 pt"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 15,
+        "points": 57,
+        "time": "57 pt"
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 15,
+        "points": 57,
+        "time": "57 pt"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 17,
+        "points": 53,
+        "time": "53 pt"
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 17,
+        "points": 53,
+        "time": "53 pt"
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 17,
+        "points": 53,
+        "time": "53 pt"
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 17,
+        "points": 53,
+        "time": "53 pt"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 21,
+        "points": 45,
+        "time": "45 pt"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 21,
+        "points": 45,
+        "time": "45 pt"
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 21,
+        "points": 45,
+        "time": "45 pt"
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 24,
+        "points": 39,
+        "time": "39 pt"
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 25,
+        "points": 37,
+        "time": "37 pt"
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 26,
+        "points": 35,
+        "time": "35 pt"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 27,
+        "points": 33,
+        "time": "33 pt"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 27,
+        "points": 33,
+        "time": "33 pt"
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 29,
+        "points": 29,
+        "time": "29 pt"
+      },
+      {
+        "name": "Shana Alverson",
+        "place": 30,
+        "points": 27,
+        "time": "27 pt"
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 30,
+        "points": 27,
+        "time": "27 pt"
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 30,
+        "points": 27,
+        "time": "27 pt"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 33,
+        "points": 24,
+        "time": "24 pt"
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 34,
+        "points": 23,
+        "time": "23 pt"
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 34,
+        "points": 23,
+        "time": "23 pt"
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 36,
+        "points": 21,
+        "time": "21 pt"
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 37,
+        "points": 20,
+        "time": "20 pt"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 38,
+        "points": 19,
+        "time": "19 pt"
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 39,
+        "points": 18,
+        "time": "18 pt"
+      },
+      {
+        "name": "Candice Howe",
+        "place": 39,
+        "points": 18,
+        "time": "18 pt"
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 41,
+        "points": 16,
+        "time": "16 pt"
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 41,
+        "points": 16,
+        "time": "16 pt"
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 43,
+        "points": 14,
+        "time": "14 pt"
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 44,
+        "points": 13,
+        "time": "13 pt"
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 45,
+        "points": 12,
+        "time": "12 pt"
+      }
+    ],
+    "Skills 2 (100 Points)": [
+      {
+        "name": "Shana Alverson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Candice Howe",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 1,
+        "points": 100,
+        "time": "6:56.0"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 2,
+        "points": 95,
+        "time": "7:38.0"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 3,
+        "points": 90,
+        "time": "8:06.0"
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 4,
+        "points": 85,
+        "time": "8:15.0"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 5,
+        "points": 80,
+        "time": "8:33.0"
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 6,
+        "points": 75,
+        "time": "8:40.0"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 7,
+        "points": 73,
+        "time": "9:05.0"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 8,
+        "points": 71,
+        "time": "9:06.0"
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 9,
+        "points": 69,
+        "time": "9:13.0"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 10,
+        "points": 67,
+        "time": "9:21.0"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 11,
+        "points": 65,
+        "time": "9:27.0"
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 11,
+        "points": 65,
+        "time": "9:27.0"
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 13,
+        "points": 61,
+        "time": "9:31.0"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 14,
+        "points": 59,
+        "time": "9:39.0"
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 15,
+        "points": 57,
+        "time": "9:40.0"
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 16,
+        "points": 55,
+        "time": "10:04.0"
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 17,
+        "points": 53,
+        "time": "10:12.0"
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 18,
+        "points": 51,
+        "time": "10:14.0"
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 19,
+        "points": 49,
+        "time": "10:40.0"
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 20,
+        "points": 47,
+        "time": "10:50.0"
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 21,
+        "points": 45,
+        "time": "10:52.0"
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 22,
+        "points": 43,
+        "time": "11:00.0"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 23,
+        "points": 41,
+        "time": "11:13.0"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 24,
+        "points": 39,
+        "time": "11:40.0"
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 25,
+        "points": 37,
+        "time": "12:00.0"
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 26,
+        "points": 35,
+        "time": "12:02.0"
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 27,
+        "points": 33,
+        "time": "12:16.0"
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 28,
+        "points": 31,
+        "time": "13:00.0"
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 29,
+        "points": 29,
+        "time": "13:20.0"
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 30,
+        "points": 27,
+        "time": "13:40.0"
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 31,
+        "points": 26,
+        "time": "17:37.0"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 32,
+        "points": 25,
+        "time": "23:38.0"
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 33,
+        "points": 24,
+        "time": "25:24.0"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 34,
+        "points": 23,
+        "time": "38:48.0"
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 35,
+        "points": 22,
+        "time": "52:19.0"
+      }
+    ],
+    "The End 1 (100 Points)": [
+      {
+        "name": "Michele Letendre",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Shana Alverson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Candice Howe",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 1,
+        "points": 100,
+        "time": "7:01.0"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 2,
+        "points": 95,
+        "time": "7:08.0"
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 3,
+        "points": 90,
+        "time": "8:08.0"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 4,
+        "points": 85,
+        "time": "8:09.0"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 5,
+        "points": 80,
+        "time": "8:10.0"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 5,
+        "points": 80,
+        "time": "8:10.0"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 7,
+        "points": 73,
+        "time": "8:23.0"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 8,
+        "points": 71,
+        "time": "8:54.0"
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 9,
+        "points": 69,
+        "time": "9:17.0"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 10,
+        "points": 67,
+        "time": "10:17.0"
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 11,
+        "points": 65,
+        "time": "10:23.0"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 12,
+        "points": 63,
+        "time": "10:29.0"
+      },
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 13,
+        "points": 61,
+        "time": "10:33.0"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 14,
+        "points": 59,
+        "time": "10:42.0"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 15,
+        "points": 57,
+        "time": "10:43.0"
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 16,
+        "points": 55,
+        "time": "10:59.0"
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 17,
+        "points": 53,
+        "time": "11:17.0"
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 18,
+        "points": 51,
+        "time": "11:37.0"
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 19,
+        "points": 49,
+        "time": "11:49.0"
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 20,
+        "points": 47,
+        "time": "12:40.0"
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 21,
+        "points": 45,
+        "time": "12:45.0"
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 22,
+        "points": 43,
+        "time": "12:50.0"
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 23,
+        "points": 41,
+        "time": "13:30.0"
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 24,
+        "points": 39,
+        "time": "13:34.0"
+      }
+    ],
+    "The End 2 (100 Points)": [
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Shana Alverson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Candice Howe",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 1,
+        "points": 100,
+        "time": "67 rep"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 2,
+        "points": 95,
+        "time": "66 rep"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 3,
+        "points": 90,
+        "time": "62 rep"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 3,
+        "points": 90,
+        "time": "62 rep"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 5,
+        "points": 80,
+        "time": "57 rep"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 6,
+        "points": 75,
+        "time": "55 rep"
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 7,
+        "points": 73,
+        "time": "51 rep"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 8,
+        "points": 71,
+        "time": "46 rep"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 9,
+        "points": 69,
+        "time": "45 rep"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 10,
+        "points": 67,
+        "time": "42 rep"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 11,
+        "points": 65,
+        "time": "41 rep"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 12,
+        "points": 63,
+        "time": "40 rep"
+      }
+    ],
+    "The End 3 (100 Points)": [
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Shana Alverson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Candice Howe",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 1,
+        "points": 100,
+        "time": "121 rep"
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 2,
+        "points": 95,
+        "time": "120 rep"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 3,
+        "points": 90,
+        "time": "118 rep"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 4,
+        "points": 85,
+        "time": "116 rep"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 5,
+        "points": 80,
+        "time": "113 rep"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 6,
+        "points": 75,
+        "time": "111 rep"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 6,
+        "points": 75,
+        "time": "111 rep"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 8,
+        "points": 71,
+        "time": "107 rep"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 9,
+        "points": 69,
+        "time": "104 rep"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 10,
+        "points": 67,
+        "time": "102 rep"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 11,
+        "points": 65,
+        "time": "99 rep"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 12,
+        "points": 63,
+        "time": "92 rep"
+      }
+    ],
+    "Triplet Sprint (100 Points)": [
+      {
+        "name": "Elisabeth Akinwale",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Kelly Steadman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Stacey Kroon",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lindsey Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michelle Kinney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lisa Shiu",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Amanda Allen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Katie Hogan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Christy Phillips (adkins)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jenny Davis",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elyse Umeda-korth",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Becky Conzelman",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michele Letendre",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jaime Gold",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Taylor Richards-lindsay",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Carey Kepler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jasmine Dever",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Leah Polaski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ruth Anderson Horrell",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lisa Thiel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ashleigh Moe",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lindsey Valenzuela",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alicia Connors",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Shana Alverson",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Stacie Tovar",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jessica Pamanian",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samantha Petersen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cherie Chan",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jenny Jacobsen",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Cheryl Nasso",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Tarasa Barnett",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Candice Howe",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mona Pretorius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Deborah Cordner (carson)",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Helga Torfadóttir",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samantha Briggs",
+        "place": 1,
+        "points": 100,
+        "time": "13:06.0"
+      },
+      {
+        "name": "Rebecca Voigt (miller)",
+        "place": 2,
+        "points": 95,
+        "time": "13:55.0"
+      },
+      {
+        "name": "Annie Thorisdottir",
+        "place": 3,
+        "points": 90,
+        "time": "13:56.0"
+      },
+      {
+        "name": "Kristan Clever",
+        "place": 4,
+        "points": 85,
+        "time": "15:02.0"
+      },
+      {
+        "name": "Jenny Labaw",
+        "place": 5,
+        "points": 80,
+        "time": "15:05.0"
+      },
+      {
+        "name": "Julie Foucher",
+        "place": 6,
+        "points": 75,
+        "time": "15:29.0"
+      },
+      {
+        "name": "Angie Pye (hay)",
+        "place": 7,
+        "points": 73,
+        "time": "15:31.0"
+      },
+      {
+        "name": "Cheryl Brost",
+        "place": 8,
+        "points": 71,
+        "time": "15:43.0"
+      },
+      {
+        "name": "Annie Sakamoto",
+        "place": 9,
+        "points": 69,
+        "time": "16:28.0"
+      },
+      {
+        "name": "Camille Leblanc-bazinet",
+        "place": 10,
+        "points": 67,
+        "time": "16:52.0"
+      },
+      {
+        "name": "Amy Dracup",
+        "place": 11,
+        "points": 65,
+        "time": "17:52.0"
+      },
+      {
+        "name": "Gretchen Kittelberger",
+        "place": 12,
+        "points": 63,
+        "time": "19:15.0"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Annie Thorisdottir",
+      "country": "Iceland",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 21",
+      "height_weight": "170 cm | 152 lb",
+      "total_points": 842,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 5,
+          "time": "43:12.0",
+          "points": 80
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 29,
+          "time": "29 pt",
+          "points": 29
+        },
+        "Killer Kage (100 Points)": {
+          "place": 1,
+          "time": "6:54.0",
+          "points": 100
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 7,
+          "time": "9:34.0",
+          "points": 73
+        },
+        "Skills 1 (100 Points)": {
+          "place": 1,
+          "time": "100 pt",
+          "points": 100
+        },
+        "Skills 2 (100 Points)": {
+          "place": 3,
+          "time": "8:06.0",
+          "points": 90
+        },
+        "The End 1 (100 Points)": {
+          "place": 1,
+          "time": "7:01.0",
+          "points": 100
+        },
+        "The End 2 (100 Points)": {
+          "place": 3,
+          "time": "62 rep",
+          "points": 90
+        },
+        "The End 3 (100 Points)": {
+          "place": 3,
+          "time": "118 rep",
+          "points": 90
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 3,
+          "time": "13:56.0",
+          "points": 90
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Kristan Clever",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "62 in | 128 lb",
+      "total_points": 799,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 17,
+          "time": "47:25.0",
+          "points": 53
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 4,
+          "time": "85 pt",
+          "points": 85
+        },
+        "Killer Kage (100 Points)": {
+          "place": 2,
+          "time": "7:19.0",
+          "points": 95
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 2,
+          "time": "8:43.0",
+          "points": 95
+        },
+        "Skills 1 (100 Points)": {
+          "place": 2,
+          "time": "95 pt",
+          "points": 95
+        },
+        "Skills 2 (100 Points)": {
+          "place": 11,
+          "time": "9:27.0",
+          "points": 65
+        },
+        "The End 1 (100 Points)": {
+          "place": 8,
+          "time": "8:54.0",
+          "points": 71
+        },
+        "The End 2 (100 Points)": {
+          "place": 5,
+          "time": "57 rep",
+          "points": 80
+        },
+        "The End 3 (100 Points)": {
+          "place": 6,
+          "time": "111 rep",
+          "points": 75
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 4,
+          "time": "15:02.0",
+          "points": 85
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Rebecca Voigt (miller)",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "69 in | 152 lb",
+      "total_points": 775,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 19,
+          "time": "47:37.0",
+          "points": 49
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 3,
+          "time": "90 pt",
+          "points": 90
+        },
+        "Killer Kage (100 Points)": {
+          "place": 7,
+          "time": "8:23.0",
+          "points": 73
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 15,
+          "time": "10:50.0",
+          "points": 57
+        },
+        "Skills 1 (100 Points)": {
+          "place": 7,
+          "time": "73 pt",
+          "points": 73
+        },
+        "Skills 2 (100 Points)": {
+          "place": 17,
+          "time": "10:12.0",
+          "points": 53
+        },
+        "The End 1 (100 Points)": {
+          "place": 3,
+          "time": "8:08.0",
+          "points": 90
+        },
+        "The End 2 (100 Points)": {
+          "place": 1,
+          "time": "67 rep",
+          "points": 100
+        },
+        "The End 3 (100 Points)": {
+          "place": 2,
+          "time": "120 rep",
+          "points": 95
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 2,
+          "time": "13:55.0",
+          "points": 95
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Samantha Briggs",
+      "country": "United Kingdom",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "170 cm | 135 lb",
+      "total_points": 752,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 2,
+          "time": "39:14.0",
+          "points": 95
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 13,
+          "time": "61 pt",
+          "points": 61
+        },
+        "Killer Kage (100 Points)": {
+          "place": 13,
+          "time": "8:53.0",
+          "points": 61
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 4,
+          "time": "8:52.0",
+          "points": 85
+        },
+        "Skills 1 (100 Points)": {
+          "place": 9,
+          "time": "69 pt",
+          "points": 69
+        },
+        "Skills 2 (100 Points)": {
+          "place": 23,
+          "time": "11:13.0",
+          "points": 41
+        },
+        "The End 1 (100 Points)": {
+          "place": 10,
+          "time": "10:17.0",
+          "points": 67
+        },
+        "The End 2 (100 Points)": {
+          "place": 7,
+          "time": "51 rep",
+          "points": 73
+        },
+        "The End 3 (100 Points)": {
+          "place": 1,
+          "time": "121 rep",
+          "points": 100
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 1,
+          "time": "13:06.0",
+          "points": 100
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "Julie Foucher",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "64 in | 135 lb",
+      "total_points": 730,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 1,
+          "time": "39:04.0",
+          "points": 100
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 18,
+          "time": "51 pt",
+          "points": 51
+        },
+        "Killer Kage (100 Points)": {
+          "place": 2,
+          "time": "7:19.0",
+          "points": 95
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 6,
+          "time": "9:13.0",
+          "points": 75
+        },
+        "Skills 1 (100 Points)": {
+          "place": 17,
+          "time": "53 pt",
+          "points": 53
+        },
+        "Skills 2 (100 Points)": {
+          "place": 24,
+          "time": "11:40.0",
+          "points": 39
+        },
+        "The End 1 (100 Points)": {
+          "place": 2,
+          "time": "7:08.0",
+          "points": 95
+        },
+        "The End 2 (100 Points)": {
+          "place": 10,
+          "time": "42 rep",
+          "points": 67
+        },
+        "The End 3 (100 Points)": {
+          "place": 5,
+          "time": "113 rep",
+          "points": 80
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 6,
+          "time": "15:29.0",
+          "points": 75
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Jenny Labaw",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "67 in | 150 lb",
+      "total_points": 719,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 10,
+          "time": "45:26.0",
+          "points": 67
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 8,
+          "time": "71 pt",
+          "points": 71
+        },
+        "Killer Kage (100 Points)": {
+          "place": 8,
+          "time": "8:34.0",
+          "points": 71
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 19,
+          "time": "11:04.0",
+          "points": 49
+        },
+        "Skills 1 (100 Points)": {
+          "place": 4,
+          "time": "85 pt",
+          "points": 85
+        },
+        "Skills 2 (100 Points)": {
+          "place": 7,
+          "time": "9:05.0",
+          "points": 73
+        },
+        "The End 1 (100 Points)": {
+          "place": 12,
+          "time": "10:29.0",
+          "points": 63
+        },
+        "The End 2 (100 Points)": {
+          "place": 6,
+          "time": "55 rep",
+          "points": 75
+        },
+        "The End 3 (100 Points)": {
+          "place": 4,
+          "time": "116 rep",
+          "points": 85
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 5,
+          "time": "15:05.0",
+          "points": 80
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Cheryl Brost",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 40",
+      "height_weight": "62 in | 131 lb",
+      "total_points": 660,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 22,
+          "time": "48:04.0",
+          "points": 43
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 6,
+          "time": "75 pt",
+          "points": 75
+        },
+        "Killer Kage (100 Points)": {
+          "place": 11,
+          "time": "8:50.0",
+          "points": 65
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 8,
+          "time": "9:38.0",
+          "points": 71
+        },
+        "Skills 1 (100 Points)": {
+          "place": 27,
+          "time": "33 pt",
+          "points": 33
+        },
+        "Skills 2 (100 Points)": {
+          "place": 5,
+          "time": "8:33.0",
+          "points": 80
+        },
+        "The End 1 (100 Points)": {
+          "place": 15,
+          "time": "10:43.0",
+          "points": 57
+        },
+        "The End 2 (100 Points)": {
+          "place": 3,
+          "time": "62 rep",
+          "points": 90
+        },
+        "The End 3 (100 Points)": {
+          "place": 6,
+          "time": "111 rep",
+          "points": 75
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 8,
+          "time": "15:43.0",
+          "points": 71
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Camille Leblanc-bazinet",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "62 in | 130 lb",
+      "total_points": 651,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 20,
+          "time": "47:53.0",
+          "points": 47
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 2,
+          "time": "95 pt",
+          "points": 95
+        },
+        "Killer Kage (100 Points)": {
+          "place": 22,
+          "time": "10:44.0",
+          "points": 43
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 10,
+          "time": "10:03.0",
+          "points": 67
+        },
+        "Skills 1 (100 Points)": {
+          "place": 21,
+          "time": "45 pt",
+          "points": 45
+        },
+        "Skills 2 (100 Points)": {
+          "place": 10,
+          "time": "9:21.0",
+          "points": 67
+        },
+        "The End 1 (100 Points)": {
+          "place": 5,
+          "time": "8:10.0",
+          "points": 80
+        },
+        "The End 2 (100 Points)": {
+          "place": 9,
+          "time": "45 rep",
+          "points": 69
+        },
+        "The End 3 (100 Points)": {
+          "place": 8,
+          "time": "107 rep",
+          "points": 71
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 10,
+          "time": "16:52.0",
+          "points": 67
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Annie Sakamoto",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "60 in | 123 lb",
+      "total_points": 643,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 3,
+          "time": "41:23.0",
+          "points": 90
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 11,
+          "time": "65 pt",
+          "points": 65
+        },
+        "Killer Kage (100 Points)": {
+          "place": 18,
+          "time": "9:57.0",
+          "points": 51
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 3,
+          "time": "8:49.0",
+          "points": 90
+        },
+        "Skills 1 (100 Points)": {
+          "place": 27,
+          "time": "33 pt",
+          "points": 33
+        },
+        "Skills 2 (100 Points)": {
+          "place": 32,
+          "time": "23:38.0",
+          "points": 25
+        },
+        "The End 1 (100 Points)": {
+          "place": 5,
+          "time": "8:10.0",
+          "points": 80
+        },
+        "The End 2 (100 Points)": {
+          "place": 8,
+          "time": "46 rep",
+          "points": 71
+        },
+        "The End 3 (100 Points)": {
+          "place": 9,
+          "time": "104 rep",
+          "points": 69
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 9,
+          "time": "16:28.0",
+          "points": 69
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Angie Pye (hay)",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "66 in | 155 lb",
+      "total_points": 642,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 7,
+          "time": "43:54.0",
+          "points": 73
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 18,
+          "time": "51 pt",
+          "points": 51
+        },
+        "Killer Kage (100 Points)": {
+          "place": 32,
+          "time": "12:01.0",
+          "points": 25
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 20,
+          "time": "11:16.0",
+          "points": 47
+        },
+        "Skills 1 (100 Points)": {
+          "place": 14,
+          "time": "59 pt",
+          "points": 59
+        },
+        "Skills 2 (100 Points)": {
+          "place": 2,
+          "time": "7:38.0",
+          "points": 95
+        },
+        "The End 1 (100 Points)": {
+          "place": 14,
+          "time": "10:42.0",
+          "points": 59
+        },
+        "The End 2 (100 Points)": {
+          "place": 2,
+          "time": "66 rep",
+          "points": 95
+        },
+        "The End 3 (100 Points)": {
+          "place": 11,
+          "time": "99 rep",
+          "points": 65
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 7,
+          "time": "15:31.0",
+          "points": 73
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Amy Dracup",
+      "country": "Australia",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "160 cm | 135 lb",
+      "total_points": 624,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 12,
+          "time": "46:06.0",
+          "points": 63
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 29,
+          "time": "29 pt",
+          "points": 29
+        },
+        "Killer Kage (100 Points)": {
+          "place": 4,
+          "time": "8:01.0",
+          "points": 85
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 13,
+          "time": "10:22.0",
+          "points": 61
+        },
+        "Skills 1 (100 Points)": {
+          "place": 21,
+          "time": "45 pt",
+          "points": 45
+        },
+        "Skills 2 (100 Points)": {
+          "place": 8,
+          "time": "9:06.0",
+          "points": 71
+        },
+        "The End 1 (100 Points)": {
+          "place": 7,
+          "time": "8:23.0",
+          "points": 73
+        },
+        "The End 2 (100 Points)": {
+          "place": 11,
+          "time": "41 rep",
+          "points": 65
+        },
+        "The End 3 (100 Points)": {
+          "place": 10,
+          "time": "102 rep",
+          "points": 67
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 11,
+          "time": "17:52.0",
+          "points": 65
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Gretchen Kittelberger",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "62 in | 138 lb",
+      "total_points": 594,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 34,
+          "time": "52:47.0",
+          "points": 23
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 10,
+          "time": "67 pt",
+          "points": 67
+        },
+        "Killer Kage (100 Points)": {
+          "place": 20,
+          "time": "10:10.0",
+          "points": 47
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 15,
+          "time": "10:50.0",
+          "points": 57
+        },
+        "Skills 1 (100 Points)": {
+          "place": 10,
+          "time": "67 pt",
+          "points": 67
+        },
+        "Skills 2 (100 Points)": {
+          "place": 14,
+          "time": "9:39.0",
+          "points": 59
+        },
+        "The End 1 (100 Points)": {
+          "place": 4,
+          "time": "8:09.0",
+          "points": 85
+        },
+        "The End 2 (100 Points)": {
+          "place": 12,
+          "time": "40 rep",
+          "points": 63
+        },
+        "The End 3 (100 Points)": {
+          "place": 12,
+          "time": "92 rep",
+          "points": 63
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 12,
+          "time": "19:15.0",
+          "points": 63
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Elisabeth Akinwale",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 32",
+      "height_weight": "67 in | 158 lb",
+      "total_points": 401,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 30,
+          "time": "51:22.0",
+          "points": 27
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 7,
+          "time": "73 pt",
+          "points": 73
+        },
+        "Killer Kage (100 Points)": {
+          "place": 11,
+          "time": "8:50.0",
+          "points": 65
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 39,
+          "time": "15:48.0",
+          "points": 18
+        },
+        "Skills 1 (100 Points)": {
+          "place": 15,
+          "time": "57 pt",
+          "points": 57
+        },
+        "Skills 2 (100 Points)": {
+          "place": 1,
+          "time": "6:56.0",
+          "points": 100
+        },
+        "The End 1 (100 Points)": {
+          "place": 13,
+          "time": "10:33.0",
+          "points": 61
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Kelly Steadman",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "",
+      "total_points": 400,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 11,
+          "time": "45:35.0",
+          "points": 65
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 32,
+          "time": "25 pt",
+          "points": 25
+        },
+        "Killer Kage (100 Points)": {
+          "place": 17,
+          "time": "9:34.0",
+          "points": 53
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 5,
+          "time": "8:54.0",
+          "points": 80
+        },
+        "Skills 1 (100 Points)": {
+          "place": 17,
+          "time": "53 pt",
+          "points": 53
+        },
+        "Skills 2 (100 Points)": {
+          "place": 9,
+          "time": "9:13.0",
+          "points": 69
+        },
+        "The End 1 (100 Points)": {
+          "place": 16,
+          "time": "10:59.0",
+          "points": 55
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Stacey Kroon",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "68 in | 155 lb",
+      "total_points": 389,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 21,
+          "time": "47:56.0",
+          "points": 45
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 23,
+          "time": "41 pt",
+          "points": 41
+        },
+        "Killer Kage (100 Points)": {
+          "place": 14,
+          "time": "9:08.0",
+          "points": 59
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 26,
+          "time": "11:37.0",
+          "points": 35
+        },
+        "Skills 1 (100 Points)": {
+          "place": 11,
+          "time": "65 pt",
+          "points": 65
+        },
+        "Skills 2 (100 Points)": {
+          "place": 6,
+          "time": "8:40.0",
+          "points": 75
+        },
+        "The End 1 (100 Points)": {
+          "place": 9,
+          "time": "9:17.0",
+          "points": 69
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Lindsey Smith",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "71 in | 158 lb",
+      "total_points": 386,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 43,
+          "time": "56:57.0",
+          "points": 14
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 1,
+          "time": "100 pt",
+          "points": 100
+        },
+        "Killer Kage (100 Points)": {
+          "place": 15,
+          "time": "9:11.0",
+          "points": 57
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 35,
+          "time": "15:35.0",
+          "points": 22
+        },
+        "Skills 1 (100 Points)": {
+          "place": 8,
+          "time": "71 pt",
+          "points": 71
+        },
+        "Skills 2 (100 Points)": {
+          "place": 15,
+          "time": "9:40.0",
+          "points": 57
+        },
+        "The End 1 (100 Points)": {
+          "place": 11,
+          "time": "10:23.0",
+          "points": 65
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Michelle Kinney",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "64 in | 140 lb",
+      "total_points": 317,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 13,
+          "time": "46:50.0",
+          "points": 61
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 14,
+          "time": "T pt",
+          "points": 0
+        },
+        "Killer Kage (100 Points)": {
+          "place": 9,
+          "time": "8:36.0",
+          "points": 69
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 1,
+          "time": "8:14.0",
+          "points": 100
+        },
+        "Skills 1 (100 Points)": {
+          "place": 38,
+          "time": "19 pt",
+          "points": 19
+        },
+        "Skills 2 (100 Points)": {
+          "place": 34,
+          "time": "38:48.0",
+          "points": 23
+        },
+        "The End 1 (100 Points)": {
+          "place": 21,
+          "time": "12:45.0",
+          "points": 45
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Lisa Shiu",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 29",
+      "height_weight": "64 in | 135 lb",
+      "total_points": 353,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 38,
+          "time": "54:40.0",
+          "points": 19
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 26,
+          "time": "35 pt",
+          "points": 35
+        },
+        "Killer Kage (100 Points)": {
+          "place": 6,
+          "time": "8:18.0",
+          "points": 75
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 24,
+          "time": "11:25.0",
+          "points": 39
+        },
+        "Skills 1 (100 Points)": {
+          "place": 17,
+          "time": "53 pt",
+          "points": 53
+        },
+        "Skills 2 (100 Points)": {
+          "place": 4,
+          "time": "8:15.0",
+          "points": 85
+        },
+        "The End 1 (100 Points)": {
+          "place": 20,
+          "time": "12:40.0",
+          "points": 47
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Amanda Allen",
+      "country": "Australia",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 40",
+      "height_weight": "167 cm | 70 kg",
+      "total_points": 348,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 4,
+          "time": "42:16.0",
+          "points": 85
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 22,
+          "time": "43 pt",
+          "points": 43
+        },
+        "Killer Kage (100 Points)": {
+          "place": 10,
+          "time": "8:40.0",
+          "points": 67
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 17,
+          "time": "10:55.0",
+          "points": 53
+        },
+        "Skills 1 (100 Points)": {
+          "place": 45,
+          "time": "12 pt",
+          "points": 12
+        },
+        "Skills 2 (100 Points)": {
+          "place": 21,
+          "time": "10:52.0",
+          "points": 45
+        },
+        "The End 1 (100 Points)": {
+          "place": 22,
+          "time": "12:50.0",
+          "points": 43
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Katie Hogan",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "69 in | 170 lb",
+      "total_points": 343,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 40,
+          "time": "55:14.0",
+          "points": 17
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 27,
+          "time": "33 pt",
+          "points": 33
+        },
+        "Killer Kage (100 Points)": {
+          "place": 5,
+          "time": "8:09.0",
+          "points": 80
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 33,
+          "time": "15:20.0",
+          "points": 24
+        },
+        "Skills 1 (100 Points)": {
+          "place": 6,
+          "time": "75 pt",
+          "points": 75
+        },
+        "Skills 2 (100 Points)": {
+          "place": 11,
+          "time": "9:27.0",
+          "points": 65
+        },
+        "The End 1 (100 Points)": {
+          "place": 19,
+          "time": "11:49.0",
+          "points": 49
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Christy Phillips (adkins)",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "64 in | 135 lb",
+      "total_points": 328,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 6,
+          "time": "43:35.0",
+          "points": 75
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 33,
+          "time": "24 pt",
+          "points": 24
+        },
+        "Killer Kage (100 Points)": {
+          "place": 40,
+          "time": "12:06.0",
+          "points": 17
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 11,
+          "time": "10:08.0",
+          "points": 65
+        },
+        "Skills 1 (100 Points)": {
+          "place": 17,
+          "time": "53 pt",
+          "points": 53
+        },
+        "Skills 2 (100 Points)": {
+          "place": 22,
+          "time": "11:00.0",
+          "points": 43
+        },
+        "The End 1 (100 Points)": {
+          "place": 18,
+          "time": "11:37.0",
+          "points": 51
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Jenny Davis",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "65 in | 150 lb",
+      "total_points": 322,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 16,
+          "time": "47:23.0",
+          "points": 55
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 15,
+          "time": "57 pt",
+          "points": 57
+        },
+        "Killer Kage (100 Points)": {
+          "place": 41,
+          "time": "12:07.0",
+          "points": 16
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 37,
+          "time": "15:47.0",
+          "points": 20
+        },
+        "Skills 1 (100 Points)": {
+          "place": 5,
+          "time": "80 pt",
+          "points": 80
+        },
+        "Skills 2 (100 Points)": {
+          "place": 16,
+          "time": "10:04.0",
+          "points": 55
+        },
+        "The End 1 (100 Points)": {
+          "place": 24,
+          "time": "13:34.0",
+          "points": 39
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Elyse Umeda-korth",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "62 in | 125 lb",
+      "total_points": 303,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 36,
+          "time": "53:21.0",
+          "points": 21
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 4,
+          "time": "85 pt",
+          "points": 85
+        },
+        "Killer Kage (100 Points)": {
+          "place": 28,
+          "time": "11:23.0",
+          "points": 31
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 23,
+          "time": "11:24.0",
+          "points": 41
+        },
+        "Skills 1 (100 Points)": {
+          "place": 34,
+          "time": "23 pt",
+          "points": 23
+        },
+        "Skills 2 (100 Points)": {
+          "place": 13,
+          "time": "9:31.0",
+          "points": 61
+        },
+        "The End 1 (100 Points)": {
+          "place": 23,
+          "time": "13:30.0",
+          "points": 41
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Becky Conzelman",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 39",
+      "height_weight": "63 in | 130 lb",
+      "total_points": 295,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 9,
+          "time": "44:16.0",
+          "points": 69
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 17,
+          "time": "53 pt",
+          "points": 53
+        },
+        "Killer Kage (100 Points)": {
+          "place": 32,
+          "time": "12:01.0",
+          "points": 25
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 32,
+          "time": "14:30.0",
+          "points": 25
+        },
+        "Skills 1 (100 Points)": {
+          "place": 24,
+          "time": "39 pt",
+          "points": 39
+        },
+        "Skills 2 (100 Points)": {
+          "place": 28,
+          "time": "13:00.0",
+          "points": 31
+        },
+        "The End 1 (100 Points)": {
+          "place": 17,
+          "time": "11:17.0",
+          "points": 53
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Michele Letendre",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "61 in | 130 lb",
+      "total_points": 246,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 18,
+          "time": "47:33.0",
+          "points": 51
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 8,
+          "time": "71 pt",
+          "points": 71
+        },
+        "Killer Kage (100 Points)": {
+          "place": 24,
+          "time": "11:02.0",
+          "points": 39
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 26,
+          "time": "11:37.0",
+          "points": 35
+        },
+        "Skills 1 (100 Points)": {
+          "place": 33,
+          "time": "24 pt",
+          "points": 24
+        },
+        "Skills 2 (100 Points)": {
+          "place": 31,
+          "time": "17:37.0",
+          "points": 26
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Jaime Gold",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "63 in | 135 lb",
+      "total_points": 246,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 35,
+          "time": "52:52.0",
+          "points": 22
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 12,
+          "time": "63 pt",
+          "points": 63
+        },
+        "Killer Kage (100 Points)": {
+          "place": 27,
+          "time": "11:14.0",
+          "points": 33
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 9,
+          "time": "9:42.0",
+          "points": 69
+        },
+        "Skills 1 (100 Points)": {
+          "place": 26,
+          "time": "35 pt",
+          "points": 35
+        },
+        "Skills 2 (100 Points)": {
+          "place": 33,
+          "time": "25:24.0",
+          "points": 24
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Taylor Richards-lindsay",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 25",
+      "height_weight": "64 in | 133 lb",
+      "total_points": 246,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 26,
+          "time": "49:30.0",
+          "points": 35
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 18,
+          "time": "51 pt",
+          "points": 51
+        },
+        "Killer Kage (100 Points)": {
+          "place": 29,
+          "time": "12:00.0",
+          "points": 29
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 21,
+          "time": "11:17.0",
+          "points": 45
+        },
+        "Skills 1 (100 Points)": {
+          "place": 15,
+          "time": "57 pt",
+          "points": 57
+        },
+        "Skills 2 (100 Points)": {
+          "place": 29,
+          "time": "13:20.0",
+          "points": 29
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Carey Kepler",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 36",
+      "height_weight": "67 in | 138 lb",
+      "total_points": 244,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 15,
+          "time": "47:11.0",
+          "points": 57
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 38,
+          "time": "19 pt",
+          "points": 19
+        },
+        "Killer Kage (100 Points)": {
+          "place": 32,
+          "time": "12:01.0",
+          "points": 25
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 14,
+          "time": "10:34.0",
+          "points": 59
+        },
+        "Skills 1 (100 Points)": {
+          "place": 25,
+          "time": "37 pt",
+          "points": 37
+        },
+        "Skills 2 (100 Points)": {
+          "place": 20,
+          "time": "10:50.0",
+          "points": 47
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Jasmine Dever",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "69 in | 145 lb",
+      "total_points": 229,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 24,
+          "time": "49:13.0",
+          "points": 39
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 43,
+          "time": "14 pt",
+          "points": 14
+        },
+        "Killer Kage (100 Points)": {
+          "place": 29,
+          "time": "12:00.0",
+          "points": 29
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 33,
+          "time": "15:20.0",
+          "points": 24
+        },
+        "Skills 1 (100 Points)": {
+          "place": 3,
+          "time": "90 pt",
+          "points": 90
+        },
+        "Skills 2 (100 Points)": {
+          "place": 27,
+          "time": "12:16.0",
+          "points": 33
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Leah Polaski",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "66 in | 140 lb",
+      "total_points": 225,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 29,
+          "time": "50:29.0",
+          "points": 29
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 40,
+          "time": "17 pt",
+          "points": 17
+        },
+        "Killer Kage (100 Points)": {
+          "place": 19,
+          "time": "9:59.0",
+          "points": 49
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 12,
+          "time": "10:21.0",
+          "points": 63
+        },
+        "Skills 1 (100 Points)": {
+          "place": 39,
+          "time": "18 pt",
+          "points": 18
+        },
+        "Skills 2 (100 Points)": {
+          "place": 19,
+          "time": "10:40.0",
+          "points": 49
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Ruth Anderson Horrell",
+      "country": "New Zealand",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "167 cm | 145 lb",
+      "total_points": 220,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 8,
+          "time": "43:55.0",
+          "points": 71
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 45,
+          "time": "12 pt",
+          "points": 12
+        },
+        "Killer Kage (100 Points)": {
+          "place": 25,
+          "time": "11:03.0",
+          "points": 37
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 37,
+          "time": "15:47.0",
+          "points": 20
+        },
+        "Skills 1 (100 Points)": {
+          "place": 29,
+          "time": "29 pt",
+          "points": 29
+        },
+        "Skills 2 (100 Points)": {
+          "place": 18,
+          "time": "10:14.0",
+          "points": 51
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "Lisa Thiel",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 33",
+      "height_weight": "68 in | 146 lb",
+      "total_points": 218,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 25,
+          "time": "49:21.0",
+          "points": 37
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 41,
+          "time": "16 pt",
+          "points": 16
+        },
+        "Killer Kage (100 Points)": {
+          "place": 37,
+          "time": "12:02.0",
+          "points": 20
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 21,
+          "time": "11:17.0",
+          "points": 45
+        },
+        "Skills 1 (100 Points)": {
+          "place": 12,
+          "time": "63 pt",
+          "points": 63
+        },
+        "Skills 2 (100 Points)": {
+          "place": 25,
+          "time": "12:00.0",
+          "points": 37
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Ashleigh Moe",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "62 in | 130 lb",
+      "total_points": 209,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 14,
+          "time": "47:03.0",
+          "points": 59
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 25,
+          "time": "37 pt",
+          "points": 37
+        },
+        "Killer Kage (100 Points)": {
+          "place": 23,
+          "time": "10:52.0",
+          "points": 41
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 25,
+          "time": "11:32.0",
+          "points": 37
+        },
+        "Skills 1 (100 Points)": {
+          "place": 44,
+          "time": "13 pt",
+          "points": 13
+        },
+        "Skills 2 (100 Points)": {
+          "place": 35,
+          "time": "52:19.0",
+          "points": 22
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Lindsey Valenzuela",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 24",
+      "height_weight": "66 in | 150 lb",
+      "total_points": 204,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 31,
+          "time": "51:39.0",
+          "points": 26
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 21,
+          "time": "45 pt",
+          "points": 45
+        },
+        "Killer Kage (100 Points)": {
+          "place": 29,
+          "time": "12:00.0",
+          "points": 29
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 41,
+          "time": "15:49.0",
+          "points": 16
+        },
+        "Skills 1 (100 Points)": {
+          "place": 13,
+          "time": "61 pt",
+          "points": 61
+        },
+        "Skills 2 (100 Points)": {
+          "place": 30,
+          "time": "13:40.0",
+          "points": 27
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Alicia Connors",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "63 cm | 145 lb",
+      "total_points": 189,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 23,
+          "time": "48:06.0",
+          "points": 41
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 35,
+          "time": "22 pt",
+          "points": 22
+        },
+        "Killer Kage (100 Points)": {
+          "place": 16,
+          "time": "9:21.0",
+          "points": 55
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 42,
+          "time": "15:50.0",
+          "points": 15
+        },
+        "Skills 1 (100 Points)": {
+          "place": 36,
+          "time": "21 pt",
+          "points": 21
+        },
+        "Skills 2 (100 Points)": {
+          "place": 26,
+          "time": "12:02.0",
+          "points": 35
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Shana Alverson",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 35",
+      "height_weight": "64 in | 138 lb",
+      "total_points": 146,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 37,
+          "time": "54:04.0",
+          "points": 20
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 44,
+          "time": "13 pt",
+          "points": 13
+        },
+        "Killer Kage (100 Points)": {
+          "place": 26,
+          "time": "11:06.0",
+          "points": 35
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 18,
+          "time": "10:57.0",
+          "points": 51
+        },
+        "Skills 1 (100 Points)": {
+          "place": 30,
+          "time": "27 pt",
+          "points": 27
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Stacie Tovar",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "65 in | 143 lb",
+      "total_points": 146,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 32,
+          "time": "52:02.0",
+          "points": 25
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 28,
+          "time": "31 pt",
+          "points": 31
+        },
+        "Killer Kage (100 Points)": {
+          "place": 43,
+          "time": "12:11.0",
+          "points": 14
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 28,
+          "time": "11:51.0",
+          "points": 31
+        },
+        "Skills 1 (100 Points)": {
+          "place": 21,
+          "time": "45 pt",
+          "points": 45
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Jessica Pamanian",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "64 in | 137 lb",
+      "total_points": 141,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 42,
+          "time": "56:25.0",
+          "points": 15
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 15,
+          "time": "57 pt",
+          "points": 57
+        },
+        "Killer Kage (100 Points)": {
+          "place": 42,
+          "time": "12:10.0",
+          "points": 15
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 30,
+          "time": "13:40.0",
+          "points": 27
+        },
+        "Skills 1 (100 Points)": {
+          "place": 30,
+          "time": "27 pt",
+          "points": 27
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "rank_label": "39",
+      "name": "Samantha Petersen",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "68 in | 175 lb",
+      "total_points": 128,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 27,
+          "time": "49:52.0",
+          "points": 33
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 36,
+          "time": "21 pt",
+          "points": 21
+        },
+        "Killer Kage (100 Points)": {
+          "place": 39,
+          "time": "12:05.0",
+          "points": 18
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 29,
+          "time": "12:25.0",
+          "points": 29
+        },
+        "Skills 1 (100 Points)": {
+          "place": 30,
+          "time": "27 pt",
+          "points": 27
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "rank_label": "40",
+      "name": "Cherie Chan",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 37",
+      "height_weight": "66 in | 137 lb",
+      "total_points": 123,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 33,
+          "time": "52:04.0",
+          "points": 24
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 33,
+          "time": "24 pt",
+          "points": 24
+        },
+        "Killer Kage (100 Points)": {
+          "place": 21,
+          "time": "10:26.0",
+          "points": 45
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 43,
+          "time": "18:46.0",
+          "points": 14
+        },
+        "Skills 1 (100 Points)": {
+          "place": 41,
+          "time": "16 pt",
+          "points": 16
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 41,
+      "rank_label": "41",
+      "name": "Jenny Jacobsen",
+      "country": "Sweden",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 36",
+      "height_weight": "162 cm | 134 lb",
+      "total_points": 121,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 41,
+          "time": "55:59.0",
+          "points": 16
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 24,
+          "time": "39 pt",
+          "points": 39
+        },
+        "Killer Kage (100 Points)": {
+          "place": 32,
+          "time": "12:01.0",
+          "points": 25
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 39,
+          "time": "15:48.0",
+          "points": 18
+        },
+        "Skills 1 (100 Points)": {
+          "place": 34,
+          "time": "23 pt",
+          "points": 23
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 42,
+      "rank_label": "42",
+      "name": "Cheryl Nasso",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "64 in | 135 lb",
+      "total_points": 109,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 28,
+          "time": "49:58.0",
+          "points": 31
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 39,
+          "time": "18 pt",
+          "points": 18
+        },
+        "Killer Kage (100 Points)": {
+          "place": 38,
+          "time": "12:03.0",
+          "points": 19
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 30,
+          "time": "13:40.0",
+          "points": 27
+        },
+        "Skills 1 (100 Points)": {
+          "place": 43,
+          "time": "14 pt",
+          "points": 14
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 43,
+      "rank_label": "43",
+      "name": "Tarasa Barnett",
+      "country": "Cayman Islands",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 27",
+      "height_weight": "67 in | 140 lb",
+      "total_points": 100,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 39,
+          "time": "55:04.0",
+          "points": 18
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 37,
+          "time": "20 pt",
+          "points": 20
+        },
+        "Killer Kage (100 Points)": {
+          "place": 32,
+          "time": "12:01.0",
+          "points": 25
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 36,
+          "time": "15:46.0",
+          "points": 21
+        },
+        "Skills 1 (100 Points)": {
+          "place": 41,
+          "time": "16 pt",
+          "points": 16
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 44,
+      "rank_label": "44",
+      "name": "Candice Howe",
+      "country": "United Arab Emirates",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "168 cm | 150 lb",
+      "total_points": 83,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 44,
+          "time": "68:20.0",
+          "points": 13
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 31,
+          "time": "26 pt",
+          "points": 26
+        },
+        "Killer Kage (100 Points)": {
+          "place": 44,
+          "time": "12:17.0",
+          "points": 13
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 44,
+          "time": "20:58.0",
+          "points": 13
+        },
+        "Skills 1 (100 Points)": {
+          "place": 39,
+          "time": "18 pt",
+          "points": 18
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 45,
+      "rank_label": "45",
+      "name": "Mona Pretorius",
+      "country": "South Africa",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "",
+      "total_points": 71,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 45,
+          "time": "69:10.0",
+          "points": 12
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 42,
+          "time": "15 pt",
+          "points": 15
+        },
+        "Killer Kage (100 Points)": {
+          "place": 45,
+          "time": "12:26.0",
+          "points": 12
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 45,
+          "time": "20:59.0",
+          "points": 12
+        },
+        "Skills 1 (100 Points)": {
+          "place": 37,
+          "time": "20 pt",
+          "points": 20
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 46,
+      "rank_label": "46",
+      "name": "Deborah Cordner (carson)",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 31",
+      "height_weight": "65 in | 145 lb",
+      "total_points": 0,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Killer Kage (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Skills 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 47,
+      "rank_label": "47",
+      "name": "Helga Torfadóttir",
+      "country": "Iceland",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 34",
+      "height_weight": "",
+      "total_points": 0,
+      "events": {
+        "Beach (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Dog-Sled (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Killer Kage (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Rope-Clean (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Skills 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Skills 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 1 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 2 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "The End 3 (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Triplet Sprint (100 Points)": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,8010 @@
+{
+  "year": 2019,
+  "gender": "men",
+  "events": [
+    "First Cut",
+    "Event 2",
+    "Event 3",
+    "Event 4",
+    "Event 5",
+    "Event 6",
+    "Event 7",
+    "Event 8",
+    "Event 9",
+    "Event 10",
+    "Event 11",
+    "Event 12"
+  ],
+  "event_point_map": {
+    "First Cut": {
+      "1": 100,
+      "2": 98,
+      "3": 96,
+      "4": 94,
+      "5": 92,
+      "6": 90,
+      "7": 88,
+      "8": 86,
+      "9": 84,
+      "10": 82,
+      "11": 80,
+      "12": 78,
+      "13": 76,
+      "14": 74,
+      "15": 72,
+      "16": 70,
+      "17": 68,
+      "18": 66,
+      "19": 64,
+      "20": 62,
+      "21": 60,
+      "22": 58,
+      "23": 56,
+      "24": 54,
+      "25": 52,
+      "26": 50,
+      "27": 48,
+      "28": 47,
+      "29": 46,
+      "30": 45,
+      "31": 44,
+      "32": 43,
+      "33": 42,
+      "34": 41,
+      "35": 40,
+      "36": 39,
+      "37": 38,
+      "38": 37,
+      "39": 36,
+      "40": 35,
+      "42": 33,
+      "47": 28,
+      "49": 26,
+      "50": 25,
+      "53": 22,
+      "55": 20,
+      "60": 15,
+      "61": 14,
+      "63": 12,
+      "65": 10
+    },
+    "Event 2": {
+      "1": 100,
+      "2": 98,
+      "3": 96,
+      "4": 94,
+      "5": 92,
+      "6": 90,
+      "7": 88,
+      "8": 86,
+      "9": 84,
+      "10": 82,
+      "11": 80,
+      "12": 78,
+      "13": 76,
+      "14": 74,
+      "15": 72,
+      "16": 70,
+      "17": 68,
+      "18": 66,
+      "19": 64,
+      "20": 62,
+      "21": 60,
+      "22": 58,
+      "23": 56,
+      "24": 54,
+      "25": 52,
+      "26": 50,
+      "27": 48,
+      "28": 47,
+      "29": 46,
+      "30": 45,
+      "31": 44,
+      "32": 43,
+      "33": 42,
+      "34": 41,
+      "35": 40,
+      "36": 39,
+      "38": 37,
+      "40": 35,
+      "41": 34,
+      "42": 33,
+      "44": 31,
+      "45": 30,
+      "46": 29,
+      "47": 28,
+      "48": 27,
+      "50": 25,
+      "53": 22,
+      "54": 21,
+      "57": 18,
+      "73": 2
+    },
+    "Event 3": {
+      "1": 100,
+      "2": 98,
+      "3": 96,
+      "4": 94,
+      "5": 92,
+      "6": 90,
+      "7": 88,
+      "8": 86,
+      "9": 84,
+      "10": 82,
+      "11": 80,
+      "12": 78,
+      "13": 76,
+      "14": 74,
+      "15": 72,
+      "16": 70,
+      "17": 68,
+      "18": 66,
+      "19": 64,
+      "20": 62,
+      "21": 60,
+      "22": 58,
+      "23": 56,
+      "24": 54,
+      "25": 52,
+      "26": 50,
+      "27": 48,
+      "28": 46,
+      "29": 44,
+      "30": 42,
+      "31": 40,
+      "32": 38,
+      "33": 36,
+      "34": 34,
+      "35": 32,
+      "36": 30,
+      "37": 28,
+      "38": 26,
+      "39": 24,
+      "40": 22,
+      "41": 20,
+      "42": 18,
+      "43": 16,
+      "44": 14,
+      "45": 12,
+      "46": 10,
+      "47": 8,
+      "48": 6,
+      "49": 4,
+      "50": 2
+    },
+    "Event 4": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 38,
+      "23": 36,
+      "24": 34,
+      "25": 32,
+      "26": 30,
+      "27": 28,
+      "28": 26,
+      "29": 24,
+      "30": 22,
+      "31": 20,
+      "32": 18,
+      "33": 16,
+      "34": 14,
+      "35": 12,
+      "36": 10,
+      "37": 8,
+      "38": 6,
+      "39": 4,
+      "40": 2
+    },
+    "Event 5": {
+      "1": 100,
+      "2": 96,
+      "3": 92,
+      "4": 88,
+      "5": 84,
+      "6": 80,
+      "7": 76,
+      "8": 72,
+      "9": 68,
+      "10": 64,
+      "11": 60,
+      "12": 56,
+      "13": 52,
+      "14": 49,
+      "15": 46,
+      "16": 43,
+      "17": 40,
+      "18": 37,
+      "19": 34,
+      "20": 31,
+      "21": 28,
+      "23": 22,
+      "25": 16,
+      "26": 13,
+      "28": 7,
+      "29": 4,
+      "30": 1
+    },
+    "Event 6": {
+      "1": 100,
+      "2": 95,
+      "3": 90,
+      "4": 85,
+      "5": 80,
+      "6": 75,
+      "7": 70,
+      "8": 65,
+      "9": 60,
+      "10": 55,
+      "11": 50,
+      "12": 45,
+      "13": 40,
+      "15": 30,
+      "16": 25,
+      "17": 20,
+      "18": 15,
+      "19": 10,
+      "20": 5
+    },
+    "Event 7": {
+      "1": 100,
+      "2": 90,
+      "3": 80,
+      "4": 70,
+      "5": 60,
+      "6": 50,
+      "7": 40,
+      "8": 30,
+      "9": 20,
+      "10": 10
+    },
+    "Event 8": {
+      "1": 100,
+      "2": 90,
+      "3": 80,
+      "4": 70,
+      "5": 60,
+      "6": 50,
+      "7": 40,
+      "8": 30,
+      "9": 20,
+      "10": 10
+    },
+    "Event 9": {
+      "1": 100,
+      "2": 90,
+      "3": 80,
+      "4": 70,
+      "5": 60,
+      "6": 50,
+      "7": 40,
+      "8": 30,
+      "9": 20,
+      "10": 10
+    },
+    "Event 10": {
+      "1": 100,
+      "2": 90,
+      "3": 80,
+      "4": 70,
+      "5": 60,
+      "6": 50,
+      "7": 40,
+      "8": 30,
+      "9": 20,
+      "10": 10
+    },
+    "Event 11": {
+      "1": 100,
+      "2": 90,
+      "3": 80,
+      "4": 70,
+      "5": 60,
+      "6": 50,
+      "7": 40,
+      "8": 30,
+      "9": 20,
+      "10": 10
+    },
+    "Event 12": {
+      "1": 100,
+      "2": 90,
+      "3": 80,
+      "4": 70,
+      "5": 60,
+      "6": 50,
+      "7": 40,
+      "8": 30,
+      "9": 20,
+      "10": 10
+    }
+  },
+  "event_field_size": {
+    "First Cut": 65,
+    "Event 2": 73,
+    "Event 3": 50,
+    "Event 4": 40,
+    "Event 5": 30,
+    "Event 6": 20,
+    "Event 7": 10,
+    "Event 8": 10,
+    "Event 9": 10,
+    "Event 10": 10,
+    "Event 11": 10,
+    "Event 12": 10
+  },
+  "event_place_points": {
+    "First Cut": [
+      100,
+      98,
+      96,
+      94,
+      92,
+      90,
+      88,
+      86,
+      84,
+      82,
+      80,
+      78,
+      76,
+      74,
+      72,
+      70,
+      68,
+      66,
+      64,
+      62,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      47,
+      46,
+      45,
+      44,
+      43,
+      42,
+      41,
+      40,
+      39,
+      38,
+      37,
+      36,
+      35,
+      0,
+      33,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      26,
+      25,
+      0,
+      0,
+      22,
+      0,
+      20,
+      0,
+      0,
+      0,
+      0,
+      15,
+      14,
+      0,
+      12,
+      0,
+      10
+    ],
+    "Event 2": [
+      100,
+      98,
+      96,
+      94,
+      92,
+      90,
+      88,
+      86,
+      84,
+      82,
+      80,
+      78,
+      76,
+      74,
+      72,
+      70,
+      68,
+      66,
+      64,
+      62,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      47,
+      46,
+      45,
+      44,
+      43,
+      42,
+      41,
+      40,
+      39,
+      0,
+      37,
+      0,
+      35,
+      34,
+      33,
+      0,
+      31,
+      30,
+      29,
+      28,
+      27,
+      0,
+      25,
+      0,
+      0,
+      22,
+      21,
+      0,
+      0,
+      18,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "Event 3": [
+      100,
+      98,
+      96,
+      94,
+      92,
+      90,
+      88,
+      86,
+      84,
+      82,
+      80,
+      78,
+      76,
+      74,
+      72,
+      70,
+      68,
+      66,
+      64,
+      62,
+      60,
+      58,
+      56,
+      54,
+      52,
+      50,
+      48,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 4": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2
+    ],
+    "Event 5": [
+      100,
+      96,
+      92,
+      88,
+      84,
+      80,
+      76,
+      72,
+      68,
+      64,
+      60,
+      56,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      31,
+      28,
+      0,
+      22,
+      0,
+      16,
+      13,
+      0,
+      7,
+      4,
+      1
+    ],
+    "Event 6": [
+      100,
+      95,
+      90,
+      85,
+      80,
+      75,
+      70,
+      65,
+      60,
+      55,
+      50,
+      45,
+      40,
+      0,
+      30,
+      25,
+      20,
+      15,
+      10,
+      5
+    ],
+    "Event 7": [
+      100,
+      90,
+      80,
+      70,
+      60,
+      50,
+      40,
+      30,
+      20,
+      10
+    ],
+    "Event 8": [
+      100,
+      90,
+      80,
+      70,
+      60,
+      50,
+      40,
+      30,
+      20,
+      10
+    ],
+    "Event 9": [
+      100,
+      90,
+      80,
+      70,
+      60,
+      50,
+      40,
+      30,
+      20,
+      10
+    ],
+    "Event 10": [
+      100,
+      90,
+      80,
+      70,
+      60,
+      50,
+      40,
+      30,
+      20,
+      10
+    ],
+    "Event 11": [
+      100,
+      90,
+      80,
+      70,
+      60,
+      50,
+      40,
+      30,
+      20,
+      10
+    ],
+    "Event 12": [
+      100,
+      90,
+      80,
+      70,
+      60,
+      50,
+      40,
+      30,
+      20,
+      10
+    ]
+  },
+  "event_ordinals": {
+    "First Cut": 1,
+    "Event 2": 2,
+    "Event 3": 3,
+    "Event 4": 4,
+    "Event 5": 5,
+    "Event 6": 6,
+    "Event 7": 7,
+    "Event 8": 8,
+    "Event 9": 9,
+    "Event 10": 10,
+    "Event 11": 11,
+    "Event 12": 12
+  },
+  "event_finish_order": {
+    "First Cut": [
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "15:07.70"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 2,
+        "points": 98,
+        "time": "15:42.77"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 3,
+        "points": 96,
+        "time": "16:05.95"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 4,
+        "points": 94,
+        "time": "16:08.51"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 5,
+        "points": 92,
+        "time": "16:17.71"
+      },
+      {
+        "name": "James Newbury",
+        "place": 6,
+        "points": 90,
+        "time": "16:21.19"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 7,
+        "points": 88,
+        "time": "16:24.29"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 8,
+        "points": 86,
+        "time": "16:28.29"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 9,
+        "points": 84,
+        "time": "16:32.42"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 10,
+        "points": 82,
+        "time": "16:33.26"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 11,
+        "points": 80,
+        "time": "16:33.65"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 12,
+        "points": 78,
+        "time": "16:33.97"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 13,
+        "points": 76,
+        "time": "16:47.94"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 14,
+        "points": 74,
+        "time": "16:49.47"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 15,
+        "points": 72,
+        "time": "16:57.47"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 16,
+        "points": 70,
+        "time": "17:02.14"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 17,
+        "points": 68,
+        "time": "17:04.96"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 18,
+        "points": 66,
+        "time": "17:05.95"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 19,
+        "points": 64,
+        "time": "17:10.54"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 20,
+        "points": 62,
+        "time": "17:11.38"
+      },
+      {
+        "name": "George Sterner",
+        "place": 21,
+        "points": 60,
+        "time": "17:28.93"
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 22,
+        "points": 58,
+        "time": "17:35.43"
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 23,
+        "points": 56,
+        "time": "17:43.08"
+      },
+      {
+        "name": "Michael Smith",
+        "place": 24,
+        "points": 54,
+        "time": "17:45.18"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 25,
+        "points": 52,
+        "time": "17:47.72"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 26,
+        "points": 50,
+        "time": "18:06.04"
+      },
+      {
+        "name": "Willy Georges",
+        "place": 27,
+        "points": 48,
+        "time": "18:15.16"
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 28,
+        "points": 47,
+        "time": "18:16.24"
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 29,
+        "points": 46,
+        "time": "18:18.03"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 30,
+        "points": 45,
+        "time": "18:18.68"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 31,
+        "points": 44,
+        "time": "18:20.43"
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 32,
+        "points": 43,
+        "time": "18:56.36"
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 33,
+        "points": 42,
+        "time": "19:01.94"
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 34,
+        "points": 41,
+        "time": "19:03.47"
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 35,
+        "points": 40,
+        "time": "19:05.66"
+      },
+      {
+        "name": "Gábor Török",
+        "place": 36,
+        "points": 39,
+        "time": "19:06.17"
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 37,
+        "points": 38,
+        "time": "19:09.14"
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 38,
+        "points": 37,
+        "time": "19:11.39"
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 39,
+        "points": 36,
+        "time": "19:13.46"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 40,
+        "points": 35,
+        "time": "19:21.19"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 42,
+        "points": 33,
+        "time": "19:39.69"
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 47,
+        "points": 28,
+        "time": "CAP+2"
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 49,
+        "points": 26,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 50,
+        "points": 25,
+        "time": "CAP+4"
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 53,
+        "points": 22,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 55,
+        "points": 20,
+        "time": "CAP+7"
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 60,
+        "points": 15,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 61,
+        "points": 14,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 63,
+        "points": 12,
+        "time": "CAP+8"
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 65,
+        "points": 10,
+        "time": "CAP+8"
+      }
+    ],
+    "Event 2": [
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "5:37.02"
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 2,
+        "points": 98,
+        "time": "5:40.63"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 3,
+        "points": 96,
+        "time": "5:47.38"
+      },
+      {
+        "name": "James Newbury",
+        "place": 4,
+        "points": 94,
+        "time": "6:08.09"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 5,
+        "points": 92,
+        "time": "6:09.82"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 6,
+        "points": 90,
+        "time": "6:10.12"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 7,
+        "points": 88,
+        "time": "6:13.01"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 8,
+        "points": 86,
+        "time": "6:22.64"
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 9,
+        "points": 84,
+        "time": "6:23.61"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 10,
+        "points": 82,
+        "time": "6:23.63"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 11,
+        "points": 80,
+        "time": "6:24.06"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 12,
+        "points": 78,
+        "time": "6:25.58"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 13,
+        "points": 76,
+        "time": "6:27.40"
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 14,
+        "points": 74,
+        "time": "6:30.11"
+      },
+      {
+        "name": "George Sterner",
+        "place": 15,
+        "points": 72,
+        "time": "6:31.90"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 16,
+        "points": 70,
+        "time": "6:36.38"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 17,
+        "points": 68,
+        "time": "6:37.90"
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 18,
+        "points": 66,
+        "time": "6:39.84"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 19,
+        "points": 64,
+        "time": "6:42.90"
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 20,
+        "points": 62,
+        "time": "6:43.45"
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 21,
+        "points": 60,
+        "time": "6:43.80"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 22,
+        "points": 58,
+        "time": "6:43.99"
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 23,
+        "points": 56,
+        "time": "6:46.57"
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 24,
+        "points": 54,
+        "time": "6:47.81"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 25,
+        "points": 52,
+        "time": "6:48.65"
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 26,
+        "points": 50,
+        "time": "6:49.97"
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 27,
+        "points": 48,
+        "time": "6:53.71"
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 28,
+        "points": 47,
+        "time": "6:56.66"
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 29,
+        "points": 46,
+        "time": "6:59.89"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 30,
+        "points": 45,
+        "time": "7:00.18"
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 31,
+        "points": 44,
+        "time": "7:00.60"
+      },
+      {
+        "name": "Michael Smith",
+        "place": 32,
+        "points": 43,
+        "time": "7:01.80"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 33,
+        "points": 42,
+        "time": "7:01.97"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 34,
+        "points": 41,
+        "time": "7:02.75"
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 35,
+        "points": 40,
+        "time": "7:03.37"
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 36,
+        "points": 39,
+        "time": "7:04.16"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 38,
+        "points": 37,
+        "time": "7:07.99"
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 40,
+        "points": 35,
+        "time": "7:10.63"
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 41,
+        "points": 34,
+        "time": "7:12.96"
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 42,
+        "points": 33,
+        "time": "7:16.69"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 44,
+        "points": 31,
+        "time": "7:27.51"
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 45,
+        "points": 30,
+        "time": "7:28.43"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 46,
+        "points": 29,
+        "time": "7:38.64"
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 47,
+        "points": 28,
+        "time": "7:40.81"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 48,
+        "points": 27,
+        "time": "7:41.06"
+      },
+      {
+        "name": "Gábor Török",
+        "place": 50,
+        "points": 25,
+        "time": "7:45.28"
+      },
+      {
+        "name": "Willy Georges",
+        "place": 53,
+        "points": 22,
+        "time": "7:55.05"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 54,
+        "points": 21,
+        "time": "8:03.60"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 57,
+        "points": 18,
+        "time": "8:11.09"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 73,
+        "points": 2,
+        "time": "CAP+2"
+      }
+    ],
+    "Event 3": [
+      {
+        "name": "Lukas Högberg",
+        "place": 1,
+        "points": 100,
+        "time": "24:00.59"
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 2,
+        "points": 98,
+        "time": "24:19.97"
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 3,
+        "points": 96,
+        "time": "24:36.91"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 4,
+        "points": 94,
+        "time": "24:45.02"
+      },
+      {
+        "name": "James Newbury",
+        "place": 5,
+        "points": 92,
+        "time": "24:47.93"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 6,
+        "points": 90,
+        "time": "24:55.28"
+      },
+      {
+        "name": "Willy Georges",
+        "place": 7,
+        "points": 88,
+        "time": "24:58.54"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 8,
+        "points": 86,
+        "time": "25:08.98"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 9,
+        "points": 84,
+        "time": "25:11.14"
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 10,
+        "points": 82,
+        "time": "25:15.76"
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 11,
+        "points": 80,
+        "time": "25:18.95"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 12,
+        "points": 78,
+        "time": "25:27.61"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 13,
+        "points": 76,
+        "time": "25:35.34"
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 14,
+        "points": 74,
+        "time": "25:42.32"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 15,
+        "points": 72,
+        "time": "25:42.44"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 16,
+        "points": 70,
+        "time": "25:49.44"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 17,
+        "points": 68,
+        "time": "25:50.09"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 18,
+        "points": 66,
+        "time": "25:53.24"
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 19,
+        "points": 64,
+        "time": "26:12.58"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 20,
+        "points": 62,
+        "time": "26:16.73"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 21,
+        "points": 60,
+        "time": "26:20.03"
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 22,
+        "points": 58,
+        "time": "26:25.24"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 23,
+        "points": 56,
+        "time": "26:25.76"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 24,
+        "points": 54,
+        "time": "26:27.77"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 25,
+        "points": 52,
+        "time": "26:37.06"
+      },
+      {
+        "name": "Michael Smith",
+        "place": 26,
+        "points": 50,
+        "time": "26:43.27"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 27,
+        "points": 48,
+        "time": "26:47.63"
+      },
+      {
+        "name": "George Sterner",
+        "place": 28,
+        "points": 46,
+        "time": "26:47.75"
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 29,
+        "points": 44,
+        "time": "27:00.16"
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 30,
+        "points": 42,
+        "time": "27:00.18"
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 31,
+        "points": 40,
+        "time": "27:01.94"
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 32,
+        "points": 38,
+        "time": "27:15.08"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 33,
+        "points": 36,
+        "time": "27:17.58"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 34,
+        "points": 34,
+        "time": "27:18.39"
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 35,
+        "points": 32,
+        "time": "27:18.54"
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 36,
+        "points": 30,
+        "time": "27:39.54"
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 37,
+        "points": 28,
+        "time": "27:41.37"
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 38,
+        "points": 26,
+        "time": "27:41.40"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 39,
+        "points": 24,
+        "time": "27:55.44"
+      },
+      {
+        "name": "Gábor Török",
+        "place": 40,
+        "points": 22,
+        "time": "27:56.72"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 41,
+        "points": 20,
+        "time": "27:57.70"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 42,
+        "points": 18,
+        "time": "28:20.85"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 43,
+        "points": 16,
+        "time": "28:27.80"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 44,
+        "points": 14,
+        "time": "28:29.91"
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 45,
+        "points": 12,
+        "time": "28:37.80"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 46,
+        "points": 10,
+        "time": "28:52.94"
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 47,
+        "points": 8,
+        "time": "29:58.90"
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 48,
+        "points": 6,
+        "time": "30:29.78"
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 49,
+        "points": 4,
+        "time": "30:39.27"
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 50,
+        "points": 2,
+        "time": "32:14.44"
+      }
+    ],
+    "Event 4": [
+      {
+        "name": "Nick Bloch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gábor Török",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 1,
+        "points": 100,
+        "time": "1:27.30"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 2,
+        "points": 97,
+        "time": "1:28.40"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 3,
+        "points": 94,
+        "time": "1:30.09"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 4,
+        "points": 91,
+        "time": "1:31.18"
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 5,
+        "points": 88,
+        "time": "1:36.00"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 6,
+        "points": 85,
+        "time": "1:39.18"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 7,
+        "points": 82,
+        "time": "1:40.00"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 8,
+        "points": 79,
+        "time": "1:40.37"
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 9,
+        "points": 76,
+        "time": "1:41.09"
+      },
+      {
+        "name": "Michael Smith",
+        "place": 10,
+        "points": 73,
+        "time": "1:41.58"
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 11,
+        "points": 70,
+        "time": "1:44.59"
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 12,
+        "points": 67,
+        "time": "1:45.28"
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 13,
+        "points": 64,
+        "time": "1:45.47"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 14,
+        "points": 61,
+        "time": "1:45.68"
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 15,
+        "points": 58,
+        "time": "1:45.78"
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 16,
+        "points": 55,
+        "time": "1:45.82"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 17,
+        "points": 52,
+        "time": "1:45.88"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 18,
+        "points": 49,
+        "time": "1:48.63"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 19,
+        "points": 46,
+        "time": "1:49.67"
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 20,
+        "points": 43,
+        "time": "1:49.68"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 21,
+        "points": 40,
+        "time": "1:50.08"
+      },
+      {
+        "name": "Willy Georges",
+        "place": 22,
+        "points": 38,
+        "time": "1:50.42"
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 23,
+        "points": 36,
+        "time": "1:50.95"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 24,
+        "points": 34,
+        "time": "1:51.75"
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 25,
+        "points": 32,
+        "time": "1:52.31"
+      },
+      {
+        "name": "James Newbury",
+        "place": 26,
+        "points": 30,
+        "time": "1:52.74"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 27,
+        "points": 28,
+        "time": "1:57.61"
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 28,
+        "points": 26,
+        "time": "1:57.68"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 29,
+        "points": 24,
+        "time": "1:58.98"
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 30,
+        "points": 22,
+        "time": "2:00.29"
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 31,
+        "points": 20,
+        "time": "2:03.50"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 32,
+        "points": 18,
+        "time": "2:03.75"
+      },
+      {
+        "name": "George Sterner",
+        "place": 33,
+        "points": 16,
+        "time": "2:09.43"
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 34,
+        "points": 14,
+        "time": "2:09.51"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 35,
+        "points": 12,
+        "time": "2:11.52"
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 36,
+        "points": 10,
+        "time": "2:16.17"
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 37,
+        "points": 8,
+        "time": "2:21.92"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 38,
+        "points": 6,
+        "time": "2:35.52"
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 39,
+        "points": 4,
+        "time": "2:38.04"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 40,
+        "points": 2,
+        "time": "2:41.30"
+      }
+    ],
+    "Event 5": [
+      {
+        "name": "Uldis Upenieks",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "George Sterner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gábor Török",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 1,
+        "points": 100,
+        "time": "677 rep"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 2,
+        "points": 96,
+        "time": "675 rep"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 3,
+        "points": 92,
+        "time": "660 rep"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 4,
+        "points": 88,
+        "time": "645 rep"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 5,
+        "points": 84,
+        "time": "622 rep"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 6,
+        "points": 80,
+        "time": "616 rep"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 7,
+        "points": 76,
+        "time": "615 rep"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 8,
+        "points": 72,
+        "time": "600 rep"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 9,
+        "points": 68,
+        "time": "598 rep"
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 10,
+        "points": 64,
+        "time": "585 rep"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 11,
+        "points": 60,
+        "time": "584 rep"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 12,
+        "points": 56,
+        "time": "577 rep"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 13,
+        "points": 52,
+        "time": "575 rep"
+      },
+      {
+        "name": "Willy Georges",
+        "place": 14,
+        "points": 49,
+        "time": "561 rep"
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 15,
+        "points": 46,
+        "time": "560 rep"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 16,
+        "points": 43,
+        "time": "555 rep"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 17,
+        "points": 40,
+        "time": "550 rep"
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 18,
+        "points": 37,
+        "time": "538 rep"
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 19,
+        "points": 34,
+        "time": "537 rep"
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 20,
+        "points": 31,
+        "time": "529 rep"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 21,
+        "points": 28,
+        "time": "525 rep"
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 21,
+        "points": 28,
+        "time": "525 rep"
+      },
+      {
+        "name": "James Newbury",
+        "place": 23,
+        "points": 22,
+        "time": "515 rep"
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 23,
+        "points": 22,
+        "time": "515 rep"
+      },
+      {
+        "name": "Jason Smith",
+        "place": 25,
+        "points": 16,
+        "time": "509 rep"
+      },
+      {
+        "name": "Ben Smith",
+        "place": 26,
+        "points": 13,
+        "time": "504 rep"
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 26,
+        "points": 13,
+        "time": "504 rep"
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 28,
+        "points": 7,
+        "time": "491 rep"
+      },
+      {
+        "name": "Michael Smith",
+        "place": 29,
+        "points": 4,
+        "time": "480 rep"
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 30,
+        "points": 1,
+        "time": "470 rep"
+      }
+    ],
+    "Event 6": [
+      {
+        "name": "Willy Georges",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "George Sterner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gábor Török",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 1,
+        "points": 100,
+        "time": "20 pt"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 2,
+        "points": 95,
+        "time": "19 pt"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 3,
+        "points": 90,
+        "time": "18 pt"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 4,
+        "points": 85,
+        "time": "17 pt"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 5,
+        "points": 80,
+        "time": "16 pt"
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 6,
+        "points": 75,
+        "time": "15 pt"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 7,
+        "points": 70,
+        "time": "14 pt"
+      },
+      {
+        "name": "Cole Sager",
+        "place": 8,
+        "points": 65,
+        "time": "13 pt"
+      },
+      {
+        "name": "James Newbury",
+        "place": 9,
+        "points": 60,
+        "time": "12 pt"
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 10,
+        "points": 55,
+        "time": "11 pt"
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 11,
+        "points": 50,
+        "time": "10 pt"
+      },
+      {
+        "name": "Logan Collins",
+        "place": 12,
+        "points": 45,
+        "time": "9 pt"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 13,
+        "points": 40,
+        "time": "8 pt"
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 13,
+        "points": 40,
+        "time": "8 pt"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 15,
+        "points": 30,
+        "time": "6 pt"
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 16,
+        "points": 25,
+        "time": "5 pt"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 17,
+        "points": 20,
+        "time": "4 pt"
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 18,
+        "points": 15,
+        "time": "3 pt"
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 19,
+        "points": 10,
+        "time": "2 pt"
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 20,
+        "points": 5,
+        "time": "1 pt"
+      }
+    ],
+    "Event 7": [
+      {
+        "name": "Cole Sager",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Logan Collins",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Willy Georges",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "George Sterner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gábor Török",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "15:36.60"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 2,
+        "points": 90,
+        "time": "16:35.90"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 3,
+        "points": 80,
+        "time": "16:42.75"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 4,
+        "points": 70,
+        "time": "17:07.03"
+      },
+      {
+        "name": "James Newbury",
+        "place": 5,
+        "points": 60,
+        "time": "17:17.46"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 6,
+        "points": 50,
+        "time": "19:05.50"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 7,
+        "points": 40,
+        "time": "19:14.46"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 8,
+        "points": 30,
+        "time": "CAP+6"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 9,
+        "points": 20,
+        "time": "CAP+113"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 10,
+        "points": 10,
+        "time": "CAP+134"
+      }
+    ],
+    "Event 8": [
+      {
+        "name": "Cole Sager",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Logan Collins",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Willy Georges",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "George Sterner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gábor Török",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "380.0 lb"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 2,
+        "points": 90,
+        "time": "375.0 lb"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 3,
+        "points": 80,
+        "time": "365.0 lb"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 4,
+        "points": 70,
+        "time": "365.0 lb"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 5,
+        "points": 60,
+        "time": "355.0 lb"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 6,
+        "points": 50,
+        "time": "355.0 lb"
+      },
+      {
+        "name": "James Newbury",
+        "place": 7,
+        "points": 40,
+        "time": "345.0 lb"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 8,
+        "points": 30,
+        "time": "335.0 lb"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 9,
+        "points": 20,
+        "time": "325.0 lb"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 10,
+        "points": 10,
+        "time": "0.0 lb"
+      }
+    ],
+    "Event 9": [
+      {
+        "name": "Cole Sager",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Logan Collins",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Willy Georges",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "George Sterner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gábor Török",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 1,
+        "points": 100,
+        "time": "25:12.29"
+      },
+      {
+        "name": "James Newbury",
+        "place": 2,
+        "points": 90,
+        "time": "27:22.91"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 3,
+        "points": 80,
+        "time": "27:45.69"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 4,
+        "points": 70,
+        "time": "28:14.96"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 5,
+        "points": 60,
+        "time": "29:04.68"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 6,
+        "points": 50,
+        "time": "29:35.41"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 7,
+        "points": 40,
+        "time": "31:16.53"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 8,
+        "points": 30,
+        "time": "32:40.83"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 9,
+        "points": 20,
+        "time": "33:35.52"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 10,
+        "points": 10,
+        "time": "35:52.24"
+      }
+    ],
+    "Event 10": [
+      {
+        "name": "Cole Sager",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Logan Collins",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Willy Georges",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "George Sterner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gábor Török",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "James Newbury",
+        "place": 1,
+        "points": 100,
+        "time": "3:47.25"
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 2,
+        "points": 90,
+        "time": "3:49.52"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 3,
+        "points": 80,
+        "time": "3:55.66"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 4,
+        "points": 70,
+        "time": "4:06.75"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 5,
+        "points": 60,
+        "time": "4:27.13"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 6,
+        "points": 50,
+        "time": "4:35.27"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 7,
+        "points": 40,
+        "time": "4:39.15"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 8,
+        "points": 30,
+        "time": "4:41.25"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 9,
+        "points": 20,
+        "time": "4:41.66"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 10,
+        "points": 10,
+        "time": "5:02.65"
+      }
+    ],
+    "Event 11": [
+      {
+        "name": "Cole Sager",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Logan Collins",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Willy Georges",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "George Sterner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gábor Török",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "3:06.94"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 2,
+        "points": 90,
+        "time": "3:15.61"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 3,
+        "points": 80,
+        "time": "3:25.95"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 4,
+        "points": 70,
+        "time": "3:29.73"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 5,
+        "points": 60,
+        "time": "3:31.98"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 6,
+        "points": 50,
+        "time": "3:37.85"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 7,
+        "points": 40,
+        "time": "3:42.24"
+      },
+      {
+        "name": "James Newbury",
+        "place": 8,
+        "points": 30,
+        "time": "4:44.95"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 9,
+        "points": 20,
+        "time": "4:59.00"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 10,
+        "points": 10,
+        "time": "CAP+40"
+      }
+    ],
+    "Event 12": [
+      {
+        "name": "Cole Sager",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Travis Mayer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Kwant",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Logan Collins",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Chandler Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Patrick Vellner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Högberg",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Joshua Wichtrup",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Elliot Simmonds",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Casper Gammelmark",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Willy Georges",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Connor Duddy",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Brent Fikowski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Sean Sweeney",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Alex Vigneault",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Michael Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ant Haynes",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ben Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Smith",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Ryan Sowder",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Uldis Upenieks",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "George Sterner",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jeffrey Adler",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Lukas Esslinger",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Samuel Cournoyer",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Dean Linder-Leighton",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jonne Koski",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Eric Carmody",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Jason Carroll",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nicolay Billaudel",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Nick Bloch",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Bronislaw Olenkowicz",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Arminas Balevicius",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mohamed Elomda",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Simon Mäntylä",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "John-Paul Hethcock",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Aleks Koštomaj",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Gábor Török",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Guilherme Malheiros",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Agustin Richelme",
+        "place": 0,
+        "points": 0,
+        "time": ""
+      },
+      {
+        "name": "Mathew Fraser",
+        "place": 1,
+        "points": 100,
+        "time": "8:05.78"
+      },
+      {
+        "name": "Noah Ohlsen",
+        "place": 2,
+        "points": 90,
+        "time": "8:09.97"
+      },
+      {
+        "name": "Björgvin Karl Guðmundsson",
+        "place": 3,
+        "points": 80,
+        "time": "8:22.80"
+      },
+      {
+        "name": "Scott Panchik",
+        "place": 4,
+        "points": 70,
+        "time": "8:35.65"
+      },
+      {
+        "name": "Adrian Mundwiler",
+        "place": 5,
+        "points": 60,
+        "time": "8:52.84"
+      },
+      {
+        "name": "Matt Mcleod",
+        "place": 6,
+        "points": 50,
+        "time": "8:57.50"
+      },
+      {
+        "name": "Jacob Heppner",
+        "place": 7,
+        "points": 40,
+        "time": "9:01.96"
+      },
+      {
+        "name": "Saxon Panchik",
+        "place": 8,
+        "points": 30,
+        "time": "10:06.60"
+      },
+      {
+        "name": "James Newbury",
+        "place": 9,
+        "points": 20,
+        "time": "10:58.69"
+      },
+      {
+        "name": "Will Moorad",
+        "place": 10,
+        "points": 10,
+        "time": "CAP+90"
+      }
+    ]
+  },
+  "athletes": [
+    {
+      "rank": 1,
+      "rank_label": "1",
+      "name": "Mathew Fraser",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Mayhem",
+      "age": "Age 29",
+      "height_weight": "67 in | 195 lb",
+      "total_points": 984,
+      "events": {
+        "First Cut": {
+          "place": 1,
+          "time": "15:07.70",
+          "points": 100
+        },
+        "Event 2": {
+          "place": 1,
+          "time": "5:37.02",
+          "points": 100
+        },
+        "Event 3": {
+          "place": 17,
+          "time": "25:50.09",
+          "points": 68
+        },
+        "Event 4": {
+          "place": 21,
+          "time": "1:50.08",
+          "points": 40
+        },
+        "Event 5": {
+          "place": 2,
+          "time": "675 rep",
+          "points": 96
+        },
+        "Event 6": {
+          "place": 15,
+          "time": "6 pt",
+          "points": 30
+        },
+        "Event 7": {
+          "place": 1,
+          "time": "15:36.60",
+          "points": 100
+        },
+        "Event 8": {
+          "place": 1,
+          "time": "380.0 lb",
+          "points": 100
+        },
+        "Event 9": {
+          "place": 5,
+          "time": "29:04.68",
+          "points": 60
+        },
+        "Event 10": {
+          "place": 2,
+          "time": "3:49.52",
+          "points": 90
+        },
+        "Event 11": {
+          "place": 1,
+          "time": "3:06.94",
+          "points": 100
+        },
+        "Event 12": {
+          "place": 1,
+          "time": "8:05.78",
+          "points": 100
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "rank_label": "2",
+      "name": "Noah Ohlsen",
+      "country": "United States",
+      "region": "",
+      "affiliate": "Peak 360 CrossFit",
+      "age": "Age 28",
+      "height_weight": "67 in | 190 lb",
+      "total_points": 949,
+      "events": {
+        "First Cut": {
+          "place": 16,
+          "time": "17:02.14",
+          "points": 70
+        },
+        "Event 2": {
+          "place": 7,
+          "time": "6:13.01",
+          "points": 88
+        },
+        "Event 3": {
+          "place": 24,
+          "time": "26:27.77",
+          "points": 54
+        },
+        "Event 4": {
+          "place": 2,
+          "time": "1:28.40",
+          "points": 97
+        },
+        "Event 5": {
+          "place": 1,
+          "time": "677 rep",
+          "points": 100
+        },
+        "Event 6": {
+          "place": 3,
+          "time": "18 pt",
+          "points": 90
+        },
+        "Event 7": {
+          "place": 2,
+          "time": "16:35.90",
+          "points": 90
+        },
+        "Event 8": {
+          "place": 5,
+          "time": "355.0 lb",
+          "points": 60
+        },
+        "Event 9": {
+          "place": 3,
+          "time": "27:45.69",
+          "points": 80
+        },
+        "Event 10": {
+          "place": 4,
+          "time": "4:06.75",
+          "points": 70
+        },
+        "Event 11": {
+          "place": 5,
+          "time": "3:31.98",
+          "points": 60
+        },
+        "Event 12": {
+          "place": 2,
+          "time": "8:09.97",
+          "points": 90
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "rank_label": "3",
+      "name": "Björgvin Karl Guðmundsson",
+      "country": "Iceland",
+      "region": "",
+      "affiliate": "CrossFit Hengill",
+      "age": "Age 26",
+      "height_weight": "178 cm | 190 lb",
+      "total_points": 888,
+      "events": {
+        "First Cut": {
+          "place": 4,
+          "time": "16:08.51",
+          "points": 94
+        },
+        "Event 2": {
+          "place": 30,
+          "time": "7:00.18",
+          "points": 45
+        },
+        "Event 3": {
+          "place": 16,
+          "time": "25:49.44",
+          "points": 70
+        },
+        "Event 4": {
+          "place": 19,
+          "time": "1:49.67",
+          "points": 46
+        },
+        "Event 5": {
+          "place": 9,
+          "time": "598 rep",
+          "points": 68
+        },
+        "Event 6": {
+          "place": 2,
+          "time": "19 pt",
+          "points": 95
+        },
+        "Event 7": {
+          "place": 3,
+          "time": "16:42.75",
+          "points": 80
+        },
+        "Event 8": {
+          "place": 4,
+          "time": "365.0 lb",
+          "points": 70
+        },
+        "Event 9": {
+          "place": 4,
+          "time": "28:14.96",
+          "points": 70
+        },
+        "Event 10": {
+          "place": 3,
+          "time": "3:55.66",
+          "points": 80
+        },
+        "Event 11": {
+          "place": 2,
+          "time": "3:15.61",
+          "points": 90
+        },
+        "Event 12": {
+          "place": 3,
+          "time": "8:22.80",
+          "points": 80
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "rank_label": "4",
+      "name": "Scott Panchik",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Mentality",
+      "age": "Age 31",
+      "height_weight": "69 in | 187 lb",
+      "total_points": 795,
+      "events": {
+        "First Cut": {
+          "place": 3,
+          "time": "16:05.95",
+          "points": 96
+        },
+        "Event 2": {
+          "place": 6,
+          "time": "6:10.12",
+          "points": 90
+        },
+        "Event 3": {
+          "place": 41,
+          "time": "27:57.70",
+          "points": 20
+        },
+        "Event 4": {
+          "place": 14,
+          "time": "1:45.68",
+          "points": 61
+        },
+        "Event 5": {
+          "place": 4,
+          "time": "645 rep",
+          "points": 88
+        },
+        "Event 6": {
+          "place": 7,
+          "time": "14 pt",
+          "points": 70
+        },
+        "Event 7": {
+          "place": 6,
+          "time": "19:05.50",
+          "points": 50
+        },
+        "Event 8": {
+          "place": 2,
+          "time": "375.0 lb",
+          "points": 90
+        },
+        "Event 9": {
+          "place": 8,
+          "time": "32:40.83",
+          "points": 30
+        },
+        "Event 10": {
+          "place": 6,
+          "time": "4:35.27",
+          "points": 50
+        },
+        "Event 11": {
+          "place": 3,
+          "time": "3:25.95",
+          "points": 80
+        },
+        "Event 12": {
+          "place": 4,
+          "time": "8:35.65",
+          "points": 70
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "rank_label": "5",
+      "name": "James Newbury",
+      "country": "Australia",
+      "region": "",
+      "affiliate": "CrossFit Mode",
+      "age": "Age 28",
+      "height_weight": "177 cm | 87 kg",
+      "total_points": 728,
+      "events": {
+        "First Cut": {
+          "place": 6,
+          "time": "16:21.19",
+          "points": 90
+        },
+        "Event 2": {
+          "place": 4,
+          "time": "6:08.09",
+          "points": 94
+        },
+        "Event 3": {
+          "place": 5,
+          "time": "24:47.93",
+          "points": 92
+        },
+        "Event 4": {
+          "place": 26,
+          "time": "1:52.74",
+          "points": 30
+        },
+        "Event 5": {
+          "place": 23,
+          "time": "515 rep",
+          "points": 22
+        },
+        "Event 6": {
+          "place": 9,
+          "time": "12 pt",
+          "points": 60
+        },
+        "Event 7": {
+          "place": 5,
+          "time": "17:17.46",
+          "points": 60
+        },
+        "Event 8": {
+          "place": 7,
+          "time": "345.0 lb",
+          "points": 40
+        },
+        "Event 9": {
+          "place": 2,
+          "time": "27:22.91",
+          "points": 90
+        },
+        "Event 10": {
+          "place": 1,
+          "time": "3:47.25",
+          "points": 100
+        },
+        "Event 11": {
+          "place": 8,
+          "time": "4:44.95",
+          "points": 30
+        },
+        "Event 12": {
+          "place": 9,
+          "time": "10:58.69",
+          "points": 20
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "rank_label": "6",
+      "name": "Jacob Heppner",
+      "country": "United States",
+      "region": "",
+      "affiliate": "Cobra Command CrossFit",
+      "age": "Age 29",
+      "height_weight": "67 in | 195 lb",
+      "total_points": 694,
+      "events": {
+        "First Cut": {
+          "place": 13,
+          "time": "16:47.94",
+          "points": 76
+        },
+        "Event 2": {
+          "place": 10,
+          "time": "6:23.63",
+          "points": 82
+        },
+        "Event 3": {
+          "place": 6,
+          "time": "24:55.28",
+          "points": 90
+        },
+        "Event 4": {
+          "place": 29,
+          "time": "1:58.98",
+          "points": 24
+        },
+        "Event 5": {
+          "place": 3,
+          "time": "660 rep",
+          "points": 92
+        },
+        "Event 6": {
+          "place": 17,
+          "time": "4 pt",
+          "points": 20
+        },
+        "Event 7": {
+          "place": 4,
+          "time": "17:07.03",
+          "points": 70
+        },
+        "Event 8": {
+          "place": 8,
+          "time": "335.0 lb",
+          "points": 30
+        },
+        "Event 9": {
+          "place": 7,
+          "time": "31:16.53",
+          "points": 40
+        },
+        "Event 10": {
+          "place": 5,
+          "time": "4:27.13",
+          "points": 60
+        },
+        "Event 11": {
+          "place": 4,
+          "time": "3:29.73",
+          "points": 70
+        },
+        "Event 12": {
+          "place": 7,
+          "time": "9:01.96",
+          "points": 40
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "rank_label": "7",
+      "name": "Matt Mcleod",
+      "country": "Australia",
+      "region": "",
+      "affiliate": "CrossFit Crossaxed",
+      "age": "Age 26",
+      "height_weight": "168 cm | 82 kg",
+      "total_points": 671,
+      "events": {
+        "First Cut": {
+          "place": 40,
+          "time": "19:21.19",
+          "points": 35
+        },
+        "Event 2": {
+          "place": 44,
+          "time": "7:27.51",
+          "points": 31
+        },
+        "Event 3": {
+          "place": 18,
+          "time": "25:53.24",
+          "points": 66
+        },
+        "Event 4": {
+          "place": 1,
+          "time": "1:27.30",
+          "points": 100
+        },
+        "Event 5": {
+          "place": 5,
+          "time": "622 rep",
+          "points": 84
+        },
+        "Event 6": {
+          "place": 4,
+          "time": "17 pt",
+          "points": 85
+        },
+        "Event 7": {
+          "place": 7,
+          "time": "19:14.46",
+          "points": 40
+        },
+        "Event 8": {
+          "place": 9,
+          "time": "325.0 lb",
+          "points": 20
+        },
+        "Event 9": {
+          "place": 1,
+          "time": "25:12.29",
+          "points": 100
+        },
+        "Event 10": {
+          "place": 7,
+          "time": "4:39.15",
+          "points": 40
+        },
+        "Event 11": {
+          "place": 9,
+          "time": "4:59.00",
+          "points": 20
+        },
+        "Event 12": {
+          "place": 6,
+          "time": "8:57.50",
+          "points": 50
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "rank_label": "8",
+      "name": "Adrian Mundwiler",
+      "country": "Switzerland",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 26",
+      "height_weight": "172 cm | 86 kg",
+      "total_points": 632,
+      "events": {
+        "First Cut": {
+          "place": 25,
+          "time": "17:47.72",
+          "points": 52
+        },
+        "Event 2": {
+          "place": 16,
+          "time": "6:36.38",
+          "points": 70
+        },
+        "Event 3": {
+          "place": 15,
+          "time": "25:42.44",
+          "points": 72
+        },
+        "Event 4": {
+          "place": 7,
+          "time": "1:40.00",
+          "points": 82
+        },
+        "Event 5": {
+          "place": 12,
+          "time": "577 rep",
+          "points": 56
+        },
+        "Event 6": {
+          "place": 13,
+          "time": "8 pt",
+          "points": 40
+        },
+        "Event 7": {
+          "place": 8,
+          "time": "CAP+6",
+          "points": 30
+        },
+        "Event 8": {
+          "place": 3,
+          "time": "365.0 lb",
+          "points": 80
+        },
+        "Event 9": {
+          "place": 10,
+          "time": "35:52.24",
+          "points": 10
+        },
+        "Event 10": {
+          "place": 8,
+          "time": "4:41.25",
+          "points": 30
+        },
+        "Event 11": {
+          "place": 6,
+          "time": "3:37.85",
+          "points": 50
+        },
+        "Event 12": {
+          "place": 5,
+          "time": "8:52.84",
+          "points": 60
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "rank_label": "9",
+      "name": "Saxon Panchik",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Cliffside",
+      "age": "Age 23",
+      "height_weight": "69 in | 185 lb",
+      "total_points": 587,
+      "events": {
+        "First Cut": {
+          "place": 20,
+          "time": "17:11.38",
+          "points": 62
+        },
+        "Event 2": {
+          "place": 19,
+          "time": "6:42.90",
+          "points": 64
+        },
+        "Event 3": {
+          "place": 46,
+          "time": "28:52.94",
+          "points": 10
+        },
+        "Event 4": {
+          "place": 8,
+          "time": "1:40.37",
+          "points": 79
+        },
+        "Event 5": {
+          "place": 8,
+          "time": "600 rep",
+          "points": 72
+        },
+        "Event 6": {
+          "place": 1,
+          "time": "20 pt",
+          "points": 100
+        },
+        "Event 7": {
+          "place": 10,
+          "time": "CAP+134",
+          "points": 10
+        },
+        "Event 8": {
+          "place": 6,
+          "time": "355.0 lb",
+          "points": 50
+        },
+        "Event 9": {
+          "place": 6,
+          "time": "29:35.41",
+          "points": 50
+        },
+        "Event 10": {
+          "place": 9,
+          "time": "4:41.66",
+          "points": 20
+        },
+        "Event 11": {
+          "place": 7,
+          "time": "3:42.24",
+          "points": 40
+        },
+        "Event 12": {
+          "place": 8,
+          "time": "10:06.60",
+          "points": 30
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "rank_label": "10",
+      "name": "Will Moorad",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Trivium",
+      "age": "Age 30",
+      "height_weight": "69 in | 190 lb",
+      "total_points": 485,
+      "events": {
+        "First Cut": {
+          "place": 14,
+          "time": "16:49.47",
+          "points": 74
+        },
+        "Event 2": {
+          "place": 46,
+          "time": "7:38.64",
+          "points": 29
+        },
+        "Event 3": {
+          "place": 25,
+          "time": "26:37.06",
+          "points": 52
+        },
+        "Event 4": {
+          "place": 3,
+          "time": "1:30.09",
+          "points": 94
+        },
+        "Event 5": {
+          "place": 7,
+          "time": "615 rep",
+          "points": 76
+        },
+        "Event 6": {
+          "place": 5,
+          "time": "16 pt",
+          "points": 80
+        },
+        "Event 7": {
+          "place": 9,
+          "time": "CAP+113",
+          "points": 20
+        },
+        "Event 8": {
+          "place": 10,
+          "time": "0.0 lb",
+          "points": 10
+        },
+        "Event 9": {
+          "place": 9,
+          "time": "33:35.52",
+          "points": 20
+        },
+        "Event 10": {
+          "place": 10,
+          "time": "5:02.65",
+          "points": 10
+        },
+        "Event 11": {
+          "place": 10,
+          "time": "CAP+40",
+          "points": 10
+        },
+        "Event 12": {
+          "place": 10,
+          "time": "CAP+90",
+          "points": 10
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "rank_label": "11",
+      "name": "Cole Sager",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Spokane Valley",
+      "age": "Age 28",
+      "height_weight": "71 in | 198 lb",
+      "total_points": 368,
+      "events": {
+        "First Cut": {
+          "place": 7,
+          "time": "16:24.29",
+          "points": 88
+        },
+        "Event 2": {
+          "place": 33,
+          "time": "7:01.97",
+          "points": 42
+        },
+        "Event 3": {
+          "place": 27,
+          "time": "26:47.63",
+          "points": 48
+        },
+        "Event 4": {
+          "place": 6,
+          "time": "1:39.18",
+          "points": 85
+        },
+        "Event 5": {
+          "place": 17,
+          "time": "550 rep",
+          "points": 40
+        },
+        "Event 6": {
+          "place": 8,
+          "time": "13 pt",
+          "points": 65
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 12,
+      "rank_label": "12",
+      "name": "Travis Mayer",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Passion",
+      "age": "Age 28",
+      "height_weight": "71 in | 204 lb",
+      "total_points": 368,
+      "events": {
+        "First Cut": {
+          "place": 12,
+          "time": "16:33.97",
+          "points": 78
+        },
+        "Event 2": {
+          "place": 11,
+          "time": "6:24.06",
+          "points": 80
+        },
+        "Event 3": {
+          "place": 8,
+          "time": "25:08.98",
+          "points": 86
+        },
+        "Event 4": {
+          "place": 38,
+          "time": "2:35.52",
+          "points": 6
+        },
+        "Event 5": {
+          "place": 16,
+          "time": "555 rep",
+          "points": 43
+        },
+        "Event 6": {
+          "place": 6,
+          "time": "15 pt",
+          "points": 75
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "rank_label": "13",
+      "name": "Samuel Kwant",
+      "country": "United States",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 23",
+      "height_weight": "71 in | 206 lb",
+      "total_points": 349,
+      "events": {
+        "First Cut": {
+          "place": 15,
+          "time": "16:57.47",
+          "points": 72
+        },
+        "Event 2": {
+          "place": 25,
+          "time": "6:48.65",
+          "points": 52
+        },
+        "Event 3": {
+          "place": 23,
+          "time": "26:25.76",
+          "points": 56
+        },
+        "Event 4": {
+          "place": 4,
+          "time": "1:31.18",
+          "points": 91
+        },
+        "Event 5": {
+          "place": 21,
+          "time": "525 rep",
+          "points": 28
+        },
+        "Event 6": {
+          "place": 11,
+          "time": "10 pt",
+          "points": 50
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 14,
+      "rank_label": "14",
+      "name": "Logan Collins",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Rejoice",
+      "age": "Age 28",
+      "height_weight": "67 in | 182 lb",
+      "total_points": 340,
+      "events": {
+        "First Cut": {
+          "place": 18,
+          "time": "17:05.95",
+          "points": 66
+        },
+        "Event 2": {
+          "place": 8,
+          "time": "6:22.64",
+          "points": 86
+        },
+        "Event 3": {
+          "place": 44,
+          "time": "28:29.91",
+          "points": 14
+        },
+        "Event 4": {
+          "place": 18,
+          "time": "1:48.63",
+          "points": 49
+        },
+        "Event 5": {
+          "place": 6,
+          "time": "616 rep",
+          "points": 80
+        },
+        "Event 6": {
+          "place": 12,
+          "time": "9 pt",
+          "points": 45
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "rank_label": "15",
+      "name": "Chandler Smith",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Sacrifice",
+      "age": "Age 26",
+      "height_weight": "68 in | 195 lb",
+      "total_points": 329,
+      "events": {
+        "First Cut": {
+          "place": 2,
+          "time": "15:42.77",
+          "points": 98
+        },
+        "Event 2": {
+          "place": 48,
+          "time": "7:41.06",
+          "points": 27
+        },
+        "Event 3": {
+          "place": 4,
+          "time": "24:45.02",
+          "points": 94
+        },
+        "Event 4": {
+          "place": 32,
+          "time": "2:03.75",
+          "points": 18
+        },
+        "Event 5": {
+          "place": 13,
+          "time": "575 rep",
+          "points": 52
+        },
+        "Event 6": {
+          "place": 13,
+          "time": "8 pt",
+          "points": 40
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 16,
+      "rank_label": "16",
+      "name": "Patrick Vellner",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "CrossFit Solid Ground",
+      "age": "Age 29",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 322,
+      "events": {
+        "First Cut": {
+          "place": 9,
+          "time": "16:32.42",
+          "points": 84
+        },
+        "Event 2": {
+          "place": 12,
+          "time": "6:25.58",
+          "points": 78
+        },
+        "Event 3": {
+          "place": 12,
+          "time": "25:27.61",
+          "points": 78
+        },
+        "Event 4": {
+          "place": 35,
+          "time": "2:11.52",
+          "points": 12
+        },
+        "Event 5": {
+          "place": 11,
+          "time": "584 rep",
+          "points": 60
+        },
+        "Event 6": {
+          "place": 19,
+          "time": "2 pt",
+          "points": 10
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 17,
+      "rank_label": "17",
+      "name": "Lukas Högberg",
+      "country": "Sweden",
+      "region": "",
+      "affiliate": "CrossFit Nordic",
+      "age": "Age 28",
+      "height_weight": "183 cm | 211 lb",
+      "total_points": 319,
+      "events": {
+        "First Cut": {
+          "place": 39,
+          "time": "19:13.46",
+          "points": 36
+        },
+        "Event 2": {
+          "place": 18,
+          "time": "6:39.84",
+          "points": 66
+        },
+        "Event 3": {
+          "place": 1,
+          "time": "24:00.59",
+          "points": 100
+        },
+        "Event 4": {
+          "place": 15,
+          "time": "1:45.78",
+          "points": 58
+        },
+        "Event 5": {
+          "place": 19,
+          "time": "537 rep",
+          "points": 34
+        },
+        "Event 6": {
+          "place": 16,
+          "time": "5 pt",
+          "points": 25
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "rank_label": "18",
+      "name": "Joshua Wichtrup",
+      "country": "Germany",
+      "region": "",
+      "affiliate": "CrossFit Flensburg",
+      "age": "Age 27",
+      "height_weight": "183 cm | 86 kg",
+      "total_points": 315,
+      "events": {
+        "First Cut": {
+          "place": 28,
+          "time": "18:16.24",
+          "points": 47
+        },
+        "Event 2": {
+          "place": 40,
+          "time": "7:10.63",
+          "points": 35
+        },
+        "Event 3": {
+          "place": 2,
+          "time": "24:19.97",
+          "points": 98
+        },
+        "Event 4": {
+          "place": 20,
+          "time": "1:49.68",
+          "points": 43
+        },
+        "Event 5": {
+          "place": 18,
+          "time": "538 rep",
+          "points": 37
+        },
+        "Event 6": {
+          "place": 10,
+          "time": "11 pt",
+          "points": 55
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 19,
+      "rank_label": "19",
+      "name": "Elliot Simmonds",
+      "country": "United Kingdom",
+      "region": "",
+      "affiliate": "CrossFit Yas",
+      "age": "Age 25",
+      "height_weight": "185 cm | 90 kg",
+      "total_points": 303,
+      "events": {
+        "First Cut": {
+          "place": 34,
+          "time": "19:03.47",
+          "points": 41
+        },
+        "Event 2": {
+          "place": 24,
+          "time": "6:47.81",
+          "points": 54
+        },
+        "Event 3": {
+          "place": 14,
+          "time": "25:42.32",
+          "points": 74
+        },
+        "Event 4": {
+          "place": 16,
+          "time": "1:45.82",
+          "points": 55
+        },
+        "Event 5": {
+          "place": 10,
+          "time": "585 rep",
+          "points": 64
+        },
+        "Event 6": {
+          "place": 18,
+          "time": "3 pt",
+          "points": 15
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 20,
+      "rank_label": "20",
+      "name": "Casper Gammelmark",
+      "country": "Denmark",
+      "region": "",
+      "affiliate": "CrossFit Skodsborg",
+      "age": "Age 28",
+      "height_weight": "185 cm | 93 kg",
+      "total_points": 251,
+      "events": {
+        "First Cut": {
+          "place": 61,
+          "time": "CAP+8",
+          "points": 14
+        },
+        "Event 2": {
+          "place": 9,
+          "time": "6:23.61",
+          "points": 84
+        },
+        "Event 3": {
+          "place": 10,
+          "time": "25:15.76",
+          "points": 82
+        },
+        "Event 4": {
+          "place": 31,
+          "time": "2:03.50",
+          "points": 20
+        },
+        "Event 5": {
+          "place": 15,
+          "time": "560 rep",
+          "points": 46
+        },
+        "Event 6": {
+          "place": 20,
+          "time": "1 pt",
+          "points": 5
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "rank_label": "21",
+      "name": "Willy Georges",
+      "country": "France",
+      "region": "",
+      "affiliate": "CrossFit Lutece",
+      "age": "Age 26",
+      "height_weight": "179 cm | 88 kg",
+      "total_points": 245,
+      "events": {
+        "First Cut": {
+          "place": 27,
+          "time": "18:15.16",
+          "points": 48
+        },
+        "Event 2": {
+          "place": 53,
+          "time": "7:55.05",
+          "points": 22
+        },
+        "Event 3": {
+          "place": 7,
+          "time": "24:58.54",
+          "points": 88
+        },
+        "Event 4": {
+          "place": 22,
+          "time": "1:50.42",
+          "points": 38
+        },
+        "Event 5": {
+          "place": 14,
+          "time": "561 rep",
+          "points": 49
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 22,
+      "rank_label": "22",
+      "name": "Connor Duddy",
+      "country": "United States",
+      "region": "",
+      "affiliate": "Solidarity CrossFit",
+      "age": "Age 26",
+      "height_weight": "70 in | 190 lb",
+      "total_points": 244,
+      "events": {
+        "First Cut": {
+          "place": 23,
+          "time": "17:43.08",
+          "points": 56
+        },
+        "Event 2": {
+          "place": 27,
+          "time": "6:53.71",
+          "points": 48
+        },
+        "Event 3": {
+          "place": 36,
+          "time": "27:39.54",
+          "points": 30
+        },
+        "Event 4": {
+          "place": 5,
+          "time": "1:36.00",
+          "points": 88
+        },
+        "Event 5": {
+          "place": 23,
+          "time": "515 rep",
+          "points": 22
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 23,
+      "rank_label": "23",
+      "name": "Brent Fikowski",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "Kelowna CrossFit",
+      "age": "Age 28",
+      "height_weight": "74 in | 220 lb",
+      "total_points": 243,
+      "events": {
+        "First Cut": {
+          "place": 19,
+          "time": "17:10.54",
+          "points": 64
+        },
+        "Event 2": {
+          "place": 17,
+          "time": "6:37.90",
+          "points": 68
+        },
+        "Event 3": {
+          "place": 13,
+          "time": "25:35.34",
+          "points": 76
+        },
+        "Event 4": {
+          "place": 27,
+          "time": "1:57.61",
+          "points": 28
+        },
+        "Event 5": {
+          "place": 28,
+          "time": "491 rep",
+          "points": 7
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 24,
+      "rank_label": "24",
+      "name": "Sean Sweeney",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Powerstroke",
+      "age": "Age 27",
+      "height_weight": "69 in | 192 lb",
+      "total_points": 236,
+      "events": {
+        "First Cut": {
+          "place": 22,
+          "time": "17:35.43",
+          "points": 58
+        },
+        "Event 2": {
+          "place": 35,
+          "time": "7:03.37",
+          "points": 40
+        },
+        "Event 3": {
+          "place": 31,
+          "time": "27:01.94",
+          "points": 40
+        },
+        "Event 4": {
+          "place": 12,
+          "time": "1:45.28",
+          "points": 67
+        },
+        "Event 5": {
+          "place": 20,
+          "time": "529 rep",
+          "points": 31
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 25,
+      "rank_label": "25",
+      "name": "Alex Vigneault",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "CrossFit Quebec City",
+      "age": "Age 27",
+      "height_weight": "71 in | 205 lb",
+      "total_points": 233,
+      "events": {
+        "First Cut": {
+          "place": 42,
+          "time": "19:39.69",
+          "points": 33
+        },
+        "Event 2": {
+          "place": 22,
+          "time": "6:43.99",
+          "points": 58
+        },
+        "Event 3": {
+          "place": 20,
+          "time": "26:16.73",
+          "points": 62
+        },
+        "Event 4": {
+          "place": 17,
+          "time": "1:45.88",
+          "points": 52
+        },
+        "Event 5": {
+          "place": 21,
+          "time": "525 rep",
+          "points": 28
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 26,
+      "rank_label": "26",
+      "name": "Michael Smith",
+      "country": "Ireland",
+      "region": "",
+      "affiliate": "CrossFit 8020",
+      "age": "Age 27",
+      "height_weight": "183 cm | 210 lb",
+      "total_points": 224,
+      "events": {
+        "First Cut": {
+          "place": 24,
+          "time": "17:45.18",
+          "points": 54
+        },
+        "Event 2": {
+          "place": 32,
+          "time": "7:01.80",
+          "points": 43
+        },
+        "Event 3": {
+          "place": 26,
+          "time": "26:43.27",
+          "points": 50
+        },
+        "Event 4": {
+          "place": 10,
+          "time": "1:41.58",
+          "points": 73
+        },
+        "Event 5": {
+          "place": 29,
+          "time": "480 rep",
+          "points": 4
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 27,
+      "rank_label": "27",
+      "name": "Ant Haynes",
+      "country": "China",
+      "region": "",
+      "affiliate": "CrossFit CFPT",
+      "age": "Age 29",
+      "height_weight": "179 cm | 89 kg",
+      "total_points": 218,
+      "events": {
+        "First Cut": {
+          "place": 60,
+          "time": "CAP+8",
+          "points": 15
+        },
+        "Event 2": {
+          "place": 29,
+          "time": "6:59.89",
+          "points": 46
+        },
+        "Event 3": {
+          "place": 11,
+          "time": "25:18.95",
+          "points": 80
+        },
+        "Event 4": {
+          "place": 9,
+          "time": "1:41.09",
+          "points": 76
+        },
+        "Event 5": {
+          "place": 30,
+          "time": "470 rep",
+          "points": 1
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 28,
+      "rank_label": "28",
+      "name": "Ben Smith",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Krypton",
+      "age": "Age 29",
+      "height_weight": "71 in | 195 lb",
+      "total_points": 217,
+      "events": {
+        "First Cut": {
+          "place": 8,
+          "time": "16:28.29",
+          "points": 86
+        },
+        "Event 2": {
+          "place": 5,
+          "time": "6:09.82",
+          "points": 92
+        },
+        "Event 3": {
+          "place": 39,
+          "time": "27:55.44",
+          "points": 24
+        },
+        "Event 4": {
+          "place": 40,
+          "time": "2:41.30",
+          "points": 2
+        },
+        "Event 5": {
+          "place": 26,
+          "time": "504 rep",
+          "points": 13
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "rank_label": "29",
+      "name": "Jason Smith",
+      "country": "South Africa",
+      "region": "",
+      "affiliate": "CrossFit Kyalami",
+      "age": "Age 35",
+      "height_weight": "185 cm | 195 lb",
+      "total_points": 216,
+      "events": {
+        "First Cut": {
+          "place": 11,
+          "time": "16:33.65",
+          "points": 80
+        },
+        "Event 2": {
+          "place": 73,
+          "time": "CAP+2",
+          "points": 2
+        },
+        "Event 3": {
+          "place": 9,
+          "time": "25:11.14",
+          "points": 84
+        },
+        "Event 4": {
+          "place": 24,
+          "time": "1:51.75",
+          "points": 34
+        },
+        "Event 5": {
+          "place": 25,
+          "time": "509 rep",
+          "points": 16
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 30,
+      "rank_label": "30",
+      "name": "Ryan Sowder",
+      "country": "United States",
+      "region": "",
+      "affiliate": "Ft. Wright CrossFit",
+      "age": "Age 25",
+      "height_weight": "68 in | 190 lb",
+      "total_points": 208,
+      "events": {
+        "First Cut": {
+          "place": 38,
+          "time": "19:11.39",
+          "points": 37
+        },
+        "Event 2": {
+          "place": 23,
+          "time": "6:46.57",
+          "points": 56
+        },
+        "Event 3": {
+          "place": 32,
+          "time": "27:15.08",
+          "points": 38
+        },
+        "Event 4": {
+          "place": 13,
+          "time": "1:45.47",
+          "points": 64
+        },
+        "Event 5": {
+          "place": 26,
+          "time": "504 rep",
+          "points": 13
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 31,
+      "rank_label": "31",
+      "name": "Uldis Upenieks",
+      "country": "Latvia",
+      "region": "",
+      "affiliate": "CrossFit Riga",
+      "age": "Age 21",
+      "height_weight": "174 cm | 85 kg",
+      "total_points": 194,
+      "events": {
+        "First Cut": {
+          "place": 33,
+          "time": "19:01.94",
+          "points": 42
+        },
+        "Event 2": {
+          "place": 41,
+          "time": "7:12.96",
+          "points": 34
+        },
+        "Event 3": {
+          "place": 3,
+          "time": "24:36.91",
+          "points": 96
+        },
+        "Event 4": {
+          "place": 30,
+          "time": "2:00.29",
+          "points": 22
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 32,
+      "rank_label": "32",
+      "name": "George Sterner",
+      "country": "United States",
+      "region": "",
+      "affiliate": "BrewCity CrossFit",
+      "age": "Age 20",
+      "height_weight": "69 in | 185 lb",
+      "total_points": 194,
+      "events": {
+        "First Cut": {
+          "place": 21,
+          "time": "17:28.93",
+          "points": 60
+        },
+        "Event 2": {
+          "place": 15,
+          "time": "6:31.90",
+          "points": 72
+        },
+        "Event 3": {
+          "place": 28,
+          "time": "26:47.75",
+          "points": 46
+        },
+        "Event 4": {
+          "place": 33,
+          "time": "2:09.43",
+          "points": 16
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 33,
+      "rank_label": "33",
+      "name": "Jeffrey Adler",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "CrossFit Wonderland",
+      "age": "Age 25",
+      "height_weight": "69 in | 197 lb",
+      "total_points": 193,
+      "events": {
+        "First Cut": {
+          "place": 5,
+          "time": "16:17.71",
+          "points": 92
+        },
+        "Event 2": {
+          "place": 38,
+          "time": "7:07.99",
+          "points": 37
+        },
+        "Event 3": {
+          "place": 21,
+          "time": "26:20.03",
+          "points": 60
+        },
+        "Event 4": {
+          "place": 39,
+          "time": "2:38.04",
+          "points": 4
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 34,
+      "rank_label": "34",
+      "name": "Lukas Esslinger",
+      "country": "Switzerland",
+      "region": "",
+      "affiliate": "CrossFit Kreis 9",
+      "age": "Age 26",
+      "height_weight": "181 cm | 200 lb",
+      "total_points": 191,
+      "events": {
+        "First Cut": {
+          "place": 31,
+          "time": "18:20.43",
+          "points": 44
+        },
+        "Event 2": {
+          "place": 34,
+          "time": "7:02.75",
+          "points": 41
+        },
+        "Event 3": {
+          "place": 33,
+          "time": "27:17.58",
+          "points": 36
+        },
+        "Event 4": {
+          "place": 11,
+          "time": "1:44.59",
+          "points": 70
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "rank_label": "35",
+      "name": "Samuel Cournoyer",
+      "country": "Canada",
+      "region": "",
+      "affiliate": "Deka CrossFit",
+      "age": "Age 23",
+      "height_weight": "180 cm | 205 lb",
+      "total_points": 186,
+      "events": {
+        "First Cut": {
+          "place": 10,
+          "time": "16:33.26",
+          "points": 82
+        },
+        "Event 2": {
+          "place": 13,
+          "time": "6:27.40",
+          "points": 76
+        },
+        "Event 3": {
+          "place": 42,
+          "time": "28:20.85",
+          "points": 18
+        },
+        "Event 4": {
+          "place": 36,
+          "time": "2:16.17",
+          "points": 10
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "rank_label": "36",
+      "name": "Dean Linder-Leighton",
+      "country": "Australia",
+      "region": "",
+      "affiliate": "CrossFit Lionmode",
+      "age": "Age 28",
+      "height_weight": "172 cm | 87 kg",
+      "total_points": 170,
+      "events": {
+        "First Cut": {
+          "place": 55,
+          "time": "CAP+7",
+          "points": 20
+        },
+        "Event 2": {
+          "place": 14,
+          "time": "6:30.11",
+          "points": 74
+        },
+        "Event 3": {
+          "place": 29,
+          "time": "27:00.16",
+          "points": 44
+        },
+        "Event 4": {
+          "place": 25,
+          "time": "1:52.31",
+          "points": 32
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 37,
+      "rank_label": "37",
+      "name": "Jonne Koski",
+      "country": "Finland",
+      "region": "",
+      "affiliate": "CrossFit Kreis 9",
+      "age": "Age 24",
+      "height_weight": "171 cm | 190 lb",
+      "total_points": 165,
+      "events": {
+        "First Cut": {
+          "place": 30,
+          "time": "18:18.68",
+          "points": 45
+        },
+        "Event 2": {
+          "place": 3,
+          "time": "5:47.38",
+          "points": 96
+        },
+        "Event 3": {
+          "place": 43,
+          "time": "28:27.80",
+          "points": 16
+        },
+        "Event 4": {
+          "place": 37,
+          "time": "2:21.92",
+          "points": 8
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 38,
+      "rank_label": "38",
+      "name": "Eric Carmody",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Invictus",
+      "age": "Age 31",
+      "height_weight": "71 in | 210 lb",
+      "total_points": 160,
+      "events": {
+        "First Cut": {
+          "place": 49,
+          "time": "CAP+4",
+          "points": 26
+        },
+        "Event 2": {
+          "place": 26,
+          "time": "6:49.97",
+          "points": 50
+        },
+        "Event 3": {
+          "place": 22,
+          "time": "26:25.24",
+          "points": 58
+        },
+        "Event 4": {
+          "place": 28,
+          "time": "1:57.68",
+          "points": 26
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 39,
+      "rank_label": "39",
+      "name": "Jason Carroll",
+      "country": "United States",
+      "region": "",
+      "affiliate": "LumberYard CrossFit",
+      "age": "Age 30",
+      "height_weight": "70 in | 180 lb",
+      "total_points": 159,
+      "events": {
+        "First Cut": {
+          "place": 17,
+          "time": "17:04.96",
+          "points": 68
+        },
+        "Event 2": {
+          "place": 54,
+          "time": "8:03.60",
+          "points": 21
+        },
+        "Event 3": {
+          "place": 34,
+          "time": "27:18.39",
+          "points": 34
+        },
+        "Event 4": {
+          "place": 23,
+          "time": "1:50.95",
+          "points": 36
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 40,
+      "rank_label": "40",
+      "name": "Nicolay Billaudel",
+      "country": "Norway",
+      "region": "",
+      "affiliate": "CrossFit Sandvika",
+      "age": "Age 29",
+      "height_weight": "182 cm | 92 kg",
+      "total_points": 154,
+      "events": {
+        "First Cut": {
+          "place": 29,
+          "time": "18:18.03",
+          "points": 46
+        },
+        "Event 2": {
+          "place": 45,
+          "time": "7:28.43",
+          "points": 30
+        },
+        "Event 3": {
+          "place": 19,
+          "time": "26:12.58",
+          "points": 64
+        },
+        "Event 4": {
+          "place": 34,
+          "time": "2:09.51",
+          "points": 14
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 41,
+      "rank_label": "41",
+      "name": "Nick Bloch",
+      "country": "United States",
+      "region": "",
+      "affiliate": "CrossFit Fond du Lac",
+      "age": "Age 33",
+      "height_weight": "72 in | 220 lb",
+      "total_points": 116,
+      "events": {
+        "First Cut": {
+          "place": 63,
+          "time": "CAP+8",
+          "points": 12
+        },
+        "Event 2": {
+          "place": 20,
+          "time": "6:43.45",
+          "points": 62
+        },
+        "Event 3": {
+          "place": 30,
+          "time": "27:00.18",
+          "points": 42
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 42,
+      "rank_label": "42",
+      "name": "Bronislaw Olenkowicz",
+      "country": "Poland",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 30",
+      "height_weight": "182 cm | 99 kg",
+      "total_points": 112,
+      "events": {
+        "First Cut": {
+          "place": 65,
+          "time": "CAP+8",
+          "points": 10
+        },
+        "Event 2": {
+          "place": 2,
+          "time": "5:40.63",
+          "points": 98
+        },
+        "Event 3": {
+          "place": 49,
+          "time": "30:39.27",
+          "points": 4
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 43,
+      "rank_label": "43",
+      "name": "Arminas Balevicius",
+      "country": "Lithuania",
+      "region": "",
+      "affiliate": "CrossFit 82",
+      "age": "Age 26",
+      "height_weight": "176 cm | 87 kg",
+      "total_points": 108,
+      "events": {
+        "First Cut": {
+          "place": 32,
+          "time": "18:56.36",
+          "points": 43
+        },
+        "Event 2": {
+          "place": 42,
+          "time": "7:16.69",
+          "points": 33
+        },
+        "Event 3": {
+          "place": 35,
+          "time": "27:18.54",
+          "points": 32
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 44,
+      "rank_label": "44",
+      "name": "Mohamed Elomda",
+      "country": "Egypt",
+      "region": "",
+      "affiliate": "CrossFit MetaliZe",
+      "age": "Age 31",
+      "height_weight": "180 cm | 92 kg",
+      "total_points": 100,
+      "events": {
+        "First Cut": {
+          "place": 47,
+          "time": "CAP+2",
+          "points": 28
+        },
+        "Event 2": {
+          "place": 31,
+          "time": "7:00.60",
+          "points": 44
+        },
+        "Event 3": {
+          "place": 37,
+          "time": "27:41.37",
+          "points": 28
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 45,
+      "rank_label": "45",
+      "name": "Simon Mäntylä",
+      "country": "Sweden",
+      "region": "",
+      "affiliate": "CrossFit Riders",
+      "age": "Age 28",
+      "height_weight": "181 cm | 95 kg",
+      "total_points": 99,
+      "events": {
+        "First Cut": {
+          "place": 35,
+          "time": "19:05.66",
+          "points": 40
+        },
+        "Event 2": {
+          "place": 28,
+          "time": "6:56.66",
+          "points": 47
+        },
+        "Event 3": {
+          "place": 45,
+          "time": "28:37.80",
+          "points": 12
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 46,
+      "rank_label": "46",
+      "name": "John-Paul Hethcock",
+      "country": "United States",
+      "region": "",
+      "affiliate": "Shockoe Bottom CrossFit",
+      "age": "Age 26",
+      "height_weight": "70 in | 192 lb",
+      "total_points": 92,
+      "events": {
+        "First Cut": {
+          "place": 37,
+          "time": "19:09.14",
+          "points": 38
+        },
+        "Event 2": {
+          "place": 47,
+          "time": "7:40.81",
+          "points": 28
+        },
+        "Event 3": {
+          "place": 38,
+          "time": "27:41.40",
+          "points": 26
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 47,
+      "rank_label": "47",
+      "name": "Aleks Koštomaj",
+      "country": "Slovenia",
+      "region": "",
+      "affiliate": "Reebok CrossFit Ljubljana",
+      "age": "Age 26",
+      "height_weight": "180 cm | 190 lb",
+      "total_points": 90,
+      "events": {
+        "First Cut": {
+          "place": 53,
+          "time": "CAP+7",
+          "points": 22
+        },
+        "Event 2": {
+          "place": 21,
+          "time": "6:43.80",
+          "points": 60
+        },
+        "Event 3": {
+          "place": 47,
+          "time": "29:58.90",
+          "points": 8
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 0,
+      "rank_label": "DQ",
+      "name": "Gábor Török",
+      "country": "Hungary",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 28",
+      "height_weight": "173 cm | 187 lb",
+      "total_points": 86,
+      "events": {
+        "First Cut": {
+          "place": 36,
+          "time": "19:06.17",
+          "points": 39
+        },
+        "Event 2": {
+          "place": 50,
+          "time": "7:45.28",
+          "points": 25
+        },
+        "Event 3": {
+          "place": 40,
+          "time": "27:56.72",
+          "points": 22
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 48,
+      "rank_label": "48",
+      "name": "Guilherme Malheiros",
+      "country": "Brazil",
+      "region": "",
+      "affiliate": "CrossFit Al Ain",
+      "age": "Age 19",
+      "height_weight": "177 cm | 88 kg",
+      "total_points": 74,
+      "events": {
+        "First Cut": {
+          "place": 26,
+          "time": "18:06.04",
+          "points": 50
+        },
+        "Event 2": {
+          "place": 57,
+          "time": "8:11.09",
+          "points": 18
+        },
+        "Event 3": {
+          "place": 48,
+          "time": "30:29.78",
+          "points": 6
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    },
+    {
+      "rank": 49,
+      "rank_label": "49",
+      "name": "Agustin Richelme",
+      "country": "Argentina",
+      "region": "",
+      "affiliate": "",
+      "age": "Age 22",
+      "height_weight": "173 cm | 85 kg",
+      "total_points": 66,
+      "events": {
+        "First Cut": {
+          "place": 50,
+          "time": "CAP+4",
+          "points": 25
+        },
+        "Event 2": {
+          "place": 36,
+          "time": "7:04.16",
+          "points": 39
+        },
+        "Event 3": {
+          "place": 50,
+          "time": "32:14.44",
+          "points": 2
+        },
+        "Event 4": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 5": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 6": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 7": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 8": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 9": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 10": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 11": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        },
+        "Event 12": {
+          "place": 0,
+          "time": "",
+          "points": 0
+        }
+      }
+    }
+  ]
+}
