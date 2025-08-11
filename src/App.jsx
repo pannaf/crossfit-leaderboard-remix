@@ -99,10 +99,10 @@ function App() {
     return n === 'lazar đukić' || n === 'lazar dukic' || n === 'lazar djukic'
   }
 
-  // Athletes that originally have rank -1 are excluded from any re-ranking
+  // Athletes that originally have rank < 1 (including 0 and -1) are excluded from any re-ranking
   const isExcludedFromRerank = (athleteName) => {
     const original = originalAthletes.find(a => a.name === athleteName)
-    return original && original.rank === -1
+    return original && typeof original.rank === 'number' && original.rank < 1
   }
 
   // Build per-event scoring table from provided athlete results
@@ -113,6 +113,8 @@ function App() {
       map[eventName] = {}
     }
     for (const athlete of loadedData.athletes) {
+      // Skip athletes excluded from re-ranking (rank < 1)
+      if (typeof athlete.rank === 'number' && athlete.rank < 1) continue
       if (!athlete.events) continue
       for (const [eventName, eventResult] of Object.entries(athlete.events)) {
         if (!eventResult) continue
@@ -135,6 +137,7 @@ function App() {
       map[eventName] = {}
     }
     for (const athlete of athletesSource) {
+      if (typeof athlete.rank === 'number' && athlete.rank < 1) continue
       if (!athlete?.events) continue
       for (const [eventName, result] of Object.entries(athlete.events)) {
         if (!result) continue
@@ -150,18 +153,41 @@ function App() {
   const getPointsFor = (eventName, place) => {
     // 1) Use observed finish order (handles sliding scales, ties, cuts)
     const finishes = data?.event_finish_order?.[eventName]
-    if (Array.isArray(finishes) && place >= 1 && place <= finishes.length) {
-      const row = finishes[place - 1]
-      if (row && typeof row.points === 'number') return row.points
+    if (Array.isArray(finishes)) {
+      // Prefer exact matching place (not index), and ignore excluded athletes by name if available
+      const filtered = finishes.filter(r => !r?.name || !isExcludedFromRerank(r.name))
+      const rowByPlace = filtered.find(r => Number(r?.place) === Number(place))
+      if (rowByPlace && typeof rowByPlace.points === 'number' && rowByPlace.points > 0) {
+        return rowByPlace.points
+      }
     }
     // 2) Fallback: exact observed points per place built from athlete results
     const placeStr = getPlaceString(place)
     if (originalEventPoints?.[eventName]?.[placeStr] !== undefined) {
-      return originalEventPoints[eventName][placeStr]
+      const val = originalEventPoints[eventName][placeStr]
+      if (typeof val === 'number' && val > 0) return val
+    }
+    // 2b) Dynamic fallback: derive from originalAthletes on the fly
+    if (Array.isArray(originalAthletes)) {
+      const rows = originalAthletes
+        .map(a => a.events?.[eventName])
+        .filter(Boolean)
+      // Try exact place match, take max points > 0 among matches
+      const exactMatches = rows.filter(r => Number(r.place) === Number(place))
+      const maxExact = exactMatches.reduce((m, r) => (typeof r.points === 'number' ? Math.max(m, r.points) : m), 0)
+      if (maxExact > 0) return maxExact
+      // As a last resort, use the maximum points observed in the event when place=1
+      if (Number(place) === 1) {
+        const maxAny = rows.reduce((m, r) => (typeof r.points === 'number' ? Math.max(m, r.points) : m), 0)
+        if (maxAny > 0) return maxAny
+      }
     }
     // 3) Fallback: derived event map
     const byEvent = (data?.event_point_map || eventPointMap || {})
-    if (byEvent?.[eventName]?.[placeStr] !== undefined) return byEvent[eventName][placeStr]
+    if (byEvent?.[eventName]?.[placeStr] !== undefined) {
+      const val = byEvent[eventName][placeStr]
+      if (typeof val === 'number' && val > 0) return val
+    }
     // 4) Legacy fallback if available
     if (data?.point_system?.[placeStr] !== undefined) return data.point_system[placeStr]
     return 0
@@ -353,7 +379,20 @@ function App() {
     }
 
     if (isYear2024() && isLazar(selectedAthlete)) {
-      alert('In memory of Lazar Đukić, his results cannot be modified for 2024.')
+      // Soft, non-blocking notice instead of alert
+      try {
+        const toast = document.createElement('div')
+        toast.className = 'soft-toast'
+        toast.innerHTML = '<i class="fas fa-ribbon"></i> In memory of Lazar Đukić — results cannot be modified for 2024.'
+        document.body.appendChild(toast)
+        setTimeout(() => toast.classList.add('show'))
+        setTimeout(() => {
+          toast.classList.remove('show')
+          setTimeout(() => toast.remove(), 300)
+        }, 2500)
+      } catch (e) {
+        console.log('Notice: In memory of Lazar Đukić — results cannot be modified for 2024.')
+      }
       return
     }
 
@@ -367,9 +406,9 @@ function App() {
     // Update event rankings for all athletes
     const updatedAthletes = updateEventRankings(simulatedAthletes, selectedEvent, selectedAthlete, newPlace, null, true)
 
-    // Recalculate overall ranks
-    const excluded = updatedAthletes.filter(a => isExcludedFromRerank(a.name))
-    const included = updatedAthletes.filter(a => !isExcludedFromRerank(a.name))
+    // Recalculate overall ranks (exclude <=0)
+    const excluded = updatedAthletes.filter(a => isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0))
+    const included = updatedAthletes.filter(a => !(isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0)))
     const sortedAthletes = [...included].sort((a, b) => b.total_points - a.total_points)
     // Anchor Lazar at original rank for 2024
     let rankedAthletes = sortedAthletes
@@ -423,8 +462,8 @@ function App() {
     }
 
     // Recalculate overall ranks
-    const excluded = athletes.filter(a => isExcludedFromRerank(a.name))
-    let included = athletes.filter(a => !isExcludedFromRerank(a.name))
+    const excluded = athletes.filter(a => isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0))
+    let included = athletes.filter(a => !(isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0)))
     const sortedAthletes = included.sort((a, b) => b.total_points - a.total_points)
     // Anchor Lazar at original rank for 2024
     let finalAthletes = sortedAthletes
@@ -538,8 +577,8 @@ function App() {
     })
 
     // Recalculate overall ranks
-    const excluded = updatedAthletes.filter(a => isExcludedFromRerank(a.name))
-    const included = updatedAthletes.filter(a => !isExcludedFromRerank(a.name))
+    const excluded = updatedAthletes.filter(a => isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0))
+    const included = updatedAthletes.filter(a => !(isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0)))
     const sortedAthletes = included.sort((a, b) => b.total_points - a.total_points)
     const finalIncluded = sortedAthletes.map((athlete, index) => ({
       ...athlete,
@@ -622,7 +661,7 @@ function App() {
     }
   }
 
-  if (loading) {
+  if (loading && !data) {
     console.log('Rendering loading state...')
     return (
       <div className="loading-container">

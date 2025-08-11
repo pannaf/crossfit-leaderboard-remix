@@ -143,6 +143,12 @@ const Leaderboard = ({
         let originalAthlete = originalAthletes.find(a => a.name === athlete.name)
         if (!originalAthlete) return ''
 
+        // Do not show rank deltas for non-ranked athletes (rank <= 0)
+        if ((typeof athlete.rank === 'number' && athlete.rank <= 0) ||
+            (typeof originalAthlete.rank === 'number' && originalAthlete.rank <= 0)) {
+            return ''
+        }
+
         // If upToEvent is set, we need to compare with the filtered original data
         if (upToEvent) {
             // Calculate what the original rank would be with upToEvent filtering
@@ -191,9 +197,9 @@ const Leaderboard = ({
             let aValue, bValue
 
             if (sortConfig.key === 'rank') {
-                // Always place rank 0 (DQ/NA) at the bottom regardless of sort direction
-                const aIsNA = a.rank === 0
-                const bIsNA = b.rank === 0
+                // Always place non-ranked (<= 0) at the bottom regardless of sort direction
+                const aIsNA = (typeof a.rank === 'number' && a.rank <= 0)
+                const bIsNA = (typeof b.rank === 'number' && b.rank <= 0)
                 if (aIsNA && !bIsNA) return 1
                 if (!aIsNA && bIsNA) return -1
                 aValue = a.rank
@@ -579,29 +585,52 @@ const Leaderboard = ({
                     )}
                 </div>
                 <div className="header-stats">
-                    <div className="stat-card">
-                        <h3>Original Rank</h3>
-                        <div className="stat-value">{stats.originalRank}</div>
-                    </div>
-                    <div className="stat-card">
-                        <h3>New Rank</h3>
-                        <div className={`stat-value ${stats.newRank < stats.originalRank ? 'positive' :
-                            stats.newRank > stats.originalRank ? 'negative' :
-                                'neutral'
-                            }`}>
-                            {stats.newRank}
-                        </div>
-                    </div>
-                    <div className="stat-card">
-                        <h3>Points Change</h3>
-                        <div className={`stat-value ${stats.isPositive ? 'positive' : 'negative'}`}>
-                            {stats.pointsChange}
-                        </div>
-                    </div>
-                    <div className="stat-card">
-                        <h3>Total Points</h3>
-                        <div className="stat-value">{stats.totalPoints}</div>
-                    </div>
+                    {isYear2024 && isLazar(selectedAthlete) ? (
+                        <>
+                            <div className="stat-card">
+                                <h3>Original Rank</h3>
+                                <div className="stat-value" aria-label="In memory"><i className="fas fa-ribbon"></i></div>
+                            </div>
+                            <div className="stat-card">
+                                <h3>New Rank</h3>
+                                <div className="stat-value" aria-label="In memory"><i className="fas fa-ribbon"></i></div>
+                            </div>
+                            <div className="stat-card">
+                                <h3>Points Change</h3>
+                                <div className="stat-value" aria-label="In memory"><i className="fas fa-ribbon"></i></div>
+                            </div>
+                            <div className="stat-card">
+                                <h3>Total Points</h3>
+                                <div className="stat-value" aria-label="In memory"><i className="fas fa-ribbon"></i></div>
+                            </div>
+                        </>
+                    ) : (
+                        <>
+                            <div className="stat-card">
+                                <h3>Original Rank</h3>
+                                <div className="stat-value">{stats.originalRank}</div>
+                            </div>
+                            <div className="stat-card">
+                                <h3>New Rank</h3>
+                                <div className={`stat-value ${stats.newRank < stats.originalRank ? 'positive' :
+                                    stats.newRank > stats.originalRank ? 'negative' :
+                                        'neutral'
+                                    }`}>
+                                    {stats.newRank}
+                                </div>
+                            </div>
+                            <div className="stat-card">
+                                <h3>Points Change</h3>
+                                <div className={`stat-value ${stats.isPositive ? 'positive' : 'negative'}`}>
+                                    {stats.pointsChange}
+                                </div>
+                            </div>
+                            <div className="stat-card">
+                                <h3>Total Points</h3>
+                                <div className="stat-value">{stats.totalPoints}</div>
+                            </div>
+                        </>
+                    )}
                 </div>
                 <div className="view-toggle">
                     <button
@@ -640,7 +669,7 @@ const Leaderboard = ({
                                         {isYear2024 && isLazar(athlete.name) ? (
                                             <i className="fas fa-ribbon" aria-hidden="true" title="In memory of Lazar Đukić"></i>
                                         ) : (
-                                            athlete.rank === 0 ? (
+                                            (typeof athlete.rank === 'number' && athlete.rank <= 0) ? (
                                                 athlete.rank_label ? athlete.rank_label : <i className="fas fa-ribbon" aria-hidden="true" title="N/A"></i>
                                             ) : (
                                                 athlete.rank

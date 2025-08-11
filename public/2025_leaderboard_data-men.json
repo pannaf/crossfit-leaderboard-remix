@@ -2,19 +2,19 @@
   "year": 2025,
   "gender": "men",
   "events": [
-    "Run/Row/Run",
-    "Event 2",
-    "Event 3",
-    "Event 4",
-    "Event 5",
-    "Event 6",
-    "Event 7",
-    "Event 8",
-    "Event 9",
-    "Event 10"
+    "Run Row Run",
+    "All Crossed Up",
+    "Climbing Couplet",
+    "Albany Grip Trip",
+    "1RM Back Squat",
+    "Throttle Up",
+    "Hammer Down",
+    "Going Dark",
+    "Running Isabel",
+    "Atlas"
   ],
   "event_point_map": {
-    "Run/Row/Run": {
+    "Run Row Run": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -46,7 +46,7 @@
       "29": 3,
       "30": 0
     },
-    "Event 2": {
+    "All Crossed Up": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -78,7 +78,7 @@
       "29": 3,
       "30": 0
     },
-    "Event 3": {
+    "Climbing Couplet": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -110,7 +110,7 @@
       "29": 3,
       "30": 0
     },
-    "Event 4": {
+    "Albany Grip Trip": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -142,7 +142,7 @@
       "29": 3,
       "30": 0
     },
-    "Event 5": {
+    "1RM Back Squat": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -171,7 +171,7 @@
       "29": 3,
       "30": 0
     },
-    "Event 6": {
+    "Throttle Up": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -203,7 +203,7 @@
       "29": 3,
       "30": 0
     },
-    "Event 7": {
+    "Hammer Down": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -235,7 +235,7 @@
       "29": 3,
       "30": 0
     },
-    "Event 8": {
+    "Going Dark": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -267,7 +267,7 @@
       "29": 3,
       "30": 0
     },
-    "Event 9": {
+    "Running Isabel": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -298,7 +298,7 @@
       "29": 3,
       "30": 0
     },
-    "Event 10": {
+    "Atlas": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -332,19 +332,19 @@
     }
   },
   "event_field_size": {
-    "Run/Row/Run": 30,
-    "Event 2": 30,
-    "Event 3": 30,
-    "Event 4": 30,
-    "Event 5": 30,
-    "Event 6": 30,
-    "Event 7": 30,
-    "Event 8": 30,
-    "Event 9": 30,
-    "Event 10": 30
+    "Run Row Run": 30,
+    "All Crossed Up": 30,
+    "Climbing Couplet": 30,
+    "Albany Grip Trip": 30,
+    "1RM Back Squat": 30,
+    "Throttle Up": 30,
+    "Hammer Down": 30,
+    "Going Dark": 30,
+    "Running Isabel": 30,
+    "Atlas": 30
   },
   "event_place_points": {
-    "Run/Row/Run": [
+    "Run Row Run": [
       100,
       96,
       92,
@@ -376,7 +376,7 @@
       3,
       0
     ],
-    "Event 2": [
+    "All Crossed Up": [
       100,
       96,
       92,
@@ -408,7 +408,7 @@
       3,
       0
     ],
-    "Event 3": [
+    "Climbing Couplet": [
       100,
       96,
       92,
@@ -440,7 +440,7 @@
       3,
       0
     ],
-    "Event 4": [
+    "Albany Grip Trip": [
       100,
       96,
       92,
@@ -472,7 +472,7 @@
       3,
       0
     ],
-    "Event 5": [
+    "1RM Back Squat": [
       100,
       96,
       92,
@@ -504,7 +504,7 @@
       3,
       0
     ],
-    "Event 6": [
+    "Throttle Up": [
       100,
       96,
       92,
@@ -536,7 +536,7 @@
       3,
       0
     ],
-    "Event 7": [
+    "Hammer Down": [
       100,
       96,
       92,
@@ -568,7 +568,7 @@
       3,
       0
     ],
-    "Event 8": [
+    "Going Dark": [
       100,
       96,
       92,
@@ -600,7 +600,7 @@
       3,
       0
     ],
-    "Event 9": [
+    "Running Isabel": [
       100,
       96,
       92,
@@ -632,7 +632,7 @@
       3,
       0
     ],
-    "Event 10": [
+    "Atlas": [
       100,
       96,
       92,
@@ -666,19 +666,19 @@
     ]
   },
   "event_ordinals": {
-    "Run/Row/Run": 1,
-    "Event 2": 2,
-    "Event 3": 3,
-    "Event 4": 4,
-    "Event 5": 5,
-    "Event 6": 6,
-    "Event 7": 7,
-    "Event 8": 8,
-    "Event 9": 9,
-    "Event 10": 10
+    "Run Row Run": 1,
+    "All Crossed Up": 2,
+    "Climbing Couplet": 3,
+    "Albany Grip Trip": 4,
+    "1RM Back Squat": 5,
+    "Throttle Up": 6,
+    "Hammer Down": 7,
+    "Going Dark": 8,
+    "Running Isabel": 9,
+    "Atlas": 10
   },
   "event_finish_order": {
-    "Run/Row/Run": [
+    "Run Row Run": [
       {
         "name": "Jeffrey Adler",
         "place": 1,
@@ -860,7 +860,7 @@
         "time": "1:03:13.00"
       }
     ],
-    "Event 2": [
+    "All Crossed Up": [
       {
         "name": "Ricky Garard",
         "place": 1,
@@ -1042,7 +1042,7 @@
         "time": "CAP+18"
       }
     ],
-    "Event 3": [
+    "Climbing Couplet": [
       {
         "name": "Jayson Hopper",
         "place": 1,
@@ -1224,7 +1224,7 @@
         "time": "CAP+11"
       }
     ],
-    "Event 4": [
+    "Albany Grip Trip": [
       {
         "name": "Jay Crouch",
         "place": 1,
@@ -1406,7 +1406,7 @@
         "time": "CAP+171"
       }
     ],
-    "Event 5": [
+    "1RM Back Squat": [
       {
         "name": "Colten Mertens",
         "place": 1,
@@ -1588,7 +1588,7 @@
         "time": "415 lb"
       }
     ],
-    "Event 6": [
+    "Throttle Up": [
       {
         "name": "James Sprague",
         "place": 1,
@@ -1770,7 +1770,7 @@
         "time": "03:52.82"
       }
     ],
-    "Event 7": [
+    "Hammer Down": [
       {
         "name": "Ricky Garard",
         "place": 1,
@@ -1952,7 +1952,7 @@
         "time": "06:39.36"
       }
     ],
-    "Event 8": [
+    "Going Dark": [
       {
         "name": "Austin Hatfield",
         "place": 1,
@@ -2134,7 +2134,7 @@
         "time": "CAP+17"
       }
     ],
-    "Event 9": [
+    "Running Isabel": [
       {
         "name": "Austin Hatfield",
         "place": 1,
@@ -2316,7 +2316,7 @@
         "time": "03:31.26"
       }
     ],
-    "Event 10": [
+    "Atlas": [
       {
         "name": "Justin Medeiros",
         "place": 1,
@@ -2511,52 +2511,52 @@
       "height_weight": "73 in | 220 lb",
       "total_points": 787,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 8,
           "time": "48:54.00",
           "points": 72
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 4,
           "time": "06:33.43",
           "points": 88
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 1,
           "time": "05:34.90",
           "points": 100
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 4,
           "time": "17:22.91",
           "points": 88
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 6,
           "time": "500 lb",
           "points": 80
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 17,
           "time": "03:24.78",
           "points": 39
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 8,
           "time": "04:42.05",
           "points": 72
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 2,
           "time": "08:26.17",
           "points": 96
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 11,
           "time": "02:50.72",
           "points": 60
         },
-        "Event 10": {
+        "Atlas": {
           "place": 3,
           "time": "07:57.48",
           "points": 92
@@ -2574,52 +2574,52 @@
       "height_weight": "179 cm | 205 lb",
       "total_points": 773,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 3,
           "time": "46:45.00",
           "points": 92
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 1,
           "time": "06:06.46",
           "points": 100
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 14,
           "time": "07:20.67",
           "points": 48
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 8,
           "time": "18:03.94",
           "points": 72
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 23,
           "time": "455 lb",
           "points": 21
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 2,
           "time": "03:14.21",
           "points": 96
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 1,
           "time": "04:17.54",
           "points": 100
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 4,
           "time": "08:33.19",
           "points": 88
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 8,
           "time": "02:48.11",
           "points": 72
         },
-        "Event 10": {
+        "Atlas": {
           "place": 5,
           "time": "08:14.05",
           "points": 84
@@ -2637,52 +2637,52 @@
       "height_weight": "74 in | 210 lb",
       "total_points": 772,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 7,
           "time": "48:24.00",
           "points": 76
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 14,
           "time": "07:11.79",
           "points": 48
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 8,
           "time": "06:11.92",
           "points": 72
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 3,
           "time": "17:01.62",
           "points": 92
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 18,
           "time": "465 lb",
           "points": 36
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 1,
           "time": "03:10.72",
           "points": 100
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 3,
           "time": "04:38.85",
           "points": 92
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 7,
           "time": "09:00.22",
           "points": 76
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 5,
           "time": "02:42.78",
           "points": 84
         },
-        "Event 10": {
+        "Atlas": {
           "place": 2,
           "time": "07:53.90",
           "points": 96
@@ -2700,52 +2700,52 @@
       "height_weight": "72 in | 215 lb",
       "total_points": 757,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 15,
           "time": "51:15.00",
           "points": 45
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 6,
           "time": "06:45.85",
           "points": 80
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 11,
           "time": "07:14.57",
           "points": 60
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 6,
           "time": "17:41.29",
           "points": 80
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 8,
           "time": "495 lb",
           "points": 72
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 4,
           "time": "03:17.56",
           "points": 88
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 7,
           "time": "04:41.68",
           "points": 76
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 5,
           "time": "08:36.50",
           "points": 84
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 3,
           "time": "02:39.98",
           "points": 92
         },
-        "Event 10": {
+        "Atlas": {
           "place": 6,
           "time": "08:21.31",
           "points": 80
@@ -2763,52 +2763,52 @@
       "height_weight": "67 in | 195 lb",
       "total_points": 746,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 4,
           "time": "47:41.00",
           "points": 88
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 9,
           "time": "06:49.48",
           "points": 68
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 28,
           "time": "CAP+6",
           "points": 6
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 5,
           "time": "17:27.08",
           "points": 84
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 3,
           "time": "515 lb",
           "points": 92
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 5,
           "time": "03:17.81",
           "points": 84
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 11,
           "time": "04:45.81",
           "points": 60
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 1,
           "time": "08:16.43",
           "points": 100
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 1,
           "time": "02:35.00",
           "points": 100
         },
-        "Event 10": {
+        "Atlas": {
           "place": 10,
           "time": "09:07.75",
           "points": 64
@@ -2826,52 +2826,52 @@
       "height_weight": "175 cm | 88 kg",
       "total_points": 738,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 5,
           "time": "47:50.00",
           "points": 84
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 3,
           "time": "06:15.59",
           "points": 92
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 5,
           "time": "05:53.23",
           "points": 84
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 1,
           "time": "16:28.57",
           "points": 100
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 14,
           "time": "485 lb",
           "points": 48
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 16,
           "time": "03:24.32",
           "points": 42
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 12,
           "time": "04:49.66",
           "points": 56
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 6,
           "time": "08:38.88",
           "points": 80
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 7,
           "time": "02:44.44",
           "points": 76
         },
-        "Event 10": {
+        "Atlas": {
           "place": 7,
           "time": "08:27.94",
           "points": 76
@@ -2889,52 +2889,52 @@
       "height_weight": "69 in | 195 lb",
       "total_points": 685,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 12,
           "time": "50:05.00",
           "points": 56
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 2,
           "time": "06:06.81",
           "points": 96
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 4,
           "time": "05:41.58",
           "points": 88
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 9,
           "time": "18:08.40",
           "points": 68
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 5,
           "time": "505 lb",
           "points": 84
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 13,
           "time": "03:23.16",
           "points": 52
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 10,
           "time": "04:45.51",
           "points": 64
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 23,
           "time": "11:28.96",
           "points": 21
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 12,
           "time": "02:53.26",
           "points": 56
         },
-        "Event 10": {
+        "Atlas": {
           "place": 1,
           "time": "07:53.42",
           "points": 100
@@ -2952,52 +2952,52 @@
       "height_weight": "69 in | 197 lb",
       "total_points": 675,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 1,
           "time": "46:16.00",
           "points": 100
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 11,
           "time": "06:58.32",
           "points": 60
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 6,
           "time": "05:57.38",
           "points": 80
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 7,
           "time": "17:42.92",
           "points": 76
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 17,
           "time": "470 lb",
           "points": 39
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 9,
           "time": "03:19.20",
           "points": 68
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 14,
           "time": "04:58.32",
           "points": 48
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 13,
           "time": "09:46.70",
           "points": 52
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 6,
           "time": "02:43.76",
           "points": 80
         },
-        "Event 10": {
+        "Atlas": {
           "place": 8,
           "time": "08:38.42",
           "points": 72
@@ -3015,52 +3015,52 @@
       "height_weight": "182 cm | 103 kg",
       "total_points": 660,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 2,
           "time": "46:26.00",
           "points": 96
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 10,
           "time": "06:54.37",
           "points": 64
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 2,
           "time": "05:38.67",
           "points": 96
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 15,
           "time": "18:42.22",
           "points": 45
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 10,
           "time": "485 lb",
           "points": 64
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 15,
           "time": "03:23.74",
           "points": 45
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 4,
           "time": "04:39.20",
           "points": 88
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 9,
           "time": "09:23.00",
           "points": 68
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 28,
           "time": "03:14.09",
           "points": 6
         },
-        "Event 10": {
+        "Atlas": {
           "place": 4,
           "time": "08:09.43",
           "points": 88
@@ -3078,52 +3078,52 @@
       "height_weight": "70 in | 205 lb",
       "total_points": 565,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 20,
           "time": "51:59.00",
           "points": 30
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 8,
           "time": "06:47.43",
           "points": 72
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 9,
           "time": "06:38.05",
           "points": 68
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 10,
           "time": "18:11.84",
           "points": 64
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 21,
           "time": "460 lb",
           "points": 27
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 14,
           "time": "03:23.65",
           "points": 48
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 26,
           "time": "05:26.50",
           "points": 12
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 3,
           "time": "08:27.34",
           "points": 92
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 2,
           "time": "02:36.02",
           "points": 96
         },
-        "Event 10": {
+        "Atlas": {
           "place": 12,
           "time": "09:16.42",
           "points": 56
@@ -3141,52 +3141,52 @@
       "height_weight": "173 cm | 90 kg",
       "total_points": 530,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 10,
           "time": "49:36.00",
           "points": 64
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 5,
           "time": "06:44.56",
           "points": 84
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 3,
           "time": "05:41.48",
           "points": 92
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 12,
           "time": "18:23.90",
           "points": 56
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 12,
           "time": "485 lb",
           "points": 56
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 19,
           "time": "03:28.67",
           "points": 33
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 18,
           "time": "05:10.21",
           "points": 36
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 18,
           "time": "10:38.29",
           "points": 36
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 23,
           "time": "03:04.53",
           "points": 21
         },
-        "Event 10": {
+        "Atlas": {
           "place": 13,
           "time": "09:31.23",
           "points": 52
@@ -3204,52 +3204,52 @@
       "height_weight": "64 in | 190 lb",
       "total_points": 509,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 26,
           "time": "53:11.00",
           "points": 12
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 20,
           "time": "07:47.63",
           "points": 30
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 10,
           "time": "06:52.11",
           "points": 64
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 19,
           "time": "19:12.13",
           "points": 33
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 1,
           "time": "570 lb",
           "points": 100
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 11,
           "time": "03:20.17",
           "points": 60
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 2,
           "time": "04:27.63",
           "points": 96
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 17,
           "time": "10:03.86",
           "points": 39
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 14,
           "time": "02:55.23",
           "points": 48
         },
-        "Event 10": {
+        "Atlas": {
           "place": 21,
           "time": "09:54.31",
           "points": 27
@@ -3267,52 +3267,52 @@
       "height_weight": "68 in | 198 lb",
       "total_points": 475,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 9,
           "time": "49:06.00",
           "points": 68
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 17,
           "time": "07:22.80",
           "points": 39
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 16,
           "time": "07:39.73",
           "points": 42
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 17,
           "time": "18:45.76",
           "points": 39
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 26,
           "time": "450 lb",
           "points": 12
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 25,
           "time": "03:42.59",
           "points": 15
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 5,
           "time": "04:39.74",
           "points": 84
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 12,
           "time": "09:45.83",
           "points": 56
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 13,
           "time": "02:54.54",
           "points": 52
         },
-        "Event 10": {
+        "Atlas": {
           "place": 9,
           "time": "08:47.22",
           "points": 68
@@ -3330,52 +3330,52 @@
       "height_weight": "184 cm | 97 kg",
       "total_points": 449,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 6,
           "time": "48:01.00",
           "points": 80
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 16,
           "time": "07:22.60",
           "points": 42
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 19,
           "time": "08:55.12",
           "points": 33
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 2,
           "time": "16:32.62",
           "points": 96
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 29,
           "time": "415 lb",
           "points": 3
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 12,
           "time": "03:22.49",
           "points": 56
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 25,
           "time": "05:22.67",
           "points": 15
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 26,
           "time": "13:01.32",
           "points": 12
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 10,
           "time": "02:49.72",
           "points": 64
         },
-        "Event 10": {
+        "Atlas": {
           "place": 14,
           "time": "09:33.94",
           "points": 48
@@ -3393,52 +3393,52 @@
       "height_weight": "69 in | 185 lb",
       "total_points": 448,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 11,
           "time": "49:49.00",
           "points": 60
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 23,
           "time": "08:13.18",
           "points": 21
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 13,
           "time": "07:20.48",
           "points": 52
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 13,
           "time": "18:33.17",
           "points": 52
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 19,
           "time": "460 lb",
           "points": 33
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 20,
           "time": "03:28.98",
           "points": 30
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 6,
           "time": "04:39.91",
           "points": 80
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 16,
           "time": "09:59.00",
           "points": 42
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 16,
           "time": "02:56.11",
           "points": 42
         },
-        "Event 10": {
+        "Atlas": {
           "place": 18,
           "time": "09:46.46",
           "points": 36
@@ -3456,52 +3456,52 @@
       "height_weight": "185 cm | 98 kg",
       "total_points": 437,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 21,
           "time": "52:11.00",
           "points": 27
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 13,
           "time": "07:07.06",
           "points": 52
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 12,
           "time": "07:17.75",
           "points": 56
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 14,
           "time": "18:34.82",
           "points": 48
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 22,
           "time": "455 lb",
           "points": 24
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 3,
           "time": "03:17.41",
           "points": 92
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 20,
           "time": "05:14.68",
           "points": 30
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 14,
           "time": "09:51.80",
           "points": 48
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 24,
           "time": "03:05.74",
           "points": 18
         },
-        "Event 10": {
+        "Atlas": {
           "place": 16,
           "time": "09:43.18",
           "points": 42
@@ -3519,52 +3519,52 @@
       "height_weight": "173 cm | 83 kg",
       "total_points": 412,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 13,
           "time": "50:29.00",
           "points": 52
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 7,
           "time": "06:45.95",
           "points": 76
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 27,
           "time": "CAP+3",
           "points": 9
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 21,
           "time": "20:04.22",
           "points": 27
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 27,
           "time": "445 lb",
           "points": 9
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 6,
           "time": "03:18.23",
           "points": 80
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 15,
           "time": "05:01.42",
           "points": 45
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 15,
           "time": "09:56.50",
           "points": 45
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 18,
           "time": "02:57.60",
           "points": 36
         },
-        "Event 10": {
+        "Atlas": {
           "place": 19,
           "time": "09:47.05",
           "points": 33
@@ -3582,52 +3582,52 @@
       "height_weight": "69 in | 205 lb",
       "total_points": 409,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 24,
           "time": "52:59.00",
           "points": 18
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 21,
           "time": "07:56.15",
           "points": 27
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 7,
           "time": "06:09.10",
           "points": 76
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 20,
           "time": "19:51.13",
           "points": 30
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 3,
           "time": "515 lb",
           "points": 92
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 22,
           "time": "03:37.15",
           "points": 24
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 24,
           "time": "05:21.41",
           "points": 18
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 21,
           "time": "11:23.64",
           "points": 27
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 4,
           "time": "02:42.30",
           "points": 88
         },
-        "Event 10": {
+        "Atlas": {
           "place": 27,
           "time": "CAP+7",
           "points": 9
@@ -3645,52 +3645,52 @@
       "height_weight": "179 cm | 95 kg",
       "total_points": 398,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 25,
           "time": "53:02.00",
           "points": 15
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 30,
           "time": "CAP+18",
           "points": 0
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 26,
           "time": "09:49.31",
           "points": 12
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 24,
           "time": "20:51.34",
           "points": 18
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 14,
           "time": "485 lb",
           "points": 48
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 8,
           "time": "03:18.98",
           "points": 72
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 9,
           "time": "04:43.70",
           "points": 68
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 11,
           "time": "09:39.43",
           "points": 60
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 15,
           "time": "02:55.68",
           "points": 45
         },
-        "Event 10": {
+        "Atlas": {
           "place": 11,
           "time": "09:09.70",
           "points": 60
@@ -3708,52 +3708,52 @@
       "height_weight": "69 in | 200 lb",
       "total_points": 389,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 18,
           "time": "51:34.00",
           "points": 36
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 18,
           "time": "07:38.60",
           "points": 36
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 22,
           "time": "09:33.43",
           "points": 24
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 11,
           "time": "18:18.86",
           "points": 60
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 2,
           "time": "555 lb",
           "points": 96
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 28,
           "time": "03:51.38",
           "points": 6
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 28,
           "time": "05:55.60",
           "points": 6
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 24,
           "time": "11:54.00",
           "points": 18
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 9,
           "time": "02:48.66",
           "points": 68
         },
-        "Event 10": {
+        "Atlas": {
           "place": 17,
           "time": "09:45.36",
           "points": 39
@@ -3771,52 +3771,52 @@
       "height_weight": "172 cm | 190 lb",
       "total_points": 350,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 27,
           "time": "53:25.00",
           "points": 9
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 19,
           "time": "07:46.93",
           "points": 33
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 18,
           "time": "08:27.09",
           "points": 36
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 28,
           "time": "CAP+2",
           "points": 6
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 25,
           "time": "450 lb",
           "points": 15
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 10,
           "time": "03:19.40",
           "points": 64
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 17,
           "time": "05:05.29",
           "points": 39
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 10,
           "time": "09:24.55",
           "points": 64
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 17,
           "time": "02:56.83",
           "points": 39
         },
-        "Event 10": {
+        "Atlas": {
           "place": 15,
           "time": "09:37.90",
           "points": 45
@@ -3834,52 +3834,52 @@
       "height_weight": "178 cm | 88 kg",
       "total_points": 327,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 17,
           "time": "51:29.00",
           "points": 39
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 15,
           "time": "07:13.82",
           "points": 45
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 15,
           "time": "07:22.12",
           "points": 45
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 18,
           "time": "19:02.83",
           "points": 36
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 30,
           "time": "415 lb",
           "points": 0
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 18,
           "time": "03:25.16",
           "points": 36
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 22,
           "time": "05:18.37",
           "points": 24
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 8,
           "time": "09:22.79",
           "points": 72
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 30,
           "time": "03:31.26",
           "points": 0
         },
-        "Event 10": {
+        "Atlas": {
           "place": 20,
           "time": "09:47.55",
           "points": 30
@@ -3897,52 +3897,52 @@
       "height_weight": "70 in | 195 lb",
       "total_points": 272,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 19,
           "time": "51:47.00",
           "points": 33
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 27,
           "time": "08:41.29",
           "points": 9
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 21,
           "time": "09:14.28",
           "points": 27
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 23,
           "time": "20:31.04",
           "points": 21
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 9,
           "time": "490 lb",
           "points": 68
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 26,
           "time": "03:46.51",
           "points": 12
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 19,
           "time": "05:13.25",
           "points": 33
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 22,
           "time": "11:25.43",
           "points": 24
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 20,
           "time": "03:00.11",
           "points": 30
         },
-        "Event 10": {
+        "Atlas": {
           "place": 25,
           "time": "CAP+4",
           "points": 15
@@ -3960,52 +3960,52 @@
       "height_weight": "182 cm | 99 kg",
       "total_points": 267,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 30,
           "time": "1:03:13.00",
           "points": 0
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 12,
           "time": "06:59.25",
           "points": 56
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 30,
           "time": "CAP+11",
           "points": 0
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 25,
           "time": "21:09.67",
           "points": 15
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 7,
           "time": "500 lb",
           "points": 76
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 21,
           "time": "03:36.73",
           "points": 27
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 23,
           "time": "05:18.87",
           "points": 21
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 19,
           "time": "10:40.49",
           "points": 33
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 21,
           "time": "03:01.98",
           "points": 27
         },
-        "Event 10": {
+        "Atlas": {
           "place": 26,
           "time": "CAP+5",
           "points": 12
@@ -4023,52 +4023,52 @@
       "height_weight": "",
       "total_points": 265,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 14,
           "time": "50:42.00",
           "points": 48
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 22,
           "time": "08:10.31",
           "points": 24
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 25,
           "time": "09:44.58",
           "points": 15
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 26,
           "time": "21:33.36",
           "points": 12
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 20,
           "time": "460 lb",
           "points": 30
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 7,
           "time": "03:18.35",
           "points": 76
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 30,
           "time": "06:39.36",
           "points": 0
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 27,
           "time": "13:04.00",
           "points": 9
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 19,
           "time": "02:58.72",
           "points": 33
         },
-        "Event 10": {
+        "Atlas": {
           "place": 24,
           "time": "CAP+2",
           "points": 18
@@ -4086,52 +4086,52 @@
       "height_weight": "71 in | 195 lb",
       "total_points": 249,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 22,
           "time": "52:33.00",
           "points": 24
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 26,
           "time": "08:34.39",
           "points": 12
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 23,
           "time": "09:35.84",
           "points": 21
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 16,
           "time": "18:42.35",
           "points": 42
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 11,
           "time": "485 lb",
           "points": 60
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 23,
           "time": "03:40.19",
           "points": 21
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 16,
           "time": "05:01.47",
           "points": 42
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 25,
           "time": "12:07.11",
           "points": 15
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 27,
           "time": "03:08.89",
           "points": 9
         },
-        "Event 10": {
+        "Atlas": {
           "place": 29,
           "time": "CAP+10",
           "points": 3
@@ -4149,52 +4149,52 @@
       "height_weight": "181 cm | 205 lb",
       "total_points": 185,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 23,
           "time": "52:46.00",
           "points": 21
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 28,
           "time": "08:59.37",
           "points": 6
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 20,
           "time": "09:07.32",
           "points": 30
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 29,
           "time": "CAP+2",
           "points": 3
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 12,
           "time": "485 lb",
           "points": 56
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 27,
           "time": "03:47.10",
           "points": 9
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 29,
           "time": "06:11.73",
           "points": 3
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 20,
           "time": "11:09.51",
           "points": 30
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 21,
           "time": "03:01.98",
           "points": 27
         },
-        "Event 10": {
+        "Atlas": {
           "place": 30,
           "time": "CAP+13",
           "points": 0
@@ -4212,52 +4212,52 @@
       "height_weight": "175 cm | 83 kg",
       "total_points": 162,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 28,
           "time": "54:12.00",
           "points": 6
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 24,
           "time": "08:26.37",
           "points": 18
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 17,
           "time": "07:39.78",
           "points": 39
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 27,
           "time": "21:48.13",
           "points": 9
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 24,
           "time": "450 lb",
           "points": 18
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 24,
           "time": "03:41.17",
           "points": 18
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 21,
           "time": "05:17.80",
           "points": 27
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 30,
           "time": "CAP+17",
           "points": 0
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 29,
           "time": "03:19.36",
           "points": 3
         },
-        "Event 10": {
+        "Atlas": {
           "place": 22,
           "time": "CAP+1",
           "points": 24
@@ -4275,52 +4275,52 @@
       "height_weight": "178 cm | 92 kg",
       "total_points": 145,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 29,
           "time": "56:38.00",
           "points": 3
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 25,
           "time": "08:29.11",
           "points": 15
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 29,
           "time": "CAP+8",
           "points": 3
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 30,
           "time": "CAP+171",
           "points": 0
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 16,
           "time": "480 lb",
           "points": 42
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 29,
           "time": "03:51.83",
           "points": 3
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 13,
           "time": "04:54.57",
           "points": 52
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 28,
           "time": "13:46.45",
           "points": 6
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 25,
           "time": "03:05.99",
           "points": 15
         },
-        "Event 10": {
+        "Atlas": {
           "place": 28,
           "time": "CAP+10",
           "points": 6
@@ -4338,52 +4338,52 @@
       "height_weight": "183 cm | 91 kg",
       "total_points": 138,
       "events": {
-        "Run/Row/Run": {
+        "Run Row Run": {
           "place": 16,
           "time": "51:24.00",
           "points": 42
         },
-        "Event 2": {
+        "All Crossed Up": {
           "place": 29,
           "time": "09:10.77",
           "points": 3
         },
-        "Event 3": {
+        "Climbing Couplet": {
           "place": 24,
           "time": "09:37.27",
           "points": 18
         },
-        "Event 4": {
+        "Albany Grip Trip": {
           "place": 22,
           "time": "20:25.98",
           "points": 24
         },
-        "Event 5": {
+        "1RM Back Squat": {
           "place": 28,
           "time": "440 lb",
           "points": 6
         },
-        "Event 6": {
+        "Throttle Up": {
           "place": 30,
           "time": "03:52.82",
           "points": 0
         },
-        "Event 7": {
+        "Hammer Down": {
           "place": 27,
           "time": "05:55.57",
           "points": 9
         },
-        "Event 8": {
+        "Going Dark": {
           "place": 29,
           "time": "14:08.64",
           "points": 3
         },
-        "Event 9": {
+        "Running Isabel": {
           "place": 26,
           "time": "03:08.39",
           "points": 12
         },
-        "Event 10": {
+        "Atlas": {
           "place": 23,
           "time": "CAP+2",
           "points": 21
