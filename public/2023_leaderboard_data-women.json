@@ -2,20 +2,62 @@
   "year": 2023,
   "gender": "women",
   "events": [
+    "Ride",
     "Pig Chipper",
-    "Event 2",
-    "Event 3",
-    "Event 4",
-    "Event 5",
-    "Event 6",
-    "Event 7",
-    "Event 8",
-    "Event 9",
-    "Event 10",
-    "Event 11",
-    "Event 12"
+    "Inverted Medley",
+    "The Alpaca Redux",
+    "Ski-Bag",
+    "Helena",
+    "Cross-Country 5K",
+    "Intervals",
+    "Olympic Total",
+    "Muscle-up Logs",
+    "Parallel-bar Pull",
+    "Echo Thruster Final"
   ],
   "event_point_map": {
+    "Ride": {
+      "1": 100,
+      "2": 97,
+      "3": 94,
+      "4": 91,
+      "5": 88,
+      "6": 85,
+      "7": 82,
+      "8": 79,
+      "9": 76,
+      "10": 73,
+      "11": 70,
+      "12": 67,
+      "13": 64,
+      "14": 61,
+      "15": 58,
+      "16": 55,
+      "17": 52,
+      "18": 49,
+      "19": 46,
+      "20": 43,
+      "21": 40,
+      "22": 37,
+      "23": 34,
+      "24": 32,
+      "25": 30,
+      "26": 28,
+      "27": 26,
+      "28": 24,
+      "29": 22,
+      "30": 20,
+      "31": 18,
+      "32": 16,
+      "33": 14,
+      "34": 12,
+      "35": 10,
+      "36": 8,
+      "37": 6,
+      "38": 4,
+      "39": 2,
+      "40": 0
+    },
     "Pig Chipper": {
       "1": 100,
       "2": 97,
@@ -41,48 +83,6 @@
       "22": 37,
       "23": 34,
       "24": 32,
-      "25": 30,
-      "26": 28,
-      "27": 26,
-      "28": 24,
-      "29": 22,
-      "30": 20,
-      "31": 18,
-      "32": 16,
-      "33": 14,
-      "34": 12,
-      "35": 10,
-      "36": 8,
-      "37": 6,
-      "38": 4,
-      "39": 2,
-      "40": 0
-    },
-    "Event 2": {
-      "1": 100,
-      "2": 97,
-      "3": 94,
-      "4": 91,
-      "5": 88,
-      "6": 85,
-      "7": 82,
-      "8": 79,
-      "9": 76,
-      "10": 73,
-      "11": 70,
-      "12": 67,
-      "13": 64,
-      "14": 61,
-      "15": 58,
-      "16": 55,
-      "17": 52,
-      "18": 49,
-      "19": 46,
-      "20": 43,
-      "21": 40,
-      "22": 37,
-      "23": 34,
-      "24": 32,
       "27": 26,
       "30": 20,
       "32": 16,
@@ -92,7 +92,7 @@
       "39": 2,
       "40": 0
     },
-    "Event 3": {
+    "Inverted Medley": {
       "1": 100,
       "2": 97,
       "3": 94,
@@ -133,7 +133,7 @@
       "38": 4,
       "40": 0
     },
-    "Event 4": {
+    "The Alpaca Redux": {
       "1": 100,
       "2": 97,
       "3": 94,
@@ -175,7 +175,7 @@
       "39": 2,
       "40": 0
     },
-    "Event 5": {
+    "Ski-Bag": {
       "1": 100,
       "2": 97,
       "3": 94,
@@ -203,7 +203,7 @@
       "39": 2,
       "40": 0
     },
-    "Event 6": {
+    "Helena": {
       "1": 100,
       "2": 97,
       "3": 94,
@@ -245,7 +245,7 @@
       "39": 2,
       "40": 0
     },
-    "Event 7": {
+    "Cross-Country 5K": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -278,7 +278,7 @@
       "30": 0,
       "31": 0
     },
-    "Event 8": {
+    "Intervals": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -311,7 +311,7 @@
       "30": 0,
       "31": 0
     },
-    "Event 9": {
+    "Olympic Total": {
       "1": 100,
       "2": 96,
       "3": 92,
@@ -338,7 +338,7 @@
       "30": 0,
       "31": 0
     },
-    "Event 10": {
+    "Muscle-up Logs": {
       "1": 100,
       "2": 95,
       "3": 90,
@@ -360,7 +360,7 @@
       "19": 10,
       "20": 0
     },
-    "Event 11": {
+    "Parallel-bar Pull": {
       "1": 100,
       "2": 95,
       "3": 90,
@@ -382,7 +382,7 @@
       "19": 10,
       "20": 0
     },
-    "Event 12": {
+    "Echo Thruster Final": {
       "1": 100,
       "2": 95,
       "3": 90,
@@ -406,20 +406,62 @@
     }
   },
   "event_field_size": {
+    "Ride": 40,
     "Pig Chipper": 40,
-    "Event 2": 40,
-    "Event 3": 40,
-    "Event 4": 40,
-    "Event 5": 40,
-    "Event 6": 40,
-    "Event 7": 31,
-    "Event 8": 31,
-    "Event 9": 31,
-    "Event 10": 20,
-    "Event 11": 20,
-    "Event 12": 20
+    "Inverted Medley": 40,
+    "The Alpaca Redux": 40,
+    "Ski-Bag": 40,
+    "Helena": 40,
+    "Cross-Country 5K": 31,
+    "Intervals": 31,
+    "Olympic Total": 31,
+    "Muscle-up Logs": 20,
+    "Parallel-bar Pull": 20,
+    "Echo Thruster Final": 20
   },
   "event_place_points": {
+    "Ride": [
+      100,
+      97,
+      94,
+      91,
+      88,
+      85,
+      82,
+      79,
+      76,
+      73,
+      70,
+      67,
+      64,
+      61,
+      58,
+      55,
+      52,
+      49,
+      46,
+      43,
+      40,
+      37,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16,
+      14,
+      12,
+      10,
+      8,
+      6,
+      4,
+      2,
+      0
+    ],
     "Pig Chipper": [
       100,
       97,
@@ -445,48 +487,6 @@
       37,
       34,
       32,
-      30,
-      28,
-      26,
-      24,
-      22,
-      20,
-      18,
-      16,
-      14,
-      12,
-      10,
-      8,
-      6,
-      4,
-      2,
-      0
-    ],
-    "Event 2": [
-      100,
-      97,
-      94,
-      91,
-      88,
-      85,
-      82,
-      79,
-      76,
-      73,
-      70,
-      67,
-      64,
-      61,
-      58,
-      55,
-      52,
-      49,
-      46,
-      43,
-      40,
-      37,
-      34,
-      32,
       0,
       0,
       26,
@@ -504,7 +504,7 @@
       2,
       0
     ],
-    "Event 3": [
+    "Inverted Medley": [
       100,
       97,
       94,
@@ -546,7 +546,7 @@
       0,
       0
     ],
-    "Event 4": [
+    "The Alpaca Redux": [
       100,
       97,
       94,
@@ -588,7 +588,7 @@
       2,
       0
     ],
-    "Event 5": [
+    "Ski-Bag": [
       100,
       97,
       94,
@@ -630,7 +630,7 @@
       2,
       0
     ],
-    "Event 6": [
+    "Helena": [
       100,
       97,
       94,
@@ -672,7 +672,7 @@
       2,
       0
     ],
-    "Event 7": [
+    "Cross-Country 5K": [
       100,
       96,
       92,
@@ -705,7 +705,7 @@
       0,
       0
     ],
-    "Event 8": [
+    "Intervals": [
       100,
       96,
       92,
@@ -738,7 +738,7 @@
       0,
       0
     ],
-    "Event 9": [
+    "Olympic Total": [
       100,
       96,
       92,
@@ -771,7 +771,7 @@
       0,
       0
     ],
-    "Event 10": [
+    "Muscle-up Logs": [
       100,
       95,
       90,
@@ -793,7 +793,7 @@
       10,
       0
     ],
-    "Event 11": [
+    "Parallel-bar Pull": [
       100,
       95,
       90,
@@ -815,7 +815,7 @@
       10,
       0
     ],
-    "Event 12": [
+    "Echo Thruster Final": [
       100,
       95,
       90,
@@ -839,21 +839,21 @@
     ]
   },
   "event_ordinals": {
-    "Pig Chipper": 1,
-    "Event 2": 2,
-    "Event 3": 3,
-    "Event 4": 4,
-    "Event 5": 5,
-    "Event 6": 6,
-    "Event 7": 7,
-    "Event 8": 8,
-    "Event 9": 9,
-    "Event 10": 10,
-    "Event 11": 11,
-    "Event 12": 12
+    "Ride": 1,
+    "Pig Chipper": 2,
+    "Inverted Medley": 3,
+    "The Alpaca Redux": 4,
+    "Ski-Bag": 5,
+    "Helena": 6,
+    "Cross-Country 5K": 7,
+    "Intervals": 8,
+    "Olympic Total": 9,
+    "Muscle-up Logs": 10,
+    "Parallel-bar Pull": 11,
+    "Echo Thruster Final": 12
   },
   "event_finish_order": {
-    "Pig Chipper": [
+    "Ride": [
       {
         "name": "Emma Lawson",
         "place": 1,
@@ -1095,7 +1095,7 @@
         "time": "5 rep"
       }
     ],
-    "Event 2": [
+    "Pig Chipper": [
       {
         "name": "Laura Horvath",
         "place": 1,
@@ -1337,7 +1337,7 @@
         "time": "CAP+195"
       }
     ],
-    "Event 3": [
+    "Inverted Medley": [
       {
         "name": "Danielle Brandon",
         "place": 1,
@@ -1579,7 +1579,7 @@
         "time": "CAP+33"
       }
     ],
-    "Event 4": [
+    "The Alpaca Redux": [
       {
         "name": "Emma Tall",
         "place": 1,
@@ -1821,7 +1821,7 @@
         "time": "CAP+44"
       }
     ],
-    "Event 5": [
+    "Ski-Bag": [
       {
         "name": "Laura Horvath",
         "place": 1,
@@ -2063,7 +2063,7 @@
         "time": "CAP+46"
       }
     ],
-    "Event 6": [
+    "Helena": [
       {
         "name": "Jamie Simmonds",
         "place": 1,
@@ -2305,7 +2305,7 @@
         "time": ""
       }
     ],
-    "Event 7": [
+    "Cross-Country 5K": [
       {
         "name": "Emily Rolfe",
         "place": 1,
@@ -2547,7 +2547,7 @@
         "time": ""
       }
     ],
-    "Event 8": [
+    "Intervals": [
       {
         "name": "Emma Lawson",
         "place": 1,
@@ -2789,7 +2789,7 @@
         "time": ""
       }
     ],
-    "Event 9": [
+    "Olympic Total": [
       {
         "name": "Laura Horvath",
         "place": 1,
@@ -3031,7 +3031,7 @@
         "time": ""
       }
     ],
-    "Event 10": [
+    "Muscle-up Logs": [
       {
         "name": "Laura Horvath",
         "place": 1,
@@ -3273,7 +3273,7 @@
         "time": ""
       }
     ],
-    "Event 11": [
+    "Parallel-bar Pull": [
       {
         "name": "Laura Horvath",
         "place": 1,
@@ -3515,7 +3515,7 @@
         "time": ""
       }
     ],
-    "Event 12": [
+    "Echo Thruster Final": [
       {
         "name": "Olivia Kerstetter",
         "place": 1,
@@ -3770,62 +3770,62 @@
       "height_weight": "170 cm | 70 kg",
       "total_points": 966,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 9,
           "time": "7 rep",
           "points": 76
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 1,
           "time": "13:50.40",
           "points": 100
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 27,
           "time": "CAP+5",
           "points": 26
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 2,
           "time": "16:36.18",
           "points": 97
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 1,
           "time": "04:36.18",
           "points": 100
         },
-        "Event 6": {
+        "Helena": {
           "place": 15,
           "time": "09:06.79",
           "points": 58
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 13,
           "time": "19:02.68",
           "points": 52
         },
-        "Event 8": {
+        "Intervals": {
           "place": 8,
           "time": "08:32.50",
           "points": 72
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 1,
           "time": "470 lb",
           "points": 100
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 1,
           "time": "08:41.22",
           "points": 100
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 1,
           "time": "08:36.46",
           "points": 100
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 4,
           "time": "07:41.20",
           "points": 85
@@ -3843,62 +3843,62 @@
       "height_weight": "65 in | 140 lb",
       "total_points": 919,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 1,
           "time": "7 rep",
           "points": 100
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 15,
           "time": "17:13.59",
           "points": 58
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 13,
           "time": "05:16.28",
           "points": 64
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 4,
           "time": "17:35.41",
           "points": 91
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 9,
           "time": "CAP+4",
           "points": 76
         },
-        "Event 6": {
+        "Helena": {
           "place": 5,
           "time": "08:44.92",
           "points": 88
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 7,
           "time": "18:31.60",
           "points": 76
         },
-        "Event 8": {
+        "Intervals": {
           "place": 1,
           "time": "07:48.64",
           "points": 100
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 7,
           "time": "433 lb",
           "points": 76
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 6,
           "time": "09:49.49",
           "points": 75
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 10,
           "time": "10:06.92",
           "points": 55
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 9,
           "time": "08:21.07",
           "points": 60
@@ -3916,62 +3916,62 @@
       "height_weight": "63 in | 150 lb",
       "total_points": 883,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 12,
           "time": "6 rep",
           "points": 67
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 2,
           "time": "14:43.54",
           "points": 97
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 14,
           "time": "05:22.78",
           "points": 61
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 13,
           "time": "CAP+12",
           "points": 64
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 17,
           "time": "CAP+12",
           "points": 52
         },
-        "Event 6": {
+        "Helena": {
           "place": 4,
           "time": "08:42.74",
           "points": 91
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 3,
           "time": "18:21.21",
           "points": 92
         },
-        "Event 8": {
+        "Intervals": {
           "place": 3,
           "time": "08:11.96",
           "points": 92
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 13,
           "time": "422 lb",
           "points": 52
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 3,
           "time": "09:38.84",
           "points": 90
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 6,
           "time": "09:28.97",
           "points": 75
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 11,
           "time": "08:28.94",
           "points": 50
@@ -3989,62 +3989,62 @@
       "height_weight": "170 cm | 75 kg",
       "total_points": 788,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 7,
           "time": "7 rep",
           "points": 82
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 17,
           "time": "17:26.22",
           "points": 52
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 22,
           "time": "CAP+5",
           "points": 37
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 15,
           "time": "CAP+14",
           "points": 58
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 7,
           "time": "CAP+3",
           "points": 82
         },
-        "Event 6": {
+        "Helena": {
           "place": 27,
           "time": "09:26.85",
           "points": 26
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 5,
           "time": "18:27.44",
           "points": 84
         },
-        "Event 8": {
+        "Intervals": {
           "place": 4,
           "time": "08:17.58",
           "points": 88
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 5,
           "time": "436 lb",
           "points": 84
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 8,
           "time": "10:36.84",
           "points": 65
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 13,
           "time": "11:10.51",
           "points": 40
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 3,
           "time": "07:40.61",
           "points": 90
@@ -4062,62 +4062,62 @@
       "height_weight": "66 in | 150 lb",
       "total_points": 786,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 18,
           "time": "6 rep",
           "points": 49
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 6,
           "time": "16:13.39",
           "points": 85
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 19,
           "time": "CAP",
           "points": 46
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 3,
           "time": "17:25.97",
           "points": 94
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 2,
           "time": "05:50.32",
           "points": 97
         },
-        "Event 6": {
+        "Helena": {
           "place": 8,
           "time": "08:53.66",
           "points": 79
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 19,
           "time": "19:39.65",
           "points": 33
         },
-        "Event 8": {
+        "Intervals": {
           "place": 11,
           "time": "08:38.26",
           "points": 60
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 19,
           "time": "416 lb",
           "points": 33
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 2,
           "time": "08:59.04",
           "points": 95
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 3,
           "time": "09:16.53",
           "points": 90
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 16,
           "time": "09:15.83",
           "points": 25
@@ -4135,62 +4135,62 @@
       "height_weight": "65 in | 155 lb",
       "total_points": 771,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 5,
           "time": "7 rep",
           "points": 88
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 3,
           "time": "15:14.94",
           "points": 94
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 5,
           "time": "04:13.51",
           "points": 88
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 5,
           "time": "17:45.74",
           "points": 88
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 37,
           "time": "CAP+29",
           "points": 6
         },
-        "Event 6": {
+        "Helena": {
           "place": 3,
           "time": "08:40.85",
           "points": 94
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 4,
           "time": "18:26.55",
           "points": 88
         },
-        "Event 8": {
+        "Intervals": {
           "place": 12,
           "time": "08:39.20",
           "points": 56
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 22,
           "time": "404 lb",
           "points": 24
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 13,
           "time": "11:23.88",
           "points": 40
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 8,
           "time": "09:45.72",
           "points": 65
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 13,
           "time": "08:43.46",
           "points": 40
@@ -4208,62 +4208,62 @@
       "height_weight": "169 cm | 152 lb",
       "total_points": 741,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 4,
           "time": "7 rep",
           "points": 91
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 34,
           "time": "CAP+6",
           "points": 12
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 6,
           "time": "04:17.56",
           "points": 85
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 34,
           "time": "CAP+15",
           "points": 12
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 9,
           "time": "CAP+4",
           "points": 76
         },
-        "Event 6": {
+        "Helena": {
           "place": 19,
           "time": "09:13.31",
           "points": 46
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 2,
           "time": "18:20.13",
           "points": 96
         },
-        "Event 8": {
+        "Intervals": {
           "place": 9,
           "time": "08:35.32",
           "points": 68
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 20,
           "time": "412 lb",
           "points": 30
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 9,
           "time": "10:47.96",
           "points": 60
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 7,
           "time": "09:33.93",
           "points": 70
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 2,
           "time": "07:33.41",
           "points": 95
@@ -4281,62 +4281,62 @@
       "height_weight": "64 in | 145 lb",
       "total_points": 731,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 40,
           "time": "5 rep",
           "points": 0
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 4,
           "time": "15:38.84",
           "points": 91
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 17,
           "time": "06:17.68",
           "points": 52
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 39,
           "time": "CAP+30",
           "points": 2
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 16,
           "time": "CAP+11",
           "points": 55
         },
-        "Event 6": {
+        "Helena": {
           "place": 2,
           "time": "08:38.61",
           "points": 97
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 12,
           "time": "18:59.97",
           "points": 56
         },
-        "Event 8": {
+        "Intervals": {
           "place": 2,
           "time": "08:01.67",
           "points": 96
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 8,
           "time": "428 lb",
           "points": 72
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 11,
           "time": "11:12.24",
           "points": 50
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 5,
           "time": "09:27.72",
           "points": 80
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 5,
           "time": "07:42.54",
           "points": 80
@@ -4354,62 +4354,62 @@
       "height_weight": "170 cm | 150 lb",
       "total_points": 711,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 21,
           "time": "6 rep",
           "points": 40
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 21,
           "time": "17:45.91",
           "points": 40
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 1,
           "time": "03:12.75",
           "points": 100
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 20,
           "time": "CAP+14",
           "points": 43
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 17,
           "time": "CAP+12",
           "points": 52
         },
-        "Event 6": {
+        "Helena": {
           "place": 11,
           "time": "08:56.63",
           "points": 70
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 11,
           "time": "18:42.71",
           "points": 60
         },
-        "Event 8": {
+        "Intervals": {
           "place": 10,
           "time": "08:37.85",
           "points": 64
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 26,
           "time": "382 lb",
           "points": 12
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 7,
           "time": "09:58.90",
           "points": 70
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 2,
           "time": "08:48.42",
           "points": 95
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 8,
           "time": "08:20.26",
           "points": 65
@@ -4427,62 +4427,62 @@
       "height_weight": "64 in | 155 lb",
       "total_points": 696,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 14,
           "time": "6 rep",
           "points": 61
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 20,
           "time": "17:43.40",
           "points": 43
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 3,
           "time": "03:56.62",
           "points": 94
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 19,
           "time": "CAP+14",
           "points": 46
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 28,
           "time": "CAP+16",
           "points": 24
         },
-        "Event 6": {
+        "Helena": {
           "place": 7,
           "time": "08:50.70",
           "points": 82
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 24,
           "time": "20:12.60",
           "points": 18
         },
-        "Event 8": {
+        "Intervals": {
           "place": 17,
           "time": "08:50.10",
           "points": 39
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 10,
           "time": "426 lb",
           "points": 64
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 4,
           "time": "09:41.97",
           "points": 85
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 4,
           "time": "09:18.73",
           "points": 85
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 10,
           "time": "08:26.31",
           "points": 55
@@ -4500,62 +4500,62 @@
       "height_weight": "168 cm | 68 kg",
       "total_points": 688,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 3,
           "time": "7 rep",
           "points": 94
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 10,
           "time": "16:32.72",
           "points": 73
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 36,
           "time": "CAP+11",
           "points": 8
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 1,
           "time": "15:54.01",
           "points": 100
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 17,
           "time": "CAP+12",
           "points": 52
         },
-        "Event 6": {
+        "Helena": {
           "place": 23,
           "time": "09:18.60",
           "points": 34
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 23,
           "time": "20:02.35",
           "points": 21
         },
-        "Event 8": {
+        "Intervals": {
           "place": 5,
           "time": "08:19.68",
           "points": 84
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 13,
           "time": "422 lb",
           "points": 52
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 5,
           "time": "09:46.93",
           "points": 80
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 18,
           "time": "12:21.46",
           "points": 15
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 6,
           "time": "08:12.46",
           "points": 75
@@ -4573,62 +4573,62 @@
       "height_weight": "170 cm | 152 lb",
       "total_points": 659,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 2,
           "time": "7 rep",
           "points": 97
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 12,
           "time": "16:49.32",
           "points": 67
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 7,
           "time": "04:23.30",
           "points": 82
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 30,
           "time": "CAP+15",
           "points": 20
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 33,
           "time": "CAP+20",
           "points": 14
         },
-        "Event 6": {
+        "Helena": {
           "place": 14,
           "time": "09:05.60",
           "points": 61
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 1,
           "time": "17:48.62",
           "points": 100
         },
-        "Event 8": {
+        "Intervals": {
           "place": 13,
           "time": "08:44.28",
           "points": 52
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 28,
           "time": "365 lb",
           "points": 6
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 15,
           "time": "11:38.48",
           "points": 30
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 9,
           "time": "09:59.33",
           "points": 60
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 7,
           "time": "08:14.49",
           "points": 70
@@ -4646,62 +4646,62 @@
       "height_weight": "170 cm | 152 lb",
       "total_points": 646,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 11,
           "time": "6 rep",
           "points": 70
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 8,
           "time": "16:20.26",
           "points": 79
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 12,
           "time": "04:55.94",
           "points": 67
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 9,
           "time": "CAP+9",
           "points": 76
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 13,
           "time": "CAP+6",
           "points": 64
         },
-        "Event 6": {
+        "Helena": {
           "place": 24,
           "time": "09:20.16",
           "points": 32
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 25,
           "time": "20:48.20",
           "points": 15
         },
-        "Event 8": {
+        "Intervals": {
           "place": 7,
           "time": "08:29.89",
           "points": 76
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 13,
           "time": "422 lb",
           "points": 52
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 12,
           "time": "11:13.32",
           "points": 45
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 14,
           "time": "11:18.16",
           "points": 35
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 14,
           "time": "09:02.33",
           "points": 35
@@ -4719,62 +4719,62 @@
       "height_weight": "170 cm | 72 kg",
       "total_points": 610,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 10,
           "time": "7 rep",
           "points": 73
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 22,
           "time": "17:56.06",
           "points": 37
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 35,
           "time": "CAP+11",
           "points": 10
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 11,
           "time": "CAP+9",
           "points": 70
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 7,
           "time": "CAP+3",
           "points": 82
         },
-        "Event 6": {
+        "Helena": {
           "place": 13,
           "time": "09:03.96",
           "points": 64
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 21,
           "time": "19:44.11",
           "points": 27
         },
-        "Event 8": {
+        "Intervals": {
           "place": 15,
           "time": "08:46.63",
           "points": 45
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 3,
           "time": "446 lb",
           "points": 92
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 10,
           "time": "11:04.76",
           "points": 55
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 19,
           "time": "12:24.31",
           "points": 10
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 12,
           "time": "08:40.74",
           "points": 45
@@ -4792,62 +4792,62 @@
       "height_weight": "64 in | 144 lb",
       "total_points": 567,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 6,
           "time": "7 rep",
           "points": 85
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 13,
           "time": "17:03.18",
           "points": 64
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 16,
           "time": "06:16.20",
           "points": 55
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 12,
           "time": "CAP+11",
           "points": 67
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 33,
           "time": "CAP+20",
           "points": 14
         },
-        "Event 6": {
+        "Helena": {
           "place": 6,
           "time": "08:46.27",
           "points": 85
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 6,
           "time": "18:28.83",
           "points": 80
         },
-        "Event 8": {
+        "Intervals": {
           "place": 16,
           "time": "08:47.68",
           "points": 42
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 30,
           "time": "362 lb",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 18,
           "time": "12:23.75",
           "points": 15
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 12,
           "time": "10:50.83",
           "points": 45
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 18,
           "time": "09:50.03",
           "points": 15
@@ -4865,62 +4865,62 @@
       "height_weight": "65 in | 160 lb",
       "total_points": 545,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 15,
           "time": "6 rep",
           "points": 58
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 5,
           "time": "15:49.36",
           "points": 88
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 34,
           "time": "CAP+10",
           "points": 12
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 32,
           "time": "CAP+15",
           "points": 16
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 3,
           "time": "05:50.91",
           "points": 94
         },
-        "Event 6": {
+        "Helena": {
           "place": 36,
           "time": "10:07.18",
           "points": 8
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 28,
           "time": "22:00.58",
           "points": 6
         },
-        "Event 8": {
+        "Intervals": {
           "place": 19,
           "time": "09:00.41",
           "points": 33
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 6,
           "time": "434 lb",
           "points": 80
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 16,
           "time": "11:46.89",
           "points": 25
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 16,
           "time": "11:33.85",
           "points": 25
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 1,
           "time": "07:22.25",
           "points": 100
@@ -4938,62 +4938,62 @@
       "height_weight": "163 cm | 135 lb",
       "total_points": 513,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 8,
           "time": "7 rep",
           "points": 79
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 16,
           "time": "17:18.60",
           "points": 55
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 18,
           "time": "CAP",
           "points": 49
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 6,
           "time": "CAP+3",
           "points": 85
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 30,
           "time": "CAP+19",
           "points": 20
         },
-        "Event 6": {
+        "Helena": {
           "place": 1,
           "time": "08:27.12",
           "points": 100
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 17,
           "time": "19:33.45",
           "points": 39
         },
-        "Event 8": {
+        "Intervals": {
           "place": 6,
           "time": "08:29.88",
           "points": 80
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 28,
           "time": "365 lb",
           "points": 6
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "WD",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5011,62 +5011,62 @@
       "height_weight": "63 in | 147 lb",
       "total_points": 463,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 13,
           "time": "6 rep",
           "points": 64
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 33,
           "time": "CAP+5",
           "points": 14
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 30,
           "time": "CAP+9",
           "points": 20
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 14,
           "time": "CAP+14",
           "points": 61
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 9,
           "time": "CAP+4",
           "points": 76
         },
-        "Event 6": {
+        "Helena": {
           "place": 18,
           "time": "09:12.09",
           "points": 49
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 15,
           "time": "19:04.91",
           "points": 45
         },
-        "Event 8": {
+        "Intervals": {
           "place": 18,
           "time": "08:52.18",
           "points": 36
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 24,
           "time": "399 lb",
           "points": 18
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 19,
           "time": "12:58.53",
           "points": 10
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 11,
           "time": "10:29.62",
           "points": 50
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 17,
           "time": "09:47.17",
           "points": 20
@@ -5084,62 +5084,62 @@
       "height_weight": "62 in | 150 lb",
       "total_points": 461,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 30,
           "time": "6 rep",
           "points": 20
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 19,
           "time": "17:34.08",
           "points": 46
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 4,
           "time": "03:57.57",
           "points": 91
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 35,
           "time": "CAP+29",
           "points": 10
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 39,
           "time": "CAP+41",
           "points": 2
         },
-        "Event 6": {
+        "Helena": {
           "place": 12,
           "time": "09:03.67",
           "points": 67
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 18,
           "time": "19:38.31",
           "points": 36
         },
-        "Event 8": {
+        "Intervals": {
           "place": 14,
           "time": "08:44.71",
           "points": 48
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 12,
           "time": "423 lb",
           "points": 56
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 14,
           "time": "11:37.86",
           "points": 35
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 17,
           "time": "11:49.20",
           "points": 20
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 15,
           "time": "09:06.61",
           "points": 30
@@ -5157,62 +5157,62 @@
       "height_weight": "157 cm | 61 kg",
       "total_points": 454,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 26,
           "time": "6 rep",
           "points": 28
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 24,
           "time": "CAP+1",
           "points": 32
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 2,
           "time": "03:46.89",
           "points": 97
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 37,
           "time": "CAP+29",
           "points": 6
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 15,
           "time": "CAP+10",
           "points": 58
         },
-        "Event 6": {
+        "Helena": {
           "place": 10,
           "time": "08:56.06",
           "points": 73
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 16,
           "time": "19:25.58",
           "points": 42
         },
-        "Event 8": {
+        "Intervals": {
           "place": 28,
           "time": "09:39.79",
           "points": 6
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 13,
           "time": "422 lb",
           "points": 52
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 17,
           "time": "11:49.73",
           "points": 20
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 15,
           "time": "11:19.53",
           "points": 30
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 19,
           "time": "CAP",
           "points": 10
@@ -5230,62 +5230,62 @@
       "height_weight": "64 in | 150 lb",
       "total_points": 363,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 27,
           "time": "6 rep",
           "points": 26
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 30,
           "time": "CAP+3",
           "points": 20
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 38,
           "time": "CAP+31",
           "points": 4
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 17,
           "time": "CAP+14",
           "points": 52
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 12,
           "time": "CAP+5",
           "points": 67
         },
-        "Event 6": {
+        "Helena": {
           "place": 25,
           "time": "09:22.96",
           "points": 30
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 8,
           "time": "18:31.83",
           "points": 72
         },
-        "Event 8": {
+        "Intervals": {
           "place": 22,
           "time": "09:01.90",
           "points": 24
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 9,
           "time": "427 lb",
           "points": 68
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5303,62 +5303,62 @@
       "height_weight": "66 in | 154 lb",
       "total_points": 349,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 33,
           "time": "6 rep",
           "points": 14
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 7,
           "time": "16:18.58",
           "points": 82
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 11,
           "time": "04:53.16",
           "points": 70
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 23,
           "time": "CAP+14",
           "points": 34
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 24,
           "time": "CAP+15",
           "points": 32
         },
-        "Event 6": {
+        "Helena": {
           "place": 31,
           "time": "09:38.61",
           "points": 18
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 30,
           "time": "22:54.32",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 29,
           "time": "10:02.92",
           "points": 3
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 2,
           "time": "447 lb",
           "points": 96
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5376,62 +5376,62 @@
       "height_weight": "161 cm | 64 kg",
       "total_points": 346,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 20,
           "time": "6 rep",
           "points": 43
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 32,
           "time": "CAP+4",
           "points": 16
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 26,
           "time": "CAP+5",
           "points": 28
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 31,
           "time": "CAP+15",
           "points": 18
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 14,
           "time": "CAP+8",
           "points": 61
         },
-        "Event 6": {
+        "Helena": {
           "place": 9,
           "time": "08:55.34",
           "points": 76
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 9,
           "time": "18:33.26",
           "points": 68
         },
-        "Event 8": {
+        "Intervals": {
           "place": 23,
           "time": "09:17.38",
           "points": 21
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 25,
           "time": "385 lb",
           "points": 15
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5449,62 +5449,62 @@
       "height_weight": "67 in | 160 lb",
       "total_points": 345,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 28,
           "time": "6 rep",
           "points": 24
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 30,
           "time": "CAP+3",
           "points": 20
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 15,
           "time": "05:31.74",
           "points": 58
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 24,
           "time": "CAP+14",
           "points": 32
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 6,
           "time": "CAP",
           "points": 85
         },
-        "Event 6": {
+        "Helena": {
           "place": 33,
           "time": "09:47.67",
           "points": 14
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 26,
           "time": "21:24.74",
           "points": 12
         },
-        "Event 8": {
+        "Intervals": {
           "place": 26,
           "time": "09:19.47",
           "points": 12
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 4,
           "time": "444 lb",
           "points": 88
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5522,62 +5522,62 @@
       "height_weight": "173 cm | 65 kg",
       "total_points": 342,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 24,
           "time": "6 rep",
           "points": 32
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 24,
           "time": "CAP+1",
           "points": 32
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 23,
           "time": "CAP+5",
           "points": 34
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 7,
           "time": "CAP+3",
           "points": 82
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 24,
           "time": "CAP+15",
           "points": 32
         },
-        "Event 6": {
+        "Helena": {
           "place": 22,
           "time": "09:17.19",
           "points": 37
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 22,
           "time": "19:47.09",
           "points": 24
         },
-        "Event 8": {
+        "Intervals": {
           "place": 20,
           "time": "09:00.74",
           "points": 30
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 17,
           "time": "420 lb",
           "points": 39
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5595,62 +5595,62 @@
       "height_weight": "67 in | 147 lb",
       "total_points": 319,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 31,
           "time": "6 rep",
           "points": 18
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 27,
           "time": "CAP+2",
           "points": 26
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 28,
           "time": "CAP+9",
           "points": 24
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 8,
           "time": "CAP+4",
           "points": 79
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 36,
           "time": "CAP+27",
           "points": 8
         },
-        "Event 6": {
+        "Helena": {
           "place": 17,
           "time": "09:09.82",
           "points": 52
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 20,
           "time": "19:40.40",
           "points": 30
         },
-        "Event 8": {
+        "Intervals": {
           "place": 24,
           "time": "09:18.02",
           "points": 18
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 10,
           "time": "426 lb",
           "points": 64
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5668,62 +5668,62 @@
       "height_weight": "63 in | 145 lb",
       "total_points": 306,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 16,
           "time": "6 rep",
           "points": 55
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 34,
           "time": "CAP+6",
           "points": 12
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 33,
           "time": "CAP+10",
           "points": 14
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 29,
           "time": "CAP+15",
           "points": 22
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 17,
           "time": "CAP+12",
           "points": 52
         },
-        "Event 6": {
+        "Helena": {
           "place": 16,
           "time": "09:07.14",
           "points": 55
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 14,
           "time": "19:04.27",
           "points": 48
         },
-        "Event 8": {
+        "Intervals": {
           "place": 27,
           "time": "09:25.78",
           "points": 9
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 17,
           "time": "420 lb",
           "points": 39
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5741,62 +5741,62 @@
       "height_weight": "66 in | 151 lb",
       "total_points": 304,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 38,
           "time": "6 rep",
           "points": 4
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 14,
           "time": "17:03.83",
           "points": 61
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 8,
           "time": "04:33.67",
           "points": 79
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 40,
           "time": "CAP+44",
           "points": 0
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 24,
           "time": "CAP+15",
           "points": 32
         },
-        "Event 6": {
+        "Helena": {
           "place": 26,
           "time": "09:24.97",
           "points": 28
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 10,
           "time": "18:37.28",
           "points": 64
         },
-        "Event 8": {
+        "Intervals": {
           "place": 25,
           "time": "09:19.42",
           "points": 15
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 23,
           "time": "400 lb",
           "points": 21
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5814,62 +5814,62 @@
       "height_weight": "67 in | 135 lb",
       "total_points": 303,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 29,
           "time": "6 rep",
           "points": 22
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 9,
           "time": "16:27.08",
           "points": 76
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 9,
           "time": "04:45.39",
           "points": 76
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 28,
           "time": "CAP+15",
           "points": 24
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 30,
           "time": "CAP+19",
           "points": 20
         },
-        "Event 6": {
+        "Helena": {
           "place": 21,
           "time": "09:14.32",
           "points": 40
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 27,
           "time": "21:35.20",
           "points": 9
         },
-        "Event 8": {
+        "Intervals": {
           "place": 21,
           "time": "09:01.82",
           "points": 27
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 27,
           "time": "380 lb",
           "points": 9
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5887,62 +5887,62 @@
       "height_weight": "169 cm | 70 kg",
       "total_points": 235,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 34,
           "time": "6 rep",
           "points": 12
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 24,
           "time": "CAP+1",
           "points": 32
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 32,
           "time": "CAP+10",
           "points": 16
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 10,
           "time": "CAP+9",
           "points": 73
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 17,
           "time": "CAP+12",
           "points": 52
         },
-        "Event 6": {
+        "Helena": {
           "place": 30,
           "time": "09:37.90",
           "points": 20
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 29,
           "time": "22:40.89",
           "points": 3
         },
-        "Event 8": {
+        "Intervals": {
           "place": 30,
           "time": "10:13.39",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 21,
           "time": "410 lb",
           "points": 27
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -5960,62 +5960,62 @@
       "height_weight": "167 cm | 72 kg",
       "total_points": 226,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 19,
           "time": "6 rep",
           "points": 46
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 18,
           "time": "17:32.37",
           "points": 49
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 38,
           "time": "CAP+31",
           "points": 4
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 22,
           "time": "CAP+14",
           "points": 37
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 5,
           "time": "05:58.87",
           "points": 88
         },
-        "Event 6": {
+        "Helena": {
           "place": 39,
           "time": "CAP+28",
           "points": 2
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -6033,62 +6033,62 @@
       "height_weight": "61 in | 133 lb",
       "total_points": 196,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 23,
           "time": "6 rep",
           "points": 34
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 23,
           "time": "17:57.60",
           "points": 34
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 31,
           "time": "CAP+10",
           "points": 18
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 18,
           "time": "CAP+14",
           "points": 49
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 22,
           "time": "CAP+13",
           "points": 37
         },
-        "Event 6": {
+        "Helena": {
           "place": 28,
           "time": "09:30.39",
           "points": 24
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -6106,62 +6106,62 @@
       "height_weight": "174 cm | 70 kg",
       "total_points": 195,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 25,
           "time": "6 rep",
           "points": 30
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 27,
           "time": "CAP+2",
           "points": 26
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 10,
           "time": "04:51.37",
           "points": 73
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 21,
           "time": "CAP+14",
           "points": 40
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 35,
           "time": "CAP+22",
           "points": 10
         },
-        "Event 6": {
+        "Helena": {
           "place": 32,
           "time": "09:43.44",
           "points": 16
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -6179,62 +6179,62 @@
       "height_weight": "170 cm | 70 kg",
       "total_points": 190,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 22,
           "time": "6 rep",
           "points": 37
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 34,
           "time": "CAP+6",
           "points": 12
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 40,
           "time": "CAP+33",
           "points": 0
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 26,
           "time": "CAP+14",
           "points": 28
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 4,
           "time": "05:54.35",
           "points": 91
         },
-        "Event 6": {
+        "Helena": {
           "place": 29,
           "time": "09:33.67",
           "points": 22
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -6252,62 +6252,62 @@
       "height_weight": "163 cm | 70 kg",
       "total_points": 173,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 32,
           "time": "6 rep",
           "points": 16
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 11,
           "time": "16:41.68",
           "points": 70
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 24,
           "time": "CAP+5",
           "points": 32
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 36,
           "time": "CAP+29",
           "points": 8
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 38,
           "time": "CAP+31",
           "points": 4
         },
-        "Event 6": {
+        "Helena": {
           "place": 20,
           "time": "09:14.12",
           "points": 43
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -6325,62 +6325,62 @@
       "height_weight": "165 cm | 67 kg",
       "total_points": 122,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 17,
           "time": "6 rep",
           "points": 52
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 27,
           "time": "CAP+2",
           "points": 26
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 37,
           "time": "CAP+16",
           "points": 6
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 33,
           "time": "CAP+15",
           "points": 14
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 28,
           "time": "CAP+16",
           "points": 24
         },
-        "Event 6": {
+        "Helena": {
           "place": 40,
           "time": "",
           "points": 0
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -6398,62 +6398,62 @@
       "height_weight": "64 in | 152 lb",
       "total_points": 116,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 35,
           "time": "6 rep",
           "points": 10
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 38,
           "time": "CAP+10",
           "points": 4
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 21,
           "time": "CAP+5",
           "points": 40
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 27,
           "time": "CAP+15",
           "points": 26
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 24,
           "time": "CAP+15",
           "points": 32
         },
-        "Event 6": {
+        "Helena": {
           "place": 38,
           "time": "10:49.80",
           "points": 4
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -6471,62 +6471,62 @@
       "height_weight": "161 cm | 140 lb",
       "total_points": 109,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 37,
           "time": "6 rep",
           "points": 6
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 40,
           "time": "CAP+195",
           "points": 0
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 29,
           "time": "CAP+9",
           "points": 22
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 16,
           "time": "CAP+14",
           "points": 55
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 30,
           "time": "CAP+19",
           "points": 20
         },
-        "Event 6": {
+        "Helena": {
           "place": 37,
           "time": "10:16.80",
           "points": 6
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -6544,62 +6544,62 @@
       "height_weight": "160 cm | 60 kg",
       "total_points": 99,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 39,
           "time": "5 rep",
           "points": 2
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 34,
           "time": "CAP+6",
           "points": 12
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 20,
           "time": "CAP+5",
           "points": 43
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 25,
           "time": "CAP+14",
           "points": 30
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 40,
           "time": "CAP+46",
           "points": 0
         },
-        "Event 6": {
+        "Helena": {
           "place": 34,
           "time": "09:49.24",
           "points": 12
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0
@@ -6617,62 +6617,62 @@
       "height_weight": "174 cm | 75 kg",
       "total_points": 88,
       "events": {
-        "Pig Chipper": {
+        "Ride": {
           "place": 36,
           "time": "6 rep",
           "points": 8
         },
-        "Event 2": {
+        "Pig Chipper": {
           "place": 39,
           "time": "CAP+14",
           "points": 2
         },
-        "Event 3": {
+        "Inverted Medley": {
           "place": 25,
           "time": "CAP+5",
           "points": 30
         },
-        "Event 4": {
+        "The Alpaca Redux": {
           "place": 38,
           "time": "CAP+29",
           "points": 4
         },
-        "Event 5": {
+        "Ski-Bag": {
           "place": 23,
           "time": "CAP+14",
           "points": 34
         },
-        "Event 6": {
+        "Helena": {
           "place": 35,
           "time": "09:51.92",
           "points": 10
         },
-        "Event 7": {
+        "Cross-Country 5K": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 8": {
+        "Intervals": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 9": {
+        "Olympic Total": {
           "place": 31,
           "time": "",
           "points": 0
         },
-        "Event 10": {
+        "Muscle-up Logs": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 11": {
+        "Parallel-bar Pull": {
           "place": 20,
           "time": "",
           "points": 0
         },
-        "Event 12": {
+        "Echo Thruster Final": {
           "place": 20,
           "time": "",
           "points": 0

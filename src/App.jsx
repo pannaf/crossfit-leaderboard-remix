@@ -229,14 +229,14 @@ function App() {
     // Sort included by cumulative points
     let sortedAthletes = included.sort((a, b) => b.total_points - a.total_points)
 
-    // Anchor Lazar at original rank for 2024
+    // Anchor Lazar at top for 2024
     if (isYear2024()) {
       const originalLazar = originalAthletes.find(a => isLazar(a.name))
       if (originalLazar) {
         const lazarIdx = sortedAthletes.findIndex(a => isLazar(a.name))
         if (lazarIdx !== -1) {
           const lazar = sortedAthletes.splice(lazarIdx, 1)[0]
-          const insertIdx = Math.max(0, (originalLazar.rank || 1) - 1)
+          const insertIdx = 0
           sortedAthletes.splice(insertIdx, 0, lazar)
         }
       }
@@ -410,7 +410,7 @@ function App() {
     const excluded = updatedAthletes.filter(a => isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0))
     const included = updatedAthletes.filter(a => !(isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0)))
     const sortedAthletes = [...included].sort((a, b) => b.total_points - a.total_points)
-    // Anchor Lazar at original rank for 2024
+    // Anchor Lazar at top for 2024
     let rankedAthletes = sortedAthletes
     if (isYear2024()) {
       const originalLazar = originalAthletes.find(a => isLazar(a.name))
@@ -418,7 +418,7 @@ function App() {
         const lazarIdx = rankedAthletes.findIndex(a => isLazar(a.name))
         if (lazarIdx !== -1) {
           const lazar = rankedAthletes.splice(lazarIdx, 1)[0]
-          const insertIdx = Math.max(0, (originalLazar.rank || 1) - 1)
+          const insertIdx = 0
           rankedAthletes.splice(insertIdx, 0, lazar)
         }
       }
@@ -465,7 +465,7 @@ function App() {
     const excluded = athletes.filter(a => isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0))
     let included = athletes.filter(a => !(isExcludedFromRerank(a.name) || (typeof a.rank === 'number' && a.rank <= 0)))
     const sortedAthletes = included.sort((a, b) => b.total_points - a.total_points)
-    // Anchor Lazar at original rank for 2024
+    // Anchor Lazar at top for 2024
     let finalAthletes = sortedAthletes
     if (isYear2024()) {
       const originalLazar = originalAthletes.find(a => isLazar(a.name))
@@ -473,7 +473,7 @@ function App() {
         const lazarIdx = finalAthletes.findIndex(a => isLazar(a.name))
         if (lazarIdx !== -1) {
           const lazar = finalAthletes.splice(lazarIdx, 1)[0]
-          const insertIdx = Math.max(0, (originalLazar.rank || 1) - 1)
+          const insertIdx = 0
           finalAthletes.splice(insertIdx, 0, lazar)
         }
       }

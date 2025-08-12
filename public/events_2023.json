@@ -2,7 +2,15 @@
   "year": 2023,
   "events": [
     {
+      "name": "Ride",
+      "description": "Complete as many laps as possible in 40 minutes on a Trek Bikes Marlin 8 mountain bike.",
+      "details": [],
+      "timeCap": "AMRAP 40 minutes",
+      "notes": []
+    },
+    {
       "name": "Pig Chipper",
+      "description": "For time:",
       "details": [
         "10 Pig flips",
         "25 chest-to-bar pull-ups",
@@ -10,45 +18,80 @@
         "100 wall-ball shots (14/20 lb, 9/10 feet)",
         "50 toes-to-bars",
         "25 chest-to-bar pull-ups",
-        "10 Pig flips",
-        "Ride",
-        "Complete as many laps as possible in 40 minutes on a Trek Bikes Marlin 8 mountain bike.",
-        "Inverted Medley",
-        "For time:",
+        "10 Pig flips"
+      ],
+      "timeCap": "Time cap: 18 minutes",
+      "notes": []
+    },
+    {
+      "name": "Inverted Medley",
+      "description": "For time:",
+      "details": [
         "30-foot unbroken handstand walk over the ramp",
         "8 free-standing handstand push-ups",
         "Unbroken obstacle steps to a 180° pirouette",
         "16 pull-overs",
         "Unbroken obstacle steps to a 360° pirouette",
         "8 free-standing handstand push-ups",
-        "30-foot unbroken handstand walk over the ramp",
-        "The Alpaca Redux",
-        "All for time:",
+        "30-foot unbroken handstand walk over the ramp"
+      ],
+      "timeCap": "Time cap: 7 minutes",
+      "notes": []
+    },
+    {
+      "name": "The Alpaca Redux",
+      "description": "All for time:",
+      "details": [
         "126-foot sled push, starting with all six kettlebells (443/546 lb)",
         "Then 3 rounds of:",
         "2 legless rope climbs",
         "12 kettlebell clean and jerks",
-        "42-foot sled push, starting with two kettlebells* (53/70 lb)",
-        "*Add two kettlebells to the sled after each round.",
-        "Ski-Bag",
-        "For time:",
+        "42-foot sled push, starting with two kettlebells* (53/70 lb)"
+      ],
+      "timeCap": "Time cap: 18 minutes",
+      "notes": [
+        "*Add two kettlebells to the sled after each round."
+      ]
+    },
+    {
+      "name": "Ski-Bag",
+      "description": "For time:",
+      "details": [
         "30-calorie SkiErg",
         "30 sandbag squats (125/200 lb)",
         "20-calorie SkiErg",
-        "20 sandbag squats (125/200 lb)",
-        "Helena",
-        "3 rounds for time:",
+        "20 sandbag squats (125/200 lb)"
+      ],
+      "timeCap": "Time cap: 6 minutes",
+      "notes": []
+    },
+    {
+      "name": "Helena",
+      "description": "3 rounds for time:",
+      "details": [
         "400-meter run",
         "12 bar muscle-ups",
-        "21 dumbbell snatches (35/50 lb)",
-        "Cross-Country 5K",
-        "For time:",
-        "Run 5K",
-        "Intervals",
-        "2 intervals for total time:",
+        "21 dumbbell snatches (35/50 lb)"
+      ],
+      "timeCap": "Time cap: 11 minutes",
+      "notes": []
+    },
+    {
+      "name": "Cross-Country 5K",
+      "description": "For time:",
+      "details": [
+        "Run 5K"
+      ],
+      "timeCap": "",
+      "notes": []
+    },
+    {
+      "name": "Intervals",
+      "description": "2 intervals for total time:",
+      "details": [
         "21 box jump-overs (20/24 inches)",
         "15-calorie row",
-        "9  burpee box jump-overs",
+        "9 burpee box jump-overs",
         "21 box jump-overs",
         "15-calorie row",
         "9 burpee box jump-overs (36/48 inches)",
@@ -56,33 +99,54 @@
         "9 burpee box jump-overs",
         "15-calorie row",
         "21 box jump-overs",
-        "9 burpee box jump-overs",
-        "15-calorie row",
-        "21 box jump-overs",
-        "Olympic Total",
-        "For load:",
+        "9 burpee box jump-overs"
+      ],
+      "timeCap": "",
+      "notes": []
+    },
+    {
+      "name": "Olympic Total",
+      "description": "For load:",
+      "details": [
         "1-rep-max snatch",
-        "1-rep-max clean and jerk",
-        "Muscle-up Logs",
-        "5 rounds for time:",
+        "1-rep-max clean and jerk"
+      ],
+      "timeCap": "",
+      "notes": []
+    },
+    {
+      "name": "Muscle-up Logs",
+      "description": "5 rounds for time:",
+      "details": [
         "7 muscle-ups",
         "1 sandbag over 3 logs",
-        "(Rounds 1-4 = (100/150 lb), Round 5 = (125/200 lb)",
-        "Parallel-bar Pull",
-        "8 rounds for time:",
+        "(Rounds 1-4 = (100/150 lb), Round 5 = (125/200 lb)"
+      ],
+      "timeCap": "",
+      "notes": []
+    },
+    {
+      "name": "Parallel-bar Pull",
+      "description": "8 rounds for time:",
+      "details": [
         "Down-and-back P-bar traverse",
         "30 heavy-rope double-unders",
-        "1 section hand-over-hand sled pull",
-        "Echo Thruster Final",
-        "For time:",
+        "1 section hand-over-hand sled pull"
+      ],
+      "timeCap": "",
+      "notes": []
+    },
+    {
+      "name": "Echo Thruster Final",
+      "description": "For time:",
+      "details": [
         "21-18-15",
         "Echo Bike calories",
         "Thrusters (85/115 lb) (95/135 lb) (105/155 lb)",
         "Then, 66-foot overhead walking lunge (105/155 lb)"
       ],
-      "notes": [],
-      "description": "For time:",
-      "timeCap": "Time cap: 12 minutes"
+      "timeCap": "",
+      "notes": []
     }
   ]
 }

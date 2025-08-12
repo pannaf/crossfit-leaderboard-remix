@@ -963,7 +963,7 @@ tbody tr:hover {
   position: relative;
   background: #f5f2eb !important;
   /* bone white */
-  border-left: 3px solid #ff6b6b;
+  border-left: none;
   box-shadow: inset 0 0 0 1px #e6e1d8;
 }
 
@@ -1018,6 +1018,14 @@ tbody tr:hover {
   color: #8a2f2f;
 }
 
+/* Do not show hover/expanded left border or slide animation for Lazar row */
+.athlete-row.lazar-tribute,
+.athlete-row.lazar-tribute:hover,
+.athlete-row.lazar-tribute.expanded {
+  border-left-color: transparent !important;
+  transform: none !important;
+}
+
 /* Dark ribbons on tribute row */
 .athlete-row.lazar-tribute .event-points.ribbon,
 .athlete-row.lazar-tribute .event-result .fas.fa-ribbon,
@@ -1046,6 +1054,52 @@ tbody tr:hover {
   text-align: center;
   font-weight: 700;
   color: #1a1a1a;
+  position: relative;
+  overflow: hidden;
+  /* Keep the tribute cell fixed horizontally across the row; avoid covering sticky left columns */
+  position: sticky;
+  left: 0;
+  right: 0;
+  --lazar-left-gap: 404px;
+  /* 72 rank + 220 athlete + 96 points + seam */
+  padding-left: var(--lazar-left-gap);
+  padding-right: 16px;
+  z-index: 55;
+  /* below sticky left columns */
+  pointer-events: none;
+}
+
+/* Keep the entire tribute row (rank, athlete, points, and merged cell) horizontally fixed */
+.athlete-row.lazar-tribute .rank,
+.athlete-row.lazar-tribute .athlete-column,
+.athlete-row.lazar-tribute .total-points {
+  position: sticky !important;
+}
+
+.athlete-row.lazar-tribute .rank {
+  left: 0;
+  z-index: 70;
+}
+
+.athlete-row.lazar-tribute .athlete-column {
+  left: 72px;
+  z-index: 70;
+}
+
+.athlete-row.lazar-tribute .total-points {
+  left: 292px;
+  z-index: 70;
+}
+
+/* Center the tribute text relative to the visible viewport of the table row */
+.lazar-tribute-center {
+  position: absolute;
+  top: 50%;
+  left: calc(var(--lazar-left-gap, 404px) + 12px);
+  transform: translateY(-50%);
+  display: block;
+  text-align: left;
+  white-space: nowrap;
 }
 
 /* Make rank and total points cells match the bone-white tribute row */

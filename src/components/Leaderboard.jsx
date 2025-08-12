@@ -90,11 +90,32 @@ const Leaderboard = ({
     }
     const [sortConfig, setSortConfig] = useState({ key: 'rank', direction: 'asc' })
     const [expandedAthlete, setExpandedAthlete] = useState(null)
+    const [lazarLeftGap, setLazarLeftGap] = useState(404)
     const [isTributeOpen, setIsTributeOpen] = useState(false)
     // Reset expanded athlete when gender changes
     useEffect(() => {
         setExpandedAthlete(null)
     }, [selectedGender])
+
+    // Compute the offset to the right edge of the points column once (and on resize only)
+    useEffect(() => {
+        const getPointsHeader = () => document.querySelector('#leaderboard-table th.points-header')
+
+        const computeOnce = () => {
+            const containerEl = document.querySelector('.table-container')
+            const pointsHeader = getPointsHeader()
+            if (!containerEl || !pointsHeader) return
+            const containerRect = containerEl.getBoundingClientRect()
+            const pointsRect = pointsHeader.getBoundingClientRect()
+            const offset = Math.max(0, Math.round(pointsRect.right - containerRect.left))
+            if (offset) setLazarLeftGap(offset)
+        }
+
+        computeOnce()
+        const onResize = () => computeOnce()
+        window.addEventListener('resize', onResize)
+        return () => window.removeEventListener('resize', onResize)
+    }, [])
 
     // Handle sticky table headers with JavaScript since CSS sticky doesn't work with horizontal scroll containers
     useEffect(() => {
@@ -196,6 +217,15 @@ const Leaderboard = ({
         return [...athletesToSort].sort((a, b) => {
             let aValue, bValue
 
+            // Always pin Lazar to the top in 2024 regardless of sort
+            const is2024 = String(selectedYear) === '2024'
+            if (is2024) {
+                const aIsLazar = !!a?.name && ['lazar đukić', 'lazar dukic', 'lazar djukic'].includes(String(a.name).toLowerCase())
+                const bIsLazar = !!b?.name && ['lazar đukić', 'lazar dukic', 'lazar djukic'].includes(String(b.name).toLowerCase())
+                if (aIsLazar && !bIsLazar) return -1
+                if (!aIsLazar && bIsLazar) return 1
+            }
+
             if (sortConfig.key === 'rank') {
                 // Always place non-ranked (<= 0) at the bottom regardless of sort direction
                 const aIsNA = (typeof a.rank === 'number' && a.rank <= 0)
@@ -236,6 +266,49 @@ const Leaderboard = ({
         })
     }
 
+    // Generic detection: treat any performance containing "rep" or CAP+ as reps-based
+    const isRepsPerformance = (performanceStr) => {
+        if (!performanceStr) return false
+        const s = String(performanceStr).toLowerCase()
+        return /\brep\b/.test(s) || /cap\s*\+/.test(s)
+    }
+
+    const extractRepsFromPerformance = (performanceStr) => {
+        if (!performanceStr) return null
+        const str = String(performanceStr)
+        // Prefer CAP+ reps if present
+        const capMatch = str.match(/cap\s*\+\s*(\d+)\s*rep/i)
+        if (capMatch) {
+            const n = Number(capMatch[1])
+            return `CAP+ ${n} rep${n === 1 ? '' : 's'}`
+        }
+        const repsMatch = str.match(/(\d+)\s*rep/i)
+        if (repsMatch) {
+            const n = Number(repsMatch[1])
+            return `${n} rep${n === 1 ? '' : 's'}`
+        }
+        return null
+    }
+
+    const parseRepsCount = (performanceStr) => {
+        if (!performanceStr) return 0
+        const str = String(performanceStr)
+        const capMatch = str.match(/cap\s*\+\s*(\d+)\s*rep/i)
+        if (capMatch) return Number(capMatch[1])
+        const repsMatch = str.match(/(\d+)\s*rep/i)
+        if (repsMatch) return Number(repsMatch[1])
+        return 0
+    }
+
+    const calculateRepsGap = (myPerf, betterPerf) => {
+        const mine = parseRepsCount(myPerf)
+        const target = parseRepsCount(betterPerf)
+        const delta = target - mine
+        if (delta === 0) return 'Same reps'
+        if (delta > 0) return `+ ${delta} reps`
+        return `- ${Math.abs(delta)} reps`
+    }
+
     const renderEventCell = (athlete, eventName) => {
         const event = athlete.events[eventName]
         if (!event) return <td>-</td>
@@ -252,7 +325,12 @@ const Leaderboard = ({
         // Use simulated place and points, but always show original time/performance
         const displayPlace = event.place
         const displayPoints = event.points
-        const displayTime = originalEvent ? originalEvent.time : event.time
+        const displayTimeRaw = originalEvent ? originalEvent.time : event.time
+        let displayTime = displayTimeRaw
+        if (isRepsPerformance(displayTimeRaw)) {
+            const reps = extractRepsFromPerformance(displayTimeRaw)
+            if (reps) displayTime = reps
+        }
 
         const isLazar2024 = isYear2024 && isLazar(athlete.name)
         return (
@@ -407,6 +485,28 @@ const Leaderboard = ({
         }
     }
 
+    // Some events are purely points-differential (e.g., 2024 Track and Field, Clean Ladder)
+    const isPointsOnlyEvent = (eventName) => {
+        if (!eventName) return false
+        if (String(selectedYear) !== '2024') return false
+        const key = String(eventName).toLowerCase()
+        return key === 'track and field' || key === 'clean ladder'
+    }
+
+    const parsePtsFromTime = (timeStr) => {
+        if (!timeStr) return 0
+        const m = String(timeStr).match(/(\d+)\s*pt/i)
+        return m ? Number(m[1]) : 0
+    }
+
+    const calculatePointsGap = (athleteTimeStr, betterTimeStr) => {
+        // Lower points is better. Show how many points you need to drop to reach target place
+        const myPts = parsePtsFromTime(athleteTimeStr)
+        const targetPts = parsePtsFromTime(betterTimeStr)
+        const delta = Math.max(0, myPts - targetPts)
+        return `${delta} pt`
+    }
+
     const getTop10Distance = (athlete, eventName) => {
         // Always use the original athlete data for gap calculations
         const originalAthlete = originalAthletes.find(a => a.name === athlete.name)
@@ -428,11 +528,12 @@ const Leaderboard = ({
 
         if (maxPlacesToShow === 0) return null
 
-        // Check if this is a weight-based event
+        // Check event type
         const isWeightEvent = eventName.toLowerCase().includes('squat') ||
             eventName.toLowerCase().includes('lift') ||
             eventName.toLowerCase().includes('weight') ||
             event.time.includes(' lb')
+        const isPointsEvent = isPointsOnlyEvent(eventName)
 
         // Calculate gaps for each place from the immediate next place up to 10 places above
         const gaps = []
@@ -445,9 +546,15 @@ const Leaderboard = ({
                 const athleteAtPlace = athletesAtPlace[0]
 
                 let gap
-                if (isWeightEvent) {
+                if (isPointsEvent) {
+                    // Points differential for points-only events based on "X pt" values in time field
+                    gap = calculatePointsGap(event.time, athleteAtPlace.event.time)
+                } else if (isWeightEvent) {
                     // Weight-based event
                     gap = calculateWeightGap(event.time, athleteAtPlace.event.time)
+                } else if (isRepsPerformance(event.time) || isRepsPerformance(athleteAtPlace.event.time)) {
+                    // Reps-based event (detected generically by unit)
+                    gap = calculateRepsGap(event.time, athleteAtPlace.event.time)
                 } else {
                     // Time-based event
                     gap = calculateTimeGap(event.time, athleteAtPlace.event.time, eventName)
@@ -718,8 +825,8 @@ const Leaderboard = ({
                                         )}
                                     </td>
                                     {isYear2024 && isLazar(athlete.name) ? (
-                                        <td className="lazar-event-merged" colSpan={events.length}>
-                                            In memory of Lazar Đukić
+                                        <td className="lazar-event-merged" style={{ '--lazar-left-gap': `${lazarLeftGap}px` }} colSpan={events.length}>
+                                            <span className="lazar-tribute-center">The 2024 season will always be remembered for the tragic loss of Lazar Đukić, whose impact on the sport lives on.</span>
                                         </td>
                                     ) : (
                                         events.map(event => renderEventCell(athlete, event))
