@@ -81,6 +81,10 @@ html {
   position: relative;
 }
 
+.header .brand-accent {
+  color: #f7b500;
+}
+
 
 
 .header h1 i {

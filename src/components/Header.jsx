@@ -2,7 +2,7 @@ const Header = () => {
     return (
         <header className="header">
             <h1>
-                WOD-If? CrossFit Games Leaderboard Remix
+                <span className="brand-accent">WOD-If?</span> CrossFit Games Leaderboard Remix
             </h1>
             <p>Test different event finishes. See the overall leaderboard impact.</p>
             <div className="strength-bar"></div>
