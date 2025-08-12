@@ -13,8 +13,16 @@ const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer-content">
-                <p className="footer-text">Contributions welcome!</p>
                 <div className="footer-icons">
+                    <a
+                        href="https://pannafelsen.substack.com/p/the-wod-if-machine"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="footer-icon"
+                        title="The WOD-If Machine (Substack)"
+                    >
+                        <i className="fas fa-rss"></i>
+                    </a>
                     <a
                         href="https://www.linkedin.com/in/panna-felsen/"
                         target="_blank"
