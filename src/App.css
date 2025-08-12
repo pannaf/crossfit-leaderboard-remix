@@ -765,7 +765,8 @@ th {
 
 .sortable-header.active-sort {
   border-bottom: 3px solid #f7b500;
-  background: rgba(247, 181, 0, 0.1);
+  background: #1a1a1a !important;
+  color: #ffffff !important;
 }
 
 td {
